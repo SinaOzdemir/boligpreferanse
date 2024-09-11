@@ -47,3 +47,18 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+#Data files(ignore the reports for now)
+data/
+*.xlsx
+*.pdf
+
+
+
+#Other files to ignore
+tidligere_analyser/
+
+
+
+
