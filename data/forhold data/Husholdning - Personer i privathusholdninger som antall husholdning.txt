@@ -1,0 +1,67 @@
+region	husholdningstype	statistikkvariabel	ar	06081: Personer i privathusholdninger,
+K-1149 Karmøy	Aleneboende	Personer i privathusholdninger	2013	5213
+K-1149 Karmøy	Aleneboende	Personer i privathusholdninger	2014	5072
+K-1149 Karmøy	Aleneboende	Personer i privathusholdninger	2015	5159
+K-1149 Karmøy	Aleneboende	Personer i privathusholdninger	2016	5302
+K-1149 Karmøy	Aleneboende	Personer i privathusholdninger	2017	5416
+K-1149 Karmøy	Aleneboende	Personer i privathusholdninger	2018	5484
+K-1149 Karmøy	Aleneboende	Personer i privathusholdninger	2019	5608
+K-1149 Karmøy	Aleneboende	Personer i privathusholdninger	2020	5786
+K-1149 Karmøy	Aleneboende	Personer i privathusholdninger	2021	6002
+K-1149 Karmøy	Aleneboende	Personer i privathusholdninger	2022	6094
+K-1149 Karmøy	Aleneboende	Personer i privathusholdninger	2023	6312
+K-1149 Karmøy	Husholdninger med 1 barn	Personer i privathusholdninger	2013	7568
+K-1149 Karmøy	Husholdninger med 1 barn	Personer i privathusholdninger	2014	7486
+K-1149 Karmøy	Husholdninger med 1 barn	Personer i privathusholdninger	2015	7375
+K-1149 Karmøy	Husholdninger med 1 barn	Personer i privathusholdninger	2016	7434
+K-1149 Karmøy	Husholdninger med 1 barn	Personer i privathusholdninger	2017	7275
+K-1149 Karmøy	Husholdninger med 1 barn	Personer i privathusholdninger	2018	7189
+K-1149 Karmøy	Husholdninger med 1 barn	Personer i privathusholdninger	2019	7052
+K-1149 Karmøy	Husholdninger med 1 barn	Personer i privathusholdninger	2020	6805
+K-1149 Karmøy	Husholdninger med 1 barn	Personer i privathusholdninger	2021	6561
+K-1149 Karmøy	Husholdninger med 1 barn	Personer i privathusholdninger	2022	6587
+K-1149 Karmøy	Husholdninger med 1 barn	Personer i privathusholdninger	2023	6713
+K-1149 Karmøy	Husholdninger med 2 barn	Personer i privathusholdninger	2013	8902
+K-1149 Karmøy	Husholdninger med 2 barn	Personer i privathusholdninger	2014	8819
+K-1149 Karmøy	Husholdninger med 2 barn	Personer i privathusholdninger	2015	8801
+K-1149 Karmøy	Husholdninger med 2 barn	Personer i privathusholdninger	2016	8594
+K-1149 Karmøy	Husholdninger med 2 barn	Personer i privathusholdninger	2017	8692
+K-1149 Karmøy	Husholdninger med 2 barn	Personer i privathusholdninger	2018	8517
+K-1149 Karmøy	Husholdninger med 2 barn	Personer i privathusholdninger	2019	8417
+K-1149 Karmøy	Husholdninger med 2 barn	Personer i privathusholdninger	2020	8486
+K-1149 Karmøy	Husholdninger med 2 barn	Personer i privathusholdninger	2021	8606
+K-1149 Karmøy	Husholdninger med 2 barn	Personer i privathusholdninger	2022	8684
+K-1149 Karmøy	Husholdninger med 2 barn	Personer i privathusholdninger	2023	8549
+K-1149 Karmøy	Husholdninger med 3 barn eller flere	Personer i privathusholdninger	2013	5559
+K-1149 Karmøy	Husholdninger med 3 barn eller flere	Personer i privathusholdninger	2014	5573
+K-1149 Karmøy	Husholdninger med 3 barn eller flere	Personer i privathusholdninger	2015	5590
+K-1149 Karmøy	Husholdninger med 3 barn eller flere	Personer i privathusholdninger	2016	5603
+K-1149 Karmøy	Husholdninger med 3 barn eller flere	Personer i privathusholdninger	2017	5500
+K-1149 Karmøy	Husholdninger med 3 barn eller flere	Personer i privathusholdninger	2018	5483
+K-1149 Karmøy	Husholdninger med 3 barn eller flere	Personer i privathusholdninger	2019	5416
+K-1149 Karmøy	Husholdninger med 3 barn eller flere	Personer i privathusholdninger	2020	5339
+K-1149 Karmøy	Husholdninger med 3 barn eller flere	Personer i privathusholdninger	2021	5273
+K-1149 Karmøy	Husholdninger med 3 barn eller flere	Personer i privathusholdninger	2022	5126
+K-1149 Karmøy	Husholdninger med 3 barn eller flere	Personer i privathusholdninger	2023	5209
+K-1149 Karmøy	Andre husholdninger 2 personer	Personer i privathusholdninger	2013	8968
+K-1149 Karmøy	Andre husholdninger 2 personer	Personer i privathusholdninger	2014	9722
+K-1149 Karmøy	Andre husholdninger 2 personer	Personer i privathusholdninger	2015	9842
+K-1149 Karmøy	Andre husholdninger 2 personer	Personer i privathusholdninger	2016	10000
+K-1149 Karmøy	Andre husholdninger 2 personer	Personer i privathusholdninger	2017	10102
+K-1149 Karmøy	Andre husholdninger 2 personer	Personer i privathusholdninger	2018	10384
+K-1149 Karmøy	Andre husholdninger 2 personer	Personer i privathusholdninger	2019	10526
+K-1149 Karmøy	Andre husholdninger 2 personer	Personer i privathusholdninger	2020	10696
+K-1149 Karmøy	Andre husholdninger 2 personer	Personer i privathusholdninger	2021	10840
+K-1149 Karmøy	Andre husholdninger 2 personer	Personer i privathusholdninger	2022	10938
+K-1149 Karmøy	Andre husholdninger 2 personer	Personer i privathusholdninger	2023	11014
+K-1149 Karmøy	Andre husholdninger 3 personer eller flere	Personer i privathusholdninger	2013	4678
+K-1149 Karmøy	Andre husholdninger 3 personer eller flere	Personer i privathusholdninger	2014	4028
+K-1149 Karmøy	Andre husholdninger 3 personer eller flere	Personer i privathusholdninger	2015	4329
+K-1149 Karmøy	Andre husholdninger 3 personer eller flere	Personer i privathusholdninger	2016	4326
+K-1149 Karmøy	Andre husholdninger 3 personer eller flere	Personer i privathusholdninger	2017	4386
+K-1149 Karmøy	Andre husholdninger 3 personer eller flere	Personer i privathusholdninger	2018	4354
+K-1149 Karmøy	Andre husholdninger 3 personer eller flere	Personer i privathusholdninger	2019	4344
+K-1149 Karmøy	Andre husholdninger 3 personer eller flere	Personer i privathusholdninger	2020	4301
+K-1149 Karmøy	Andre husholdninger 3 personer eller flere	Personer i privathusholdninger	2021	4220
+K-1149 Karmøy	Andre husholdninger 3 personer eller flere	Personer i privathusholdninger	2022	4268
+K-1149 Karmøy	Andre husholdninger 3 personer eller flere	Personer i privathusholdninger	2023	4292

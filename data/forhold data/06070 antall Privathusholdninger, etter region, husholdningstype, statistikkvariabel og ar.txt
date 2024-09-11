@@ -1,0 +1,111 @@
+region	husholdningstype	statistikkvariabel	ar	06070: Privathusholdninger,
+K-1149 Karmoy	Aleneboende	Husholdninger	2014	5072
+K-1149 Karmoy	Aleneboende	Husholdninger	2015	5159
+K-1149 Karmoy	Aleneboende	Husholdninger	2016	5302
+K-1149 Karmoy	Aleneboende	Husholdninger	2017	5416
+K-1149 Karmoy	Aleneboende	Husholdninger	2018	5484
+K-1149 Karmoy	Aleneboende	Husholdninger	2019	5608
+K-1149 Karmoy	Aleneboende	Husholdninger	2020	5786
+K-1149 Karmoy	Aleneboende	Husholdninger	2021	6002
+K-1149 Karmoy	Aleneboende	Husholdninger	2022	6094
+K-1149 Karmoy	Aleneboende	Husholdninger	2023	6312
+K-1149 Karmoy	Par uten hjemmeboende barn	Husholdninger	2014	4288
+K-1149 Karmoy	Par uten hjemmeboende barn	Husholdninger	2015	4330
+K-1149 Karmoy	Par uten hjemmeboende barn	Husholdninger	2016	4412
+K-1149 Karmoy	Par uten hjemmeboende barn	Husholdninger	2017	4467
+K-1149 Karmoy	Par uten hjemmeboende barn	Husholdninger	2018	4582
+K-1149 Karmoy	Par uten hjemmeboende barn	Husholdninger	2019	4650
+K-1149 Karmoy	Par uten hjemmeboende barn	Husholdninger	2020	4704
+K-1149 Karmoy	Par uten hjemmeboende barn	Husholdninger	2021	4760
+K-1149 Karmoy	Par uten hjemmeboende barn	Husholdninger	2022	4833
+K-1149 Karmoy	Par uten hjemmeboende barn	Husholdninger	2023	4848
+K-1149 Karmoy	Par med sma barn (yngste barn 0-5 ar)	Husholdninger	2014	2135
+K-1149 Karmoy	Par med sma barn (yngste barn 0-5 ar)	Husholdninger	2015	2129
+K-1149 Karmoy	Par med sma barn (yngste barn 0-5 ar)	Husholdninger	2016	2124
+K-1149 Karmoy	Par med sma barn (yngste barn 0-5 ar)	Husholdninger	2017	2084
+K-1149 Karmoy	Par med sma barn (yngste barn 0-5 ar)	Husholdninger	2018	2052
+K-1149 Karmoy	Par med sma barn (yngste barn 0-5 ar)	Husholdninger	2019	1995
+K-1149 Karmoy	Par med sma barn (yngste barn 0-5 ar)	Husholdninger	2020	1946
+K-1149 Karmoy	Par med sma barn (yngste barn 0-5 ar)	Husholdninger	2021	1873
+K-1149 Karmoy	Par med sma barn (yngste barn 0-5 ar)	Husholdninger	2022	1871
+K-1149 Karmoy	Par med sma barn (yngste barn 0-5 ar)	Husholdninger	2023	1840
+K-1149 Karmoy	Par med store barn (yngste barn 6-17 ar)	Husholdninger	2014	2336
+K-1149 Karmoy	Par med store barn (yngste barn 6-17 ar)	Husholdninger	2015	2287
+K-1149 Karmoy	Par med store barn (yngste barn 6-17 ar)	Husholdninger	2016	2296
+K-1149 Karmoy	Par med store barn (yngste barn 6-17 ar)	Husholdninger	2017	2255
+K-1149 Karmoy	Par med store barn (yngste barn 6-17 ar)	Husholdninger	2018	2261
+K-1149 Karmoy	Par med store barn (yngste barn 6-17 ar)	Husholdninger	2019	2268
+K-1149 Karmoy	Par med store barn (yngste barn 6-17 ar)	Husholdninger	2020	2273
+K-1149 Karmoy	Par med store barn (yngste barn 6-17 ar)	Husholdninger	2021	2309
+K-1149 Karmoy	Par med store barn (yngste barn 6-17 ar)	Husholdninger	2022	2335
+K-1149 Karmoy	Par med store barn (yngste barn 6-17 ar)	Husholdninger	2023	2368
+K-1149 Karmoy	Mor/Far med sma barn (yngste barn 0-5 ar)	Husholdninger	2014	287
+K-1149 Karmoy	Mor/Far med sma barn (yngste barn 0-5 ar)	Husholdninger	2015	292
+K-1149 Karmoy	Mor/Far med sma barn (yngste barn 0-5 ar)	Husholdninger	2016	269
+K-1149 Karmoy	Mor/Far med sma barn (yngste barn 0-5 ar)	Husholdninger	2017	263
+K-1149 Karmoy	Mor/Far med sma barn (yngste barn 0-5 ar)	Husholdninger	2018	248
+K-1149 Karmoy	Mor/Far med sma barn (yngste barn 0-5 ar)	Husholdninger	2019	217
+K-1149 Karmoy	Mor/Far med sma barn (yngste barn 0-5 ar)	Husholdninger	2020	228
+K-1149 Karmoy	Mor/Far med sma barn (yngste barn 0-5 ar)	Husholdninger	2021	211
+K-1149 Karmoy	Mor/Far med sma barn (yngste barn 0-5 ar)	Husholdninger	2022	190
+K-1149 Karmoy	Mor/Far med sma barn (yngste barn 0-5 ar)	Husholdninger	2023	201
+K-1149 Karmoy	Mor/Far med store barn (yngste barn 6-17 ar)	Husholdninger	2014	644
+K-1149 Karmoy	Mor/Far med store barn (yngste barn 6-17 ar)	Husholdninger	2015	669
+K-1149 Karmoy	Mor/Far med store barn (yngste barn 6-17 ar)	Husholdninger	2016	679
+K-1149 Karmoy	Mor/Far med store barn (yngste barn 6-17 ar)	Husholdninger	2017	707
+K-1149 Karmoy	Mor/Far med store barn (yngste barn 6-17 ar)	Husholdninger	2018	709
+K-1149 Karmoy	Mor/Far med store barn (yngste barn 6-17 ar)	Husholdninger	2019	717
+K-1149 Karmoy	Mor/Far med store barn (yngste barn 6-17 ar)	Husholdninger	2020	684
+K-1149 Karmoy	Mor/Far med store barn (yngste barn 6-17 ar)	Husholdninger	2021	693
+K-1149 Karmoy	Mor/Far med store barn (yngste barn 6-17 ar)	Husholdninger	2022	676
+K-1149 Karmoy	Mor/Far med store barn (yngste barn 6-17 ar)	Husholdninger	2023	685
+K-1149 Karmoy	Enfamiliehusholdninger med voksne barn (yngste barn 18 ar og over)	Husholdninger	2014	1309
+K-1149 Karmoy	Enfamiliehusholdninger med voksne barn (yngste barn 18 ar og over)	Husholdninger	2015	1372
+K-1149 Karmoy	Enfamiliehusholdninger med voksne barn (yngste barn 18 ar og over)	Husholdninger	2016	1403
+K-1149 Karmoy	Enfamiliehusholdninger med voksne barn (yngste barn 18 ar og over)	Husholdninger	2017	1441
+K-1149 Karmoy	Enfamiliehusholdninger med voksne barn (yngste barn 18 ar og over)	Husholdninger	2018	1445
+K-1149 Karmoy	Enfamiliehusholdninger med voksne barn (yngste barn 18 ar og over)	Husholdninger	2019	1467
+K-1149 Karmoy	Enfamiliehusholdninger med voksne barn (yngste barn 18 ar og over)	Husholdninger	2020	1489
+K-1149 Karmoy	Enfamiliehusholdninger med voksne barn (yngste barn 18 ar og over)	Husholdninger	2021	1490
+K-1149 Karmoy	Enfamiliehusholdninger med voksne barn (yngste barn 18 ar og over)	Husholdninger	2022	1484
+K-1149 Karmoy	Enfamiliehusholdninger med voksne barn (yngste barn 18 ar og over)	Husholdninger	2023	1502
+K-1149 Karmoy	Flerfamiliehusholdning uten barn 0-17 ar	Husholdninger	2014	486
+K-1149 Karmoy	Flerfamiliehusholdning uten barn 0-17 ar	Husholdninger	2015	533
+K-1149 Karmoy	Flerfamiliehusholdning uten barn 0-17 ar	Husholdninger	2016	503
+K-1149 Karmoy	Flerfamiliehusholdning uten barn 0-17 ar	Husholdninger	2017	484
+K-1149 Karmoy	Flerfamiliehusholdning uten barn 0-17 ar	Husholdninger	2018	487
+K-1149 Karmoy	Flerfamiliehusholdning uten barn 0-17 ar	Husholdninger	2019	474
+K-1149 Karmoy	Flerfamiliehusholdning uten barn 0-17 ar	Husholdninger	2020	468
+K-1149 Karmoy	Flerfamiliehusholdning uten barn 0-17 ar	Husholdninger	2021	458
+K-1149 Karmoy	Flerfamiliehusholdning uten barn 0-17 ar	Husholdninger	2022	454
+K-1149 Karmoy	Flerfamiliehusholdning uten barn 0-17 ar	Husholdninger	2023	469
+K-1149 Karmoy	Flerfamiliehusholdning med sma barn (yngste barn 0-5 ar)	Husholdninger	2014	140
+K-1149 Karmoy	Flerfamiliehusholdning med sma barn (yngste barn 0-5 ar)	Husholdninger	2015	144
+K-1149 Karmoy	Flerfamiliehusholdning med sma barn (yngste barn 0-5 ar)	Husholdninger	2016	134
+K-1149 Karmoy	Flerfamiliehusholdning med sma barn (yngste barn 0-5 ar)	Husholdninger	2017	129
+K-1149 Karmoy	Flerfamiliehusholdning med sma barn (yngste barn 0-5 ar)	Husholdninger	2018	121
+K-1149 Karmoy	Flerfamiliehusholdning med sma barn (yngste barn 0-5 ar)	Husholdninger	2019	114
+K-1149 Karmoy	Flerfamiliehusholdning med sma barn (yngste barn 0-5 ar)	Husholdninger	2020	104
+K-1149 Karmoy	Flerfamiliehusholdning med sma barn (yngste barn 0-5 ar)	Husholdninger	2021	95
+K-1149 Karmoy	Flerfamiliehusholdning med sma barn (yngste barn 0-5 ar)	Husholdninger	2022	87
+K-1149 Karmoy	Flerfamiliehusholdning med sma barn (yngste barn 0-5 ar)	Husholdninger	2023	97
+K-1149 Karmoy	Flerfamiliehusholdning med store barn (yngste barn 6-17 ar)	Husholdninger	2014	113
+K-1149 Karmoy	Flerfamiliehusholdning med store barn (yngste barn 6-17 ar)	Husholdninger	2015	116
+K-1149 Karmoy	Flerfamiliehusholdning med store barn (yngste barn 6-17 ar)	Husholdninger	2016	104
+K-1149 Karmoy	Flerfamiliehusholdning med store barn (yngste barn 6-17 ar)	Husholdninger	2017	127
+K-1149 Karmoy	Flerfamiliehusholdning med store barn (yngste barn 6-17 ar)	Husholdninger	2018	107
+K-1149 Karmoy	Flerfamiliehusholdning med store barn (yngste barn 6-17 ar)	Husholdninger	2019	111
+K-1149 Karmoy	Flerfamiliehusholdning med store barn (yngste barn 6-17 ar)	Husholdninger	2020	110
+K-1149 Karmoy	Flerfamiliehusholdning med store barn (yngste barn 6-17 ar)	Husholdninger	2021	110
+K-1149 Karmoy	Flerfamiliehusholdning med store barn (yngste barn 6-17 ar)	Husholdninger	2022	115
+K-1149 Karmoy	Flerfamiliehusholdning med store barn (yngste barn 6-17 ar)	Husholdninger	2023	123
+K-1149 Karmoy	Andre husholdninger	Husholdninger	2014	0
+K-1149 Karmoy	Andre husholdninger	Husholdninger	2015	0
+K-1149 Karmoy	Andre husholdninger	Husholdninger	2016	0
+K-1149 Karmoy	Andre husholdninger	Husholdninger	2017	0
+K-1149 Karmoy	Andre husholdninger	Husholdninger	2018	0
+K-1149 Karmoy	Andre husholdninger	Husholdninger	2019	0
+K-1149 Karmoy	Andre husholdninger	Husholdninger	2020	0
+K-1149 Karmoy	Andre husholdninger	Husholdninger	2021	0
+K-1149 Karmoy	Andre husholdninger	Husholdninger	2022	0
+K-1149 Karmoy	Andre husholdninger	Husholdninger	2023	0

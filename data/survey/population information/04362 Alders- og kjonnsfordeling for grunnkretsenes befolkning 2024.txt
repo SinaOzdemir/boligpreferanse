@@ -1,0 +1,1281 @@
+region	alder	statistikkvariabel	ar	kjonn	04362: Befolkning,
+11490101 Saevik	20-24 ar	Personer	2024	Menn	27
+11490101 Saevik	20-24 ar	Personer	2024	Kvinner	25
+11490101 Saevik	25-29 ar	Personer	2024	Menn	29
+11490101 Saevik	25-29 ar	Personer	2024	Kvinner	21
+11490101 Saevik	30-49 ar	Personer	2024	Menn	83
+11490101 Saevik	30-49 ar	Personer	2024	Kvinner	82
+11490101 Saevik	50-59 ar	Personer	2024	Menn	56
+11490101 Saevik	50-59 ar	Personer	2024	Kvinner	51
+11490101 Saevik	60-66 ar	Personer	2024	Menn	28
+11490101 Saevik	60-66 ar	Personer	2024	Kvinner	23
+11490101 Saevik	67-69 ar	Personer	2024	Menn	7
+11490101 Saevik	67-69 ar	Personer	2024	Kvinner	14
+11490101 Saevik	70-79 ar	Personer	2024	Menn	35
+11490101 Saevik	70-79 ar	Personer	2024	Kvinner	35
+11490101 Saevik	80 ar eller eldre	Personer	2024	Menn	11
+11490101 Saevik	80 ar eller eldre	Personer	2024	Kvinner	19
+11490102 osthus	20-24 ar	Personer	2024	Menn	9
+11490102 osthus	20-24 ar	Personer	2024	Kvinner	8
+11490102 osthus	25-29 ar	Personer	2024	Menn	10
+11490102 osthus	25-29 ar	Personer	2024	Kvinner	6
+11490102 osthus	30-49 ar	Personer	2024	Menn	68
+11490102 osthus	30-49 ar	Personer	2024	Kvinner	70
+11490102 osthus	50-59 ar	Personer	2024	Menn	29
+11490102 osthus	50-59 ar	Personer	2024	Kvinner	29
+11490102 osthus	60-66 ar	Personer	2024	Menn	13
+11490102 osthus	60-66 ar	Personer	2024	Kvinner	11
+11490102 osthus	67-69 ar	Personer	2024	Menn	7
+11490102 osthus	67-69 ar	Personer	2024	Kvinner	8
+11490102 osthus	70-79 ar	Personer	2024	Menn	17
+11490102 osthus	70-79 ar	Personer	2024	Kvinner	16
+11490102 osthus	80 ar eller eldre	Personer	2024	Menn	7
+11490102 osthus	80 ar eller eldre	Personer	2024	Kvinner	11
+11490103 osthusneset	20-24 ar	Personer	2024	Menn	18
+11490103 osthusneset	20-24 ar	Personer	2024	Kvinner	13
+11490103 osthusneset	25-29 ar	Personer	2024	Menn	15
+11490103 osthusneset	25-29 ar	Personer	2024	Kvinner	18
+11490103 osthusneset	30-49 ar	Personer	2024	Menn	69
+11490103 osthusneset	30-49 ar	Personer	2024	Kvinner	71
+11490103 osthusneset	50-59 ar	Personer	2024	Menn	34
+11490103 osthusneset	50-59 ar	Personer	2024	Kvinner	29
+11490103 osthusneset	60-66 ar	Personer	2024	Menn	17
+11490103 osthusneset	60-66 ar	Personer	2024	Kvinner	21
+11490103 osthusneset	67-69 ar	Personer	2024	Menn	10
+11490103 osthusneset	67-69 ar	Personer	2024	Kvinner	6
+11490103 osthusneset	70-79 ar	Personer	2024	Menn	28
+11490103 osthusneset	70-79 ar	Personer	2024	Kvinner	24
+11490103 osthusneset	80 ar eller eldre	Personer	2024	Menn	10
+11490103 osthusneset	80 ar eller eldre	Personer	2024	Kvinner	12
+11490104 Munkejord	20-24 ar	Personer	2024	Menn	21
+11490104 Munkejord	20-24 ar	Personer	2024	Kvinner	13
+11490104 Munkejord	25-29 ar	Personer	2024	Menn	14
+11490104 Munkejord	25-29 ar	Personer	2024	Kvinner	15
+11490104 Munkejord	30-49 ar	Personer	2024	Menn	79
+11490104 Munkejord	30-49 ar	Personer	2024	Kvinner	86
+11490104 Munkejord	50-59 ar	Personer	2024	Menn	37
+11490104 Munkejord	50-59 ar	Personer	2024	Kvinner	34
+11490104 Munkejord	60-66 ar	Personer	2024	Menn	23
+11490104 Munkejord	60-66 ar	Personer	2024	Kvinner	21
+11490104 Munkejord	67-69 ar	Personer	2024	Menn	9
+11490104 Munkejord	67-69 ar	Personer	2024	Kvinner	10
+11490104 Munkejord	70-79 ar	Personer	2024	Menn	19
+11490104 Munkejord	70-79 ar	Personer	2024	Kvinner	22
+11490104 Munkejord	80 ar eller eldre	Personer	2024	Menn	15
+11490104 Munkejord	80 ar eller eldre	Personer	2024	Kvinner	16
+11490105 Vea	20-24 ar	Personer	2024	Menn	16
+11490105 Vea	20-24 ar	Personer	2024	Kvinner	16
+11490105 Vea	25-29 ar	Personer	2024	Menn	40
+11490105 Vea	25-29 ar	Personer	2024	Kvinner	28
+11490105 Vea	30-49 ar	Personer	2024	Menn	103
+11490105 Vea	30-49 ar	Personer	2024	Kvinner	133
+11490105 Vea	50-59 ar	Personer	2024	Menn	54
+11490105 Vea	50-59 ar	Personer	2024	Kvinner	44
+11490105 Vea	60-66 ar	Personer	2024	Menn	24
+11490105 Vea	60-66 ar	Personer	2024	Kvinner	35
+11490105 Vea	67-69 ar	Personer	2024	Menn	9
+11490105 Vea	67-69 ar	Personer	2024	Kvinner	8
+11490105 Vea	70-79 ar	Personer	2024	Menn	31
+11490105 Vea	70-79 ar	Personer	2024	Kvinner	29
+11490105 Vea	80 ar eller eldre	Personer	2024	Menn	12
+11490105 Vea	80 ar eller eldre	Personer	2024	Kvinner	21
+11490201 Heia	20-24 ar	Personer	2024	Menn	8
+11490201 Heia	20-24 ar	Personer	2024	Kvinner	5
+11490201 Heia	25-29 ar	Personer	2024	Menn	13
+11490201 Heia	25-29 ar	Personer	2024	Kvinner	5
+11490201 Heia	30-49 ar	Personer	2024	Menn	29
+11490201 Heia	30-49 ar	Personer	2024	Kvinner	30
+11490201 Heia	50-59 ar	Personer	2024	Menn	16
+11490201 Heia	50-59 ar	Personer	2024	Kvinner	13
+11490201 Heia	60-66 ar	Personer	2024	Menn	8
+11490201 Heia	60-66 ar	Personer	2024	Kvinner	9
+11490201 Heia	67-69 ar	Personer	2024	Menn	7
+11490201 Heia	67-69 ar	Personer	2024	Kvinner	3
+11490201 Heia	70-79 ar	Personer	2024	Menn	7
+11490201 Heia	70-79 ar	Personer	2024	Kvinner	10
+11490201 Heia	80 ar eller eldre	Personer	2024	Menn	6
+11490201 Heia	80 ar eller eldre	Personer	2024	Kvinner	7
+11490202 Mannes	20-24 ar	Personer	2024	Menn	20
+11490202 Mannes	20-24 ar	Personer	2024	Kvinner	23
+11490202 Mannes	25-29 ar	Personer	2024	Menn	36
+11490202 Mannes	25-29 ar	Personer	2024	Kvinner	21
+11490202 Mannes	30-49 ar	Personer	2024	Menn	83
+11490202 Mannes	30-49 ar	Personer	2024	Kvinner	80
+11490202 Mannes	50-59 ar	Personer	2024	Menn	51
+11490202 Mannes	50-59 ar	Personer	2024	Kvinner	54
+11490202 Mannes	60-66 ar	Personer	2024	Menn	31
+11490202 Mannes	60-66 ar	Personer	2024	Kvinner	29
+11490202 Mannes	67-69 ar	Personer	2024	Menn	11
+11490202 Mannes	67-69 ar	Personer	2024	Kvinner	6
+11490202 Mannes	70-79 ar	Personer	2024	Menn	19
+11490202 Mannes	70-79 ar	Personer	2024	Kvinner	20
+11490202 Mannes	80 ar eller eldre	Personer	2024	Menn	3
+11490202 Mannes	80 ar eller eldre	Personer	2024	Kvinner	12
+11490203 Sevlandsvik	20-24 ar	Personer	2024	Menn	20
+11490203 Sevlandsvik	20-24 ar	Personer	2024	Kvinner	15
+11490203 Sevlandsvik	25-29 ar	Personer	2024	Menn	9
+11490203 Sevlandsvik	25-29 ar	Personer	2024	Kvinner	9
+11490203 Sevlandsvik	30-49 ar	Personer	2024	Menn	50
+11490203 Sevlandsvik	30-49 ar	Personer	2024	Kvinner	50
+11490203 Sevlandsvik	50-59 ar	Personer	2024	Menn	40
+11490203 Sevlandsvik	50-59 ar	Personer	2024	Kvinner	40
+11490203 Sevlandsvik	60-66 ar	Personer	2024	Menn	19
+11490203 Sevlandsvik	60-66 ar	Personer	2024	Kvinner	19
+11490203 Sevlandsvik	67-69 ar	Personer	2024	Menn	9
+11490203 Sevlandsvik	67-69 ar	Personer	2024	Kvinner	7
+11490203 Sevlandsvik	70-79 ar	Personer	2024	Menn	22
+11490203 Sevlandsvik	70-79 ar	Personer	2024	Kvinner	23
+11490203 Sevlandsvik	80 ar eller eldre	Personer	2024	Menn	9
+11490203 Sevlandsvik	80 ar eller eldre	Personer	2024	Kvinner	11
+11490204 Varne	20-24 ar	Personer	2024	Menn	11
+11490204 Varne	20-24 ar	Personer	2024	Kvinner	7
+11490204 Varne	25-29 ar	Personer	2024	Menn	4
+11490204 Varne	25-29 ar	Personer	2024	Kvinner	5
+11490204 Varne	30-49 ar	Personer	2024	Menn	32
+11490204 Varne	30-49 ar	Personer	2024	Kvinner	35
+11490204 Varne	50-59 ar	Personer	2024	Menn	22
+11490204 Varne	50-59 ar	Personer	2024	Kvinner	24
+11490204 Varne	60-66 ar	Personer	2024	Menn	12
+11490204 Varne	60-66 ar	Personer	2024	Kvinner	15
+11490204 Varne	67-69 ar	Personer	2024	Menn	3
+11490204 Varne	67-69 ar	Personer	2024	Kvinner	6
+11490204 Varne	70-79 ar	Personer	2024	Menn	12
+11490204 Varne	70-79 ar	Personer	2024	Kvinner	10
+11490204 Varne	80 ar eller eldre	Personer	2024	Menn	5
+11490204 Varne	80 ar eller eldre	Personer	2024	Kvinner	7
+11490301 Tjosvoll	20-24 ar	Personer	2024	Menn	18
+11490301 Tjosvoll	20-24 ar	Personer	2024	Kvinner	12
+11490301 Tjosvoll	25-29 ar	Personer	2024	Menn	13
+11490301 Tjosvoll	25-29 ar	Personer	2024	Kvinner	12
+11490301 Tjosvoll	30-49 ar	Personer	2024	Menn	61
+11490301 Tjosvoll	30-49 ar	Personer	2024	Kvinner	65
+11490301 Tjosvoll	50-59 ar	Personer	2024	Menn	40
+11490301 Tjosvoll	50-59 ar	Personer	2024	Kvinner	42
+11490301 Tjosvoll	60-66 ar	Personer	2024	Menn	15
+11490301 Tjosvoll	60-66 ar	Personer	2024	Kvinner	12
+11490301 Tjosvoll	67-69 ar	Personer	2024	Menn	7
+11490301 Tjosvoll	67-69 ar	Personer	2024	Kvinner	6
+11490301 Tjosvoll	70-79 ar	Personer	2024	Menn	14
+11490301 Tjosvoll	70-79 ar	Personer	2024	Kvinner	18
+11490301 Tjosvoll	80 ar eller eldre	Personer	2024	Menn	8
+11490301 Tjosvoll	80 ar eller eldre	Personer	2024	Kvinner	13
+11490302 Tjosvoll ost	20-24 ar	Personer	2024	Menn	39
+11490302 Tjosvoll ost	20-24 ar	Personer	2024	Kvinner	39
+11490302 Tjosvoll ost	25-29 ar	Personer	2024	Menn	34
+11490302 Tjosvoll ost	25-29 ar	Personer	2024	Kvinner	43
+11490302 Tjosvoll ost	30-49 ar	Personer	2024	Menn	167
+11490302 Tjosvoll ost	30-49 ar	Personer	2024	Kvinner	151
+11490302 Tjosvoll ost	50-59 ar	Personer	2024	Menn	61
+11490302 Tjosvoll ost	50-59 ar	Personer	2024	Kvinner	57
+11490302 Tjosvoll ost	60-66 ar	Personer	2024	Menn	26
+11490302 Tjosvoll ost	60-66 ar	Personer	2024	Kvinner	38
+11490302 Tjosvoll ost	67-69 ar	Personer	2024	Menn	16
+11490302 Tjosvoll ost	67-69 ar	Personer	2024	Kvinner	15
+11490302 Tjosvoll ost	70-79 ar	Personer	2024	Menn	28
+11490302 Tjosvoll ost	70-79 ar	Personer	2024	Kvinner	22
+11490302 Tjosvoll ost	80 ar eller eldre	Personer	2024	Menn	6
+11490302 Tjosvoll ost	80 ar eller eldre	Personer	2024	Kvinner	7
+11490303 akrehamn	20-24 ar	Personer	2024	Menn	34
+11490303 akrehamn	20-24 ar	Personer	2024	Kvinner	28
+11490303 akrehamn	25-29 ar	Personer	2024	Menn	31
+11490303 akrehamn	25-29 ar	Personer	2024	Kvinner	32
+11490303 akrehamn	30-49 ar	Personer	2024	Menn	143
+11490303 akrehamn	30-49 ar	Personer	2024	Kvinner	145
+11490303 akrehamn	50-59 ar	Personer	2024	Menn	99
+11490303 akrehamn	50-59 ar	Personer	2024	Kvinner	101
+11490303 akrehamn	60-66 ar	Personer	2024	Menn	53
+11490303 akrehamn	60-66 ar	Personer	2024	Kvinner	49
+11490303 akrehamn	67-69 ar	Personer	2024	Menn	20
+11490303 akrehamn	67-69 ar	Personer	2024	Kvinner	28
+11490303 akrehamn	70-79 ar	Personer	2024	Menn	55
+11490303 akrehamn	70-79 ar	Personer	2024	Kvinner	68
+11490303 akrehamn	80 ar eller eldre	Personer	2024	Menn	41
+11490303 akrehamn	80 ar eller eldre	Personer	2024	Kvinner	54
+11490304 arvold	20-24 ar	Personer	2024	Menn	32
+11490304 arvold	20-24 ar	Personer	2024	Kvinner	25
+11490304 arvold	25-29 ar	Personer	2024	Menn	27
+11490304 arvold	25-29 ar	Personer	2024	Kvinner	20
+11490304 arvold	30-49 ar	Personer	2024	Menn	102
+11490304 arvold	30-49 ar	Personer	2024	Kvinner	103
+11490304 arvold	50-59 ar	Personer	2024	Menn	67
+11490304 arvold	50-59 ar	Personer	2024	Kvinner	60
+11490304 arvold	60-66 ar	Personer	2024	Menn	39
+11490304 arvold	60-66 ar	Personer	2024	Kvinner	25
+11490304 arvold	67-69 ar	Personer	2024	Menn	8
+11490304 arvold	67-69 ar	Personer	2024	Kvinner	11
+11490304 arvold	70-79 ar	Personer	2024	Menn	15
+11490304 arvold	70-79 ar	Personer	2024	Kvinner	27
+11490304 arvold	80 ar eller eldre	Personer	2024	Menn	12
+11490304 arvold	80 ar eller eldre	Personer	2024	Kvinner	17
+11490305 Grindhaug	20-24 ar	Personer	2024	Menn	24
+11490305 Grindhaug	20-24 ar	Personer	2024	Kvinner	14
+11490305 Grindhaug	25-29 ar	Personer	2024	Menn	14
+11490305 Grindhaug	25-29 ar	Personer	2024	Kvinner	17
+11490305 Grindhaug	30-49 ar	Personer	2024	Menn	63
+11490305 Grindhaug	30-49 ar	Personer	2024	Kvinner	79
+11490305 Grindhaug	50-59 ar	Personer	2024	Menn	44
+11490305 Grindhaug	50-59 ar	Personer	2024	Kvinner	39
+11490305 Grindhaug	60-66 ar	Personer	2024	Menn	19
+11490305 Grindhaug	60-66 ar	Personer	2024	Kvinner	19
+11490305 Grindhaug	67-69 ar	Personer	2024	Menn	9
+11490305 Grindhaug	67-69 ar	Personer	2024	Kvinner	5
+11490305 Grindhaug	70-79 ar	Personer	2024	Menn	17
+11490305 Grindhaug	70-79 ar	Personer	2024	Kvinner	22
+11490305 Grindhaug	80 ar eller eldre	Personer	2024	Menn	6
+11490305 Grindhaug	80 ar eller eldre	Personer	2024	Kvinner	16
+11490306 Mosbron	20-24 ar	Personer	2024	Menn	25
+11490306 Mosbron	20-24 ar	Personer	2024	Kvinner	22
+11490306 Mosbron	25-29 ar	Personer	2024	Menn	33
+11490306 Mosbron	25-29 ar	Personer	2024	Kvinner	24
+11490306 Mosbron	30-49 ar	Personer	2024	Menn	103
+11490306 Mosbron	30-49 ar	Personer	2024	Kvinner	99
+11490306 Mosbron	50-59 ar	Personer	2024	Menn	67
+11490306 Mosbron	50-59 ar	Personer	2024	Kvinner	66
+11490306 Mosbron	60-66 ar	Personer	2024	Menn	27
+11490306 Mosbron	60-66 ar	Personer	2024	Kvinner	28
+11490306 Mosbron	67-69 ar	Personer	2024	Menn	10
+11490306 Mosbron	67-69 ar	Personer	2024	Kvinner	11
+11490306 Mosbron	70-79 ar	Personer	2024	Menn	35
+11490306 Mosbron	70-79 ar	Personer	2024	Kvinner	33
+11490306 Mosbron	80 ar eller eldre	Personer	2024	Menn	11
+11490306 Mosbron	80 ar eller eldre	Personer	2024	Kvinner	22
+11490307 Stong	20-24 ar	Personer	2024	Menn	39
+11490307 Stong	20-24 ar	Personer	2024	Kvinner	28
+11490307 Stong	25-29 ar	Personer	2024	Menn	40
+11490307 Stong	25-29 ar	Personer	2024	Kvinner	24
+11490307 Stong	30-49 ar	Personer	2024	Menn	78
+11490307 Stong	30-49 ar	Personer	2024	Kvinner	86
+11490307 Stong	50-59 ar	Personer	2024	Menn	55
+11490307 Stong	50-59 ar	Personer	2024	Kvinner	59
+11490307 Stong	60-66 ar	Personer	2024	Menn	41
+11490307 Stong	60-66 ar	Personer	2024	Kvinner	38
+11490307 Stong	67-69 ar	Personer	2024	Menn	11
+11490307 Stong	67-69 ar	Personer	2024	Kvinner	13
+11490307 Stong	70-79 ar	Personer	2024	Menn	35
+11490307 Stong	70-79 ar	Personer	2024	Kvinner	46
+11490307 Stong	80 ar eller eldre	Personer	2024	Menn	17
+11490307 Stong	80 ar eller eldre	Personer	2024	Kvinner	26
+11490308 adland	20-24 ar	Personer	2024	Menn	21
+11490308 adland	20-24 ar	Personer	2024	Kvinner	24
+11490308 adland	25-29 ar	Personer	2024	Menn	23
+11490308 adland	25-29 ar	Personer	2024	Kvinner	19
+11490308 adland	30-49 ar	Personer	2024	Menn	95
+11490308 adland	30-49 ar	Personer	2024	Kvinner	99
+11490308 adland	50-59 ar	Personer	2024	Menn	43
+11490308 adland	50-59 ar	Personer	2024	Kvinner	48
+11490308 adland	60-66 ar	Personer	2024	Menn	22
+11490308 adland	60-66 ar	Personer	2024	Kvinner	30
+11490308 adland	67-69 ar	Personer	2024	Menn	8
+11490308 adland	67-69 ar	Personer	2024	Kvinner	3
+11490308 adland	70-79 ar	Personer	2024	Menn	22
+11490308 adland	70-79 ar	Personer	2024	Kvinner	22
+11490308 adland	80 ar eller eldre	Personer	2024	Menn	9
+11490308 adland	80 ar eller eldre	Personer	2024	Kvinner	21
+11490309 Liknes	20-24 ar	Personer	2024	Menn	7
+11490309 Liknes	20-24 ar	Personer	2024	Kvinner	6
+11490309 Liknes	25-29 ar	Personer	2024	Menn	8
+11490309 Liknes	25-29 ar	Personer	2024	Kvinner	9
+11490309 Liknes	30-49 ar	Personer	2024	Menn	37
+11490309 Liknes	30-49 ar	Personer	2024	Kvinner	41
+11490309 Liknes	50-59 ar	Personer	2024	Menn	27
+11490309 Liknes	50-59 ar	Personer	2024	Kvinner	21
+11490309 Liknes	60-66 ar	Personer	2024	Menn	14
+11490309 Liknes	60-66 ar	Personer	2024	Kvinner	11
+11490309 Liknes	67-69 ar	Personer	2024	Menn	4
+11490309 Liknes	67-69 ar	Personer	2024	Kvinner	6
+11490309 Liknes	70-79 ar	Personer	2024	Menn	22
+11490309 Liknes	70-79 ar	Personer	2024	Kvinner	17
+11490309 Liknes	80 ar eller eldre	Personer	2024	Menn	8
+11490309 Liknes	80 ar eller eldre	Personer	2024	Kvinner	9
+11490401 Stava	20-24 ar	Personer	2024	Menn	4
+11490401 Stava	20-24 ar	Personer	2024	Kvinner	0
+11490401 Stava	25-29 ar	Personer	2024	Menn	3
+11490401 Stava	25-29 ar	Personer	2024	Kvinner	5
+11490401 Stava	30-49 ar	Personer	2024	Menn	25
+11490401 Stava	30-49 ar	Personer	2024	Kvinner	21
+11490401 Stava	50-59 ar	Personer	2024	Menn	12
+11490401 Stava	50-59 ar	Personer	2024	Kvinner	10
+11490401 Stava	60-66 ar	Personer	2024	Menn	5
+11490401 Stava	60-66 ar	Personer	2024	Kvinner	3
+11490401 Stava	67-69 ar	Personer	2024	Menn	3
+11490401 Stava	67-69 ar	Personer	2024	Kvinner	0
+11490401 Stava	70-79 ar	Personer	2024	Menn	7
+11490401 Stava	70-79 ar	Personer	2024	Kvinner	7
+11490401 Stava	80 ar eller eldre	Personer	2024	Menn	5
+11490401 Stava	80 ar eller eldre	Personer	2024	Kvinner	7
+11490402 Stol - Ferkingstad	20-24 ar	Personer	2024	Menn	11
+11490402 Stol - Ferkingstad	20-24 ar	Personer	2024	Kvinner	13
+11490402 Stol - Ferkingstad	25-29 ar	Personer	2024	Menn	16
+11490402 Stol - Ferkingstad	25-29 ar	Personer	2024	Kvinner	15
+11490402 Stol - Ferkingstad	30-49 ar	Personer	2024	Menn	76
+11490402 Stol - Ferkingstad	30-49 ar	Personer	2024	Kvinner	58
+11490402 Stol - Ferkingstad	50-59 ar	Personer	2024	Menn	37
+11490402 Stol - Ferkingstad	50-59 ar	Personer	2024	Kvinner	38
+11490402 Stol - Ferkingstad	60-66 ar	Personer	2024	Menn	23
+11490402 Stol - Ferkingstad	60-66 ar	Personer	2024	Kvinner	22
+11490402 Stol - Ferkingstad	67-69 ar	Personer	2024	Menn	6
+11490402 Stol - Ferkingstad	67-69 ar	Personer	2024	Kvinner	6
+11490402 Stol - Ferkingstad	70-79 ar	Personer	2024	Menn	24
+11490402 Stol - Ferkingstad	70-79 ar	Personer	2024	Kvinner	28
+11490402 Stol - Ferkingstad	80 ar eller eldre	Personer	2024	Menn	7
+11490402 Stol - Ferkingstad	80 ar eller eldre	Personer	2024	Kvinner	6
+11490403 Langaker - Kvilhaug	20-24 ar	Personer	2024	Menn	11
+11490403 Langaker - Kvilhaug	20-24 ar	Personer	2024	Kvinner	18
+11490403 Langaker - Kvilhaug	25-29 ar	Personer	2024	Menn	5
+11490403 Langaker - Kvilhaug	25-29 ar	Personer	2024	Kvinner	8
+11490403 Langaker - Kvilhaug	30-49 ar	Personer	2024	Menn	48
+11490403 Langaker - Kvilhaug	30-49 ar	Personer	2024	Kvinner	36
+11490403 Langaker - Kvilhaug	50-59 ar	Personer	2024	Menn	40
+11490403 Langaker - Kvilhaug	50-59 ar	Personer	2024	Kvinner	31
+11490403 Langaker - Kvilhaug	60-66 ar	Personer	2024	Menn	12
+11490403 Langaker - Kvilhaug	60-66 ar	Personer	2024	Kvinner	7
+11490403 Langaker - Kvilhaug	67-69 ar	Personer	2024	Menn	8
+11490403 Langaker - Kvilhaug	67-69 ar	Personer	2024	Kvinner	5
+11490403 Langaker - Kvilhaug	70-79 ar	Personer	2024	Menn	19
+11490403 Langaker - Kvilhaug	70-79 ar	Personer	2024	Kvinner	25
+11490403 Langaker - Kvilhaug	80 ar eller eldre	Personer	2024	Menn	12
+11490403 Langaker - Kvilhaug	80 ar eller eldre	Personer	2024	Kvinner	16
+11490404 Hemnes - Sandhaland	20-24 ar	Personer	2024	Menn	9
+11490404 Hemnes - Sandhaland	20-24 ar	Personer	2024	Kvinner	4
+11490404 Hemnes - Sandhaland	25-29 ar	Personer	2024	Menn	5
+11490404 Hemnes - Sandhaland	25-29 ar	Personer	2024	Kvinner	7
+11490404 Hemnes - Sandhaland	30-49 ar	Personer	2024	Menn	35
+11490404 Hemnes - Sandhaland	30-49 ar	Personer	2024	Kvinner	21
+11490404 Hemnes - Sandhaland	50-59 ar	Personer	2024	Menn	26
+11490404 Hemnes - Sandhaland	50-59 ar	Personer	2024	Kvinner	19
+11490404 Hemnes - Sandhaland	60-66 ar	Personer	2024	Menn	18
+11490404 Hemnes - Sandhaland	60-66 ar	Personer	2024	Kvinner	10
+11490404 Hemnes - Sandhaland	67-69 ar	Personer	2024	Menn	7
+11490404 Hemnes - Sandhaland	67-69 ar	Personer	2024	Kvinner	5
+11490404 Hemnes - Sandhaland	70-79 ar	Personer	2024	Menn	10
+11490404 Hemnes - Sandhaland	70-79 ar	Personer	2024	Kvinner	13
+11490404 Hemnes - Sandhaland	80 ar eller eldre	Personer	2024	Menn	3
+11490404 Hemnes - Sandhaland	80 ar eller eldre	Personer	2024	Kvinner	9
+11490501 Vikra	20-24 ar	Personer	2024	Menn	0
+11490501 Vikra	20-24 ar	Personer	2024	Kvinner	5
+11490501 Vikra	25-29 ar	Personer	2024	Menn	9
+11490501 Vikra	25-29 ar	Personer	2024	Kvinner	9
+11490501 Vikra	30-49 ar	Personer	2024	Menn	33
+11490501 Vikra	30-49 ar	Personer	2024	Kvinner	27
+11490501 Vikra	50-59 ar	Personer	2024	Menn	13
+11490501 Vikra	50-59 ar	Personer	2024	Kvinner	15
+11490501 Vikra	60-66 ar	Personer	2024	Menn	10
+11490501 Vikra	60-66 ar	Personer	2024	Kvinner	6
+11490501 Vikra	67-69 ar	Personer	2024	Menn	4
+11490501 Vikra	67-69 ar	Personer	2024	Kvinner	5
+11490501 Vikra	70-79 ar	Personer	2024	Menn	13
+11490501 Vikra	70-79 ar	Personer	2024	Kvinner	12
+11490501 Vikra	80 ar eller eldre	Personer	2024	Menn	3
+11490501 Vikra	80 ar eller eldre	Personer	2024	Kvinner	3
+11490502 Sandve	20-24 ar	Personer	2024	Menn	9
+11490502 Sandve	20-24 ar	Personer	2024	Kvinner	3
+11490502 Sandve	25-29 ar	Personer	2024	Menn	3
+11490502 Sandve	25-29 ar	Personer	2024	Kvinner	4
+11490502 Sandve	30-49 ar	Personer	2024	Menn	25
+11490502 Sandve	30-49 ar	Personer	2024	Kvinner	26
+11490502 Sandve	50-59 ar	Personer	2024	Menn	17
+11490502 Sandve	50-59 ar	Personer	2024	Kvinner	13
+11490502 Sandve	60-66 ar	Personer	2024	Menn	5
+11490502 Sandve	60-66 ar	Personer	2024	Kvinner	5
+11490502 Sandve	67-69 ar	Personer	2024	Menn	5
+11490502 Sandve	67-69 ar	Personer	2024	Kvinner	4
+11490502 Sandve	70-79 ar	Personer	2024	Menn	26
+11490502 Sandve	70-79 ar	Personer	2024	Kvinner	17
+11490502 Sandve	80 ar eller eldre	Personer	2024	Menn	3
+11490502 Sandve	80 ar eller eldre	Personer	2024	Kvinner	7
+11490503 Syre	20-24 ar	Personer	2024	Menn	6
+11490503 Syre	20-24 ar	Personer	2024	Kvinner	9
+11490503 Syre	25-29 ar	Personer	2024	Menn	4
+11490503 Syre	25-29 ar	Personer	2024	Kvinner	7
+11490503 Syre	30-49 ar	Personer	2024	Menn	53
+11490503 Syre	30-49 ar	Personer	2024	Kvinner	46
+11490503 Syre	50-59 ar	Personer	2024	Menn	25
+11490503 Syre	50-59 ar	Personer	2024	Kvinner	16
+11490503 Syre	60-66 ar	Personer	2024	Menn	11
+11490503 Syre	60-66 ar	Personer	2024	Kvinner	13
+11490503 Syre	67-69 ar	Personer	2024	Menn	7
+11490503 Syre	67-69 ar	Personer	2024	Kvinner	9
+11490503 Syre	70-79 ar	Personer	2024	Menn	34
+11490503 Syre	70-79 ar	Personer	2024	Kvinner	26
+11490503 Syre	80 ar eller eldre	Personer	2024	Menn	7
+11490503 Syre	80 ar eller eldre	Personer	2024	Kvinner	8
+11490504 Breidablikk	20-24 ar	Personer	2024	Menn	7
+11490504 Breidablikk	20-24 ar	Personer	2024	Kvinner	4
+11490504 Breidablikk	25-29 ar	Personer	2024	Menn	9
+11490504 Breidablikk	25-29 ar	Personer	2024	Kvinner	11
+11490504 Breidablikk	30-49 ar	Personer	2024	Menn	47
+11490504 Breidablikk	30-49 ar	Personer	2024	Kvinner	43
+11490504 Breidablikk	50-59 ar	Personer	2024	Menn	24
+11490504 Breidablikk	50-59 ar	Personer	2024	Kvinner	19
+11490504 Breidablikk	60-66 ar	Personer	2024	Menn	8
+11490504 Breidablikk	60-66 ar	Personer	2024	Kvinner	6
+11490504 Breidablikk	67-69 ar	Personer	2024	Menn	5
+11490504 Breidablikk	67-69 ar	Personer	2024	Kvinner	6
+11490504 Breidablikk	70-79 ar	Personer	2024	Menn	14
+11490504 Breidablikk	70-79 ar	Personer	2024	Kvinner	13
+11490504 Breidablikk	80 ar eller eldre	Personer	2024	Menn	10
+11490504 Breidablikk	80 ar eller eldre	Personer	2024	Kvinner	25
+11490505 Halandshogda	20-24 ar	Personer	2024	Menn	14
+11490505 Halandshogda	20-24 ar	Personer	2024	Kvinner	21
+11490505 Halandshogda	25-29 ar	Personer	2024	Menn	18
+11490505 Halandshogda	25-29 ar	Personer	2024	Kvinner	16
+11490505 Halandshogda	30-49 ar	Personer	2024	Menn	80
+11490505 Halandshogda	30-49 ar	Personer	2024	Kvinner	75
+11490505 Halandshogda	50-59 ar	Personer	2024	Menn	47
+11490505 Halandshogda	50-59 ar	Personer	2024	Kvinner	50
+11490505 Halandshogda	60-66 ar	Personer	2024	Menn	21
+11490505 Halandshogda	60-66 ar	Personer	2024	Kvinner	24
+11490505 Halandshogda	67-69 ar	Personer	2024	Menn	5
+11490505 Halandshogda	67-69 ar	Personer	2024	Kvinner	3
+11490505 Halandshogda	70-79 ar	Personer	2024	Menn	19
+11490505 Halandshogda	70-79 ar	Personer	2024	Kvinner	27
+11490505 Halandshogda	80 ar eller eldre	Personer	2024	Menn	9
+11490505 Halandshogda	80 ar eller eldre	Personer	2024	Kvinner	14
+11490506 Vagen - Varden	20-24 ar	Personer	2024	Menn	5
+11490506 Vagen - Varden	20-24 ar	Personer	2024	Kvinner	8
+11490506 Vagen - Varden	25-29 ar	Personer	2024	Menn	4
+11490506 Vagen - Varden	25-29 ar	Personer	2024	Kvinner	3
+11490506 Vagen - Varden	30-49 ar	Personer	2024	Menn	32
+11490506 Vagen - Varden	30-49 ar	Personer	2024	Kvinner	37
+11490506 Vagen - Varden	50-59 ar	Personer	2024	Menn	19
+11490506 Vagen - Varden	50-59 ar	Personer	2024	Kvinner	14
+11490506 Vagen - Varden	60-66 ar	Personer	2024	Menn	11
+11490506 Vagen - Varden	60-66 ar	Personer	2024	Kvinner	13
+11490506 Vagen - Varden	67-69 ar	Personer	2024	Menn	3
+11490506 Vagen - Varden	67-69 ar	Personer	2024	Kvinner	4
+11490506 Vagen - Varden	70-79 ar	Personer	2024	Menn	16
+11490506 Vagen - Varden	70-79 ar	Personer	2024	Kvinner	22
+11490506 Vagen - Varden	80 ar eller eldre	Personer	2024	Menn	7
+11490506 Vagen - Varden	80 ar eller eldre	Personer	2024	Kvinner	7
+11490507 Skudeneshavn	20-24 ar	Personer	2024	Menn	24
+11490507 Skudeneshavn	20-24 ar	Personer	2024	Kvinner	17
+11490507 Skudeneshavn	25-29 ar	Personer	2024	Menn	24
+11490507 Skudeneshavn	25-29 ar	Personer	2024	Kvinner	11
+11490507 Skudeneshavn	30-49 ar	Personer	2024	Menn	74
+11490507 Skudeneshavn	30-49 ar	Personer	2024	Kvinner	87
+11490507 Skudeneshavn	50-59 ar	Personer	2024	Menn	60
+11490507 Skudeneshavn	50-59 ar	Personer	2024	Kvinner	62
+11490507 Skudeneshavn	60-66 ar	Personer	2024	Menn	36
+11490507 Skudeneshavn	60-66 ar	Personer	2024	Kvinner	33
+11490507 Skudeneshavn	67-69 ar	Personer	2024	Menn	15
+11490507 Skudeneshavn	67-69 ar	Personer	2024	Kvinner	25
+11490507 Skudeneshavn	70-79 ar	Personer	2024	Menn	60
+11490507 Skudeneshavn	70-79 ar	Personer	2024	Kvinner	54
+11490507 Skudeneshavn	80 ar eller eldre	Personer	2024	Menn	29
+11490507 Skudeneshavn	80 ar eller eldre	Personer	2024	Kvinner	43
+11490508 Vigevagen	20-24 ar	Personer	2024	Menn	17
+11490508 Vigevagen	20-24 ar	Personer	2024	Kvinner	20
+11490508 Vigevagen	25-29 ar	Personer	2024	Menn	17
+11490508 Vigevagen	25-29 ar	Personer	2024	Kvinner	11
+11490508 Vigevagen	30-49 ar	Personer	2024	Menn	71
+11490508 Vigevagen	30-49 ar	Personer	2024	Kvinner	76
+11490508 Vigevagen	50-59 ar	Personer	2024	Menn	51
+11490508 Vigevagen	50-59 ar	Personer	2024	Kvinner	48
+11490508 Vigevagen	60-66 ar	Personer	2024	Menn	36
+11490508 Vigevagen	60-66 ar	Personer	2024	Kvinner	39
+11490508 Vigevagen	67-69 ar	Personer	2024	Menn	16
+11490508 Vigevagen	67-69 ar	Personer	2024	Kvinner	14
+11490508 Vigevagen	70-79 ar	Personer	2024	Menn	25
+11490508 Vigevagen	70-79 ar	Personer	2024	Kvinner	26
+11490508 Vigevagen	80 ar eller eldre	Personer	2024	Menn	14
+11490508 Vigevagen	80 ar eller eldre	Personer	2024	Kvinner	19
+11490509 Vik	20-24 ar	Personer	2024	Menn	16
+11490509 Vik	20-24 ar	Personer	2024	Kvinner	15
+11490509 Vik	25-29 ar	Personer	2024	Menn	6
+11490509 Vik	25-29 ar	Personer	2024	Kvinner	9
+11490509 Vik	30-49 ar	Personer	2024	Menn	58
+11490509 Vik	30-49 ar	Personer	2024	Kvinner	51
+11490509 Vik	50-59 ar	Personer	2024	Menn	40
+11490509 Vik	50-59 ar	Personer	2024	Kvinner	31
+11490509 Vik	60-66 ar	Personer	2024	Menn	14
+11490509 Vik	60-66 ar	Personer	2024	Kvinner	13
+11490509 Vik	67-69 ar	Personer	2024	Menn	3
+11490509 Vik	67-69 ar	Personer	2024	Kvinner	11
+11490509 Vik	70-79 ar	Personer	2024	Menn	20
+11490509 Vik	70-79 ar	Personer	2024	Kvinner	27
+11490509 Vik	80 ar eller eldre	Personer	2024	Menn	13
+11490509 Vik	80 ar eller eldre	Personer	2024	Kvinner	11
+11490510 Falnes	20-24 ar	Personer	2024	Menn	0
+11490510 Falnes	20-24 ar	Personer	2024	Kvinner	3
+11490510 Falnes	25-29 ar	Personer	2024	Menn	0
+11490510 Falnes	25-29 ar	Personer	2024	Kvinner	0
+11490510 Falnes	30-49 ar	Personer	2024	Menn	6
+11490510 Falnes	30-49 ar	Personer	2024	Kvinner	8
+11490510 Falnes	50-59 ar	Personer	2024	Menn	3
+11490510 Falnes	50-59 ar	Personer	2024	Kvinner	3
+11490510 Falnes	60-66 ar	Personer	2024	Menn	6
+11490510 Falnes	60-66 ar	Personer	2024	Kvinner	5
+11490510 Falnes	67-69 ar	Personer	2024	Menn	3
+11490510 Falnes	67-69 ar	Personer	2024	Kvinner	0
+11490510 Falnes	70-79 ar	Personer	2024	Menn	3
+11490510 Falnes	70-79 ar	Personer	2024	Kvinner	5
+11490510 Falnes	80 ar eller eldre	Personer	2024	Menn	3
+11490510 Falnes	80 ar eller eldre	Personer	2024	Kvinner	0
+11490511 Hillesland	20-24 ar	Personer	2024	Menn	0
+11490511 Hillesland	20-24 ar	Personer	2024	Kvinner	0
+11490511 Hillesland	25-29 ar	Personer	2024	Menn	3
+11490511 Hillesland	25-29 ar	Personer	2024	Kvinner	0
+11490511 Hillesland	30-49 ar	Personer	2024	Menn	3
+11490511 Hillesland	30-49 ar	Personer	2024	Kvinner	4
+11490511 Hillesland	50-59 ar	Personer	2024	Menn	3
+11490511 Hillesland	50-59 ar	Personer	2024	Kvinner	0
+11490511 Hillesland	60-66 ar	Personer	2024	Menn	0
+11490511 Hillesland	60-66 ar	Personer	2024	Kvinner	4
+11490511 Hillesland	67-69 ar	Personer	2024	Menn	0
+11490511 Hillesland	67-69 ar	Personer	2024	Kvinner	0
+11490511 Hillesland	70-79 ar	Personer	2024	Menn	0
+11490511 Hillesland	70-79 ar	Personer	2024	Kvinner	3
+11490511 Hillesland	80 ar eller eldre	Personer	2024	Menn	3
+11490511 Hillesland	80 ar eller eldre	Personer	2024	Kvinner	3
+11490512 Hovdastad	20-24 ar	Personer	2024	Menn	0
+11490512 Hovdastad	20-24 ar	Personer	2024	Kvinner	0
+11490512 Hovdastad	25-29 ar	Personer	2024	Menn	0
+11490512 Hovdastad	25-29 ar	Personer	2024	Kvinner	3
+11490512 Hovdastad	30-49 ar	Personer	2024	Menn	10
+11490512 Hovdastad	30-49 ar	Personer	2024	Kvinner	8
+11490512 Hovdastad	50-59 ar	Personer	2024	Menn	6
+11490512 Hovdastad	50-59 ar	Personer	2024	Kvinner	3
+11490512 Hovdastad	60-66 ar	Personer	2024	Menn	6
+11490512 Hovdastad	60-66 ar	Personer	2024	Kvinner	5
+11490512 Hovdastad	67-69 ar	Personer	2024	Menn	3
+11490512 Hovdastad	67-69 ar	Personer	2024	Kvinner	0
+11490512 Hovdastad	70-79 ar	Personer	2024	Menn	7
+11490512 Hovdastad	70-79 ar	Personer	2024	Kvinner	6
+11490512 Hovdastad	80 ar eller eldre	Personer	2024	Menn	3
+11490512 Hovdastad	80 ar eller eldre	Personer	2024	Kvinner	3
+11490513 Snorteland	20-24 ar	Personer	2024	Menn	0
+11490513 Snorteland	20-24 ar	Personer	2024	Kvinner	0
+11490513 Snorteland	25-29 ar	Personer	2024	Menn	0
+11490513 Snorteland	25-29 ar	Personer	2024	Kvinner	0
+11490513 Snorteland	30-49 ar	Personer	2024	Menn	0
+11490513 Snorteland	30-49 ar	Personer	2024	Kvinner	3
+11490513 Snorteland	50-59 ar	Personer	2024	Menn	0
+11490513 Snorteland	50-59 ar	Personer	2024	Kvinner	0
+11490513 Snorteland	60-66 ar	Personer	2024	Menn	0
+11490513 Snorteland	60-66 ar	Personer	2024	Kvinner	0
+11490513 Snorteland	67-69 ar	Personer	2024	Menn	0
+11490513 Snorteland	67-69 ar	Personer	2024	Kvinner	0
+11490513 Snorteland	70-79 ar	Personer	2024	Menn	0
+11490513 Snorteland	70-79 ar	Personer	2024	Kvinner	0
+11490513 Snorteland	80 ar eller eldre	Personer	2024	Menn	0
+11490513 Snorteland	80 ar eller eldre	Personer	2024	Kvinner	3
+11490601 Stokkastrand	20-24 ar	Personer	2024	Menn	11
+11490601 Stokkastrand	20-24 ar	Personer	2024	Kvinner	3
+11490601 Stokkastrand	25-29 ar	Personer	2024	Menn	9
+11490601 Stokkastrand	25-29 ar	Personer	2024	Kvinner	14
+11490601 Stokkastrand	30-49 ar	Personer	2024	Menn	46
+11490601 Stokkastrand	30-49 ar	Personer	2024	Kvinner	58
+11490601 Stokkastrand	50-59 ar	Personer	2024	Menn	40
+11490601 Stokkastrand	50-59 ar	Personer	2024	Kvinner	36
+11490601 Stokkastrand	60-66 ar	Personer	2024	Menn	24
+11490601 Stokkastrand	60-66 ar	Personer	2024	Kvinner	19
+11490601 Stokkastrand	67-69 ar	Personer	2024	Menn	6
+11490601 Stokkastrand	67-69 ar	Personer	2024	Kvinner	7
+11490601 Stokkastrand	70-79 ar	Personer	2024	Menn	25
+11490601 Stokkastrand	70-79 ar	Personer	2024	Kvinner	25
+11490601 Stokkastrand	80 ar eller eldre	Personer	2024	Menn	13
+11490601 Stokkastrand	80 ar eller eldre	Personer	2024	Kvinner	10
+11490602 Nordstokke	20-24 ar	Personer	2024	Menn	10
+11490602 Nordstokke	20-24 ar	Personer	2024	Kvinner	7
+11490602 Nordstokke	25-29 ar	Personer	2024	Menn	16
+11490602 Nordstokke	25-29 ar	Personer	2024	Kvinner	19
+11490602 Nordstokke	30-49 ar	Personer	2024	Menn	95
+11490602 Nordstokke	30-49 ar	Personer	2024	Kvinner	73
+11490602 Nordstokke	50-59 ar	Personer	2024	Menn	40
+11490602 Nordstokke	50-59 ar	Personer	2024	Kvinner	35
+11490602 Nordstokke	60-66 ar	Personer	2024	Menn	15
+11490602 Nordstokke	60-66 ar	Personer	2024	Kvinner	21
+11490602 Nordstokke	67-69 ar	Personer	2024	Menn	4
+11490602 Nordstokke	67-69 ar	Personer	2024	Kvinner	5
+11490602 Nordstokke	70-79 ar	Personer	2024	Menn	32
+11490602 Nordstokke	70-79 ar	Personer	2024	Kvinner	27
+11490602 Nordstokke	80 ar eller eldre	Personer	2024	Menn	8
+11490602 Nordstokke	80 ar eller eldre	Personer	2024	Kvinner	10
+11490603 Stangeland	20-24 ar	Personer	2024	Menn	28
+11490603 Stangeland	20-24 ar	Personer	2024	Kvinner	18
+11490603 Stangeland	25-29 ar	Personer	2024	Menn	24
+11490603 Stangeland	25-29 ar	Personer	2024	Kvinner	23
+11490603 Stangeland	30-49 ar	Personer	2024	Menn	143
+11490603 Stangeland	30-49 ar	Personer	2024	Kvinner	145
+11490603 Stangeland	50-59 ar	Personer	2024	Menn	66
+11490603 Stangeland	50-59 ar	Personer	2024	Kvinner	62
+11490603 Stangeland	60-66 ar	Personer	2024	Menn	58
+11490603 Stangeland	60-66 ar	Personer	2024	Kvinner	54
+11490603 Stangeland	67-69 ar	Personer	2024	Menn	21
+11490603 Stangeland	67-69 ar	Personer	2024	Kvinner	28
+11490603 Stangeland	70-79 ar	Personer	2024	Menn	73
+11490603 Stangeland	70-79 ar	Personer	2024	Kvinner	65
+11490603 Stangeland	80 ar eller eldre	Personer	2024	Menn	11
+11490603 Stangeland	80 ar eller eldre	Personer	2024	Kvinner	20
+11490604 Liar	20-24 ar	Personer	2024	Menn	25
+11490604 Liar	20-24 ar	Personer	2024	Kvinner	12
+11490604 Liar	25-29 ar	Personer	2024	Menn	18
+11490604 Liar	25-29 ar	Personer	2024	Kvinner	12
+11490604 Liar	30-49 ar	Personer	2024	Menn	70
+11490604 Liar	30-49 ar	Personer	2024	Kvinner	70
+11490604 Liar	50-59 ar	Personer	2024	Menn	38
+11490604 Liar	50-59 ar	Personer	2024	Kvinner	47
+11490604 Liar	60-66 ar	Personer	2024	Menn	36
+11490604 Liar	60-66 ar	Personer	2024	Kvinner	27
+11490604 Liar	67-69 ar	Personer	2024	Menn	10
+11490604 Liar	67-69 ar	Personer	2024	Kvinner	3
+11490604 Liar	70-79 ar	Personer	2024	Menn	11
+11490604 Liar	70-79 ar	Personer	2024	Kvinner	8
+11490604 Liar	80 ar eller eldre	Personer	2024	Menn	5
+11490604 Liar	80 ar eller eldre	Personer	2024	Kvinner	9
+11490605 Kalvatre	20-24 ar	Personer	2024	Menn	25
+11490605 Kalvatre	20-24 ar	Personer	2024	Kvinner	30
+11490605 Kalvatre	25-29 ar	Personer	2024	Menn	28
+11490605 Kalvatre	25-29 ar	Personer	2024	Kvinner	26
+11490605 Kalvatre	30-49 ar	Personer	2024	Menn	144
+11490605 Kalvatre	30-49 ar	Personer	2024	Kvinner	123
+11490605 Kalvatre	50-59 ar	Personer	2024	Menn	73
+11490605 Kalvatre	50-59 ar	Personer	2024	Kvinner	71
+11490605 Kalvatre	60-66 ar	Personer	2024	Menn	34
+11490605 Kalvatre	60-66 ar	Personer	2024	Kvinner	29
+11490605 Kalvatre	67-69 ar	Personer	2024	Menn	10
+11490605 Kalvatre	67-69 ar	Personer	2024	Kvinner	16
+11490605 Kalvatre	70-79 ar	Personer	2024	Menn	34
+11490605 Kalvatre	70-79 ar	Personer	2024	Kvinner	37
+11490605 Kalvatre	80 ar eller eldre	Personer	2024	Menn	26
+11490605 Kalvatre	80 ar eller eldre	Personer	2024	Kvinner	21
+11490606 Kopervik Sentrum	20-24 ar	Personer	2024	Menn	20
+11490606 Kopervik Sentrum	20-24 ar	Personer	2024	Kvinner	24
+11490606 Kopervik Sentrum	25-29 ar	Personer	2024	Menn	35
+11490606 Kopervik Sentrum	25-29 ar	Personer	2024	Kvinner	30
+11490606 Kopervik Sentrum	30-49 ar	Personer	2024	Menn	122
+11490606 Kopervik Sentrum	30-49 ar	Personer	2024	Kvinner	105
+11490606 Kopervik Sentrum	50-59 ar	Personer	2024	Menn	76
+11490606 Kopervik Sentrum	50-59 ar	Personer	2024	Kvinner	60
+11490606 Kopervik Sentrum	60-66 ar	Personer	2024	Menn	30
+11490606 Kopervik Sentrum	60-66 ar	Personer	2024	Kvinner	32
+11490606 Kopervik Sentrum	67-69 ar	Personer	2024	Menn	13
+11490606 Kopervik Sentrum	67-69 ar	Personer	2024	Kvinner	12
+11490606 Kopervik Sentrum	70-79 ar	Personer	2024	Menn	37
+11490606 Kopervik Sentrum	70-79 ar	Personer	2024	Kvinner	53
+11490606 Kopervik Sentrum	80 ar eller eldre	Personer	2024	Menn	25
+11490606 Kopervik Sentrum	80 ar eller eldre	Personer	2024	Kvinner	69
+11490607 Nordre Side	20-24 ar	Personer	2024	Menn	13
+11490607 Nordre Side	20-24 ar	Personer	2024	Kvinner	7
+11490607 Nordre Side	25-29 ar	Personer	2024	Menn	9
+11490607 Nordre Side	25-29 ar	Personer	2024	Kvinner	8
+11490607 Nordre Side	30-49 ar	Personer	2024	Menn	43
+11490607 Nordre Side	30-49 ar	Personer	2024	Kvinner	48
+11490607 Nordre Side	50-59 ar	Personer	2024	Menn	34
+11490607 Nordre Side	50-59 ar	Personer	2024	Kvinner	29
+11490607 Nordre Side	60-66 ar	Personer	2024	Menn	25
+11490607 Nordre Side	60-66 ar	Personer	2024	Kvinner	15
+11490607 Nordre Side	67-69 ar	Personer	2024	Menn	8
+11490607 Nordre Side	67-69 ar	Personer	2024	Kvinner	9
+11490607 Nordre Side	70-79 ar	Personer	2024	Menn	22
+11490607 Nordre Side	70-79 ar	Personer	2024	Kvinner	31
+11490607 Nordre Side	80 ar eller eldre	Personer	2024	Menn	22
+11490607 Nordre Side	80 ar eller eldre	Personer	2024	Kvinner	20
+11490608 ostremneset	20-24 ar	Personer	2024	Menn	28
+11490608 ostremneset	20-24 ar	Personer	2024	Kvinner	24
+11490608 ostremneset	25-29 ar	Personer	2024	Menn	34
+11490608 ostremneset	25-29 ar	Personer	2024	Kvinner	28
+11490608 ostremneset	30-49 ar	Personer	2024	Menn	104
+11490608 ostremneset	30-49 ar	Personer	2024	Kvinner	99
+11490608 ostremneset	50-59 ar	Personer	2024	Menn	70
+11490608 ostremneset	50-59 ar	Personer	2024	Kvinner	75
+11490608 ostremneset	60-66 ar	Personer	2024	Menn	59
+11490608 ostremneset	60-66 ar	Personer	2024	Kvinner	45
+11490608 ostremneset	67-69 ar	Personer	2024	Menn	21
+11490608 ostremneset	67-69 ar	Personer	2024	Kvinner	12
+11490608 ostremneset	70-79 ar	Personer	2024	Menn	29
+11490608 ostremneset	70-79 ar	Personer	2024	Kvinner	30
+11490608 ostremneset	80 ar eller eldre	Personer	2024	Menn	6
+11490608 ostremneset	80 ar eller eldre	Personer	2024	Kvinner	8
+11490609 Eide	20-24 ar	Personer	2024	Menn	31
+11490609 Eide	20-24 ar	Personer	2024	Kvinner	20
+11490609 Eide	25-29 ar	Personer	2024	Menn	9
+11490609 Eide	25-29 ar	Personer	2024	Kvinner	17
+11490609 Eide	30-49 ar	Personer	2024	Menn	123
+11490609 Eide	30-49 ar	Personer	2024	Kvinner	131
+11490609 Eide	50-59 ar	Personer	2024	Menn	48
+11490609 Eide	50-59 ar	Personer	2024	Kvinner	40
+11490609 Eide	60-66 ar	Personer	2024	Menn	13
+11490609 Eide	60-66 ar	Personer	2024	Kvinner	7
+11490609 Eide	67-69 ar	Personer	2024	Menn	8
+11490609 Eide	67-69 ar	Personer	2024	Kvinner	9
+11490609 Eide	70-79 ar	Personer	2024	Menn	15
+11490609 Eide	70-79 ar	Personer	2024	Kvinner	16
+11490609 Eide	80 ar eller eldre	Personer	2024	Menn	8
+11490609 Eide	80 ar eller eldre	Personer	2024	Kvinner	8
+11490610 Brekke	20-24 ar	Personer	2024	Menn	15
+11490610 Brekke	20-24 ar	Personer	2024	Kvinner	13
+11490610 Brekke	25-29 ar	Personer	2024	Menn	17
+11490610 Brekke	25-29 ar	Personer	2024	Kvinner	8
+11490610 Brekke	30-49 ar	Personer	2024	Menn	74
+11490610 Brekke	30-49 ar	Personer	2024	Kvinner	64
+11490610 Brekke	50-59 ar	Personer	2024	Menn	48
+11490610 Brekke	50-59 ar	Personer	2024	Kvinner	40
+11490610 Brekke	60-66 ar	Personer	2024	Menn	13
+11490610 Brekke	60-66 ar	Personer	2024	Kvinner	13
+11490610 Brekke	67-69 ar	Personer	2024	Menn	9
+11490610 Brekke	67-69 ar	Personer	2024	Kvinner	8
+11490610 Brekke	70-79 ar	Personer	2024	Menn	17
+11490610 Brekke	70-79 ar	Personer	2024	Kvinner	15
+11490610 Brekke	80 ar eller eldre	Personer	2024	Menn	8
+11490610 Brekke	80 ar eller eldre	Personer	2024	Kvinner	7
+11490701 ostrem	20-24 ar	Personer	2024	Menn	26
+11490701 ostrem	20-24 ar	Personer	2024	Kvinner	21
+11490701 ostrem	25-29 ar	Personer	2024	Menn	27
+11490701 ostrem	25-29 ar	Personer	2024	Kvinner	29
+11490701 ostrem	30-49 ar	Personer	2024	Menn	121
+11490701 ostrem	30-49 ar	Personer	2024	Kvinner	101
+11490701 ostrem	50-59 ar	Personer	2024	Menn	56
+11490701 ostrem	50-59 ar	Personer	2024	Kvinner	39
+11490701 ostrem	60-66 ar	Personer	2024	Menn	22
+11490701 ostrem	60-66 ar	Personer	2024	Kvinner	25
+11490701 ostrem	67-69 ar	Personer	2024	Menn	11
+11490701 ostrem	67-69 ar	Personer	2024	Kvinner	12
+11490701 ostrem	70-79 ar	Personer	2024	Menn	32
+11490701 ostrem	70-79 ar	Personer	2024	Kvinner	37
+11490701 ostrem	80 ar eller eldre	Personer	2024	Menn	17
+11490701 ostrem	80 ar eller eldre	Personer	2024	Kvinner	22
+11490702 Bygnes	20-24 ar	Personer	2024	Menn	3
+11490702 Bygnes	20-24 ar	Personer	2024	Kvinner	3
+11490702 Bygnes	25-29 ar	Personer	2024	Menn	3
+11490702 Bygnes	25-29 ar	Personer	2024	Kvinner	5
+11490702 Bygnes	30-49 ar	Personer	2024	Menn	21
+11490702 Bygnes	30-49 ar	Personer	2024	Kvinner	16
+11490702 Bygnes	50-59 ar	Personer	2024	Menn	7
+11490702 Bygnes	50-59 ar	Personer	2024	Kvinner	6
+11490702 Bygnes	60-66 ar	Personer	2024	Menn	4
+11490702 Bygnes	60-66 ar	Personer	2024	Kvinner	4
+11490702 Bygnes	67-69 ar	Personer	2024	Menn	0
+11490702 Bygnes	67-69 ar	Personer	2024	Kvinner	5
+11490702 Bygnes	70-79 ar	Personer	2024	Menn	12
+11490702 Bygnes	70-79 ar	Personer	2024	Kvinner	13
+11490702 Bygnes	80 ar eller eldre	Personer	2024	Menn	0
+11490702 Bygnes	80 ar eller eldre	Personer	2024	Kvinner	0
+11490703 Skar	20-24 ar	Personer	2024	Menn	25
+11490703 Skar	20-24 ar	Personer	2024	Kvinner	17
+11490703 Skar	25-29 ar	Personer	2024	Menn	24
+11490703 Skar	25-29 ar	Personer	2024	Kvinner	22
+11490703 Skar	30-49 ar	Personer	2024	Menn	87
+11490703 Skar	30-49 ar	Personer	2024	Kvinner	88
+11490703 Skar	50-59 ar	Personer	2024	Menn	33
+11490703 Skar	50-59 ar	Personer	2024	Kvinner	40
+11490703 Skar	60-66 ar	Personer	2024	Menn	17
+11490703 Skar	60-66 ar	Personer	2024	Kvinner	19
+11490703 Skar	67-69 ar	Personer	2024	Menn	9
+11490703 Skar	67-69 ar	Personer	2024	Kvinner	6
+11490703 Skar	70-79 ar	Personer	2024	Menn	44
+11490703 Skar	70-79 ar	Personer	2024	Kvinner	46
+11490703 Skar	80 ar eller eldre	Personer	2024	Menn	9
+11490703 Skar	80 ar eller eldre	Personer	2024	Kvinner	14
+11490704 Sund	20-24 ar	Personer	2024	Menn	3
+11490704 Sund	20-24 ar	Personer	2024	Kvinner	6
+11490704 Sund	25-29 ar	Personer	2024	Menn	3
+11490704 Sund	25-29 ar	Personer	2024	Kvinner	3
+11490704 Sund	30-49 ar	Personer	2024	Menn	27
+11490704 Sund	30-49 ar	Personer	2024	Kvinner	24
+11490704 Sund	50-59 ar	Personer	2024	Menn	19
+11490704 Sund	50-59 ar	Personer	2024	Kvinner	11
+11490704 Sund	60-66 ar	Personer	2024	Menn	12
+11490704 Sund	60-66 ar	Personer	2024	Kvinner	9
+11490704 Sund	67-69 ar	Personer	2024	Menn	0
+11490704 Sund	67-69 ar	Personer	2024	Kvinner	3
+11490704 Sund	70-79 ar	Personer	2024	Menn	16
+11490704 Sund	70-79 ar	Personer	2024	Kvinner	16
+11490704 Sund	80 ar eller eldre	Personer	2024	Menn	6
+11490704 Sund	80 ar eller eldre	Personer	2024	Kvinner	5
+11490705 Vora	20-24 ar	Personer	2024	Menn	10
+11490705 Vora	20-24 ar	Personer	2024	Kvinner	3
+11490705 Vora	25-29 ar	Personer	2024	Menn	6
+11490705 Vora	25-29 ar	Personer	2024	Kvinner	7
+11490705 Vora	30-49 ar	Personer	2024	Menn	38
+11490705 Vora	30-49 ar	Personer	2024	Kvinner	35
+11490705 Vora	50-59 ar	Personer	2024	Menn	26
+11490705 Vora	50-59 ar	Personer	2024	Kvinner	21
+11490705 Vora	60-66 ar	Personer	2024	Menn	14
+11490705 Vora	60-66 ar	Personer	2024	Kvinner	10
+11490705 Vora	67-69 ar	Personer	2024	Menn	6
+11490705 Vora	67-69 ar	Personer	2024	Kvinner	3
+11490705 Vora	70-79 ar	Personer	2024	Menn	12
+11490705 Vora	70-79 ar	Personer	2024	Kvinner	20
+11490705 Vora	80 ar eller eldre	Personer	2024	Menn	15
+11490705 Vora	80 ar eller eldre	Personer	2024	Kvinner	16
+11490706 Kolsto	20-24 ar	Personer	2024	Menn	27
+11490706 Kolsto	20-24 ar	Personer	2024	Kvinner	21
+11490706 Kolsto	25-29 ar	Personer	2024	Menn	20
+11490706 Kolsto	25-29 ar	Personer	2024	Kvinner	17
+11490706 Kolsto	30-49 ar	Personer	2024	Menn	128
+11490706 Kolsto	30-49 ar	Personer	2024	Kvinner	113
+11490706 Kolsto	50-59 ar	Personer	2024	Menn	47
+11490706 Kolsto	50-59 ar	Personer	2024	Kvinner	32
+11490706 Kolsto	60-66 ar	Personer	2024	Menn	38
+11490706 Kolsto	60-66 ar	Personer	2024	Kvinner	26
+11490706 Kolsto	67-69 ar	Personer	2024	Menn	13
+11490706 Kolsto	67-69 ar	Personer	2024	Kvinner	26
+11490706 Kolsto	70-79 ar	Personer	2024	Menn	36
+11490706 Kolsto	70-79 ar	Personer	2024	Kvinner	37
+11490706 Kolsto	80 ar eller eldre	Personer	2024	Menn	9
+11490706 Kolsto	80 ar eller eldre	Personer	2024	Kvinner	15
+11490801 Kvalavag	20-24 ar	Personer	2024	Menn	6
+11490801 Kvalavag	20-24 ar	Personer	2024	Kvinner	7
+11490801 Kvalavag	25-29 ar	Personer	2024	Menn	8
+11490801 Kvalavag	25-29 ar	Personer	2024	Kvinner	6
+11490801 Kvalavag	30-49 ar	Personer	2024	Menn	47
+11490801 Kvalavag	30-49 ar	Personer	2024	Kvinner	44
+11490801 Kvalavag	50-59 ar	Personer	2024	Menn	21
+11490801 Kvalavag	50-59 ar	Personer	2024	Kvinner	17
+11490801 Kvalavag	60-66 ar	Personer	2024	Menn	16
+11490801 Kvalavag	60-66 ar	Personer	2024	Kvinner	18
+11490801 Kvalavag	67-69 ar	Personer	2024	Menn	9
+11490801 Kvalavag	67-69 ar	Personer	2024	Kvinner	5
+11490801 Kvalavag	70-79 ar	Personer	2024	Menn	14
+11490801 Kvalavag	70-79 ar	Personer	2024	Kvinner	14
+11490801 Kvalavag	80 ar eller eldre	Personer	2024	Menn	5
+11490801 Kvalavag	80 ar eller eldre	Personer	2024	Kvinner	5
+11490802 Visnes	20-24 ar	Personer	2024	Menn	20
+11490802 Visnes	20-24 ar	Personer	2024	Kvinner	8
+11490802 Visnes	25-29 ar	Personer	2024	Menn	24
+11490802 Visnes	25-29 ar	Personer	2024	Kvinner	19
+11490802 Visnes	30-49 ar	Personer	2024	Menn	84
+11490802 Visnes	30-49 ar	Personer	2024	Kvinner	71
+11490802 Visnes	50-59 ar	Personer	2024	Menn	47
+11490802 Visnes	50-59 ar	Personer	2024	Kvinner	47
+11490802 Visnes	60-66 ar	Personer	2024	Menn	25
+11490802 Visnes	60-66 ar	Personer	2024	Kvinner	18
+11490802 Visnes	67-69 ar	Personer	2024	Menn	7
+11490802 Visnes	67-69 ar	Personer	2024	Kvinner	10
+11490802 Visnes	70-79 ar	Personer	2024	Menn	21
+11490802 Visnes	70-79 ar	Personer	2024	Kvinner	21
+11490802 Visnes	80 ar eller eldre	Personer	2024	Menn	11
+11490802 Visnes	80 ar eller eldre	Personer	2024	Kvinner	19
+11490803 Skeie	20-24 ar	Personer	2024	Menn	20
+11490803 Skeie	20-24 ar	Personer	2024	Kvinner	7
+11490803 Skeie	25-29 ar	Personer	2024	Menn	11
+11490803 Skeie	25-29 ar	Personer	2024	Kvinner	15
+11490803 Skeie	30-49 ar	Personer	2024	Menn	48
+11490803 Skeie	30-49 ar	Personer	2024	Kvinner	44
+11490803 Skeie	50-59 ar	Personer	2024	Menn	36
+11490803 Skeie	50-59 ar	Personer	2024	Kvinner	24
+11490803 Skeie	60-66 ar	Personer	2024	Menn	7
+11490803 Skeie	60-66 ar	Personer	2024	Kvinner	6
+11490803 Skeie	67-69 ar	Personer	2024	Menn	5
+11490803 Skeie	67-69 ar	Personer	2024	Kvinner	5
+11490803 Skeie	70-79 ar	Personer	2024	Menn	15
+11490803 Skeie	70-79 ar	Personer	2024	Kvinner	12
+11490803 Skeie	80 ar eller eldre	Personer	2024	Menn	9
+11490803 Skeie	80 ar eller eldre	Personer	2024	Kvinner	10
+11490804 Velde	20-24 ar	Personer	2024	Menn	24
+11490804 Velde	20-24 ar	Personer	2024	Kvinner	19
+11490804 Velde	25-29 ar	Personer	2024	Menn	15
+11490804 Velde	25-29 ar	Personer	2024	Kvinner	21
+11490804 Velde	30-49 ar	Personer	2024	Menn	96
+11490804 Velde	30-49 ar	Personer	2024	Kvinner	96
+11490804 Velde	50-59 ar	Personer	2024	Menn	63
+11490804 Velde	50-59 ar	Personer	2024	Kvinner	49
+11490804 Velde	60-66 ar	Personer	2024	Menn	31
+11490804 Velde	60-66 ar	Personer	2024	Kvinner	31
+11490804 Velde	67-69 ar	Personer	2024	Menn	14
+11490804 Velde	67-69 ar	Personer	2024	Kvinner	22
+11490804 Velde	70-79 ar	Personer	2024	Menn	52
+11490804 Velde	70-79 ar	Personer	2024	Kvinner	48
+11490804 Velde	80 ar eller eldre	Personer	2024	Menn	10
+11490804 Velde	80 ar eller eldre	Personer	2024	Kvinner	11
+11490805 Fiska	20-24 ar	Personer	2024	Menn	3
+11490805 Fiska	20-24 ar	Personer	2024	Kvinner	8
+11490805 Fiska	25-29 ar	Personer	2024	Menn	12
+11490805 Fiska	25-29 ar	Personer	2024	Kvinner	6
+11490805 Fiska	30-49 ar	Personer	2024	Menn	33
+11490805 Fiska	30-49 ar	Personer	2024	Kvinner	37
+11490805 Fiska	50-59 ar	Personer	2024	Menn	21
+11490805 Fiska	50-59 ar	Personer	2024	Kvinner	21
+11490805 Fiska	60-66 ar	Personer	2024	Menn	17
+11490805 Fiska	60-66 ar	Personer	2024	Kvinner	18
+11490805 Fiska	67-69 ar	Personer	2024	Menn	8
+11490805 Fiska	67-69 ar	Personer	2024	Kvinner	3
+11490805 Fiska	70-79 ar	Personer	2024	Menn	11
+11490805 Fiska	70-79 ar	Personer	2024	Kvinner	13
+11490805 Fiska	80 ar eller eldre	Personer	2024	Menn	5
+11490805 Fiska	80 ar eller eldre	Personer	2024	Kvinner	9
+11490806 Utvik	20-24 ar	Personer	2024	Menn	24
+11490806 Utvik	20-24 ar	Personer	2024	Kvinner	13
+11490806 Utvik	25-29 ar	Personer	2024	Menn	23
+11490806 Utvik	25-29 ar	Personer	2024	Kvinner	18
+11490806 Utvik	30-49 ar	Personer	2024	Menn	93
+11490806 Utvik	30-49 ar	Personer	2024	Kvinner	92
+11490806 Utvik	50-59 ar	Personer	2024	Menn	53
+11490806 Utvik	50-59 ar	Personer	2024	Kvinner	45
+11490806 Utvik	60-66 ar	Personer	2024	Menn	21
+11490806 Utvik	60-66 ar	Personer	2024	Kvinner	23
+11490806 Utvik	67-69 ar	Personer	2024	Menn	6
+11490806 Utvik	67-69 ar	Personer	2024	Kvinner	16
+11490806 Utvik	70-79 ar	Personer	2024	Menn	45
+11490806 Utvik	70-79 ar	Personer	2024	Kvinner	51
+11490806 Utvik	80 ar eller eldre	Personer	2024	Menn	19
+11490806 Utvik	80 ar eller eldre	Personer	2024	Kvinner	29
+11490901 Feoy	20-24 ar	Personer	2024	Menn	0
+11490901 Feoy	20-24 ar	Personer	2024	Kvinner	0
+11490901 Feoy	25-29 ar	Personer	2024	Menn	0
+11490901 Feoy	25-29 ar	Personer	2024	Kvinner	0
+11490901 Feoy	30-49 ar	Personer	2024	Menn	3
+11490901 Feoy	30-49 ar	Personer	2024	Kvinner	3
+11490901 Feoy	50-59 ar	Personer	2024	Menn	4
+11490901 Feoy	50-59 ar	Personer	2024	Kvinner	6
+11490901 Feoy	60-66 ar	Personer	2024	Menn	5
+11490901 Feoy	60-66 ar	Personer	2024	Kvinner	4
+11490901 Feoy	67-69 ar	Personer	2024	Menn	0
+11490901 Feoy	67-69 ar	Personer	2024	Kvinner	0
+11490901 Feoy	70-79 ar	Personer	2024	Menn	3
+11490901 Feoy	70-79 ar	Personer	2024	Kvinner	3
+11490901 Feoy	80 ar eller eldre	Personer	2024	Menn	0
+11490901 Feoy	80 ar eller eldre	Personer	2024	Kvinner	3
+11490902 Hauge	20-24 ar	Personer	2024	Menn	14
+11490902 Hauge	20-24 ar	Personer	2024	Kvinner	11
+11490902 Hauge	25-29 ar	Personer	2024	Menn	15
+11490902 Hauge	25-29 ar	Personer	2024	Kvinner	12
+11490902 Hauge	30-49 ar	Personer	2024	Menn	58
+11490902 Hauge	30-49 ar	Personer	2024	Kvinner	51
+11490902 Hauge	50-59 ar	Personer	2024	Menn	30
+11490902 Hauge	50-59 ar	Personer	2024	Kvinner	25
+11490902 Hauge	60-66 ar	Personer	2024	Menn	11
+11490902 Hauge	60-66 ar	Personer	2024	Kvinner	8
+11490902 Hauge	67-69 ar	Personer	2024	Menn	8
+11490902 Hauge	67-69 ar	Personer	2024	Kvinner	0
+11490902 Hauge	70-79 ar	Personer	2024	Menn	22
+11490902 Hauge	70-79 ar	Personer	2024	Kvinner	27
+11490902 Hauge	80 ar eller eldre	Personer	2024	Menn	12
+11490902 Hauge	80 ar eller eldre	Personer	2024	Kvinner	12
+11490903 Haland	20-24 ar	Personer	2024	Menn	8
+11490903 Haland	20-24 ar	Personer	2024	Kvinner	17
+11490903 Haland	25-29 ar	Personer	2024	Menn	7
+11490903 Haland	25-29 ar	Personer	2024	Kvinner	9
+11490903 Haland	30-49 ar	Personer	2024	Menn	52
+11490903 Haland	30-49 ar	Personer	2024	Kvinner	47
+11490903 Haland	50-59 ar	Personer	2024	Menn	24
+11490903 Haland	50-59 ar	Personer	2024	Kvinner	18
+11490903 Haland	60-66 ar	Personer	2024	Menn	20
+11490903 Haland	60-66 ar	Personer	2024	Kvinner	11
+11490903 Haland	67-69 ar	Personer	2024	Menn	3
+11490903 Haland	67-69 ar	Personer	2024	Kvinner	9
+11490903 Haland	70-79 ar	Personer	2024	Menn	21
+11490903 Haland	70-79 ar	Personer	2024	Kvinner	20
+11490903 Haland	80 ar eller eldre	Personer	2024	Menn	9
+11490903 Haland	80 ar eller eldre	Personer	2024	Kvinner	12
+11490904 Osnes	20-24 ar	Personer	2024	Menn	13
+11490904 Osnes	20-24 ar	Personer	2024	Kvinner	15
+11490904 Osnes	25-29 ar	Personer	2024	Menn	9
+11490904 Osnes	25-29 ar	Personer	2024	Kvinner	11
+11490904 Osnes	30-49 ar	Personer	2024	Menn	66
+11490904 Osnes	30-49 ar	Personer	2024	Kvinner	58
+11490904 Osnes	50-59 ar	Personer	2024	Menn	28
+11490904 Osnes	50-59 ar	Personer	2024	Kvinner	31
+11490904 Osnes	60-66 ar	Personer	2024	Menn	18
+11490904 Osnes	60-66 ar	Personer	2024	Kvinner	14
+11490904 Osnes	67-69 ar	Personer	2024	Menn	5
+11490904 Osnes	67-69 ar	Personer	2024	Kvinner	3
+11490904 Osnes	70-79 ar	Personer	2024	Menn	12
+11490904 Osnes	70-79 ar	Personer	2024	Kvinner	14
+11490904 Osnes	80 ar eller eldre	Personer	2024	Menn	11
+11490904 Osnes	80 ar eller eldre	Personer	2024	Kvinner	14
+11490905 Litlasund	20-24 ar	Personer	2024	Menn	21
+11490905 Litlasund	20-24 ar	Personer	2024	Kvinner	16
+11490905 Litlasund	25-29 ar	Personer	2024	Menn	27
+11490905 Litlasund	25-29 ar	Personer	2024	Kvinner	22
+11490905 Litlasund	30-49 ar	Personer	2024	Menn	64
+11490905 Litlasund	30-49 ar	Personer	2024	Kvinner	59
+11490905 Litlasund	50-59 ar	Personer	2024	Menn	29
+11490905 Litlasund	50-59 ar	Personer	2024	Kvinner	29
+11490905 Litlasund	60-66 ar	Personer	2024	Menn	15
+11490905 Litlasund	60-66 ar	Personer	2024	Kvinner	7
+11490905 Litlasund	67-69 ar	Personer	2024	Menn	0
+11490905 Litlasund	67-69 ar	Personer	2024	Kvinner	6
+11490905 Litlasund	70-79 ar	Personer	2024	Menn	12
+11490905 Litlasund	70-79 ar	Personer	2024	Kvinner	10
+11490905 Litlasund	80 ar eller eldre	Personer	2024	Menn	7
+11490905 Litlasund	80 ar eller eldre	Personer	2024	Kvinner	16
+11490906 Karmsund	20-24 ar	Personer	2024	Menn	27
+11490906 Karmsund	20-24 ar	Personer	2024	Kvinner	36
+11490906 Karmsund	25-29 ar	Personer	2024	Menn	25
+11490906 Karmsund	25-29 ar	Personer	2024	Kvinner	25
+11490906 Karmsund	30-49 ar	Personer	2024	Menn	140
+11490906 Karmsund	30-49 ar	Personer	2024	Kvinner	134
+11490906 Karmsund	50-59 ar	Personer	2024	Menn	58
+11490906 Karmsund	50-59 ar	Personer	2024	Kvinner	47
+11490906 Karmsund	60-66 ar	Personer	2024	Menn	36
+11490906 Karmsund	60-66 ar	Personer	2024	Kvinner	41
+11490906 Karmsund	67-69 ar	Personer	2024	Menn	24
+11490906 Karmsund	67-69 ar	Personer	2024	Kvinner	15
+11490906 Karmsund	70-79 ar	Personer	2024	Menn	53
+11490906 Karmsund	70-79 ar	Personer	2024	Kvinner	55
+11490906 Karmsund	80 ar eller eldre	Personer	2024	Menn	20
+11490906 Karmsund	80 ar eller eldre	Personer	2024	Kvinner	18
+11490907 Storesund	20-24 ar	Personer	2024	Menn	9
+11490907 Storesund	20-24 ar	Personer	2024	Kvinner	9
+11490907 Storesund	25-29 ar	Personer	2024	Menn	10
+11490907 Storesund	25-29 ar	Personer	2024	Kvinner	5
+11490907 Storesund	30-49 ar	Personer	2024	Menn	44
+11490907 Storesund	30-49 ar	Personer	2024	Kvinner	46
+11490907 Storesund	50-59 ar	Personer	2024	Menn	33
+11490907 Storesund	50-59 ar	Personer	2024	Kvinner	27
+11490907 Storesund	60-66 ar	Personer	2024	Menn	29
+11490907 Storesund	60-66 ar	Personer	2024	Kvinner	22
+11490907 Storesund	67-69 ar	Personer	2024	Menn	10
+11490907 Storesund	67-69 ar	Personer	2024	Kvinner	4
+11490907 Storesund	70-79 ar	Personer	2024	Menn	8
+11490907 Storesund	70-79 ar	Personer	2024	Kvinner	9
+11490907 Storesund	80 ar eller eldre	Personer	2024	Menn	14
+11490907 Storesund	80 ar eller eldre	Personer	2024	Kvinner	17
+11490908 Nordbo	20-24 ar	Personer	2024	Menn	10
+11490908 Nordbo	20-24 ar	Personer	2024	Kvinner	9
+11490908 Nordbo	25-29 ar	Personer	2024	Menn	10
+11490908 Nordbo	25-29 ar	Personer	2024	Kvinner	10
+11490908 Nordbo	30-49 ar	Personer	2024	Menn	31
+11490908 Nordbo	30-49 ar	Personer	2024	Kvinner	29
+11490908 Nordbo	50-59 ar	Personer	2024	Menn	24
+11490908 Nordbo	50-59 ar	Personer	2024	Kvinner	15
+11490908 Nordbo	60-66 ar	Personer	2024	Menn	10
+11490908 Nordbo	60-66 ar	Personer	2024	Kvinner	8
+11490908 Nordbo	67-69 ar	Personer	2024	Menn	3
+11490908 Nordbo	67-69 ar	Personer	2024	Kvinner	3
+11490908 Nordbo	70-79 ar	Personer	2024	Menn	12
+11490908 Nordbo	70-79 ar	Personer	2024	Kvinner	13
+11490908 Nordbo	80 ar eller eldre	Personer	2024	Menn	7
+11490908 Nordbo	80 ar eller eldre	Personer	2024	Kvinner	15
+11490909 Bo	20-24 ar	Personer	2024	Menn	7
+11490909 Bo	20-24 ar	Personer	2024	Kvinner	5
+11490909 Bo	25-29 ar	Personer	2024	Menn	5
+11490909 Bo	25-29 ar	Personer	2024	Kvinner	10
+11490909 Bo	30-49 ar	Personer	2024	Menn	29
+11490909 Bo	30-49 ar	Personer	2024	Kvinner	25
+11490909 Bo	50-59 ar	Personer	2024	Menn	14
+11490909 Bo	50-59 ar	Personer	2024	Kvinner	13
+11490909 Bo	60-66 ar	Personer	2024	Menn	13
+11490909 Bo	60-66 ar	Personer	2024	Kvinner	8
+11490909 Bo	67-69 ar	Personer	2024	Menn	3
+11490909 Bo	67-69 ar	Personer	2024	Kvinner	7
+11490909 Bo	70-79 ar	Personer	2024	Menn	11
+11490909 Bo	70-79 ar	Personer	2024	Kvinner	7
+11490909 Bo	80 ar eller eldre	Personer	2024	Menn	7
+11490909 Bo	80 ar eller eldre	Personer	2024	Kvinner	7
+11491001 Norheimsvagen	20-24 ar	Personer	2024	Menn	10
+11491001 Norheimsvagen	20-24 ar	Personer	2024	Kvinner	20
+11491001 Norheimsvagen	25-29 ar	Personer	2024	Menn	16
+11491001 Norheimsvagen	25-29 ar	Personer	2024	Kvinner	15
+11491001 Norheimsvagen	30-49 ar	Personer	2024	Menn	81
+11491001 Norheimsvagen	30-49 ar	Personer	2024	Kvinner	66
+11491001 Norheimsvagen	50-59 ar	Personer	2024	Menn	43
+11491001 Norheimsvagen	50-59 ar	Personer	2024	Kvinner	41
+11491001 Norheimsvagen	60-66 ar	Personer	2024	Menn	19
+11491001 Norheimsvagen	60-66 ar	Personer	2024	Kvinner	35
+11491001 Norheimsvagen	67-69 ar	Personer	2024	Menn	23
+11491001 Norheimsvagen	67-69 ar	Personer	2024	Kvinner	15
+11491001 Norheimsvagen	70-79 ar	Personer	2024	Menn	27
+11491001 Norheimsvagen	70-79 ar	Personer	2024	Kvinner	29
+11491001 Norheimsvagen	80 ar eller eldre	Personer	2024	Menn	10
+11491001 Norheimsvagen	80 ar eller eldre	Personer	2024	Kvinner	16
+11491002 Norheim	20-24 ar	Personer	2024	Menn	4
+11491002 Norheim	20-24 ar	Personer	2024	Kvinner	6
+11491002 Norheim	25-29 ar	Personer	2024	Menn	8
+11491002 Norheim	25-29 ar	Personer	2024	Kvinner	5
+11491002 Norheim	30-49 ar	Personer	2024	Menn	29
+11491002 Norheim	30-49 ar	Personer	2024	Kvinner	32
+11491002 Norheim	50-59 ar	Personer	2024	Menn	16
+11491002 Norheim	50-59 ar	Personer	2024	Kvinner	12
+11491002 Norheim	60-66 ar	Personer	2024	Menn	9
+11491002 Norheim	60-66 ar	Personer	2024	Kvinner	10
+11491002 Norheim	67-69 ar	Personer	2024	Menn	7
+11491002 Norheim	67-69 ar	Personer	2024	Kvinner	11
+11491002 Norheim	70-79 ar	Personer	2024	Menn	13
+11491002 Norheim	70-79 ar	Personer	2024	Kvinner	17
+11491002 Norheim	80 ar eller eldre	Personer	2024	Menn	7
+11491002 Norheim	80 ar eller eldre	Personer	2024	Kvinner	21
+11491003 Norheimsskogen	20-24 ar	Personer	2024	Menn	20
+11491003 Norheimsskogen	20-24 ar	Personer	2024	Kvinner	28
+11491003 Norheimsskogen	25-29 ar	Personer	2024	Menn	27
+11491003 Norheimsskogen	25-29 ar	Personer	2024	Kvinner	27
+11491003 Norheimsskogen	30-49 ar	Personer	2024	Menn	113
+11491003 Norheimsskogen	30-49 ar	Personer	2024	Kvinner	128
+11491003 Norheimsskogen	50-59 ar	Personer	2024	Menn	72
+11491003 Norheimsskogen	50-59 ar	Personer	2024	Kvinner	69
+11491003 Norheimsskogen	60-66 ar	Personer	2024	Menn	42
+11491003 Norheimsskogen	60-66 ar	Personer	2024	Kvinner	46
+11491003 Norheimsskogen	67-69 ar	Personer	2024	Menn	16
+11491003 Norheimsskogen	67-69 ar	Personer	2024	Kvinner	15
+11491003 Norheimsskogen	70-79 ar	Personer	2024	Menn	27
+11491003 Norheimsskogen	70-79 ar	Personer	2024	Kvinner	28
+11491003 Norheimsskogen	80 ar eller eldre	Personer	2024	Menn	41
+11491003 Norheimsskogen	80 ar eller eldre	Personer	2024	Kvinner	51
+11491004 Spanne	20-24 ar	Personer	2024	Menn	38
+11491004 Spanne	20-24 ar	Personer	2024	Kvinner	54
+11491004 Spanne	25-29 ar	Personer	2024	Menn	54
+11491004 Spanne	25-29 ar	Personer	2024	Kvinner	48
+11491004 Spanne	30-49 ar	Personer	2024	Menn	192
+11491004 Spanne	30-49 ar	Personer	2024	Kvinner	203
+11491004 Spanne	50-59 ar	Personer	2024	Menn	93
+11491004 Spanne	50-59 ar	Personer	2024	Kvinner	91
+11491004 Spanne	60-66 ar	Personer	2024	Menn	49
+11491004 Spanne	60-66 ar	Personer	2024	Kvinner	62
+11491004 Spanne	67-69 ar	Personer	2024	Menn	24
+11491004 Spanne	67-69 ar	Personer	2024	Kvinner	20
+11491004 Spanne	70-79 ar	Personer	2024	Menn	43
+11491004 Spanne	70-79 ar	Personer	2024	Kvinner	56
+11491004 Spanne	80 ar eller eldre	Personer	2024	Menn	20
+11491004 Spanne	80 ar eller eldre	Personer	2024	Kvinner	40
+11491007 Royksund	20-24 ar	Personer	2024	Menn	8
+11491007 Royksund	20-24 ar	Personer	2024	Kvinner	5
+11491007 Royksund	25-29 ar	Personer	2024	Menn	6
+11491007 Royksund	25-29 ar	Personer	2024	Kvinner	5
+11491007 Royksund	30-49 ar	Personer	2024	Menn	23
+11491007 Royksund	30-49 ar	Personer	2024	Kvinner	13
+11491007 Royksund	50-59 ar	Personer	2024	Menn	24
+11491007 Royksund	50-59 ar	Personer	2024	Kvinner	30
+11491007 Royksund	60-66 ar	Personer	2024	Menn	14
+11491007 Royksund	60-66 ar	Personer	2024	Kvinner	8
+11491007 Royksund	67-69 ar	Personer	2024	Menn	3
+11491007 Royksund	67-69 ar	Personer	2024	Kvinner	5
+11491007 Royksund	70-79 ar	Personer	2024	Menn	15
+11491007 Royksund	70-79 ar	Personer	2024	Kvinner	16
+11491007 Royksund	80 ar eller eldre	Personer	2024	Menn	10
+11491007 Royksund	80 ar eller eldre	Personer	2024	Kvinner	9
+11491008 Fosen	20-24 ar	Personer	2024	Menn	6
+11491008 Fosen	20-24 ar	Personer	2024	Kvinner	4
+11491008 Fosen	25-29 ar	Personer	2024	Menn	4
+11491008 Fosen	25-29 ar	Personer	2024	Kvinner	0
+11491008 Fosen	30-49 ar	Personer	2024	Menn	33
+11491008 Fosen	30-49 ar	Personer	2024	Kvinner	28
+11491008 Fosen	50-59 ar	Personer	2024	Menn	26
+11491008 Fosen	50-59 ar	Personer	2024	Kvinner	18
+11491008 Fosen	60-66 ar	Personer	2024	Menn	12
+11491008 Fosen	60-66 ar	Personer	2024	Kvinner	14
+11491008 Fosen	67-69 ar	Personer	2024	Menn	10
+11491008 Fosen	67-69 ar	Personer	2024	Kvinner	6
+11491008 Fosen	70-79 ar	Personer	2024	Menn	21
+11491008 Fosen	70-79 ar	Personer	2024	Kvinner	21
+11491008 Fosen	80 ar eller eldre	Personer	2024	Menn	7
+11491008 Fosen	80 ar eller eldre	Personer	2024	Kvinner	6
+11491009 Mykje	20-24 ar	Personer	2024	Menn	5
+11491009 Mykje	20-24 ar	Personer	2024	Kvinner	3
+11491009 Mykje	25-29 ar	Personer	2024	Menn	5
+11491009 Mykje	25-29 ar	Personer	2024	Kvinner	8
+11491009 Mykje	30-49 ar	Personer	2024	Menn	29
+11491009 Mykje	30-49 ar	Personer	2024	Kvinner	22
+11491009 Mykje	50-59 ar	Personer	2024	Menn	9
+11491009 Mykje	50-59 ar	Personer	2024	Kvinner	8
+11491009 Mykje	60-66 ar	Personer	2024	Menn	12
+11491009 Mykje	60-66 ar	Personer	2024	Kvinner	11
+11491009 Mykje	67-69 ar	Personer	2024	Menn	3
+11491009 Mykje	67-69 ar	Personer	2024	Kvinner	3
+11491009 Mykje	70-79 ar	Personer	2024	Menn	9
+11491009 Mykje	70-79 ar	Personer	2024	Kvinner	7
+11491009 Mykje	80 ar eller eldre	Personer	2024	Menn	4
+11491009 Mykje	80 ar eller eldre	Personer	2024	Kvinner	6
+11491010 Aksnes	20-24 ar	Personer	2024	Menn	0
+11491010 Aksnes	20-24 ar	Personer	2024	Kvinner	5
+11491010 Aksnes	25-29 ar	Personer	2024	Menn	4
+11491010 Aksnes	25-29 ar	Personer	2024	Kvinner	3
+11491010 Aksnes	30-49 ar	Personer	2024	Menn	27
+11491010 Aksnes	30-49 ar	Personer	2024	Kvinner	21
+11491010 Aksnes	50-59 ar	Personer	2024	Menn	11
+11491010 Aksnes	50-59 ar	Personer	2024	Kvinner	6
+11491010 Aksnes	60-66 ar	Personer	2024	Menn	8
+11491010 Aksnes	60-66 ar	Personer	2024	Kvinner	9
+11491010 Aksnes	67-69 ar	Personer	2024	Menn	0
+11491010 Aksnes	67-69 ar	Personer	2024	Kvinner	3
+11491010 Aksnes	70-79 ar	Personer	2024	Menn	9
+11491010 Aksnes	70-79 ar	Personer	2024	Kvinner	7
+11491010 Aksnes	80 ar eller eldre	Personer	2024	Menn	7
+11491010 Aksnes	80 ar eller eldre	Personer	2024	Kvinner	7
+11491011 Eike	20-24 ar	Personer	2024	Menn	50
+11491011 Eike	20-24 ar	Personer	2024	Kvinner	48
+11491011 Eike	25-29 ar	Personer	2024	Menn	53
+11491011 Eike	25-29 ar	Personer	2024	Kvinner	35
+11491011 Eike	30-49 ar	Personer	2024	Menn	218
+11491011 Eike	30-49 ar	Personer	2024	Kvinner	231
+11491011 Eike	50-59 ar	Personer	2024	Menn	127
+11491011 Eike	50-59 ar	Personer	2024	Kvinner	91
+11491011 Eike	60-66 ar	Personer	2024	Menn	56
+11491011 Eike	60-66 ar	Personer	2024	Kvinner	46
+11491011 Eike	67-69 ar	Personer	2024	Menn	13
+11491011 Eike	67-69 ar	Personer	2024	Kvinner	9
+11491011 Eike	70-79 ar	Personer	2024	Menn	42
+11491011 Eike	70-79 ar	Personer	2024	Kvinner	43
+11491011 Eike	80 ar eller eldre	Personer	2024	Menn	25
+11491011 Eike	80 ar eller eldre	Personer	2024	Kvinner	22
+11491012 Moksheim	20-24 ar	Personer	2024	Menn	3
+11491012 Moksheim	20-24 ar	Personer	2024	Kvinner	6
+11491012 Moksheim	25-29 ar	Personer	2024	Menn	4
+11491012 Moksheim	25-29 ar	Personer	2024	Kvinner	8
+11491012 Moksheim	30-49 ar	Personer	2024	Menn	20
+11491012 Moksheim	30-49 ar	Personer	2024	Kvinner	14
+11491012 Moksheim	50-59 ar	Personer	2024	Menn	10
+11491012 Moksheim	50-59 ar	Personer	2024	Kvinner	15
+11491012 Moksheim	60-66 ar	Personer	2024	Menn	13
+11491012 Moksheim	60-66 ar	Personer	2024	Kvinner	13
+11491012 Moksheim	67-69 ar	Personer	2024	Menn	5
+11491012 Moksheim	67-69 ar	Personer	2024	Kvinner	3
+11491012 Moksheim	70-79 ar	Personer	2024	Menn	21
+11491012 Moksheim	70-79 ar	Personer	2024	Kvinner	15
+11491012 Moksheim	80 ar eller eldre	Personer	2024	Menn	9
+11491012 Moksheim	80 ar eller eldre	Personer	2024	Kvinner	16
+11491013 Bjollehaugen	20-24 ar	Personer	2024	Menn	69
+11491013 Bjollehaugen	20-24 ar	Personer	2024	Kvinner	59
+11491013 Bjollehaugen	25-29 ar	Personer	2024	Menn	66
+11491013 Bjollehaugen	25-29 ar	Personer	2024	Kvinner	65
+11491013 Bjollehaugen	30-49 ar	Personer	2024	Menn	233
+11491013 Bjollehaugen	30-49 ar	Personer	2024	Kvinner	224
+11491013 Bjollehaugen	50-59 ar	Personer	2024	Menn	121
+11491013 Bjollehaugen	50-59 ar	Personer	2024	Kvinner	121
+11491013 Bjollehaugen	60-66 ar	Personer	2024	Menn	48
+11491013 Bjollehaugen	60-66 ar	Personer	2024	Kvinner	60
+11491013 Bjollehaugen	67-69 ar	Personer	2024	Menn	14
+11491013 Bjollehaugen	67-69 ar	Personer	2024	Kvinner	17
+11491013 Bjollehaugen	70-79 ar	Personer	2024	Menn	56
+11491013 Bjollehaugen	70-79 ar	Personer	2024	Kvinner	56
+11491013 Bjollehaugen	80 ar eller eldre	Personer	2024	Menn	24
+11491013 Bjollehaugen	80 ar eller eldre	Personer	2024	Kvinner	28
+11491014 Trevarden	20-24 ar	Personer	2024	Menn	9
+11491014 Trevarden	20-24 ar	Personer	2024	Kvinner	6
+11491014 Trevarden	25-29 ar	Personer	2024	Menn	11
+11491014 Trevarden	25-29 ar	Personer	2024	Kvinner	11
+11491014 Trevarden	30-49 ar	Personer	2024	Menn	49
+11491014 Trevarden	30-49 ar	Personer	2024	Kvinner	56
+11491014 Trevarden	50-59 ar	Personer	2024	Menn	19
+11491014 Trevarden	50-59 ar	Personer	2024	Kvinner	10
+11491014 Trevarden	60-66 ar	Personer	2024	Menn	9
+11491014 Trevarden	60-66 ar	Personer	2024	Kvinner	11
+11491014 Trevarden	67-69 ar	Personer	2024	Menn	4
+11491014 Trevarden	67-69 ar	Personer	2024	Kvinner	4
+11491014 Trevarden	70-79 ar	Personer	2024	Menn	20
+11491014 Trevarden	70-79 ar	Personer	2024	Kvinner	22
+11491014 Trevarden	80 ar eller eldre	Personer	2024	Menn	8
+11491014 Trevarden	80 ar eller eldre	Personer	2024	Kvinner	4
+11491015 Vormedal	20-24 ar	Personer	2024	Menn	41
+11491015 Vormedal	20-24 ar	Personer	2024	Kvinner	41
+11491015 Vormedal	25-29 ar	Personer	2024	Menn	60
+11491015 Vormedal	25-29 ar	Personer	2024	Kvinner	59
+11491015 Vormedal	30-49 ar	Personer	2024	Menn	224
+11491015 Vormedal	30-49 ar	Personer	2024	Kvinner	249
+11491015 Vormedal	50-59 ar	Personer	2024	Menn	75
+11491015 Vormedal	50-59 ar	Personer	2024	Kvinner	66
+11491015 Vormedal	60-66 ar	Personer	2024	Menn	28
+11491015 Vormedal	60-66 ar	Personer	2024	Kvinner	25
+11491015 Vormedal	67-69 ar	Personer	2024	Menn	9
+11491015 Vormedal	67-69 ar	Personer	2024	Kvinner	14
+11491015 Vormedal	70-79 ar	Personer	2024	Menn	26
+11491015 Vormedal	70-79 ar	Personer	2024	Kvinner	29
+11491015 Vormedal	80 ar eller eldre	Personer	2024	Menn	14
+11491015 Vormedal	80 ar eller eldre	Personer	2024	Kvinner	15
+11499999 Uoppgitt grunnkrets	20-24 ar	Personer	2024	Menn	0
+11499999 Uoppgitt grunnkrets	20-24 ar	Personer	2024	Kvinner	0
+11499999 Uoppgitt grunnkrets	25-29 ar	Personer	2024	Menn	0
+11499999 Uoppgitt grunnkrets	25-29 ar	Personer	2024	Kvinner	0
+11499999 Uoppgitt grunnkrets	30-49 ar	Personer	2024	Menn	9
+11499999 Uoppgitt grunnkrets	30-49 ar	Personer	2024	Kvinner	0
+11499999 Uoppgitt grunnkrets	50-59 ar	Personer	2024	Menn	6
+11499999 Uoppgitt grunnkrets	50-59 ar	Personer	2024	Kvinner	3
+11499999 Uoppgitt grunnkrets	60-66 ar	Personer	2024	Menn	3
+11499999 Uoppgitt grunnkrets	60-66 ar	Personer	2024	Kvinner	0
+11499999 Uoppgitt grunnkrets	67-69 ar	Personer	2024	Menn	0
+11499999 Uoppgitt grunnkrets	67-69 ar	Personer	2024	Kvinner	3
+11499999 Uoppgitt grunnkrets	70-79 ar	Personer	2024	Menn	0
+11499999 Uoppgitt grunnkrets	70-79 ar	Personer	2024	Kvinner	0
+11499999 Uoppgitt grunnkrets	80 ar eller eldre	Personer	2024	Menn	3
+11499999 Uoppgitt grunnkrets	80 ar eller eldre	Personer	2024	Kvinner	0

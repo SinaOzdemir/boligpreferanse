@@ -1,0 +1,136 @@
+contents	region	year	12012: Applications and rejected applications in regarding disposed municipal dwellings,
+Number of received applications latest year (number)	1106 Haugesund	2015	241
+Number of received applications latest year (number)	1106 Haugesund	2016	155
+Number of received applications latest year (number)	1106 Haugesund	2017	222
+Number of received applications latest year (number)	1106 Haugesund	2018	194
+Number of received applications latest year (number)	1106 Haugesund	2019	162
+Number of received applications latest year (number)	1106 Haugesund	2020	160
+Number of received applications latest year (number)	1106 Haugesund	2021	181
+Number of received applications latest year (number)	1106 Haugesund	2022	152
+Number of received applications latest year (number)	1106 Haugesund	2023	206
+Number of received applications latest year (number)	1145 Bokn	2015	4
+Number of received applications latest year (number)	1145 Bokn	2016	3
+Number of received applications latest year (number)	1145 Bokn	2017	9
+Number of received applications latest year (number)	1145 Bokn	2018	4
+Number of received applications latest year (number)	1145 Bokn	2019	6
+Number of received applications latest year (number)	1145 Bokn	2020	6
+Number of received applications latest year (number)	1145 Bokn	2021	3
+Number of received applications latest year (number)	1145 Bokn	2022	6
+Number of received applications latest year (number)	1145 Bokn	2023	3
+Number of received applications latest year (number)	1146 Tysvær	2015	52
+Number of received applications latest year (number)	1146 Tysvær	2016	22
+Number of received applications latest year (number)	1146 Tysvær	2017	18
+Number of received applications latest year (number)	1146 Tysvær	2018	25
+Number of received applications latest year (number)	1146 Tysvær	2019	38
+Number of received applications latest year (number)	1146 Tysvær	2020	40
+Number of received applications latest year (number)	1146 Tysvær	2021	36
+Number of received applications latest year (number)	1146 Tysvær	2022	34
+Number of received applications latest year (number)	1146 Tysvær	2023	47
+Number of received applications latest year (number)	1149 Karmøy	2015	229
+Number of received applications latest year (number)	1149 Karmøy	2016	165
+Number of received applications latest year (number)	1149 Karmøy	2017	175
+Number of received applications latest year (number)	1149 Karmøy	2018	139
+Number of received applications latest year (number)	1149 Karmøy	2019	146
+Number of received applications latest year (number)	1149 Karmøy	2020	181
+Number of received applications latest year (number)	1149 Karmøy	2021	185
+Number of received applications latest year (number)	1149 Karmøy	2022	155
+Number of received applications latest year (number)	1149 Karmøy	2023	198
+Number of received applications latest year (number)	1160 Vindafjord	2015	52
+Number of received applications latest year (number)	1160 Vindafjord	2016	51
+Number of received applications latest year (number)	1160 Vindafjord	2017	55
+Number of received applications latest year (number)	1160 Vindafjord	2018	45
+Number of received applications latest year (number)	1160 Vindafjord	2019	80
+Number of received applications latest year (number)	1160 Vindafjord	2020	27
+Number of received applications latest year (number)	1160 Vindafjord	2021	47
+Number of received applications latest year (number)	1160 Vindafjord	2022	41
+Number of received applications latest year (number)	1160 Vindafjord	2023	0
+Rejected applications, municipal dwellings (number)	1106 Haugesund	2015	56
+Rejected applications, municipal dwellings (number)	1106 Haugesund	2016	38
+Rejected applications, municipal dwellings (number)	1106 Haugesund	2017	6
+Rejected applications, municipal dwellings (number)	1106 Haugesund	2018	52
+Rejected applications, municipal dwellings (number)	1106 Haugesund	2019	50
+Rejected applications, municipal dwellings (number)	1106 Haugesund	2020	50
+Rejected applications, municipal dwellings (number)	1106 Haugesund	2021	74
+Rejected applications, municipal dwellings (number)	1106 Haugesund	2022	63
+Rejected applications, municipal dwellings (number)	1106 Haugesund	2023	68
+Rejected applications, municipal dwellings (number)	1145 Bokn	2015	1
+Rejected applications, municipal dwellings (number)	1145 Bokn	2016	2
+Rejected applications, municipal dwellings (number)	1145 Bokn	2017	7
+Rejected applications, municipal dwellings (number)	1145 Bokn	2018	2
+Rejected applications, municipal dwellings (number)	1145 Bokn	2019	1
+Rejected applications, municipal dwellings (number)	1145 Bokn	2020	0
+Rejected applications, municipal dwellings (number)	1145 Bokn	2021	2
+Rejected applications, municipal dwellings (number)	1145 Bokn	2022	0
+Rejected applications, municipal dwellings (number)	1145 Bokn	2023	0
+Rejected applications, municipal dwellings (number)	1146 Tysvær	2015	28
+Rejected applications, municipal dwellings (number)	1146 Tysvær	2016	10
+Rejected applications, municipal dwellings (number)	1146 Tysvær	2017	9
+Rejected applications, municipal dwellings (number)	1146 Tysvær	2018	10
+Rejected applications, municipal dwellings (number)	1146 Tysvær	2019	8
+Rejected applications, municipal dwellings (number)	1146 Tysvær	2020	8
+Rejected applications, municipal dwellings (number)	1146 Tysvær	2021	6
+Rejected applications, municipal dwellings (number)	1146 Tysvær	2022	7
+Rejected applications, municipal dwellings (number)	1146 Tysvær	2023	12
+Rejected applications, municipal dwellings (number)	1149 Karmøy	2015	69
+Rejected applications, municipal dwellings (number)	1149 Karmøy	2016	56
+Rejected applications, municipal dwellings (number)	1149 Karmøy	2017	58
+Rejected applications, municipal dwellings (number)	1149 Karmøy	2018	52
+Rejected applications, municipal dwellings (number)	1149 Karmøy	2019	43
+Rejected applications, municipal dwellings (number)	1149 Karmøy	2020	26
+Rejected applications, municipal dwellings (number)	1149 Karmøy	2021	42
+Rejected applications, municipal dwellings (number)	1149 Karmøy	2022	40
+Rejected applications, municipal dwellings (number)	1149 Karmøy	2023	50
+Rejected applications, municipal dwellings (number)	1160 Vindafjord	2015	13
+Rejected applications, municipal dwellings (number)	1160 Vindafjord	2016	5
+Rejected applications, municipal dwellings (number)	1160 Vindafjord	2017	7
+Rejected applications, municipal dwellings (number)	1160 Vindafjord	2018	3
+Rejected applications, municipal dwellings (number)	1160 Vindafjord	2019	0
+Rejected applications, municipal dwellings (number)	1160 Vindafjord	2020	2
+Rejected applications, municipal dwellings (number)	1160 Vindafjord	2021	0
+Rejected applications, municipal dwellings (number)	1160 Vindafjord	2022	0
+Rejected applications, municipal dwellings (number)	1160 Vindafjord	2023	0
+Number of new applications received latest year (number)	1106 Haugesund	2015	200
+Number of new applications received latest year (number)	1106 Haugesund	2016	115
+Number of new applications received latest year (number)	1106 Haugesund	2017	194
+Number of new applications received latest year (number)	1106 Haugesund	2018	126
+Number of new applications received latest year (number)	1106 Haugesund	2019	140
+Number of new applications received latest year (number)	1106 Haugesund	2020	133
+Number of new applications received latest year (number)	1106 Haugesund	2021	125
+Number of new applications received latest year (number)	1106 Haugesund	2022	126
+Number of new applications received latest year (number)	1106 Haugesund	2023	174
+Number of new applications received latest year (number)	1145 Bokn	2015	3
+Number of new applications received latest year (number)	1145 Bokn	2016	3
+Number of new applications received latest year (number)	1145 Bokn	2017	6
+Number of new applications received latest year (number)	1145 Bokn	2018	4
+Number of new applications received latest year (number)	1145 Bokn	2019	5
+Number of new applications received latest year (number)	1145 Bokn	2020	6
+Number of new applications received latest year (number)	1145 Bokn	2021	3
+Number of new applications received latest year (number)	1145 Bokn	2022	6
+Number of new applications received latest year (number)	1145 Bokn	2023	3
+Number of new applications received latest year (number)	1146 Tysvær	2015	48
+Number of new applications received latest year (number)	1146 Tysvær	2016	20
+Number of new applications received latest year (number)	1146 Tysvær	2017	16
+Number of new applications received latest year (number)	1146 Tysvær	2018	21
+Number of new applications received latest year (number)	1146 Tysvær	2019	29
+Number of new applications received latest year (number)	1146 Tysvær	2020	31
+Number of new applications received latest year (number)	1146 Tysvær	2021	27
+Number of new applications received latest year (number)	1146 Tysvær	2022	27
+Number of new applications received latest year (number)	1146 Tysvær	2023	41
+Number of new applications received latest year (number)	1149 Karmøy	2015	178
+Number of new applications received latest year (number)	1149 Karmøy	2016	138
+Number of new applications received latest year (number)	1149 Karmøy	2017	128
+Number of new applications received latest year (number)	1149 Karmøy	2018	100
+Number of new applications received latest year (number)	1149 Karmøy	2019	123
+Number of new applications received latest year (number)	1149 Karmøy	2020	115
+Number of new applications received latest year (number)	1149 Karmøy	2021	127
+Number of new applications received latest year (number)	1149 Karmøy	2022	128
+Number of new applications received latest year (number)	1149 Karmøy	2023	174
+Number of new applications received latest year (number)	1160 Vindafjord	2015	23
+Number of new applications received latest year (number)	1160 Vindafjord	2016	39
+Number of new applications received latest year (number)	1160 Vindafjord	2017	33
+Number of new applications received latest year (number)	1160 Vindafjord	2018	18
+Number of new applications received latest year (number)	1160 Vindafjord	2019	16
+Number of new applications received latest year (number)	1160 Vindafjord	2020	20
+Number of new applications received latest year (number)	1160 Vindafjord	2021	20
+Number of new applications received latest year (number)	1160 Vindafjord	2022	29
+Number of new applications received latest year (number)	1160 Vindafjord	2023	0

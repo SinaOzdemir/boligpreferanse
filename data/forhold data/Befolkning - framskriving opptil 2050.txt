@@ -1,0 +1,487 @@
+region	kjonn	alder	ar	statistikkvariabel	14288: Framskrevet folkemengde 1. januar,
+1149 Karmøy	Menn	0-19 år	2024	Hovedalternativet (MMMM)	5616
+1149 Karmøy	Menn	0-19 år	2024	Lav nasjonal vekst (LLML)	5616
+1149 Karmøy	Menn	0-19 år	2024	Høy nasjonal vekst (HHMH)	5616
+1149 Karmøy	Menn	0-19 år	2025	Hovedalternativet (MMMM)	5580
+1149 Karmøy	Menn	0-19 år	2025	Lav nasjonal vekst (LLML)	5546
+1149 Karmøy	Menn	0-19 år	2025	Høy nasjonal vekst (HHMH)	5604
+1149 Karmøy	Menn	0-19 år	2026	Hovedalternativet (MMMM)	5521
+1149 Karmøy	Menn	0-19 år	2026	Lav nasjonal vekst (LLML)	5450
+1149 Karmøy	Menn	0-19 år	2026	Høy nasjonal vekst (HHMH)	5582
+1149 Karmøy	Menn	0-19 år	2027	Hovedalternativet (MMMM)	5442
+1149 Karmøy	Menn	0-19 år	2027	Lav nasjonal vekst (LLML)	5331
+1149 Karmøy	Menn	0-19 år	2027	Høy nasjonal vekst (HHMH)	5537
+1149 Karmøy	Menn	0-19 år	2028	Hovedalternativet (MMMM)	5395
+1149 Karmøy	Menn	0-19 år	2028	Lav nasjonal vekst (LLML)	5234
+1149 Karmøy	Menn	0-19 år	2028	Høy nasjonal vekst (HHMH)	5524
+1149 Karmøy	Menn	0-19 år	2029	Hovedalternativet (MMMM)	5322
+1149 Karmøy	Menn	0-19 år	2029	Lav nasjonal vekst (LLML)	5107
+1149 Karmøy	Menn	0-19 år	2029	Høy nasjonal vekst (HHMH)	5483
+1149 Karmøy	Menn	0-19 år	2030	Hovedalternativet (MMMM)	5228
+1149 Karmøy	Menn	0-19 år	2030	Lav nasjonal vekst (LLML)	4960
+1149 Karmøy	Menn	0-19 år	2030	Høy nasjonal vekst (HHMH)	5442
+1149 Karmøy	Menn	0-19 år	2031	Hovedalternativet (MMMM)	5134
+1149 Karmøy	Menn	0-19 år	2031	Lav nasjonal vekst (LLML)	4809
+1149 Karmøy	Menn	0-19 år	2031	Høy nasjonal vekst (HHMH)	5395
+1149 Karmøy	Menn	0-19 år	2032	Hovedalternativet (MMMM)	5085
+1149 Karmøy	Menn	0-19 år	2032	Lav nasjonal vekst (LLML)	4697
+1149 Karmøy	Menn	0-19 år	2032	Høy nasjonal vekst (HHMH)	5405
+1149 Karmøy	Menn	0-19 år	2033	Hovedalternativet (MMMM)	5044
+1149 Karmøy	Menn	0-19 år	2033	Lav nasjonal vekst (LLML)	4593
+1149 Karmøy	Menn	0-19 år	2033	Høy nasjonal vekst (HHMH)	5417
+1149 Karmøy	Menn	0-19 år	2034	Hovedalternativet (MMMM)	4993
+1149 Karmøy	Menn	0-19 år	2034	Lav nasjonal vekst (LLML)	4476
+1149 Karmøy	Menn	0-19 år	2034	Høy nasjonal vekst (HHMH)	5421
+1149 Karmøy	Menn	0-19 år	2035	Hovedalternativet (MMMM)	4945
+1149 Karmøy	Menn	0-19 år	2035	Lav nasjonal vekst (LLML)	4360
+1149 Karmøy	Menn	0-19 år	2035	Høy nasjonal vekst (HHMH)	5420
+1149 Karmøy	Menn	0-19 år	2036	Hovedalternativet (MMMM)	4906
+1149 Karmøy	Menn	0-19 år	2036	Lav nasjonal vekst (LLML)	4247
+1149 Karmøy	Menn	0-19 år	2036	Høy nasjonal vekst (HHMH)	5431
+1149 Karmøy	Menn	0-19 år	2037	Hovedalternativet (MMMM)	4894
+1149 Karmøy	Menn	0-19 år	2037	Lav nasjonal vekst (LLML)	4166
+1149 Karmøy	Menn	0-19 år	2037	Høy nasjonal vekst (HHMH)	5467
+1149 Karmøy	Menn	0-19 år	2038	Hovedalternativet (MMMM)	4877
+1149 Karmøy	Menn	0-19 år	2038	Lav nasjonal vekst (LLML)	4076
+1149 Karmøy	Menn	0-19 år	2038	Høy nasjonal vekst (HHMH)	5498
+1149 Karmøy	Menn	0-19 år	2039	Hovedalternativet (MMMM)	4877
+1149 Karmøy	Menn	0-19 år	2039	Lav nasjonal vekst (LLML)	4006
+1149 Karmøy	Menn	0-19 år	2039	Høy nasjonal vekst (HHMH)	5546
+1149 Karmøy	Menn	0-19 år	2040	Hovedalternativet (MMMM)	4886
+1149 Karmøy	Menn	0-19 år	2040	Lav nasjonal vekst (LLML)	3945
+1149 Karmøy	Menn	0-19 år	2040	Høy nasjonal vekst (HHMH)	5603
+1149 Karmøy	Menn	0-19 år	2041	Hovedalternativet (MMMM)	4875
+1149 Karmøy	Menn	0-19 år	2041	Lav nasjonal vekst (LLML)	3863
+1149 Karmøy	Menn	0-19 år	2041	Høy nasjonal vekst (HHMH)	5637
+1149 Karmøy	Menn	0-19 år	2042	Hovedalternativet (MMMM)	4861
+1149 Karmøy	Menn	0-19 år	2042	Lav nasjonal vekst (LLML)	3783
+1149 Karmøy	Menn	0-19 år	2042	Høy nasjonal vekst (HHMH)	5675
+1149 Karmøy	Menn	0-19 år	2043	Hovedalternativet (MMMM)	4871
+1149 Karmøy	Menn	0-19 år	2043	Lav nasjonal vekst (LLML)	3721
+1149 Karmøy	Menn	0-19 år	2043	Høy nasjonal vekst (HHMH)	5731
+1149 Karmøy	Menn	0-19 år	2044	Hovedalternativet (MMMM)	4861
+1149 Karmøy	Menn	0-19 år	2044	Lav nasjonal vekst (LLML)	3648
+1149 Karmøy	Menn	0-19 år	2044	Høy nasjonal vekst (HHMH)	5771
+1149 Karmøy	Menn	0-19 år	2045	Hovedalternativet (MMMM)	4864
+1149 Karmøy	Menn	0-19 år	2045	Lav nasjonal vekst (LLML)	3597
+1149 Karmøy	Menn	0-19 år	2045	Høy nasjonal vekst (HHMH)	5815
+1149 Karmøy	Menn	0-19 år	2046	Hovedalternativet (MMMM)	4863
+1149 Karmøy	Menn	0-19 år	2046	Lav nasjonal vekst (LLML)	3550
+1149 Karmøy	Menn	0-19 år	2046	Høy nasjonal vekst (HHMH)	5849
+1149 Karmøy	Menn	0-19 år	2047	Hovedalternativet (MMMM)	4860
+1149 Karmøy	Menn	0-19 år	2047	Lav nasjonal vekst (LLML)	3509
+1149 Karmøy	Menn	0-19 år	2047	Høy nasjonal vekst (HHMH)	5873
+1149 Karmøy	Menn	0-19 år	2048	Hovedalternativet (MMMM)	4850
+1149 Karmøy	Menn	0-19 år	2048	Lav nasjonal vekst (LLML)	3480
+1149 Karmøy	Menn	0-19 år	2048	Høy nasjonal vekst (HHMH)	5891
+1149 Karmøy	Menn	0-19 år	2049	Hovedalternativet (MMMM)	4841
+1149 Karmøy	Menn	0-19 år	2049	Lav nasjonal vekst (LLML)	3446
+1149 Karmøy	Menn	0-19 år	2049	Høy nasjonal vekst (HHMH)	5897
+1149 Karmøy	Menn	0-19 år	2050	Hovedalternativet (MMMM)	4827
+1149 Karmøy	Menn	0-19 år	2050	Lav nasjonal vekst (LLML)	3415
+1149 Karmøy	Menn	0-19 år	2050	Høy nasjonal vekst (HHMH)	5897
+1149 Karmøy	Menn	20-64 år	2024	Hovedalternativet (MMMM)	12613
+1149 Karmøy	Menn	20-64 år	2024	Lav nasjonal vekst (LLML)	12613
+1149 Karmøy	Menn	20-64 år	2024	Høy nasjonal vekst (HHMH)	12613
+1149 Karmøy	Menn	20-64 år	2025	Hovedalternativet (MMMM)	12650
+1149 Karmøy	Menn	20-64 år	2025	Lav nasjonal vekst (LLML)	12614
+1149 Karmøy	Menn	20-64 år	2025	Høy nasjonal vekst (HHMH)	12677
+1149 Karmøy	Menn	20-64 år	2026	Hovedalternativet (MMMM)	12666
+1149 Karmøy	Menn	20-64 år	2026	Lav nasjonal vekst (LLML)	12598
+1149 Karmøy	Menn	20-64 år	2026	Høy nasjonal vekst (HHMH)	12732
+1149 Karmøy	Menn	20-64 år	2027	Hovedalternativet (MMMM)	12690
+1149 Karmøy	Menn	20-64 år	2027	Lav nasjonal vekst (LLML)	12608
+1149 Karmøy	Menn	20-64 år	2027	Høy nasjonal vekst (HHMH)	12788
+1149 Karmøy	Menn	20-64 år	2028	Hovedalternativet (MMMM)	12661
+1149 Karmøy	Menn	20-64 år	2028	Lav nasjonal vekst (LLML)	12561
+1149 Karmøy	Menn	20-64 år	2028	Høy nasjonal vekst (HHMH)	12768
+1149 Karmøy	Menn	20-64 år	2029	Hovedalternativet (MMMM)	12652
+1149 Karmøy	Menn	20-64 år	2029	Lav nasjonal vekst (LLML)	12535
+1149 Karmøy	Menn	20-64 år	2029	Høy nasjonal vekst (HHMH)	12775
+1149 Karmøy	Menn	20-64 år	2030	Hovedalternativet (MMMM)	12624
+1149 Karmøy	Menn	20-64 år	2030	Lav nasjonal vekst (LLML)	12491
+1149 Karmøy	Menn	20-64 år	2030	Høy nasjonal vekst (HHMH)	12760
+1149 Karmøy	Menn	20-64 år	2031	Hovedalternativet (MMMM)	12624
+1149 Karmøy	Menn	20-64 år	2031	Lav nasjonal vekst (LLML)	12473
+1149 Karmøy	Menn	20-64 år	2031	Høy nasjonal vekst (HHMH)	12775
+1149 Karmøy	Menn	20-64 år	2032	Hovedalternativet (MMMM)	12558
+1149 Karmøy	Menn	20-64 år	2032	Lav nasjonal vekst (LLML)	12391
+1149 Karmøy	Menn	20-64 år	2032	Høy nasjonal vekst (HHMH)	12730
+1149 Karmøy	Menn	20-64 år	2033	Hovedalternativet (MMMM)	12479
+1149 Karmøy	Menn	20-64 år	2033	Lav nasjonal vekst (LLML)	12295
+1149 Karmøy	Menn	20-64 år	2033	Høy nasjonal vekst (HHMH)	12671
+1149 Karmøy	Menn	20-64 år	2034	Hovedalternativet (MMMM)	12415
+1149 Karmøy	Menn	20-64 år	2034	Lav nasjonal vekst (LLML)	12216
+1149 Karmøy	Menn	20-64 år	2034	Høy nasjonal vekst (HHMH)	12626
+1149 Karmøy	Menn	20-64 år	2035	Hovedalternativet (MMMM)	12348
+1149 Karmøy	Menn	20-64 år	2035	Lav nasjonal vekst (LLML)	12126
+1149 Karmøy	Menn	20-64 år	2035	Høy nasjonal vekst (HHMH)	12580
+1149 Karmøy	Menn	20-64 år	2036	Hovedalternativet (MMMM)	12308
+1149 Karmøy	Menn	20-64 år	2036	Lav nasjonal vekst (LLML)	12070
+1149 Karmøy	Menn	20-64 år	2036	Høy nasjonal vekst (HHMH)	12562
+1149 Karmøy	Menn	20-64 år	2037	Hovedalternativet (MMMM)	12223
+1149 Karmøy	Menn	20-64 år	2037	Lav nasjonal vekst (LLML)	11964
+1149 Karmøy	Menn	20-64 år	2037	Høy nasjonal vekst (HHMH)	12496
+1149 Karmøy	Menn	20-64 år	2038	Hovedalternativet (MMMM)	12160
+1149 Karmøy	Menn	20-64 år	2038	Lav nasjonal vekst (LLML)	11881
+1149 Karmøy	Menn	20-64 år	2038	Høy nasjonal vekst (HHMH)	12458
+1149 Karmøy	Menn	20-64 år	2039	Hovedalternativet (MMMM)	12065
+1149 Karmøy	Menn	20-64 år	2039	Lav nasjonal vekst (LLML)	11765
+1149 Karmøy	Menn	20-64 år	2039	Høy nasjonal vekst (HHMH)	12387
+1149 Karmøy	Menn	20-64 år	2040	Hovedalternativet (MMMM)	12015
+1149 Karmøy	Menn	20-64 år	2040	Lav nasjonal vekst (LLML)	11694
+1149 Karmøy	Menn	20-64 år	2040	Høy nasjonal vekst (HHMH)	12360
+1149 Karmøy	Menn	20-64 år	2041	Hovedalternativet (MMMM)	11972
+1149 Karmøy	Menn	20-64 år	2041	Lav nasjonal vekst (LLML)	11634
+1149 Karmøy	Menn	20-64 år	2041	Høy nasjonal vekst (HHMH)	12347
+1149 Karmøy	Menn	20-64 år	2042	Hovedalternativet (MMMM)	11945
+1149 Karmøy	Menn	20-64 år	2042	Lav nasjonal vekst (LLML)	11579
+1149 Karmøy	Menn	20-64 år	2042	Høy nasjonal vekst (HHMH)	12345
+1149 Karmøy	Menn	20-64 år	2043	Hovedalternativet (MMMM)	11871
+1149 Karmøy	Menn	20-64 år	2043	Lav nasjonal vekst (LLML)	11486
+1149 Karmøy	Menn	20-64 år	2043	Høy nasjonal vekst (HHMH)	12299
+1149 Karmøy	Menn	20-64 år	2044	Hovedalternativet (MMMM)	11817
+1149 Karmøy	Menn	20-64 år	2044	Lav nasjonal vekst (LLML)	11409
+1149 Karmøy	Menn	20-64 år	2044	Høy nasjonal vekst (HHMH)	12277
+1149 Karmøy	Menn	20-64 år	2045	Hovedalternativet (MMMM)	11765
+1149 Karmøy	Menn	20-64 år	2045	Lav nasjonal vekst (LLML)	11318
+1149 Karmøy	Menn	20-64 år	2045	Høy nasjonal vekst (HHMH)	12255
+1149 Karmøy	Menn	20-64 år	2046	Hovedalternativet (MMMM)	11702
+1149 Karmøy	Menn	20-64 år	2046	Lav nasjonal vekst (LLML)	11217
+1149 Karmøy	Menn	20-64 år	2046	Høy nasjonal vekst (HHMH)	12241
+1149 Karmøy	Menn	20-64 år	2047	Hovedalternativet (MMMM)	11661
+1149 Karmøy	Menn	20-64 år	2047	Lav nasjonal vekst (LLML)	11122
+1149 Karmøy	Menn	20-64 år	2047	Høy nasjonal vekst (HHMH)	12245
+1149 Karmøy	Menn	20-64 år	2048	Hovedalternativet (MMMM)	11597
+1149 Karmøy	Menn	20-64 år	2048	Lav nasjonal vekst (LLML)	11001
+1149 Karmøy	Menn	20-64 år	2048	Høy nasjonal vekst (HHMH)	12238
+1149 Karmøy	Menn	20-64 år	2049	Hovedalternativet (MMMM)	11545
+1149 Karmøy	Menn	20-64 år	2049	Lav nasjonal vekst (LLML)	10887
+1149 Karmøy	Menn	20-64 år	2049	Høy nasjonal vekst (HHMH)	12245
+1149 Karmøy	Menn	20-64 år	2050	Hovedalternativet (MMMM)	11505
+1149 Karmøy	Menn	20-64 år	2050	Lav nasjonal vekst (LLML)	10783
+1149 Karmøy	Menn	20-64 år	2050	Høy nasjonal vekst (HHMH)	12272
+1149 Karmøy	Menn	65 år eller eldre	2024	Hovedalternativet (MMMM)	3779
+1149 Karmøy	Menn	65 år eller eldre	2024	Lav nasjonal vekst (LLML)	3779
+1149 Karmøy	Menn	65 år eller eldre	2024	Høy nasjonal vekst (HHMH)	3779
+1149 Karmøy	Menn	65 år eller eldre	2025	Hovedalternativet (MMMM)	3857
+1149 Karmøy	Menn	65 år eller eldre	2025	Lav nasjonal vekst (LLML)	3847
+1149 Karmøy	Menn	65 år eller eldre	2025	Høy nasjonal vekst (HHMH)	3862
+1149 Karmøy	Menn	65 år eller eldre	2026	Hovedalternativet (MMMM)	3936
+1149 Karmøy	Menn	65 år eller eldre	2026	Lav nasjonal vekst (LLML)	3921
+1149 Karmøy	Menn	65 år eller eldre	2026	Høy nasjonal vekst (HHMH)	3949
+1149 Karmøy	Menn	65 år eller eldre	2027	Hovedalternativet (MMMM)	4000
+1149 Karmøy	Menn	65 år eller eldre	2027	Lav nasjonal vekst (LLML)	3973
+1149 Karmøy	Menn	65 år eller eldre	2027	Høy nasjonal vekst (HHMH)	4021
+1149 Karmøy	Menn	65 år eller eldre	2028	Hovedalternativet (MMMM)	4078
+1149 Karmøy	Menn	65 år eller eldre	2028	Lav nasjonal vekst (LLML)	4042
+1149 Karmøy	Menn	65 år eller eldre	2028	Høy nasjonal vekst (HHMH)	4111
+1149 Karmøy	Menn	65 år eller eldre	2029	Hovedalternativet (MMMM)	4158
+1149 Karmøy	Menn	65 år eller eldre	2029	Lav nasjonal vekst (LLML)	4112
+1149 Karmøy	Menn	65 år eller eldre	2029	Høy nasjonal vekst (HHMH)	4207
+1149 Karmøy	Menn	65 år eller eldre	2030	Hovedalternativet (MMMM)	4272
+1149 Karmøy	Menn	65 år eller eldre	2030	Lav nasjonal vekst (LLML)	4210
+1149 Karmøy	Menn	65 år eller eldre	2030	Høy nasjonal vekst (HHMH)	4330
+1149 Karmøy	Menn	65 år eller eldre	2031	Hovedalternativet (MMMM)	4357
+1149 Karmøy	Menn	65 år eller eldre	2031	Lav nasjonal vekst (LLML)	4282
+1149 Karmøy	Menn	65 år eller eldre	2031	Høy nasjonal vekst (HHMH)	4432
+1149 Karmøy	Menn	65 år eller eldre	2032	Hovedalternativet (MMMM)	4467
+1149 Karmøy	Menn	65 år eller eldre	2032	Lav nasjonal vekst (LLML)	4376
+1149 Karmøy	Menn	65 år eller eldre	2032	Høy nasjonal vekst (HHMH)	4553
+1149 Karmøy	Menn	65 år eller eldre	2033	Hovedalternativet (MMMM)	4578
+1149 Karmøy	Menn	65 år eller eldre	2033	Lav nasjonal vekst (LLML)	4473
+1149 Karmøy	Menn	65 år eller eldre	2033	Høy nasjonal vekst (HHMH)	4682
+1149 Karmøy	Menn	65 år eller eldre	2034	Hovedalternativet (MMMM)	4690
+1149 Karmøy	Menn	65 år eller eldre	2034	Lav nasjonal vekst (LLML)	4563
+1149 Karmøy	Menn	65 år eller eldre	2034	Høy nasjonal vekst (HHMH)	4810
+1149 Karmøy	Menn	65 år eller eldre	2035	Hovedalternativet (MMMM)	4808
+1149 Karmøy	Menn	65 år eller eldre	2035	Lav nasjonal vekst (LLML)	4666
+1149 Karmøy	Menn	65 år eller eldre	2035	Høy nasjonal vekst (HHMH)	4944
+1149 Karmøy	Menn	65 år eller eldre	2036	Hovedalternativet (MMMM)	4882
+1149 Karmøy	Menn	65 år eller eldre	2036	Lav nasjonal vekst (LLML)	4722
+1149 Karmøy	Menn	65 år eller eldre	2036	Høy nasjonal vekst (HHMH)	5038
+1149 Karmøy	Menn	65 år eller eldre	2037	Hovedalternativet (MMMM)	4982
+1149 Karmøy	Menn	65 år eller eldre	2037	Lav nasjonal vekst (LLML)	4799
+1149 Karmøy	Menn	65 år eller eldre	2037	Høy nasjonal vekst (HHMH)	5158
+1149 Karmøy	Menn	65 år eller eldre	2038	Hovedalternativet (MMMM)	5062
+1149 Karmøy	Menn	65 år eller eldre	2038	Lav nasjonal vekst (LLML)	4864
+1149 Karmøy	Menn	65 år eller eldre	2038	Høy nasjonal vekst (HHMH)	5257
+1149 Karmøy	Menn	65 år eller eldre	2039	Hovedalternativet (MMMM)	5163
+1149 Karmøy	Menn	65 år eller eldre	2039	Lav nasjonal vekst (LLML)	4942
+1149 Karmøy	Menn	65 år eller eldre	2039	Høy nasjonal vekst (HHMH)	5371
+1149 Karmøy	Menn	65 år eller eldre	2040	Hovedalternativet (MMMM)	5203
+1149 Karmøy	Menn	65 år eller eldre	2040	Lav nasjonal vekst (LLML)	4960
+1149 Karmøy	Menn	65 år eller eldre	2040	Høy nasjonal vekst (HHMH)	5436
+1149 Karmøy	Menn	65 år eller eldre	2041	Hovedalternativet (MMMM)	5253
+1149 Karmøy	Menn	65 år eller eldre	2041	Lav nasjonal vekst (LLML)	4992
+1149 Karmøy	Menn	65 år eller eldre	2041	Høy nasjonal vekst (HHMH)	5506
+1149 Karmøy	Menn	65 år eller eldre	2042	Hovedalternativet (MMMM)	5292
+1149 Karmøy	Menn	65 år eller eldre	2042	Lav nasjonal vekst (LLML)	5012
+1149 Karmøy	Menn	65 år eller eldre	2042	Høy nasjonal vekst (HHMH)	5566
+1149 Karmøy	Menn	65 år eller eldre	2043	Hovedalternativet (MMMM)	5353
+1149 Karmøy	Menn	65 år eller eldre	2043	Lav nasjonal vekst (LLML)	5052
+1149 Karmøy	Menn	65 år eller eldre	2043	Høy nasjonal vekst (HHMH)	5651
+1149 Karmøy	Menn	65 år eller eldre	2044	Hovedalternativet (MMMM)	5407
+1149 Karmøy	Menn	65 år eller eldre	2044	Lav nasjonal vekst (LLML)	5081
+1149 Karmøy	Menn	65 år eller eldre	2044	Høy nasjonal vekst (HHMH)	5724
+1149 Karmøy	Menn	65 år eller eldre	2045	Hovedalternativet (MMMM)	5449
+1149 Karmøy	Menn	65 år eller eldre	2045	Lav nasjonal vekst (LLML)	5102
+1149 Karmøy	Menn	65 år eller eldre	2045	Høy nasjonal vekst (HHMH)	5794
+1149 Karmøy	Menn	65 år eller eldre	2046	Hovedalternativet (MMMM)	5500
+1149 Karmøy	Menn	65 år eller eldre	2046	Lav nasjonal vekst (LLML)	5131
+1149 Karmøy	Menn	65 år eller eldre	2046	Høy nasjonal vekst (HHMH)	5863
+1149 Karmøy	Menn	65 år eller eldre	2047	Hovedalternativet (MMMM)	5528
+1149 Karmøy	Menn	65 år eller eldre	2047	Lav nasjonal vekst (LLML)	5142
+1149 Karmøy	Menn	65 år eller eldre	2047	Høy nasjonal vekst (HHMH)	5919
+1149 Karmøy	Menn	65 år eller eldre	2048	Hovedalternativet (MMMM)	5586
+1149 Karmøy	Menn	65 år eller eldre	2048	Lav nasjonal vekst (LLML)	5167
+1149 Karmøy	Menn	65 år eller eldre	2048	Høy nasjonal vekst (HHMH)	5995
+1149 Karmøy	Menn	65 år eller eldre	2049	Hovedalternativet (MMMM)	5628
+1149 Karmøy	Menn	65 år eller eldre	2049	Lav nasjonal vekst (LLML)	5189
+1149 Karmøy	Menn	65 år eller eldre	2049	Høy nasjonal vekst (HHMH)	6062
+1149 Karmøy	Menn	65 år eller eldre	2050	Hovedalternativet (MMMM)	5656
+1149 Karmøy	Menn	65 år eller eldre	2050	Lav nasjonal vekst (LLML)	5194
+1149 Karmøy	Menn	65 år eller eldre	2050	Høy nasjonal vekst (HHMH)	6119
+1149 Karmøy	Kvinner	0-19 år	2024	Hovedalternativet (MMMM)	5251
+1149 Karmøy	Kvinner	0-19 år	2024	Lav nasjonal vekst (LLML)	5251
+1149 Karmøy	Kvinner	0-19 år	2024	Høy nasjonal vekst (HHMH)	5251
+1149 Karmøy	Kvinner	0-19 år	2025	Hovedalternativet (MMMM)	5227
+1149 Karmøy	Kvinner	0-19 år	2025	Lav nasjonal vekst (LLML)	5198
+1149 Karmøy	Kvinner	0-19 år	2025	Høy nasjonal vekst (HHMH)	5250
+1149 Karmøy	Kvinner	0-19 år	2026	Hovedalternativet (MMMM)	5167
+1149 Karmøy	Kvinner	0-19 år	2026	Lav nasjonal vekst (LLML)	5104
+1149 Karmøy	Kvinner	0-19 år	2026	Høy nasjonal vekst (HHMH)	5220
+1149 Karmøy	Kvinner	0-19 år	2027	Hovedalternativet (MMMM)	5099
+1149 Karmøy	Kvinner	0-19 år	2027	Lav nasjonal vekst (LLML)	4997
+1149 Karmøy	Kvinner	0-19 år	2027	Høy nasjonal vekst (HHMH)	5185
+1149 Karmøy	Kvinner	0-19 år	2028	Hovedalternativet (MMMM)	5041
+1149 Karmøy	Kvinner	0-19 år	2028	Lav nasjonal vekst (LLML)	4894
+1149 Karmøy	Kvinner	0-19 år	2028	Høy nasjonal vekst (HHMH)	5160
+1149 Karmøy	Kvinner	0-19 år	2029	Hovedalternativet (MMMM)	4974
+1149 Karmøy	Kvinner	0-19 år	2029	Lav nasjonal vekst (LLML)	4773
+1149 Karmøy	Kvinner	0-19 år	2029	Høy nasjonal vekst (HHMH)	5127
+1149 Karmøy	Kvinner	0-19 år	2030	Hovedalternativet (MMMM)	4901
+1149 Karmøy	Kvinner	0-19 år	2030	Lav nasjonal vekst (LLML)	4648
+1149 Karmøy	Kvinner	0-19 år	2030	Høy nasjonal vekst (HHMH)	5095
+1149 Karmøy	Kvinner	0-19 år	2031	Hovedalternativet (MMMM)	4847
+1149 Karmøy	Kvinner	0-19 år	2031	Lav nasjonal vekst (LLML)	4542
+1149 Karmøy	Kvinner	0-19 år	2031	Høy nasjonal vekst (HHMH)	5092
+1149 Karmøy	Kvinner	0-19 år	2032	Hovedalternativet (MMMM)	4774
+1149 Karmøy	Kvinner	0-19 år	2032	Lav nasjonal vekst (LLML)	4409
+1149 Karmøy	Kvinner	0-19 år	2032	Høy nasjonal vekst (HHMH)	5074
+1149 Karmøy	Kvinner	0-19 år	2033	Hovedalternativet (MMMM)	4732
+1149 Karmøy	Kvinner	0-19 år	2033	Lav nasjonal vekst (LLML)	4307
+1149 Karmøy	Kvinner	0-19 år	2033	Høy nasjonal vekst (HHMH)	5086
+1149 Karmøy	Kvinner	0-19 år	2034	Hovedalternativet (MMMM)	4686
+1149 Karmøy	Kvinner	0-19 år	2034	Lav nasjonal vekst (LLML)	4202
+1149 Karmøy	Kvinner	0-19 år	2034	Høy nasjonal vekst (HHMH)	5091
+1149 Karmøy	Kvinner	0-19 år	2035	Hovedalternativet (MMMM)	4652
+1149 Karmøy	Kvinner	0-19 år	2035	Lav nasjonal vekst (LLML)	4100
+1149 Karmøy	Kvinner	0-19 år	2035	Høy nasjonal vekst (HHMH)	5101
+1149 Karmøy	Kvinner	0-19 år	2036	Hovedalternativet (MMMM)	4628
+1149 Karmøy	Kvinner	0-19 år	2036	Lav nasjonal vekst (LLML)	4012
+1149 Karmøy	Kvinner	0-19 år	2036	Høy nasjonal vekst (HHMH)	5123
+1149 Karmøy	Kvinner	0-19 år	2037	Hovedalternativet (MMMM)	4605
+1149 Karmøy	Kvinner	0-19 år	2037	Lav nasjonal vekst (LLML)	3922
+1149 Karmøy	Kvinner	0-19 år	2037	Høy nasjonal vekst (HHMH)	5144
+1149 Karmøy	Kvinner	0-19 år	2038	Hovedalternativet (MMMM)	4600
+1149 Karmøy	Kvinner	0-19 år	2038	Lav nasjonal vekst (LLML)	3847
+1149 Karmøy	Kvinner	0-19 år	2038	Høy nasjonal vekst (HHMH)	5182
+1149 Karmøy	Kvinner	0-19 år	2039	Hovedalternativet (MMMM)	4600
+1149 Karmøy	Kvinner	0-19 år	2039	Lav nasjonal vekst (LLML)	3781
+1149 Karmøy	Kvinner	0-19 år	2039	Høy nasjonal vekst (HHMH)	5231
+1149 Karmøy	Kvinner	0-19 år	2040	Hovedalternativet (MMMM)	4587
+1149 Karmøy	Kvinner	0-19 år	2040	Lav nasjonal vekst (LLML)	3702
+1149 Karmøy	Kvinner	0-19 år	2040	Høy nasjonal vekst (HHMH)	5261
+1149 Karmøy	Kvinner	0-19 år	2041	Hovedalternativet (MMMM)	4592
+1149 Karmøy	Kvinner	0-19 år	2041	Lav nasjonal vekst (LLML)	3637
+1149 Karmøy	Kvinner	0-19 år	2041	Høy nasjonal vekst (HHMH)	5310
+1149 Karmøy	Kvinner	0-19 år	2042	Hovedalternativet (MMMM)	4567
+1149 Karmøy	Kvinner	0-19 år	2042	Lav nasjonal vekst (LLML)	3550
+1149 Karmøy	Kvinner	0-19 år	2042	Høy nasjonal vekst (HHMH)	5330
+1149 Karmøy	Kvinner	0-19 år	2043	Hovedalternativet (MMMM)	4563
+1149 Karmøy	Kvinner	0-19 år	2043	Lav nasjonal vekst (LLML)	3478
+1149 Karmøy	Kvinner	0-19 år	2043	Høy nasjonal vekst (HHMH)	5371
+1149 Karmøy	Kvinner	0-19 år	2044	Hovedalternativet (MMMM)	4555
+1149 Karmøy	Kvinner	0-19 år	2044	Lav nasjonal vekst (LLML)	3415
+1149 Karmøy	Kvinner	0-19 år	2044	Høy nasjonal vekst (HHMH)	5408
+1149 Karmøy	Kvinner	0-19 år	2045	Hovedalternativet (MMMM)	4557
+1149 Karmøy	Kvinner	0-19 år	2045	Lav nasjonal vekst (LLML)	3365
+1149 Karmøy	Kvinner	0-19 år	2045	Høy nasjonal vekst (HHMH)	5449
+1149 Karmøy	Kvinner	0-19 år	2046	Hovedalternativet (MMMM)	4557
+1149 Karmøy	Kvinner	0-19 år	2046	Lav nasjonal vekst (LLML)	3321
+1149 Karmøy	Kvinner	0-19 år	2046	Høy nasjonal vekst (HHMH)	5481
+1149 Karmøy	Kvinner	0-19 år	2047	Hovedalternativet (MMMM)	4553
+1149 Karmøy	Kvinner	0-19 år	2047	Lav nasjonal vekst (LLML)	3288
+1149 Karmøy	Kvinner	0-19 år	2047	Høy nasjonal vekst (HHMH)	5504
+1149 Karmøy	Kvinner	0-19 år	2048	Hovedalternativet (MMMM)	4543
+1149 Karmøy	Kvinner	0-19 år	2048	Lav nasjonal vekst (LLML)	3259
+1149 Karmøy	Kvinner	0-19 år	2048	Høy nasjonal vekst (HHMH)	5517
+1149 Karmøy	Kvinner	0-19 år	2049	Hovedalternativet (MMMM)	4533
+1149 Karmøy	Kvinner	0-19 år	2049	Lav nasjonal vekst (LLML)	3227
+1149 Karmøy	Kvinner	0-19 år	2049	Høy nasjonal vekst (HHMH)	5527
+1149 Karmøy	Kvinner	0-19 år	2050	Hovedalternativet (MMMM)	4521
+1149 Karmøy	Kvinner	0-19 år	2050	Lav nasjonal vekst (LLML)	3197
+1149 Karmøy	Kvinner	0-19 år	2050	Høy nasjonal vekst (HHMH)	5523
+1149 Karmøy	Kvinner	20-64 år	2024	Hovedalternativet (MMMM)	11846
+1149 Karmøy	Kvinner	20-64 år	2024	Lav nasjonal vekst (LLML)	11846
+1149 Karmøy	Kvinner	20-64 år	2024	Høy nasjonal vekst (HHMH)	11846
+1149 Karmøy	Kvinner	20-64 år	2025	Hovedalternativet (MMMM)	11852
+1149 Karmøy	Kvinner	20-64 år	2025	Lav nasjonal vekst (LLML)	11813
+1149 Karmøy	Kvinner	20-64 år	2025	Høy nasjonal vekst (HHMH)	11887
+1149 Karmøy	Kvinner	20-64 år	2026	Hovedalternativet (MMMM)	11873
+1149 Karmøy	Kvinner	20-64 år	2026	Lav nasjonal vekst (LLML)	11797
+1149 Karmøy	Kvinner	20-64 år	2026	Høy nasjonal vekst (HHMH)	11951
+1149 Karmøy	Kvinner	20-64 år	2027	Hovedalternativet (MMMM)	11884
+1149 Karmøy	Kvinner	20-64 år	2027	Lav nasjonal vekst (LLML)	11794
+1149 Karmøy	Kvinner	20-64 år	2027	Høy nasjonal vekst (HHMH)	11990
+1149 Karmøy	Kvinner	20-64 år	2028	Hovedalternativet (MMMM)	11894
+1149 Karmøy	Kvinner	20-64 år	2028	Lav nasjonal vekst (LLML)	11788
+1149 Karmøy	Kvinner	20-64 år	2028	Høy nasjonal vekst (HHMH)	12016
+1149 Karmøy	Kvinner	20-64 år	2029	Hovedalternativet (MMMM)	11901
+1149 Karmøy	Kvinner	20-64 år	2029	Lav nasjonal vekst (LLML)	11780
+1149 Karmøy	Kvinner	20-64 år	2029	Høy nasjonal vekst (HHMH)	12036
+1149 Karmøy	Kvinner	20-64 år	2030	Hovedalternativet (MMMM)	11899
+1149 Karmøy	Kvinner	20-64 år	2030	Lav nasjonal vekst (LLML)	11761
+1149 Karmøy	Kvinner	20-64 år	2030	Høy nasjonal vekst (HHMH)	12049
+1149 Karmøy	Kvinner	20-64 år	2031	Hovedalternativet (MMMM)	11883
+1149 Karmøy	Kvinner	20-64 år	2031	Lav nasjonal vekst (LLML)	11726
+1149 Karmøy	Kvinner	20-64 år	2031	Høy nasjonal vekst (HHMH)	12049
+1149 Karmøy	Kvinner	20-64 år	2032	Hovedalternativet (MMMM)	11853
+1149 Karmøy	Kvinner	20-64 år	2032	Lav nasjonal vekst (LLML)	11681
+1149 Karmøy	Kvinner	20-64 år	2032	Høy nasjonal vekst (HHMH)	12039
+1149 Karmøy	Kvinner	20-64 år	2033	Hovedalternativet (MMMM)	11806
+1149 Karmøy	Kvinner	20-64 år	2033	Lav nasjonal vekst (LLML)	11615
+1149 Karmøy	Kvinner	20-64 år	2033	Høy nasjonal vekst (HHMH)	12015
+1149 Karmøy	Kvinner	20-64 år	2034	Hovedalternativet (MMMM)	11750
+1149 Karmøy	Kvinner	20-64 år	2034	Lav nasjonal vekst (LLML)	11538
+1149 Karmøy	Kvinner	20-64 år	2034	Høy nasjonal vekst (HHMH)	11972
+1149 Karmøy	Kvinner	20-64 år	2035	Hovedalternativet (MMMM)	11683
+1149 Karmøy	Kvinner	20-64 år	2035	Lav nasjonal vekst (LLML)	11461
+1149 Karmøy	Kvinner	20-64 år	2035	Høy nasjonal vekst (HHMH)	11934
+1149 Karmøy	Kvinner	20-64 år	2036	Hovedalternativet (MMMM)	11616
+1149 Karmøy	Kvinner	20-64 år	2036	Lav nasjonal vekst (LLML)	11370
+1149 Karmøy	Kvinner	20-64 år	2036	Høy nasjonal vekst (HHMH)	11884
+1149 Karmøy	Kvinner	20-64 år	2037	Hovedalternativet (MMMM)	11540
+1149 Karmøy	Kvinner	20-64 år	2037	Lav nasjonal vekst (LLML)	11277
+1149 Karmøy	Kvinner	20-64 år	2037	Høy nasjonal vekst (HHMH)	11832
+1149 Karmøy	Kvinner	20-64 år	2038	Hovedalternativet (MMMM)	11474
+1149 Karmøy	Kvinner	20-64 år	2038	Lav nasjonal vekst (LLML)	11191
+1149 Karmøy	Kvinner	20-64 år	2038	Høy nasjonal vekst (HHMH)	11791
+1149 Karmøy	Kvinner	20-64 år	2039	Hovedalternativet (MMMM)	11396
+1149 Karmøy	Kvinner	20-64 år	2039	Lav nasjonal vekst (LLML)	11095
+1149 Karmøy	Kvinner	20-64 år	2039	Høy nasjonal vekst (HHMH)	11739
+1149 Karmøy	Kvinner	20-64 år	2040	Hovedalternativet (MMMM)	11354
+1149 Karmøy	Kvinner	20-64 år	2040	Lav nasjonal vekst (LLML)	11031
+1149 Karmøy	Kvinner	20-64 år	2040	Høy nasjonal vekst (HHMH)	11723
+1149 Karmøy	Kvinner	20-64 år	2041	Hovedalternativet (MMMM)	11299
+1149 Karmøy	Kvinner	20-64 år	2041	Lav nasjonal vekst (LLML)	10953
+1149 Karmøy	Kvinner	20-64 år	2041	Høy nasjonal vekst (HHMH)	11693
+1149 Karmøy	Kvinner	20-64 år	2042	Hovedalternativet (MMMM)	11267
+1149 Karmøy	Kvinner	20-64 år	2042	Lav nasjonal vekst (LLML)	10898
+1149 Karmøy	Kvinner	20-64 år	2042	Høy nasjonal vekst (HHMH)	11687
+1149 Karmøy	Kvinner	20-64 år	2043	Hovedalternativet (MMMM)	11218
+1149 Karmøy	Kvinner	20-64 år	2043	Lav nasjonal vekst (LLML)	10830
+1149 Karmøy	Kvinner	20-64 år	2043	Høy nasjonal vekst (HHMH)	11664
+1149 Karmøy	Kvinner	20-64 år	2044	Hovedalternativet (MMMM)	11151
+1149 Karmøy	Kvinner	20-64 år	2044	Lav nasjonal vekst (LLML)	10743
+1149 Karmøy	Kvinner	20-64 år	2044	Høy nasjonal vekst (HHMH)	11633
+1149 Karmøy	Kvinner	20-64 år	2045	Hovedalternativet (MMMM)	11070
+1149 Karmøy	Kvinner	20-64 år	2045	Lav nasjonal vekst (LLML)	10630
+1149 Karmøy	Kvinner	20-64 år	2045	Høy nasjonal vekst (HHMH)	11584
+1149 Karmøy	Kvinner	20-64 år	2046	Hovedalternativet (MMMM)	10990
+1149 Karmøy	Kvinner	20-64 år	2046	Lav nasjonal vekst (LLML)	10514
+1149 Karmøy	Kvinner	20-64 år	2046	Høy nasjonal vekst (HHMH)	11544
+1149 Karmøy	Kvinner	20-64 år	2047	Hovedalternativet (MMMM)	10923
+1149 Karmøy	Kvinner	20-64 år	2047	Lav nasjonal vekst (LLML)	10394
+1149 Karmøy	Kvinner	20-64 år	2047	Høy nasjonal vekst (HHMH)	11524
+1149 Karmøy	Kvinner	20-64 år	2048	Hovedalternativet (MMMM)	10858
+1149 Karmøy	Kvinner	20-64 år	2048	Lav nasjonal vekst (LLML)	10277
+1149 Karmøy	Kvinner	20-64 år	2048	Høy nasjonal vekst (HHMH)	11514
+1149 Karmøy	Kvinner	20-64 år	2049	Hovedalternativet (MMMM)	10803
+1149 Karmøy	Kvinner	20-64 år	2049	Lav nasjonal vekst (LLML)	10170
+1149 Karmøy	Kvinner	20-64 år	2049	Høy nasjonal vekst (HHMH)	11515
+1149 Karmøy	Kvinner	20-64 år	2050	Hovedalternativet (MMMM)	10745
+1149 Karmøy	Kvinner	20-64 år	2050	Lav nasjonal vekst (LLML)	10052
+1149 Karmøy	Kvinner	20-64 år	2050	Høy nasjonal vekst (HHMH)	11518
+1149 Karmøy	Kvinner	65 år eller eldre	2024	Hovedalternativet (MMMM)	4201
+1149 Karmøy	Kvinner	65 år eller eldre	2024	Lav nasjonal vekst (LLML)	4201
+1149 Karmøy	Kvinner	65 år eller eldre	2024	Høy nasjonal vekst (HHMH)	4201
+1149 Karmøy	Kvinner	65 år eller eldre	2025	Hovedalternativet (MMMM)	4283
+1149 Karmøy	Kvinner	65 år eller eldre	2025	Lav nasjonal vekst (LLML)	4277
+1149 Karmøy	Kvinner	65 år eller eldre	2025	Høy nasjonal vekst (HHMH)	4289
+1149 Karmøy	Kvinner	65 år eller eldre	2026	Hovedalternativet (MMMM)	4366
+1149 Karmøy	Kvinner	65 år eller eldre	2026	Lav nasjonal vekst (LLML)	4353
+1149 Karmøy	Kvinner	65 år eller eldre	2026	Høy nasjonal vekst (HHMH)	4378
+1149 Karmøy	Kvinner	65 år eller eldre	2027	Hovedalternativet (MMMM)	4434
+1149 Karmøy	Kvinner	65 år eller eldre	2027	Lav nasjonal vekst (LLML)	4412
+1149 Karmøy	Kvinner	65 år eller eldre	2027	Høy nasjonal vekst (HHMH)	4458
+1149 Karmøy	Kvinner	65 år eller eldre	2028	Hovedalternativet (MMMM)	4491
+1149 Karmøy	Kvinner	65 år eller eldre	2028	Lav nasjonal vekst (LLML)	4455
+1149 Karmøy	Kvinner	65 år eller eldre	2028	Høy nasjonal vekst (HHMH)	4522
+1149 Karmøy	Kvinner	65 år eller eldre	2029	Hovedalternativet (MMMM)	4557
+1149 Karmøy	Kvinner	65 år eller eldre	2029	Lav nasjonal vekst (LLML)	4513
+1149 Karmøy	Kvinner	65 år eller eldre	2029	Høy nasjonal vekst (HHMH)	4604
+1149 Karmøy	Kvinner	65 år eller eldre	2030	Hovedalternativet (MMMM)	4636
+1149 Karmøy	Kvinner	65 år eller eldre	2030	Lav nasjonal vekst (LLML)	4581
+1149 Karmøy	Kvinner	65 år eller eldre	2030	Høy nasjonal vekst (HHMH)	4694
+1149 Karmøy	Kvinner	65 år eller eldre	2031	Hovedalternativet (MMMM)	4711
+1149 Karmøy	Kvinner	65 år eller eldre	2031	Lav nasjonal vekst (LLML)	4642
+1149 Karmøy	Kvinner	65 år eller eldre	2031	Høy nasjonal vekst (HHMH)	4784
+1149 Karmøy	Kvinner	65 år eller eldre	2032	Hovedalternativet (MMMM)	4816
+1149 Karmøy	Kvinner	65 år eller eldre	2032	Lav nasjonal vekst (LLML)	4733
+1149 Karmøy	Kvinner	65 år eller eldre	2032	Høy nasjonal vekst (HHMH)	4898
+1149 Karmøy	Kvinner	65 år eller eldre	2033	Hovedalternativet (MMMM)	4910
+1149 Karmøy	Kvinner	65 år eller eldre	2033	Lav nasjonal vekst (LLML)	4812
+1149 Karmøy	Kvinner	65 år eller eldre	2033	Høy nasjonal vekst (HHMH)	5002
+1149 Karmøy	Kvinner	65 år eller eldre	2034	Hovedalternativet (MMMM)	5015
+1149 Karmøy	Kvinner	65 år eller eldre	2034	Lav nasjonal vekst (LLML)	4902
+1149 Karmøy	Kvinner	65 år eller eldre	2034	Høy nasjonal vekst (HHMH)	5127
+1149 Karmøy	Kvinner	65 år eller eldre	2035	Hovedalternativet (MMMM)	5116
+1149 Karmøy	Kvinner	65 år eller eldre	2035	Lav nasjonal vekst (LLML)	4983
+1149 Karmøy	Kvinner	65 år eller eldre	2035	Høy nasjonal vekst (HHMH)	5244
+1149 Karmøy	Kvinner	65 år eller eldre	2036	Hovedalternativet (MMMM)	5220
+1149 Karmøy	Kvinner	65 år eller eldre	2036	Lav nasjonal vekst (LLML)	5071
+1149 Karmøy	Kvinner	65 år eller eldre	2036	Høy nasjonal vekst (HHMH)	5363
+1149 Karmøy	Kvinner	65 år eller eldre	2037	Hovedalternativet (MMMM)	5324
+1149 Karmøy	Kvinner	65 år eller eldre	2037	Lav nasjonal vekst (LLML)	5157
+1149 Karmøy	Kvinner	65 år eller eldre	2037	Høy nasjonal vekst (HHMH)	5482
+1149 Karmøy	Kvinner	65 år eller eldre	2038	Hovedalternativet (MMMM)	5402
+1149 Karmøy	Kvinner	65 år eller eldre	2038	Lav nasjonal vekst (LLML)	5218
+1149 Karmøy	Kvinner	65 år eller eldre	2038	Høy nasjonal vekst (HHMH)	5576
+1149 Karmøy	Kvinner	65 år eller eldre	2039	Hovedalternativet (MMMM)	5479
+1149 Karmøy	Kvinner	65 år eller eldre	2039	Lav nasjonal vekst (LLML)	5277
+1149 Karmøy	Kvinner	65 år eller eldre	2039	Høy nasjonal vekst (HHMH)	5675
+1149 Karmøy	Kvinner	65 år eller eldre	2040	Hovedalternativet (MMMM)	5537
+1149 Karmøy	Kvinner	65 år eller eldre	2040	Lav nasjonal vekst (LLML)	5319
+1149 Karmøy	Kvinner	65 år eller eldre	2040	Høy nasjonal vekst (HHMH)	5751
+1149 Karmøy	Kvinner	65 år eller eldre	2041	Hovedalternativet (MMMM)	5590
+1149 Karmøy	Kvinner	65 år eller eldre	2041	Lav nasjonal vekst (LLML)	5354
+1149 Karmøy	Kvinner	65 år eller eldre	2041	Høy nasjonal vekst (HHMH)	5826
+1149 Karmøy	Kvinner	65 år eller eldre	2042	Hovedalternativet (MMMM)	5644
+1149 Karmøy	Kvinner	65 år eller eldre	2042	Lav nasjonal vekst (LLML)	5388
+1149 Karmøy	Kvinner	65 år eller eldre	2042	Høy nasjonal vekst (HHMH)	5899
+1149 Karmøy	Kvinner	65 år eller eldre	2043	Hovedalternativet (MMMM)	5690
+1149 Karmøy	Kvinner	65 år eller eldre	2043	Lav nasjonal vekst (LLML)	5416
+1149 Karmøy	Kvinner	65 år eller eldre	2043	Høy nasjonal vekst (HHMH)	5968
+1149 Karmøy	Kvinner	65 år eller eldre	2044	Hovedalternativet (MMMM)	5761
+1149 Karmøy	Kvinner	65 år eller eldre	2044	Lav nasjonal vekst (LLML)	5460
+1149 Karmøy	Kvinner	65 år eller eldre	2044	Høy nasjonal vekst (HHMH)	6049
+1149 Karmøy	Kvinner	65 år eller eldre	2045	Hovedalternativet (MMMM)	5828
+1149 Karmøy	Kvinner	65 år eller eldre	2045	Lav nasjonal vekst (LLML)	5511
+1149 Karmøy	Kvinner	65 år eller eldre	2045	Høy nasjonal vekst (HHMH)	6141
+1149 Karmøy	Kvinner	65 år eller eldre	2046	Hovedalternativet (MMMM)	5896
+1149 Karmøy	Kvinner	65 år eller eldre	2046	Lav nasjonal vekst (LLML)	5557
+1149 Karmøy	Kvinner	65 år eller eldre	2046	Høy nasjonal vekst (HHMH)	6232
+1149 Karmøy	Kvinner	65 år eller eldre	2047	Hovedalternativet (MMMM)	5952
+1149 Karmøy	Kvinner	65 år eller eldre	2047	Lav nasjonal vekst (LLML)	5600
+1149 Karmøy	Kvinner	65 år eller eldre	2047	Høy nasjonal vekst (HHMH)	6311
+1149 Karmøy	Kvinner	65 år eller eldre	2048	Hovedalternativet (MMMM)	6008
+1149 Karmøy	Kvinner	65 år eller eldre	2048	Lav nasjonal vekst (LLML)	5629
+1149 Karmøy	Kvinner	65 år eller eldre	2048	Høy nasjonal vekst (HHMH)	6384
+1149 Karmøy	Kvinner	65 år eller eldre	2049	Hovedalternativet (MMMM)	6050
+1149 Karmøy	Kvinner	65 år eller eldre	2049	Lav nasjonal vekst (LLML)	5650
+1149 Karmøy	Kvinner	65 år eller eldre	2049	Høy nasjonal vekst (HHMH)	6452
+1149 Karmøy	Kvinner	65 år eller eldre	2050	Hovedalternativet (MMMM)	6099
+1149 Karmøy	Kvinner	65 år eller eldre	2050	Lav nasjonal vekst (LLML)	5679
+1149 Karmøy	Kvinner	65 år eller eldre	2050	Høy nasjonal vekst (HHMH)	6524

@@ -1,0 +1,19 @@
+affinityprop: 
+	search_param = 0.6
+	source_data = quant
+	source_processing = deep encoder
+
+kmeans: (overall has the best performance)
+	searc_param = 2
+	source_data = robust
+	source_processing = deep encoder
+
+Agglomerative: (third best/arguably the second best[lowest davies score]/ performer)
+	search_param = 2
+	source_data = robust
+	source_processing = deep encoder
+
+SpectralClustering: (second best performer)
+	search_param = 2
+	source_data = robust
+	source_processing: deep encoder

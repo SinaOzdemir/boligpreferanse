@@ -1,0 +1,463 @@
+statistikkvariabel	region	bygningstype	ar	Boligbygg,
+Igangsettingstillatelser boliger	K-1149 Karmoy	111 Enebolig	2013	92
+Igangsettingstillatelser boliger	K-1149 Karmoy	111 Enebolig	2014	90
+Igangsettingstillatelser boliger	K-1149 Karmoy	111 Enebolig	2015	81
+Igangsettingstillatelser boliger	K-1149 Karmoy	111 Enebolig	2016	109
+Igangsettingstillatelser boliger	K-1149 Karmoy	111 Enebolig	2017	64
+Igangsettingstillatelser boliger	K-1149 Karmoy	111 Enebolig	2018	73
+Igangsettingstillatelser boliger	K-1149 Karmoy	111 Enebolig	2019	71
+Igangsettingstillatelser boliger	K-1149 Karmoy	111 Enebolig	2020	96
+Igangsettingstillatelser boliger	K-1149 Karmoy	111 Enebolig	2021	86
+Igangsettingstillatelser boliger	K-1149 Karmoy	111 Enebolig	2022	84
+Igangsettingstillatelser boliger	K-1149 Karmoy	111 Enebolig	2023	50
+Igangsettingstillatelser boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2013	11
+Igangsettingstillatelser boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2014	11
+Igangsettingstillatelser boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2015	16
+Igangsettingstillatelser boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2016	9
+Igangsettingstillatelser boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2017	12
+Igangsettingstillatelser boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2018	11
+Igangsettingstillatelser boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2019	12
+Igangsettingstillatelser boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2020	5
+Igangsettingstillatelser boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2021	17
+Igangsettingstillatelser boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2022	2
+Igangsettingstillatelser boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2023	9
+Igangsettingstillatelser boliger	K-1149 Karmoy	113 Vaningshus	2013	2
+Igangsettingstillatelser boliger	K-1149 Karmoy	113 Vaningshus	2014	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	113 Vaningshus	2015	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	113 Vaningshus	2016	4
+Igangsettingstillatelser boliger	K-1149 Karmoy	113 Vaningshus	2017	1
+Igangsettingstillatelser boliger	K-1149 Karmoy	113 Vaningshus	2018	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	113 Vaningshus	2019	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	113 Vaningshus	2020	1
+Igangsettingstillatelser boliger	K-1149 Karmoy	113 Vaningshus	2021	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	113 Vaningshus	2022	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	113 Vaningshus	2023	2
+Igangsettingstillatelser boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2013	28
+Igangsettingstillatelser boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2014	41
+Igangsettingstillatelser boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2015	12
+Igangsettingstillatelser boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2016	10
+Igangsettingstillatelser boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2017	11
+Igangsettingstillatelser boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2018	11
+Igangsettingstillatelser boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2019	17
+Igangsettingstillatelser boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2020	13
+Igangsettingstillatelser boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2021	2
+Igangsettingstillatelser boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2022	5
+Igangsettingstillatelser boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2023	7
+Igangsettingstillatelser boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2013	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2014	2
+Igangsettingstillatelser boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2015	20
+Igangsettingstillatelser boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2016	12
+Igangsettingstillatelser boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2017	6
+Igangsettingstillatelser boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2018	3
+Igangsettingstillatelser boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2019	4
+Igangsettingstillatelser boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2020	4
+Igangsettingstillatelser boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2021	10
+Igangsettingstillatelser boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2022	2
+Igangsettingstillatelser boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2023	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2013	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2014	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2015	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2016	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2017	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2018	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2019	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2020	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2021	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2022	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2023	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2013	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2014	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2015	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2016	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2017	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2018	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2019	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2020	2
+Igangsettingstillatelser boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2021	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2022	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2023	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	131 Rekkehus	2013	9
+Igangsettingstillatelser boliger	K-1149 Karmoy	131 Rekkehus	2014	47
+Igangsettingstillatelser boliger	K-1149 Karmoy	131 Rekkehus	2015	33
+Igangsettingstillatelser boliger	K-1149 Karmoy	131 Rekkehus	2016	35
+Igangsettingstillatelser boliger	K-1149 Karmoy	131 Rekkehus	2017	35
+Igangsettingstillatelser boliger	K-1149 Karmoy	131 Rekkehus	2018	37
+Igangsettingstillatelser boliger	K-1149 Karmoy	131 Rekkehus	2019	41
+Igangsettingstillatelser boliger	K-1149 Karmoy	131 Rekkehus	2020	20
+Igangsettingstillatelser boliger	K-1149 Karmoy	131 Rekkehus	2021	37
+Igangsettingstillatelser boliger	K-1149 Karmoy	131 Rekkehus	2022	30
+Igangsettingstillatelser boliger	K-1149 Karmoy	131 Rekkehus	2023	6
+Igangsettingstillatelser boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2013	13
+Igangsettingstillatelser boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2014	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2015	5
+Igangsettingstillatelser boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2016	8
+Igangsettingstillatelser boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2017	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2018	12
+Igangsettingstillatelser boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2019	11
+Igangsettingstillatelser boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2020	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2021	6
+Igangsettingstillatelser boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2022	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2023	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	135 Terrassehus	2013	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	135 Terrassehus	2014	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	135 Terrassehus	2015	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	135 Terrassehus	2016	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	135 Terrassehus	2017	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	135 Terrassehus	2018	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	135 Terrassehus	2019	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	135 Terrassehus	2020	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	135 Terrassehus	2021	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	135 Terrassehus	2022	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	135 Terrassehus	2023	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2013	28
+Igangsettingstillatelser boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2014	16
+Igangsettingstillatelser boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2015	30
+Igangsettingstillatelser boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2016	36
+Igangsettingstillatelser boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2017	36
+Igangsettingstillatelser boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2018	23
+Igangsettingstillatelser boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2019	12
+Igangsettingstillatelser boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2020	20
+Igangsettingstillatelser boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2021	10
+Igangsettingstillatelser boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2022	28
+Igangsettingstillatelser boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2023	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2013	14
+Igangsettingstillatelser boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2014	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2015	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2016	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2017	6
+Igangsettingstillatelser boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2018	44
+Igangsettingstillatelser boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2019	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2020	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2021	26
+Igangsettingstillatelser boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2022	12
+Igangsettingstillatelser boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2023	8
+Igangsettingstillatelser boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2013	86
+Igangsettingstillatelser boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2014	9
+Igangsettingstillatelser boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2015	6
+Igangsettingstillatelser boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2016	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2017	5
+Igangsettingstillatelser boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2018	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2019	36
+Igangsettingstillatelser boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2020	24
+Igangsettingstillatelser boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2021	23
+Igangsettingstillatelser boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2022	26
+Igangsettingstillatelser boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2023	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2013	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2014	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2015	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2016	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2017	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2018	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2019	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2020	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2021	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2022	14
+Igangsettingstillatelser boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2023	9
+Igangsettingstillatelser boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2013	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2014	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2015	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2016	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2017	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2018	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2019	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2020	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2021	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2022	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2023	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2013	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2014	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2015	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2016	12
+Igangsettingstillatelser boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2017	15
+Igangsettingstillatelser boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2018	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2019	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2020	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2021	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2022	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2023	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2013	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2014	9
+Igangsettingstillatelser boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2015	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2016	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2017	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2018	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2019	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2020	16
+Igangsettingstillatelser boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2021	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2022	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2023	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	151 Bo- og servicesenter	2013	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	151 Bo- og servicesenter	2014	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	151 Bo- og servicesenter	2015	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	151 Bo- og servicesenter	2016	12
+Igangsettingstillatelser boliger	K-1149 Karmoy	151 Bo- og servicesenter	2017	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	151 Bo- og servicesenter	2018	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	151 Bo- og servicesenter	2019	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	151 Bo- og servicesenter	2020	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	151 Bo- og servicesenter	2021	6
+Igangsettingstillatelser boliger	K-1149 Karmoy	151 Bo- og servicesenter	2022	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	151 Bo- og servicesenter	2023	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2013	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2014	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2015	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2016	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2017	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2018	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2019	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2020	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2021	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2022	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2023	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2013	1
+Igangsettingstillatelser boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2014	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2015	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2016	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2017	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2018	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2019	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2020	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2021	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2022	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2023	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2013	12
+Igangsettingstillatelser boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2014	3
+Igangsettingstillatelser boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2015	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2016	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2017	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2018	1
+Igangsettingstillatelser boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2019	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2020	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2021	7
+Igangsettingstillatelser boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2022	0
+Igangsettingstillatelser boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2023	0
+Fullforte boliger	K-1149 Karmoy	111 Enebolig	2013	96
+Fullforte boliger	K-1149 Karmoy	111 Enebolig	2014	95
+Fullforte boliger	K-1149 Karmoy	111 Enebolig	2015	87
+Fullforte boliger	K-1149 Karmoy	111 Enebolig	2016	103
+Fullforte boliger	K-1149 Karmoy	111 Enebolig	2017	67
+Fullforte boliger	K-1149 Karmoy	111 Enebolig	2018	69
+Fullforte boliger	K-1149 Karmoy	111 Enebolig	2019	98
+Fullforte boliger	K-1149 Karmoy	111 Enebolig	2020	68
+Fullforte boliger	K-1149 Karmoy	111 Enebolig	2021	78
+Fullforte boliger	K-1149 Karmoy	111 Enebolig	2022	61
+Fullforte boliger	K-1149 Karmoy	111 Enebolig	2023	64
+Fullforte boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2013	12
+Fullforte boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2014	10
+Fullforte boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2015	11
+Fullforte boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2016	12
+Fullforte boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2017	10
+Fullforte boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2018	16
+Fullforte boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2019	12
+Fullforte boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2020	10
+Fullforte boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2021	2
+Fullforte boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2022	7
+Fullforte boliger	K-1149 Karmoy	112 Enebolig med hybelleilighet, sokkelleilighet o.l.	2023	12
+Fullforte boliger	K-1149 Karmoy	113 Vaningshus	2013	0
+Fullforte boliger	K-1149 Karmoy	113 Vaningshus	2014	1
+Fullforte boliger	K-1149 Karmoy	113 Vaningshus	2015	1
+Fullforte boliger	K-1149 Karmoy	113 Vaningshus	2016	3
+Fullforte boliger	K-1149 Karmoy	113 Vaningshus	2017	1
+Fullforte boliger	K-1149 Karmoy	113 Vaningshus	2018	1
+Fullforte boliger	K-1149 Karmoy	113 Vaningshus	2019	3
+Fullforte boliger	K-1149 Karmoy	113 Vaningshus	2020	1
+Fullforte boliger	K-1149 Karmoy	113 Vaningshus	2021	2
+Fullforte boliger	K-1149 Karmoy	113 Vaningshus	2022	1
+Fullforte boliger	K-1149 Karmoy	113 Vaningshus	2023	0
+Fullforte boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2013	41
+Fullforte boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2014	30
+Fullforte boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2015	28
+Fullforte boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2016	27
+Fullforte boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2017	13
+Fullforte boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2018	7
+Fullforte boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2019	15
+Fullforte boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2020	15
+Fullforte boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2021	7
+Fullforte boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2022	3
+Fullforte boliger	K-1149 Karmoy	121 Del av tomannsbolig, vertikaldelt	2023	2
+Fullforte boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2013	4
+Fullforte boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2014	0
+Fullforte boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2015	0
+Fullforte boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2016	12
+Fullforte boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2017	8
+Fullforte boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2018	14
+Fullforte boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2019	4
+Fullforte boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2020	8
+Fullforte boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2021	6
+Fullforte boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2022	6
+Fullforte boliger	K-1149 Karmoy	122 Tomannsbolig, horisontaldelt	2023	0
+Fullforte boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2013	0
+Fullforte boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2014	0
+Fullforte boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2015	0
+Fullforte boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2016	0
+Fullforte boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2017	0
+Fullforte boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2018	0
+Fullforte boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2019	0
+Fullforte boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2020	0
+Fullforte boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2021	0
+Fullforte boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2022	0
+Fullforte boliger	K-1149 Karmoy	123 Del av vaninghus  tomannsbustad, vertikaltdelt	2023	0
+Fullforte boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2013	0
+Fullforte boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2014	0
+Fullforte boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2015	0
+Fullforte boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2016	0
+Fullforte boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2017	0
+Fullforte boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2018	0
+Fullforte boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2019	0
+Fullforte boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2020	0
+Fullforte boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2021	0
+Fullforte boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2022	0
+Fullforte boliger	K-1149 Karmoy	124 Vaningshus tomannsbolig, horisontaltdelt	2023	0
+Fullforte boliger	K-1149 Karmoy	131 Rekkehus	2013	16
+Fullforte boliger	K-1149 Karmoy	131 Rekkehus	2014	18
+Fullforte boliger	K-1149 Karmoy	131 Rekkehus	2015	28
+Fullforte boliger	K-1149 Karmoy	131 Rekkehus	2016	28
+Fullforte boliger	K-1149 Karmoy	131 Rekkehus	2017	37
+Fullforte boliger	K-1149 Karmoy	131 Rekkehus	2018	27
+Fullforte boliger	K-1149 Karmoy	131 Rekkehus	2019	33
+Fullforte boliger	K-1149 Karmoy	131 Rekkehus	2020	35
+Fullforte boliger	K-1149 Karmoy	131 Rekkehus	2021	25
+Fullforte boliger	K-1149 Karmoy	131 Rekkehus	2022	31
+Fullforte boliger	K-1149 Karmoy	131 Rekkehus	2023	11
+Fullforte boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2013	1
+Fullforte boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2014	2
+Fullforte boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2015	9
+Fullforte boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2016	4
+Fullforte boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2017	5
+Fullforte boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2018	3
+Fullforte boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2019	7
+Fullforte boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2020	7
+Fullforte boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2021	4
+Fullforte boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2022	3
+Fullforte boliger	K-1149 Karmoy	133 Kjedehus inkl.atriumhus	2023	3
+Fullforte boliger	K-1149 Karmoy	135 Terrassehus	2013	8
+Fullforte boliger	K-1149 Karmoy	135 Terrassehus	2014	0
+Fullforte boliger	K-1149 Karmoy	135 Terrassehus	2015	0
+Fullforte boliger	K-1149 Karmoy	135 Terrassehus	2016	0
+Fullforte boliger	K-1149 Karmoy	135 Terrassehus	2017	0
+Fullforte boliger	K-1149 Karmoy	135 Terrassehus	2018	0
+Fullforte boliger	K-1149 Karmoy	135 Terrassehus	2019	1
+Fullforte boliger	K-1149 Karmoy	135 Terrassehus	2020	0
+Fullforte boliger	K-1149 Karmoy	135 Terrassehus	2021	0
+Fullforte boliger	K-1149 Karmoy	135 Terrassehus	2022	0
+Fullforte boliger	K-1149 Karmoy	135 Terrassehus	2023	0
+Fullforte boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2013	32
+Fullforte boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2014	28
+Fullforte boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2015	19
+Fullforte boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2016	28
+Fullforte boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2017	28
+Fullforte boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2018	26
+Fullforte boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2019	21
+Fullforte boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2020	28
+Fullforte boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2021	12
+Fullforte boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2022	14
+Fullforte boliger	K-1149 Karmoy	136 Andre smahus med 3 boliger eller flere	2023	4
+Fullforte boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2013	0
+Fullforte boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2014	14
+Fullforte boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2015	0
+Fullforte boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2016	0
+Fullforte boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2017	0
+Fullforte boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2018	6
+Fullforte boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2019	38
+Fullforte boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2020	6
+Fullforte boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2021	0
+Fullforte boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2022	14
+Fullforte boliger	K-1149 Karmoy	141 Store frittliggende boligbygg pa 2 etasjer	2023	0
+Fullforte boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2013	26
+Fullforte boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2014	50
+Fullforte boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2015	54
+Fullforte boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2016	0
+Fullforte boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2017	0
+Fullforte boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2018	5
+Fullforte boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2019	0
+Fullforte boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2020	0
+Fullforte boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2021	53
+Fullforte boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2022	0
+Fullforte boliger	K-1149 Karmoy	142 Store frittliggende boligbygg pa 3 og 4 etasjer	2023	23
+Fullforte boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2013	0
+Fullforte boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2014	0
+Fullforte boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2015	0
+Fullforte boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2016	0
+Fullforte boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2017	0
+Fullforte boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2018	0
+Fullforte boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2019	0
+Fullforte boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2020	0
+Fullforte boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2021	0
+Fullforte boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2022	6
+Fullforte boliger	K-1149 Karmoy	143 Store frittliggende boligbygg pa 5 etasjer eller over	2023	0
+Fullforte boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2013	0
+Fullforte boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2014	0
+Fullforte boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2015	0
+Fullforte boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2016	0
+Fullforte boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2017	0
+Fullforte boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2018	0
+Fullforte boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2019	0
+Fullforte boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2020	0
+Fullforte boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2021	0
+Fullforte boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2022	0
+Fullforte boliger	K-1149 Karmoy	144 Stort sammenbygd boligbygg pa 2 etasjer	2023	0
+Fullforte boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2013	8
+Fullforte boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2014	0
+Fullforte boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2015	0
+Fullforte boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2016	0
+Fullforte boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2017	12
+Fullforte boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2018	15
+Fullforte boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2019	0
+Fullforte boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2020	0
+Fullforte boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2021	0
+Fullforte boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2022	0
+Fullforte boliger	K-1149 Karmoy	145 Stort sammenbygd boligbygg pa 3 og 4 etasjer	2023	0
+Fullforte boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2013	8
+Fullforte boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2014	0
+Fullforte boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2015	9
+Fullforte boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2016	0
+Fullforte boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2017	0
+Fullforte boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2018	0
+Fullforte boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2019	0
+Fullforte boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2020	0
+Fullforte boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2021	0
+Fullforte boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2022	16
+Fullforte boliger	K-1149 Karmoy	146 Stort sammenbygd boligbygg pa 5 etasjer eller over	2023	0
+Fullforte boliger	K-1149 Karmoy	151 Bo- og servicesenter	2013	0
+Fullforte boliger	K-1149 Karmoy	151 Bo- og servicesenter	2014	0
+Fullforte boliger	K-1149 Karmoy	151 Bo- og servicesenter	2015	0
+Fullforte boliger	K-1149 Karmoy	151 Bo- og servicesenter	2016	0
+Fullforte boliger	K-1149 Karmoy	151 Bo- og servicesenter	2017	12
+Fullforte boliger	K-1149 Karmoy	151 Bo- og servicesenter	2018	0
+Fullforte boliger	K-1149 Karmoy	151 Bo- og servicesenter	2019	0
+Fullforte boliger	K-1149 Karmoy	151 Bo- og servicesenter	2020	0
+Fullforte boliger	K-1149 Karmoy	151 Bo- og servicesenter	2021	0
+Fullforte boliger	K-1149 Karmoy	151 Bo- og servicesenter	2022	6
+Fullforte boliger	K-1149 Karmoy	151 Bo- og servicesenter	2023	0
+Fullforte boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2013	0
+Fullforte boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2014	0
+Fullforte boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2015	0
+Fullforte boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2016	0
+Fullforte boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2017	0
+Fullforte boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2018	0
+Fullforte boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2019	0
+Fullforte boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2020	0
+Fullforte boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2021	0
+Fullforte boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2022	0
+Fullforte boliger	K-1149 Karmoy	152 Studenthjem/studentboliger	2023	0
+Fullforte boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2013	0
+Fullforte boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2014	0
+Fullforte boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2015	0
+Fullforte boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2016	0
+Fullforte boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2017	0
+Fullforte boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2018	0
+Fullforte boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2019	0
+Fullforte boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2020	6
+Fullforte boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2021	0
+Fullforte boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2022	0
+Fullforte boliger	K-1149 Karmoy	159 Annen bygning for bofellesskap	2023	0
+Fullforte boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2013	15
+Fullforte boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2014	0
+Fullforte boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2015	0
+Fullforte boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2016	0
+Fullforte boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2017	0
+Fullforte boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2018	1
+Fullforte boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2019	0
+Fullforte boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2020	0
+Fullforte boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2021	0
+Fullforte boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2022	4
+Fullforte boliger	K-1149 Karmoy	000 Andre bygg enn boligbygg	2023	8

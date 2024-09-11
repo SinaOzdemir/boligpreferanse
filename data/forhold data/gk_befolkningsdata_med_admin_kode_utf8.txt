@@ -1,0 +1,1921 @@
+variabel	grunnkrets	ar	befolkning	grunnkrets_kode	admin_sone
+Personer	11490101 Sævik	2000	648	1	3
+Personer	11490101 Sævik	2001	645	1	3
+Personer	11490101 Sævik	2002	633	1	3
+Personer	11490101 Sævik	2003	645	1	3
+Personer	11490101 Sævik	2004	652	1	3
+Personer	11490101 Sævik	2005	655	1	3
+Personer	11490101 Sævik	2006	655	1	3
+Personer	11490101 Sævik	2007	661	1	3
+Personer	11490101 Sævik	2008	663	1	3
+Personer	11490101 Sævik	2009	690	1	3
+Personer	11490101 Sævik	2010	678	1	3
+Personer	11490101 Sævik	2011	682	1	3
+Personer	11490101 Sævik	2012	729	1	3
+Personer	11490101 Sævik	2013	710	1	3
+Personer	11490101 Sævik	2014	676	1	3
+Personer	11490101 Sævik	2015	709	1	3
+Personer	11490101 Sævik	2016	705	1	3
+Personer	11490101 Sævik	2017	730	1	3
+Personer	11490101 Sævik	2018	732	1	3
+Personer	11490101 Sævik	2019	724	1	3
+Personer	11490101 Sævik	2020	732	1	3
+Personer	11490101 Sævik	2021	725	1	3
+Personer	11490101 Sævik	2022	737	1	3
+Personer	11490101 Sævik	2023	741	1	3
+Personer	11490102 Østhus	2000	356	1	3
+Personer	11490102 Østhus	2001	360	1	3
+Personer	11490102 Østhus	2002	359	1	3
+Personer	11490102 Østhus	2003	366	1	3
+Personer	11490102 Østhus	2004	367	1	3
+Personer	11490102 Østhus	2005	363	1	3
+Personer	11490102 Østhus	2006	373	1	3
+Personer	11490102 Østhus	2007	372	1	3
+Personer	11490102 Østhus	2008	367	1	3
+Personer	11490102 Østhus	2009	367	1	3
+Personer	11490102 Østhus	2010	399	1	3
+Personer	11490102 Østhus	2011	401	1	3
+Personer	11490102 Østhus	2012	384	1	3
+Personer	11490102 Østhus	2013	395	1	3
+Personer	11490102 Østhus	2014	398	1	3
+Personer	11490102 Østhus	2015	429	1	3
+Personer	11490102 Østhus	2016	406	1	3
+Personer	11490102 Østhus	2017	425	1	3
+Personer	11490102 Østhus	2018	428	1	3
+Personer	11490102 Østhus	2019	447	1	3
+Personer	11490102 Østhus	2020	456	1	3
+Personer	11490102 Østhus	2021	462	1	3
+Personer	11490102 Østhus	2022	455	1	3
+Personer	11490102 Østhus	2023	461	1	3
+Personer	11490103 Østhusneset	2000	517	1	3
+Personer	11490103 Østhusneset	2001	506	1	3
+Personer	11490103 Østhusneset	2002	490	1	3
+Personer	11490103 Østhusneset	2003	482	1	3
+Personer	11490103 Østhusneset	2004	483	1	3
+Personer	11490103 Østhusneset	2005	492	1	3
+Personer	11490103 Østhusneset	2006	498	1	3
+Personer	11490103 Østhusneset	2007	501	1	3
+Personer	11490103 Østhusneset	2008	498	1	3
+Personer	11490103 Østhusneset	2009	484	1	3
+Personer	11490103 Østhusneset	2010	495	1	3
+Personer	11490103 Østhusneset	2011	488	1	3
+Personer	11490103 Østhusneset	2012	493	1	3
+Personer	11490103 Østhusneset	2013	495	1	3
+Personer	11490103 Østhusneset	2014	522	1	3
+Personer	11490103 Østhusneset	2015	531	1	3
+Personer	11490103 Østhusneset	2016	540	1	3
+Personer	11490103 Østhusneset	2017	549	1	3
+Personer	11490103 Østhusneset	2018	555	1	3
+Personer	11490103 Østhusneset	2019	554	1	3
+Personer	11490103 Østhusneset	2020	549	1	3
+Personer	11490103 Østhusneset	2021	541	1	3
+Personer	11490103 Østhusneset	2022	545	1	3
+Personer	11490103 Østhusneset	2023	547	1	3
+Personer	11490104 Munkejord	2000	485	1	3
+Personer	11490104 Munkejord	2001	495	1	3
+Personer	11490104 Munkejord	2002	491	1	3
+Personer	11490104 Munkejord	2003	496	1	3
+Personer	11490104 Munkejord	2004	499	1	3
+Personer	11490104 Munkejord	2005	505	1	3
+Personer	11490104 Munkejord	2006	492	1	3
+Personer	11490104 Munkejord	2007	528	1	3
+Personer	11490104 Munkejord	2008	520	1	3
+Personer	11490104 Munkejord	2009	543	1	3
+Personer	11490104 Munkejord	2010	553	1	3
+Personer	11490104 Munkejord	2011	581	1	3
+Personer	11490104 Munkejord	2012	563	1	3
+Personer	11490104 Munkejord	2013	571	1	3
+Personer	11490104 Munkejord	2014	590	1	3
+Personer	11490104 Munkejord	2015	592	1	3
+Personer	11490104 Munkejord	2016	603	1	3
+Personer	11490104 Munkejord	2017	627	1	3
+Personer	11490104 Munkejord	2018	618	1	3
+Personer	11490104 Munkejord	2019	618	1	3
+Personer	11490104 Munkejord	2020	620	1	3
+Personer	11490104 Munkejord	2021	613	1	3
+Personer	11490104 Munkejord	2022	591	1	3
+Personer	11490104 Munkejord	2023	604	1	3
+Personer	11490105 Vea	2000	545	1	3
+Personer	11490105 Vea	2001	573	1	3
+Personer	11490105 Vea	2002	606	1	3
+Personer	11490105 Vea	2003	613	1	3
+Personer	11490105 Vea	2004	615	1	3
+Personer	11490105 Vea	2005	602	1	3
+Personer	11490105 Vea	2006	594	1	3
+Personer	11490105 Vea	2007	606	1	3
+Personer	11490105 Vea	2008	633	1	3
+Personer	11490105 Vea	2009	644	1	3
+Personer	11490105 Vea	2010	644	1	3
+Personer	11490105 Vea	2011	644	1	3
+Personer	11490105 Vea	2012	679	1	3
+Personer	11490105 Vea	2013	673	1	3
+Personer	11490105 Vea	2014	685	1	3
+Personer	11490105 Vea	2015	704	1	3
+Personer	11490105 Vea	2016	729	1	3
+Personer	11490105 Vea	2017	733	1	3
+Personer	11490105 Vea	2018	753	1	3
+Personer	11490105 Vea	2019	769	1	3
+Personer	11490105 Vea	2020	808	1	3
+Personer	11490105 Vea	2021	827	1	3
+Personer	11490105 Vea	2022	836	1	3
+Personer	11490105 Vea	2023	851	1	3
+Personer	11490201 Heiå	2000	241	2	2
+Personer	11490201 Heiå	2001	240	2	2
+Personer	11490201 Heiå	2002	240	2	2
+Personer	11490201 Heiå	2003	227	2	2
+Personer	11490201 Heiå	2004	223	2	2
+Personer	11490201 Heiå	2005	217	2	2
+Personer	11490201 Heiå	2006	206	2	2
+Personer	11490201 Heiå	2007	222	2	2
+Personer	11490201 Heiå	2008	226	2	2
+Personer	11490201 Heiå	2009	223	2	2
+Personer	11490201 Heiå	2010	228	2	2
+Personer	11490201 Heiå	2011	224	2	2
+Personer	11490201 Heiå	2012	218	2	2
+Personer	11490201 Heiå	2013	224	2	2
+Personer	11490201 Heiå	2014	230	2	2
+Personer	11490201 Heiå	2015	242	2	2
+Personer	11490201 Heiå	2016	253	2	2
+Personer	11490201 Heiå	2017	249	2	2
+Personer	11490201 Heiå	2018	245	2	2
+Personer	11490201 Heiå	2019	242	2	2
+Personer	11490201 Heiå	2020	250	2	2
+Personer	11490201 Heiå	2021	236	2	2
+Personer	11490201 Heiå	2022	235	2	2
+Personer	11490201 Heiå	2023	233	2	2
+Personer	11490202 Mannes	2000	702	2	2
+Personer	11490202 Mannes	2001	725	2	2
+Personer	11490202 Mannes	2002	722	2	2
+Personer	11490202 Mannes	2003	711	2	2
+Personer	11490202 Mannes	2004	712	2	2
+Personer	11490202 Mannes	2005	699	2	2
+Personer	11490202 Mannes	2006	681	2	2
+Personer	11490202 Mannes	2007	686	2	2
+Personer	11490202 Mannes	2008	678	2	2
+Personer	11490202 Mannes	2009	686	2	2
+Personer	11490202 Mannes	2010	675	2	2
+Personer	11490202 Mannes	2011	686	2	2
+Personer	11490202 Mannes	2012	691	2	2
+Personer	11490202 Mannes	2013	683	2	2
+Personer	11490202 Mannes	2014	674	2	2
+Personer	11490202 Mannes	2015	656	2	2
+Personer	11490202 Mannes	2016	656	2	2
+Personer	11490202 Mannes	2017	635	2	2
+Personer	11490202 Mannes	2018	626	2	2
+Personer	11490202 Mannes	2019	606	2	2
+Personer	11490202 Mannes	2020	590	2	2
+Personer	11490202 Mannes	2021	602	2	2
+Personer	11490202 Mannes	2022	598	2	2
+Personer	11490202 Mannes	2023	636	2	2
+Personer	11490203 Sevlandsvik	2000	424	2	2
+Personer	11490203 Sevlandsvik	2001	412	2	2
+Personer	11490203 Sevlandsvik	2002	440	2	2
+Personer	11490203 Sevlandsvik	2003	430	2	2
+Personer	11490203 Sevlandsvik	2004	425	2	2
+Personer	11490203 Sevlandsvik	2005	429	2	2
+Personer	11490203 Sevlandsvik	2006	452	2	2
+Personer	11490203 Sevlandsvik	2007	440	2	2
+Personer	11490203 Sevlandsvik	2008	475	2	2
+Personer	11490203 Sevlandsvik	2009	475	2	2
+Personer	11490203 Sevlandsvik	2010	476	2	2
+Personer	11490203 Sevlandsvik	2011	473	2	2
+Personer	11490203 Sevlandsvik	2012	457	2	2
+Personer	11490203 Sevlandsvik	2013	472	2	2
+Personer	11490203 Sevlandsvik	2014	481	2	2
+Personer	11490203 Sevlandsvik	2015	469	2	2
+Personer	11490203 Sevlandsvik	2016	466	2	2
+Personer	11490203 Sevlandsvik	2017	473	2	2
+Personer	11490203 Sevlandsvik	2018	471	2	2
+Personer	11490203 Sevlandsvik	2019	467	2	2
+Personer	11490203 Sevlandsvik	2020	442	2	2
+Personer	11490203 Sevlandsvik	2021	459	2	2
+Personer	11490203 Sevlandsvik	2022	456	2	2
+Personer	11490203 Sevlandsvik	2023	464	2	2
+Personer	11490204 Varne	2000	263	2	2
+Personer	11490204 Varne	2001	259	2	2
+Personer	11490204 Varne	2002	251	2	2
+Personer	11490204 Varne	2003	263	2	2
+Personer	11490204 Varne	2004	275	2	2
+Personer	11490204 Varne	2005	269	2	2
+Personer	11490204 Varne	2006	271	2	2
+Personer	11490204 Varne	2007	265	2	2
+Personer	11490204 Varne	2008	258	2	2
+Personer	11490204 Varne	2009	239	2	2
+Personer	11490204 Varne	2010	252	2	2
+Personer	11490204 Varne	2011	261	2	2
+Personer	11490204 Varne	2012	254	2	2
+Personer	11490204 Varne	2013	248	2	2
+Personer	11490204 Varne	2014	250	2	2
+Personer	11490204 Varne	2015	263	2	2
+Personer	11490204 Varne	2016	264	2	2
+Personer	11490204 Varne	2017	266	2	2
+Personer	11490204 Varne	2018	262	2	2
+Personer	11490204 Varne	2019	252	2	2
+Personer	11490204 Varne	2020	249	2	2
+Personer	11490204 Varne	2021	245	2	2
+Personer	11490204 Varne	2022	255	2	2
+Personer	11490204 Varne	2023	265	2	2
+Personer	11490301 Tjøsvoll	2000	468	3	2
+Personer	11490301 Tjøsvoll	2001	485	3	2
+Personer	11490301 Tjøsvoll	2002	487	3	2
+Personer	11490301 Tjøsvoll	2003	475	3	2
+Personer	11490301 Tjøsvoll	2004	467	3	2
+Personer	11490301 Tjøsvoll	2005	462	3	2
+Personer	11490301 Tjøsvoll	2006	499	3	2
+Personer	11490301 Tjøsvoll	2007	488	3	2
+Personer	11490301 Tjøsvoll	2008	508	3	2
+Personer	11490301 Tjøsvoll	2009	514	3	2
+Personer	11490301 Tjøsvoll	2010	523	3	2
+Personer	11490301 Tjøsvoll	2011	515	3	2
+Personer	11490301 Tjøsvoll	2012	524	3	2
+Personer	11490301 Tjøsvoll	2013	518	3	2
+Personer	11490301 Tjøsvoll	2014	528	3	2
+Personer	11490301 Tjøsvoll	2015	519	3	2
+Personer	11490301 Tjøsvoll	2016	511	3	2
+Personer	11490301 Tjøsvoll	2017	503	3	2
+Personer	11490301 Tjøsvoll	2018	505	3	2
+Personer	11490301 Tjøsvoll	2019	503	3	2
+Personer	11490301 Tjøsvoll	2020	506	3	2
+Personer	11490301 Tjøsvoll	2021	500	3	2
+Personer	11490301 Tjøsvoll	2022	499	3	2
+Personer	11490301 Tjøsvoll	2023	499	3	2
+Personer	11490302 Tjøsvoll Øst	2000	766	3	2
+Personer	11490302 Tjøsvoll Øst	2001	743	3	2
+Personer	11490302 Tjøsvoll Øst	2002	729	3	2
+Personer	11490302 Tjøsvoll Øst	2003	754	3	2
+Personer	11490302 Tjøsvoll Øst	2004	773	3	2
+Personer	11490302 Tjøsvoll Øst	2005	777	3	2
+Personer	11490302 Tjøsvoll Øst	2006	786	3	2
+Personer	11490302 Tjøsvoll Øst	2007	810	3	2
+Personer	11490302 Tjøsvoll Øst	2008	838	3	2
+Personer	11490302 Tjøsvoll Øst	2009	875	3	2
+Personer	11490302 Tjøsvoll Øst	2010	883	3	2
+Personer	11490302 Tjøsvoll Øst	2011	872	3	2
+Personer	11490302 Tjøsvoll Øst	2012	894	3	2
+Personer	11490302 Tjøsvoll Øst	2013	885	3	2
+Personer	11490302 Tjøsvoll Øst	2014	891	3	2
+Personer	11490302 Tjøsvoll Øst	2015	902	3	2
+Personer	11490302 Tjøsvoll Øst	2016	929	3	2
+Personer	11490302 Tjøsvoll Øst	2017	959	3	2
+Personer	11490302 Tjøsvoll Øst	2018	989	3	2
+Personer	11490302 Tjøsvoll Øst	2019	1021	3	2
+Personer	11490302 Tjøsvoll Øst	2020	1038	3	2
+Personer	11490302 Tjøsvoll Øst	2021	1039	3	2
+Personer	11490302 Tjøsvoll Øst	2022	1024	3	2
+Personer	11490302 Tjøsvoll Øst	2023	1053	3	2
+Personer	11490303 Åkrehamn	2000	745	3	2
+Personer	11490303 Åkrehamn	2001	753	3	2
+Personer	11490303 Åkrehamn	2002	745	3	2
+Personer	11490303 Åkrehamn	2003	735	3	2
+Personer	11490303 Åkrehamn	2004	775	3	2
+Personer	11490303 Åkrehamn	2005	841	3	2
+Personer	11490303 Åkrehamn	2006	938	3	2
+Personer	11490303 Åkrehamn	2007	979	3	2
+Personer	11490303 Åkrehamn	2008	1057	3	2
+Personer	11490303 Åkrehamn	2009	1061	3	2
+Personer	11490303 Åkrehamn	2010	1076	3	2
+Personer	11490303 Åkrehamn	2011	1091	3	2
+Personer	11490303 Åkrehamn	2012	1121	3	2
+Personer	11490303 Åkrehamn	2013	1158	3	2
+Personer	11490303 Åkrehamn	2014	1188	3	2
+Personer	11490303 Åkrehamn	2015	1153	3	2
+Personer	11490303 Åkrehamn	2016	1168	3	2
+Personer	11490303 Åkrehamn	2017	1163	3	2
+Personer	11490303 Åkrehamn	2018	1181	3	2
+Personer	11490303 Åkrehamn	2019	1171	3	2
+Personer	11490303 Åkrehamn	2020	1180	3	2
+Personer	11490303 Åkrehamn	2021	1181	3	2
+Personer	11490303 Åkrehamn	2022	1180	3	2
+Personer	11490303 Åkrehamn	2023	1183	3	2
+Personer	11490304 Årvold	2000	545	3	2
+Personer	11490304 Årvold	2001	558	3	2
+Personer	11490304 Årvold	2002	562	3	2
+Personer	11490304 Årvold	2003	604	3	2
+Personer	11490304 Årvold	2004	614	3	2
+Personer	11490304 Årvold	2005	614	3	2
+Personer	11490304 Årvold	2006	624	3	2
+Personer	11490304 Årvold	2007	641	3	2
+Personer	11490304 Årvold	2008	641	3	2
+Personer	11490304 Årvold	2009	710	3	2
+Personer	11490304 Årvold	2010	700	3	2
+Personer	11490304 Årvold	2011	695	3	2
+Personer	11490304 Årvold	2012	699	3	2
+Personer	11490304 Årvold	2013	692	3	2
+Personer	11490304 Årvold	2014	722	3	2
+Personer	11490304 Årvold	2015	758	3	2
+Personer	11490304 Årvold	2016	794	3	2
+Personer	11490304 Årvold	2017	794	3	2
+Personer	11490304 Årvold	2018	828	3	2
+Personer	11490304 Årvold	2019	822	3	2
+Personer	11490304 Årvold	2020	797	3	2
+Personer	11490304 Årvold	2021	793	3	2
+Personer	11490304 Årvold	2022	801	3	2
+Personer	11490304 Årvold	2023	823	3	2
+Personer	11490305 Grindhaug	2000	466	3	2
+Personer	11490305 Grindhaug	2001	461	3	2
+Personer	11490305 Grindhaug	2002	458	3	2
+Personer	11490305 Grindhaug	2003	447	3	2
+Personer	11490305 Grindhaug	2004	439	3	2
+Personer	11490305 Grindhaug	2005	434	3	2
+Personer	11490305 Grindhaug	2006	417	3	2
+Personer	11490305 Grindhaug	2007	436	3	2
+Personer	11490305 Grindhaug	2008	450	3	2
+Personer	11490305 Grindhaug	2009	479	3	2
+Personer	11490305 Grindhaug	2010	494	3	2
+Personer	11490305 Grindhaug	2011	509	3	2
+Personer	11490305 Grindhaug	2012	537	3	2
+Personer	11490305 Grindhaug	2013	547	3	2
+Personer	11490305 Grindhaug	2014	540	3	2
+Personer	11490305 Grindhaug	2015	531	3	2
+Personer	11490305 Grindhaug	2016	562	3	2
+Personer	11490305 Grindhaug	2017	557	3	2
+Personer	11490305 Grindhaug	2018	564	3	2
+Personer	11490305 Grindhaug	2019	547	3	2
+Personer	11490305 Grindhaug	2020	556	3	2
+Personer	11490305 Grindhaug	2021	536	3	2
+Personer	11490305 Grindhaug	2022	522	3	2
+Personer	11490305 Grindhaug	2023	518	3	2
+Personer	11490306 Mosbron	2000	867	3	2
+Personer	11490306 Mosbron	2001	884	3	2
+Personer	11490306 Mosbron	2002	883	3	2
+Personer	11490306 Mosbron	2003	887	3	2
+Personer	11490306 Mosbron	2004	882	3	2
+Personer	11490306 Mosbron	2005	895	3	2
+Personer	11490306 Mosbron	2006	865	3	2
+Personer	11490306 Mosbron	2007	901	3	2
+Personer	11490306 Mosbron	2008	892	3	2
+Personer	11490306 Mosbron	2009	847	3	2
+Personer	11490306 Mosbron	2010	825	3	2
+Personer	11490306 Mosbron	2011	835	3	2
+Personer	11490306 Mosbron	2012	847	3	2
+Personer	11490306 Mosbron	2013	832	3	2
+Personer	11490306 Mosbron	2014	834	3	2
+Personer	11490306 Mosbron	2015	827	3	2
+Personer	11490306 Mosbron	2016	849	3	2
+Personer	11490306 Mosbron	2017	845	3	2
+Personer	11490306 Mosbron	2018	801	3	2
+Personer	11490306 Mosbron	2019	791	3	2
+Personer	11490306 Mosbron	2020	781	3	2
+Personer	11490306 Mosbron	2021	795	3	2
+Personer	11490306 Mosbron	2022	793	3	2
+Personer	11490306 Mosbron	2023	815	3	2
+Personer	11490307 Stong	2000	394	3	2
+Personer	11490307 Stong	2001	404	3	2
+Personer	11490307 Stong	2002	397	3	2
+Personer	11490307 Stong	2003	460	3	2
+Personer	11490307 Stong	2004	459	3	2
+Personer	11490307 Stong	2005	479	3	2
+Personer	11490307 Stong	2006	494	3	2
+Personer	11490307 Stong	2007	506	3	2
+Personer	11490307 Stong	2008	520	3	2
+Personer	11490307 Stong	2009	532	3	2
+Personer	11490307 Stong	2010	570	3	2
+Personer	11490307 Stong	2011	595	3	2
+Personer	11490307 Stong	2012	607	3	2
+Personer	11490307 Stong	2013	663	3	2
+Personer	11490307 Stong	2014	710	3	2
+Personer	11490307 Stong	2015	707	3	2
+Personer	11490307 Stong	2016	726	3	2
+Personer	11490307 Stong	2017	721	3	2
+Personer	11490307 Stong	2018	724	3	2
+Personer	11490307 Stong	2019	734	3	2
+Personer	11490307 Stong	2020	758	3	2
+Personer	11490307 Stong	2021	772	3	2
+Personer	11490307 Stong	2022	761	3	2
+Personer	11490307 Stong	2023	753	3	2
+Personer	11490308 Ådland	2000	488	3	2
+Personer	11490308 Ådland	2001	499	3	2
+Personer	11490308 Ådland	2002	510	3	2
+Personer	11490308 Ådland	2003	514	3	2
+Personer	11490308 Ådland	2004	499	3	2
+Personer	11490308 Ådland	2005	509	3	2
+Personer	11490308 Ådland	2006	516	3	2
+Personer	11490308 Ådland	2007	537	3	2
+Personer	11490308 Ådland	2008	565	3	2
+Personer	11490308 Ådland	2009	595	3	2
+Personer	11490308 Ådland	2010	611	3	2
+Personer	11490308 Ådland	2011	620	3	2
+Personer	11490308 Ådland	2012	626	3	2
+Personer	11490308 Ådland	2013	648	3	2
+Personer	11490308 Ådland	2014	659	3	2
+Personer	11490308 Ådland	2015	684	3	2
+Personer	11490308 Ådland	2016	677	3	2
+Personer	11490308 Ådland	2017	690	3	2
+Personer	11490308 Ådland	2018	683	3	2
+Personer	11490308 Ådland	2019	716	3	2
+Personer	11490308 Ådland	2020	698	3	2
+Personer	11490308 Ådland	2021	705	3	2
+Personer	11490308 Ådland	2022	709	3	2
+Personer	11490308 Ådland	2023	725	3	2
+Personer	11490309 Liknes	2000	364	3	2
+Personer	11490309 Liknes	2001	365	3	2
+Personer	11490309 Liknes	2002	348	3	2
+Personer	11490309 Liknes	2003	348	3	2
+Personer	11490309 Liknes	2004	348	3	2
+Personer	11490309 Liknes	2005	352	3	2
+Personer	11490309 Liknes	2006	343	3	2
+Personer	11490309 Liknes	2007	322	3	2
+Personer	11490309 Liknes	2008	314	3	2
+Personer	11490309 Liknes	2009	341	3	2
+Personer	11490309 Liknes	2010	338	3	2
+Personer	11490309 Liknes	2011	349	3	2
+Personer	11490309 Liknes	2012	343	3	2
+Personer	11490309 Liknes	2013	338	3	2
+Personer	11490309 Liknes	2014	338	3	2
+Personer	11490309 Liknes	2015	344	3	2
+Personer	11490309 Liknes	2016	338	3	2
+Personer	11490309 Liknes	2017	330	3	2
+Personer	11490309 Liknes	2018	336	3	2
+Personer	11490309 Liknes	2019	326	3	2
+Personer	11490309 Liknes	2020	313	3	2
+Personer	11490309 Liknes	2021	326	3	2
+Personer	11490309 Liknes	2022	325	3	2
+Personer	11490309 Liknes	2023	328	3	2
+Personer	11490401 Stava	2000	160	4	1
+Personer	11490401 Stava	2001	162	4	1
+Personer	11490401 Stava	2002	154	4	1
+Personer	11490401 Stava	2003	145	4	1
+Personer	11490401 Stava	2004	143	4	1
+Personer	11490401 Stava	2005	143	4	1
+Personer	11490401 Stava	2006	149	4	1
+Personer	11490401 Stava	2007	145	4	1
+Personer	11490401 Stava	2008	149	4	1
+Personer	11490401 Stava	2009	152	4	1
+Personer	11490401 Stava	2010	151	4	1
+Personer	11490401 Stava	2011	151	4	1
+Personer	11490401 Stava	2012	160	4	1
+Personer	11490401 Stava	2013	164	4	1
+Personer	11490401 Stava	2014	167	4	1
+Personer	11490401 Stava	2015	175	4	1
+Personer	11490401 Stava	2016	164	4	1
+Personer	11490401 Stava	2017	158	4	1
+Personer	11490401 Stava	2018	160	4	1
+Personer	11490401 Stava	2019	161	4	1
+Personer	11490401 Stava	2020	164	4	1
+Personer	11490401 Stava	2021	160	4	1
+Personer	11490401 Stava	2022	171	4	1
+Personer	11490401 Stava	2023	169	4	1
+Personer	11490402 Stol - Ferkingstad	2000	487	4	1
+Personer	11490402 Stol - Ferkingstad	2001	482	4	1
+Personer	11490402 Stol - Ferkingstad	2002	480	4	1
+Personer	11490402 Stol - Ferkingstad	2003	473	4	1
+Personer	11490402 Stol - Ferkingstad	2004	489	4	1
+Personer	11490402 Stol - Ferkingstad	2005	470	4	1
+Personer	11490402 Stol - Ferkingstad	2006	478	4	1
+Personer	11490402 Stol - Ferkingstad	2007	472	4	1
+Personer	11490402 Stol - Ferkingstad	2008	474	4	1
+Personer	11490402 Stol - Ferkingstad	2009	469	4	1
+Personer	11490402 Stol - Ferkingstad	2010	482	4	1
+Personer	11490402 Stol - Ferkingstad	2011	486	4	1
+Personer	11490402 Stol - Ferkingstad	2012	505	4	1
+Personer	11490402 Stol - Ferkingstad	2013	501	4	1
+Personer	11490402 Stol - Ferkingstad	2014	504	4	1
+Personer	11490402 Stol - Ferkingstad	2015	507	4	1
+Personer	11490402 Stol - Ferkingstad	2016	508	4	1
+Personer	11490402 Stol - Ferkingstad	2017	520	4	1
+Personer	11490402 Stol - Ferkingstad	2018	500	4	1
+Personer	11490402 Stol - Ferkingstad	2019	508	4	1
+Personer	11490402 Stol - Ferkingstad	2020	515	4	1
+Personer	11490402 Stol - Ferkingstad	2021	519	4	1
+Personer	11490402 Stol - Ferkingstad	2022	516	4	1
+Personer	11490402 Stol - Ferkingstad	2023	512	4	1
+Personer	11490403 Langåker - Kvilhaug	2000	423	4	1
+Personer	11490403 Langåker - Kvilhaug	2001	441	4	1
+Personer	11490403 Langåker - Kvilhaug	2002	439	4	1
+Personer	11490403 Langåker - Kvilhaug	2003	444	4	1
+Personer	11490403 Langåker - Kvilhaug	2004	455	4	1
+Personer	11490403 Langåker - Kvilhaug	2005	445	4	1
+Personer	11490403 Langåker - Kvilhaug	2006	442	4	1
+Personer	11490403 Langåker - Kvilhaug	2007	432	4	1
+Personer	11490403 Langåker - Kvilhaug	2008	442	4	1
+Personer	11490403 Langåker - Kvilhaug	2009	453	4	1
+Personer	11490403 Langåker - Kvilhaug	2010	446	4	1
+Personer	11490403 Langåker - Kvilhaug	2011	441	4	1
+Personer	11490403 Langåker - Kvilhaug	2012	446	4	1
+Personer	11490403 Langåker - Kvilhaug	2013	433	4	1
+Personer	11490403 Langåker - Kvilhaug	2014	428	4	1
+Personer	11490403 Langåker - Kvilhaug	2015	422	4	1
+Personer	11490403 Langåker - Kvilhaug	2016	422	4	1
+Personer	11490403 Langåker - Kvilhaug	2017	414	4	1
+Personer	11490403 Langåker - Kvilhaug	2018	409	4	1
+Personer	11490403 Langåker - Kvilhaug	2019	402	4	1
+Personer	11490403 Langåker - Kvilhaug	2020	396	4	1
+Personer	11490403 Langåker - Kvilhaug	2021	392	4	1
+Personer	11490403 Langåker - Kvilhaug	2022	405	4	1
+Personer	11490403 Langåker - Kvilhaug	2023	403	4	1
+Personer	11490404 Hemnes - Sandhåland	2000	255	4	1
+Personer	11490404 Hemnes - Sandhåland	2001	254	4	1
+Personer	11490404 Hemnes - Sandhåland	2002	247	4	1
+Personer	11490404 Hemnes - Sandhåland	2003	243	4	1
+Personer	11490404 Hemnes - Sandhåland	2004	248	4	1
+Personer	11490404 Hemnes - Sandhåland	2005	246	4	1
+Personer	11490404 Hemnes - Sandhåland	2006	242	4	1
+Personer	11490404 Hemnes - Sandhåland	2007	239	4	1
+Personer	11490404 Hemnes - Sandhåland	2008	234	4	1
+Personer	11490404 Hemnes - Sandhåland	2009	238	4	1
+Personer	11490404 Hemnes - Sandhåland	2010	240	4	1
+Personer	11490404 Hemnes - Sandhåland	2011	243	4	1
+Personer	11490404 Hemnes - Sandhåland	2012	238	4	1
+Personer	11490404 Hemnes - Sandhåland	2013	247	4	1
+Personer	11490404 Hemnes - Sandhåland	2014	257	4	1
+Personer	11490404 Hemnes - Sandhåland	2015	246	4	1
+Personer	11490404 Hemnes - Sandhåland	2016	253	4	1
+Personer	11490404 Hemnes - Sandhåland	2017	242	4	1
+Personer	11490404 Hemnes - Sandhåland	2018	227	4	1
+Personer	11490404 Hemnes - Sandhåland	2019	224	4	1
+Personer	11490404 Hemnes - Sandhåland	2020	226	4	1
+Personer	11490404 Hemnes - Sandhåland	2021	230	4	1
+Personer	11490404 Hemnes - Sandhåland	2022	239	4	1
+Personer	11490404 Hemnes - Sandhåland	2023	237	4	1
+Personer	11490501 Vikra	2000	265	5	1
+Personer	11490501 Vikra	2001	247	5	1
+Personer	11490501 Vikra	2002	262	5	1
+Personer	11490501 Vikra	2003	255	5	1
+Personer	11490501 Vikra	2004	259	5	1
+Personer	11490501 Vikra	2005	248	5	1
+Personer	11490501 Vikra	2006	240	5	1
+Personer	11490501 Vikra	2007	227	5	1
+Personer	11490501 Vikra	2008	205	5	1
+Personer	11490501 Vikra	2009	222	5	1
+Personer	11490501 Vikra	2010	219	5	1
+Personer	11490501 Vikra	2011	206	5	1
+Personer	11490501 Vikra	2012	221	5	1
+Personer	11490501 Vikra	2013	220	5	1
+Personer	11490501 Vikra	2014	212	5	1
+Personer	11490501 Vikra	2015	204	5	1
+Personer	11490501 Vikra	2016	197	5	1
+Personer	11490501 Vikra	2017	204	5	1
+Personer	11490501 Vikra	2018	198	5	1
+Personer	11490501 Vikra	2019	201	5	1
+Personer	11490501 Vikra	2020	201	5	1
+Personer	11490501 Vikra	2021	206	5	1
+Personer	11490501 Vikra	2022	210	5	1
+Personer	11490501 Vikra	2023	224	5	1
+Personer	11490502 Sandve	2000	204	5	1
+Personer	11490502 Sandve	2001	212	5	1
+Personer	11490502 Sandve	2002	205	5	1
+Personer	11490502 Sandve	2003	209	5	1
+Personer	11490502 Sandve	2004	205	5	1
+Personer	11490502 Sandve	2005	215	5	1
+Personer	11490502 Sandve	2006	218	5	1
+Personer	11490502 Sandve	2007	212	5	1
+Personer	11490502 Sandve	2008	208	5	1
+Personer	11490502 Sandve	2009	223	5	1
+Personer	11490502 Sandve	2010	228	5	1
+Personer	11490502 Sandve	2011	242	5	1
+Personer	11490502 Sandve	2012	232	5	1
+Personer	11490502 Sandve	2013	217	5	1
+Personer	11490502 Sandve	2014	226	5	1
+Personer	11490502 Sandve	2015	218	5	1
+Personer	11490502 Sandve	2016	242	5	1
+Personer	11490502 Sandve	2017	237	5	1
+Personer	11490502 Sandve	2018	231	5	1
+Personer	11490502 Sandve	2019	227	5	1
+Personer	11490502 Sandve	2020	224	5	1
+Personer	11490502 Sandve	2021	222	5	1
+Personer	11490502 Sandve	2022	218	5	1
+Personer	11490502 Sandve	2023	217	5	1
+Personer	11490503 Syre	2000	461	5	1
+Personer	11490503 Syre	2001	472	5	1
+Personer	11490503 Syre	2002	466	5	1
+Personer	11490503 Syre	2003	453	5	1
+Personer	11490503 Syre	2004	442	5	1
+Personer	11490503 Syre	2005	427	5	1
+Personer	11490503 Syre	2006	412	5	1
+Personer	11490503 Syre	2007	397	5	1
+Personer	11490503 Syre	2008	378	5	1
+Personer	11490503 Syre	2009	384	5	1
+Personer	11490503 Syre	2010	376	5	1
+Personer	11490503 Syre	2011	370	5	1
+Personer	11490503 Syre	2012	370	5	1
+Personer	11490503 Syre	2013	368	5	1
+Personer	11490503 Syre	2014	361	5	1
+Personer	11490503 Syre	2015	365	5	1
+Personer	11490503 Syre	2016	367	5	1
+Personer	11490503 Syre	2017	360	5	1
+Personer	11490503 Syre	2018	380	5	1
+Personer	11490503 Syre	2019	369	5	1
+Personer	11490503 Syre	2020	370	5	1
+Personer	11490503 Syre	2021	368	5	1
+Personer	11490503 Syre	2022	372	5	1
+Personer	11490503 Syre	2023	373	5	1
+Personer	11490504 Breidablikk	2000	305	5	1
+Personer	11490504 Breidablikk	2001	303	5	1
+Personer	11490504 Breidablikk	2002	316	5	1
+Personer	11490504 Breidablikk	2003	293	5	1
+Personer	11490504 Breidablikk	2004	290	5	1
+Personer	11490504 Breidablikk	2005	277	5	1
+Personer	11490504 Breidablikk	2006	302	5	1
+Personer	11490504 Breidablikk	2007	298	5	1
+Personer	11490504 Breidablikk	2008	307	5	1
+Personer	11490504 Breidablikk	2009	291	5	1
+Personer	11490504 Breidablikk	2010	298	5	1
+Personer	11490504 Breidablikk	2011	303	5	1
+Personer	11490504 Breidablikk	2012	305	5	1
+Personer	11490504 Breidablikk	2013	327	5	1
+Personer	11490504 Breidablikk	2014	335	5	1
+Personer	11490504 Breidablikk	2015	323	5	1
+Personer	11490504 Breidablikk	2016	335	5	1
+Personer	11490504 Breidablikk	2017	326	5	1
+Personer	11490504 Breidablikk	2018	317	5	1
+Personer	11490504 Breidablikk	2019	310	5	1
+Personer	11490504 Breidablikk	2020	308	5	1
+Personer	11490504 Breidablikk	2021	304	5	1
+Personer	11490504 Breidablikk	2022	308	5	1
+Personer	11490504 Breidablikk	2023	301	5	1
+Personer	11490505 Hålandshøgda	2000	414	5	1
+Personer	11490505 Hålandshøgda	2001	426	5	1
+Personer	11490505 Hålandshøgda	2002	420	5	1
+Personer	11490505 Hålandshøgda	2003	422	5	1
+Personer	11490505 Hålandshøgda	2004	434	5	1
+Personer	11490505 Hålandshøgda	2005	425	5	1
+Personer	11490505 Hålandshøgda	2006	456	5	1
+Personer	11490505 Hålandshøgda	2007	461	5	1
+Personer	11490505 Hålandshøgda	2008	479	5	1
+Personer	11490505 Hålandshøgda	2009	478	5	1
+Personer	11490505 Hålandshøgda	2010	480	5	1
+Personer	11490505 Hålandshøgda	2011	497	5	1
+Personer	11490505 Hålandshøgda	2012	491	5	1
+Personer	11490505 Hålandshøgda	2013	512	5	1
+Personer	11490505 Hålandshøgda	2014	518	5	1
+Personer	11490505 Hålandshøgda	2015	553	5	1
+Personer	11490505 Hålandshøgda	2016	556	5	1
+Personer	11490505 Hålandshøgda	2017	564	5	1
+Personer	11490505 Hålandshøgda	2018	576	5	1
+Personer	11490505 Hålandshøgda	2019	555	5	1
+Personer	11490505 Hålandshøgda	2020	571	5	1
+Personer	11490505 Hålandshøgda	2021	579	5	1
+Personer	11490505 Hålandshøgda	2022	592	5	1
+Personer	11490505 Hålandshøgda	2023	593	5	1
+Personer	11490506 Vågen - Varden	2000	253	5	1
+Personer	11490506 Vågen - Varden	2001	244	5	1
+Personer	11490506 Vågen - Varden	2002	250	5	1
+Personer	11490506 Vågen - Varden	2003	240	5	1
+Personer	11490506 Vågen - Varden	2004	232	5	1
+Personer	11490506 Vågen - Varden	2005	233	5	1
+Personer	11490506 Vågen - Varden	2006	234	5	1
+Personer	11490506 Vågen - Varden	2007	228	5	1
+Personer	11490506 Vågen - Varden	2008	240	5	1
+Personer	11490506 Vågen - Varden	2009	258	5	1
+Personer	11490506 Vågen - Varden	2010	264	5	1
+Personer	11490506 Vågen - Varden	2011	270	5	1
+Personer	11490506 Vågen - Varden	2012	278	5	1
+Personer	11490506 Vågen - Varden	2013	273	5	1
+Personer	11490506 Vågen - Varden	2014	284	5	1
+Personer	11490506 Vågen - Varden	2015	277	5	1
+Personer	11490506 Vågen - Varden	2016	281	5	1
+Personer	11490506 Vågen - Varden	2017	279	5	1
+Personer	11490506 Vågen - Varden	2018	287	5	1
+Personer	11490506 Vågen - Varden	2019	278	5	1
+Personer	11490506 Vågen - Varden	2020	281	5	1
+Personer	11490506 Vågen - Varden	2021	275	5	1
+Personer	11490506 Vågen - Varden	2022	276	5	1
+Personer	11490506 Vågen - Varden	2023	272	5	1
+Personer	11490507 Skudeneshavn	2000	736	5	1
+Personer	11490507 Skudeneshavn	2001	726	5	1
+Personer	11490507 Skudeneshavn	2002	723	5	1
+Personer	11490507 Skudeneshavn	2003	730	5	1
+Personer	11490507 Skudeneshavn	2004	752	5	1
+Personer	11490507 Skudeneshavn	2005	783	5	1
+Personer	11490507 Skudeneshavn	2006	744	5	1
+Personer	11490507 Skudeneshavn	2007	763	5	1
+Personer	11490507 Skudeneshavn	2008	754	5	1
+Personer	11490507 Skudeneshavn	2009	762	5	1
+Personer	11490507 Skudeneshavn	2010	786	5	1
+Personer	11490507 Skudeneshavn	2011	794	5	1
+Personer	11490507 Skudeneshavn	2012	784	5	1
+Personer	11490507 Skudeneshavn	2013	781	5	1
+Personer	11490507 Skudeneshavn	2014	804	5	1
+Personer	11490507 Skudeneshavn	2015	818	5	1
+Personer	11490507 Skudeneshavn	2016	811	5	1
+Personer	11490507 Skudeneshavn	2017	850	5	1
+Personer	11490507 Skudeneshavn	2018	829	5	1
+Personer	11490507 Skudeneshavn	2019	838	5	1
+Personer	11490507 Skudeneshavn	2020	812	5	1
+Personer	11490507 Skudeneshavn	2021	792	5	1
+Personer	11490507 Skudeneshavn	2022	782	5	1
+Personer	11490507 Skudeneshavn	2023	800	5	1
+Personer	11490508 Vigevågen	2000	677	5	1
+Personer	11490508 Vigevågen	2001	674	5	1
+Personer	11490508 Vigevågen	2002	697	5	1
+Personer	11490508 Vigevågen	2003	723	5	1
+Personer	11490508 Vigevågen	2004	714	5	1
+Personer	11490508 Vigevågen	2005	708	5	1
+Personer	11490508 Vigevågen	2006	729	5	1
+Personer	11490508 Vigevågen	2007	723	5	1
+Personer	11490508 Vigevågen	2008	712	5	1
+Personer	11490508 Vigevågen	2009	771	5	1
+Personer	11490508 Vigevågen	2010	759	5	1
+Personer	11490508 Vigevågen	2011	765	5	1
+Personer	11490508 Vigevågen	2012	734	5	1
+Personer	11490508 Vigevågen	2013	729	5	1
+Personer	11490508 Vigevågen	2014	731	5	1
+Personer	11490508 Vigevågen	2015	732	5	1
+Personer	11490508 Vigevågen	2016	725	5	1
+Personer	11490508 Vigevågen	2017	696	5	1
+Personer	11490508 Vigevågen	2018	677	5	1
+Personer	11490508 Vigevågen	2019	677	5	1
+Personer	11490508 Vigevågen	2020	659	5	1
+Personer	11490508 Vigevågen	2021	661	5	1
+Personer	11490508 Vigevågen	2022	668	5	1
+Personer	11490508 Vigevågen	2023	654	5	1
+Personer	11490509 Vik	2000	532	5	1
+Personer	11490509 Vik	2001	540	5	1
+Personer	11490509 Vik	2002	518	5	1
+Personer	11490509 Vik	2003	518	5	1
+Personer	11490509 Vik	2004	504	5	1
+Personer	11490509 Vik	2005	508	5	1
+Personer	11490509 Vik	2006	509	5	1
+Personer	11490509 Vik	2007	507	5	1
+Personer	11490509 Vik	2008	513	5	1
+Personer	11490509 Vik	2009	469	5	1
+Personer	11490509 Vik	2010	469	5	1
+Personer	11490509 Vik	2011	473	5	1
+Personer	11490509 Vik	2012	486	5	1
+Personer	11490509 Vik	2013	481	5	1
+Personer	11490509 Vik	2014	464	5	1
+Personer	11490509 Vik	2015	453	5	1
+Personer	11490509 Vik	2016	447	5	1
+Personer	11490509 Vik	2017	435	5	1
+Personer	11490509 Vik	2018	429	5	1
+Personer	11490509 Vik	2019	430	5	1
+Personer	11490509 Vik	2020	426	5	1
+Personer	11490509 Vik	2021	441	5	1
+Personer	11490509 Vik	2022	436	5	1
+Personer	11490509 Vik	2023	440	5	1
+Personer	11490510 Falnes	2000	105	5	1
+Personer	11490510 Falnes	2001	115	5	1
+Personer	11490510 Falnes	2002	68	5	1
+Personer	11490510 Falnes	2003	63	5	1
+Personer	11490510 Falnes	2004	63	5	1
+Personer	11490510 Falnes	2005	73	5	1
+Personer	11490510 Falnes	2006	62	5	1
+Personer	11490510 Falnes	2007	67	5	1
+Personer	11490510 Falnes	2008	64	5	1
+Personer	11490510 Falnes	2009	62	5	1
+Personer	11490510 Falnes	2010	65	5	1
+Personer	11490510 Falnes	2011	63	5	1
+Personer	11490510 Falnes	2012	70	5	1
+Personer	11490510 Falnes	2013	67	5	1
+Personer	11490510 Falnes	2014	61	5	1
+Personer	11490510 Falnes	2015	63	5	1
+Personer	11490510 Falnes	2016	56	5	1
+Personer	11490510 Falnes	2017	60	5	1
+Personer	11490510 Falnes	2018	68	5	1
+Personer	11490510 Falnes	2019	71	5	1
+Personer	11490510 Falnes	2020	66	5	1
+Personer	11490510 Falnes	2021	64	5	1
+Personer	11490510 Falnes	2022	62	5	1
+Personer	11490510 Falnes	2023	61	5	1
+Personer	11490511 Hillesland	2000	48	5	1
+Personer	11490511 Hillesland	2001	47	5	1
+Personer	11490511 Hillesland	2002	44	5	1
+Personer	11490511 Hillesland	2003	43	5	1
+Personer	11490511 Hillesland	2004	46	5	1
+Personer	11490511 Hillesland	2005	48	5	1
+Personer	11490511 Hillesland	2006	42	5	1
+Personer	11490511 Hillesland	2007	42	5	1
+Personer	11490511 Hillesland	2008	39	5	1
+Personer	11490511 Hillesland	2009	44	5	1
+Personer	11490511 Hillesland	2010	48	5	1
+Personer	11490511 Hillesland	2011	55	5	1
+Personer	11490511 Hillesland	2012	38	5	1
+Personer	11490511 Hillesland	2013	38	5	1
+Personer	11490511 Hillesland	2014	41	5	1
+Personer	11490511 Hillesland	2015	41	5	1
+Personer	11490511 Hillesland	2016	35	5	1
+Personer	11490511 Hillesland	2017	33	5	1
+Personer	11490511 Hillesland	2018	32	5	1
+Personer	11490511 Hillesland	2019	31	5	1
+Personer	11490511 Hillesland	2020	30	5	1
+Personer	11490511 Hillesland	2021	32	5	1
+Personer	11490511 Hillesland	2022	30	5	1
+Personer	11490511 Hillesland	2023	29	5	1
+Personer	11490512 Hovdastad	2000	80	5	1
+Personer	11490512 Hovdastad	2001	74	5	1
+Personer	11490512 Hovdastad	2002	79	5	1
+Personer	11490512 Hovdastad	2003	78	5	1
+Personer	11490512 Hovdastad	2004	89	5	1
+Personer	11490512 Hovdastad	2005	89	5	1
+Personer	11490512 Hovdastad	2006	86	5	1
+Personer	11490512 Hovdastad	2007	88	5	1
+Personer	11490512 Hovdastad	2008	79	5	1
+Personer	11490512 Hovdastad	2009	81	5	1
+Personer	11490512 Hovdastad	2010	81	5	1
+Personer	11490512 Hovdastad	2011	78	5	1
+Personer	11490512 Hovdastad	2012	86	5	1
+Personer	11490512 Hovdastad	2013	85	5	1
+Personer	11490512 Hovdastad	2014	86	5	1
+Personer	11490512 Hovdastad	2015	75	5	1
+Personer	11490512 Hovdastad	2016	73	5	1
+Personer	11490512 Hovdastad	2017	73	5	1
+Personer	11490512 Hovdastad	2018	66	5	1
+Personer	11490512 Hovdastad	2019	68	5	1
+Personer	11490512 Hovdastad	2020	70	5	1
+Personer	11490512 Hovdastad	2021	64	5	1
+Personer	11490512 Hovdastad	2022	79	5	1
+Personer	11490512 Hovdastad	2023	83	5	1
+Personer	11490513 Snørteland	2000	15	5	1
+Personer	11490513 Snørteland	2001	15	5	1
+Personer	11490513 Snørteland	2002	14	5	1
+Personer	11490513 Snørteland	2003	13	5	1
+Personer	11490513 Snørteland	2004	13	5	1
+Personer	11490513 Snørteland	2005	12	5	1
+Personer	11490513 Snørteland	2006	12	5	1
+Personer	11490513 Snørteland	2007	14	5	1
+Personer	11490513 Snørteland	2008	15	5	1
+Personer	11490513 Snørteland	2009	10	5	1
+Personer	11490513 Snørteland	2010	11	5	1
+Personer	11490513 Snørteland	2011	11	5	1
+Personer	11490513 Snørteland	2012	9	5	1
+Personer	11490513 Snørteland	2013	9	5	1
+Personer	11490513 Snørteland	2014	9	5	1
+Personer	11490513 Snørteland	2015	9	5	1
+Personer	11490513 Snørteland	2016	9	5	1
+Personer	11490513 Snørteland	2017	9	5	1
+Personer	11490513 Snørteland	2018	12	5	1
+Personer	11490513 Snørteland	2019	12	5	1
+Personer	11490513 Snørteland	2020	12	5	1
+Personer	11490513 Snørteland	2021	12	5	1
+Personer	11490513 Snørteland	2022	10	5	1
+Personer	11490513 Snørteland	2023	10	5	1
+Personer	11490601 Stokkastrand	2000	409	6	3
+Personer	11490601 Stokkastrand	2001	420	6	3
+Personer	11490601 Stokkastrand	2002	431	6	3
+Personer	11490601 Stokkastrand	2003	423	6	3
+Personer	11490601 Stokkastrand	2004	420	6	3
+Personer	11490601 Stokkastrand	2005	419	6	3
+Personer	11490601 Stokkastrand	2006	407	6	3
+Personer	11490601 Stokkastrand	2007	418	6	3
+Personer	11490601 Stokkastrand	2008	426	6	3
+Personer	11490601 Stokkastrand	2009	439	6	3
+Personer	11490601 Stokkastrand	2010	430	6	3
+Personer	11490601 Stokkastrand	2011	432	6	3
+Personer	11490601 Stokkastrand	2012	433	6	3
+Personer	11490601 Stokkastrand	2013	445	6	3
+Personer	11490601 Stokkastrand	2014	430	6	3
+Personer	11490601 Stokkastrand	2015	445	6	3
+Personer	11490601 Stokkastrand	2016	426	6	3
+Personer	11490601 Stokkastrand	2017	434	6	3
+Personer	11490601 Stokkastrand	2018	432	6	3
+Personer	11490601 Stokkastrand	2019	418	6	3
+Personer	11490601 Stokkastrand	2020	403	6	3
+Personer	11490601 Stokkastrand	2021	407	6	3
+Personer	11490601 Stokkastrand	2022	423	6	3
+Personer	11490601 Stokkastrand	2023	442	6	3
+Personer	11490602 Nordstokke	2000	375	6	3
+Personer	11490602 Nordstokke	2001	368	6	3
+Personer	11490602 Nordstokke	2002	344	6	3
+Personer	11490602 Nordstokke	2003	365	6	3
+Personer	11490602 Nordstokke	2004	376	6	3
+Personer	11490602 Nordstokke	2005	393	6	3
+Personer	11490602 Nordstokke	2006	370	6	3
+Personer	11490602 Nordstokke	2007	375	6	3
+Personer	11490602 Nordstokke	2008	386	6	3
+Personer	11490602 Nordstokke	2009	397	6	3
+Personer	11490602 Nordstokke	2010	421	6	3
+Personer	11490602 Nordstokke	2011	429	6	3
+Personer	11490602 Nordstokke	2012	459	6	3
+Personer	11490602 Nordstokke	2013	471	6	3
+Personer	11490602 Nordstokke	2014	529	6	3
+Personer	11490602 Nordstokke	2015	521	6	3
+Personer	11490602 Nordstokke	2016	535	6	3
+Personer	11490602 Nordstokke	2017	535	6	3
+Personer	11490602 Nordstokke	2018	545	6	3
+Personer	11490602 Nordstokke	2019	539	6	3
+Personer	11490602 Nordstokke	2020	556	6	3
+Personer	11490602 Nordstokke	2021	554	6	3
+Personer	11490602 Nordstokke	2022	565	6	3
+Personer	11490602 Nordstokke	2023	553	6	3
+Personer	11490603 Stangeland	2000	1366	6	3
+Personer	11490603 Stangeland	2001	1341	6	3
+Personer	11490603 Stangeland	2002	1319	6	3
+Personer	11490603 Stangeland	2003	1306	6	3
+Personer	11490603 Stangeland	2004	1288	6	3
+Personer	11490603 Stangeland	2005	1270	6	3
+Personer	11490603 Stangeland	2006	1248	6	3
+Personer	11490603 Stangeland	2007	1241	6	3
+Personer	11490603 Stangeland	2008	1210	6	3
+Personer	11490603 Stangeland	2009	1235	6	3
+Personer	11490603 Stangeland	2010	1229	6	3
+Personer	11490603 Stangeland	2011	1228	6	3
+Personer	11490603 Stangeland	2012	1240	6	3
+Personer	11490603 Stangeland	2013	1199	6	3
+Personer	11490603 Stangeland	2014	1174	6	3
+Personer	11490603 Stangeland	2015	1167	6	3
+Personer	11490603 Stangeland	2016	1169	6	3
+Personer	11490603 Stangeland	2017	1181	6	3
+Personer	11490603 Stangeland	2018	1136	6	3
+Personer	11490603 Stangeland	2019	1136	6	3
+Personer	11490603 Stangeland	2020	1153	6	3
+Personer	11490603 Stangeland	2021	1156	6	3
+Personer	11490603 Stangeland	2022	1157	6	3
+Personer	11490603 Stangeland	2023	1175	6	3
+Personer	11490604 Liar	2000	634	6	3
+Personer	11490604 Liar	2001	623	6	3
+Personer	11490604 Liar	2002	606	6	3
+Personer	11490604 Liar	2003	599	6	3
+Personer	11490604 Liar	2004	591	6	3
+Personer	11490604 Liar	2005	573	6	3
+Personer	11490604 Liar	2006	591	6	3
+Personer	11490604 Liar	2007	592	6	3
+Personer	11490604 Liar	2008	613	6	3
+Personer	11490604 Liar	2009	636	6	3
+Personer	11490604 Liar	2010	635	6	3
+Personer	11490604 Liar	2011	612	6	3
+Personer	11490604 Liar	2012	619	6	3
+Personer	11490604 Liar	2013	636	6	3
+Personer	11490604 Liar	2014	623	6	3
+Personer	11490604 Liar	2015	621	6	3
+Personer	11490604 Liar	2016	619	6	3
+Personer	11490604 Liar	2017	594	6	3
+Personer	11490604 Liar	2018	586	6	3
+Personer	11490604 Liar	2019	573	6	3
+Personer	11490604 Liar	2020	572	6	3
+Personer	11490604 Liar	2021	554	6	3
+Personer	11490604 Liar	2022	557	6	3
+Personer	11490604 Liar	2023	535	6	3
+Personer	11490605 Kalvatre	2000	693	6	3
+Personer	11490605 Kalvatre	2001	719	6	3
+Personer	11490605 Kalvatre	2002	706	6	3
+Personer	11490605 Kalvatre	2003	707	6	3
+Personer	11490605 Kalvatre	2004	701	6	3
+Personer	11490605 Kalvatre	2005	741	6	3
+Personer	11490605 Kalvatre	2006	757	6	3
+Personer	11490605 Kalvatre	2007	761	6	3
+Personer	11490605 Kalvatre	2008	797	6	3
+Personer	11490605 Kalvatre	2009	789	6	3
+Personer	11490605 Kalvatre	2010	807	6	3
+Personer	11490605 Kalvatre	2011	851	6	3
+Personer	11490605 Kalvatre	2012	849	6	3
+Personer	11490605 Kalvatre	2013	881	6	3
+Personer	11490605 Kalvatre	2014	951	6	3
+Personer	11490605 Kalvatre	2015	958	6	3
+Personer	11490605 Kalvatre	2016	956	6	3
+Personer	11490605 Kalvatre	2017	980	6	3
+Personer	11490605 Kalvatre	2018	991	6	3
+Personer	11490605 Kalvatre	2019	1007	6	3
+Personer	11490605 Kalvatre	2020	994	6	3
+Personer	11490605 Kalvatre	2021	975	6	3
+Personer	11490605 Kalvatre	2022	985	6	3
+Personer	11490605 Kalvatre	2023	993	6	3
+Personer	11490606 Kopervik Sentrum	2000	681	6	3
+Personer	11490606 Kopervik Sentrum	2001	698	6	3
+Personer	11490606 Kopervik Sentrum	2002	719	6	3
+Personer	11490606 Kopervik Sentrum	2003	713	6	3
+Personer	11490606 Kopervik Sentrum	2004	722	6	3
+Personer	11490606 Kopervik Sentrum	2005	731	6	3
+Personer	11490606 Kopervik Sentrum	2006	758	6	3
+Personer	11490606 Kopervik Sentrum	2007	750	6	3
+Personer	11490606 Kopervik Sentrum	2008	759	6	3
+Personer	11490606 Kopervik Sentrum	2009	776	6	3
+Personer	11490606 Kopervik Sentrum	2010	725	6	3
+Personer	11490606 Kopervik Sentrum	2011	758	6	3
+Personer	11490606 Kopervik Sentrum	2012	799	6	3
+Personer	11490606 Kopervik Sentrum	2013	834	6	3
+Personer	11490606 Kopervik Sentrum	2014	863	6	3
+Personer	11490606 Kopervik Sentrum	2015	885	6	3
+Personer	11490606 Kopervik Sentrum	2016	869	6	3
+Personer	11490606 Kopervik Sentrum	2017	833	6	3
+Personer	11490606 Kopervik Sentrum	2018	851	6	3
+Personer	11490606 Kopervik Sentrum	2019	834	6	3
+Personer	11490606 Kopervik Sentrum	2020	825	6	3
+Personer	11490606 Kopervik Sentrum	2021	834	6	3
+Personer	11490606 Kopervik Sentrum	2022	819	6	3
+Personer	11490606 Kopervik Sentrum	2023	855	6	3
+Personer	11490607 Nordre Side	2000	359	6	3
+Personer	11490607 Nordre Side	2001	327	6	3
+Personer	11490607 Nordre Side	2002	343	6	3
+Personer	11490607 Nordre Side	2003	359	6	3
+Personer	11490607 Nordre Side	2004	353	6	3
+Personer	11490607 Nordre Side	2005	376	6	3
+Personer	11490607 Nordre Side	2006	371	6	3
+Personer	11490607 Nordre Side	2007	373	6	3
+Personer	11490607 Nordre Side	2008	387	6	3
+Personer	11490607 Nordre Side	2009	368	6	3
+Personer	11490607 Nordre Side	2010	348	6	3
+Personer	11490607 Nordre Side	2011	381	6	3
+Personer	11490607 Nordre Side	2012	400	6	3
+Personer	11490607 Nordre Side	2013	418	6	3
+Personer	11490607 Nordre Side	2014	412	6	3
+Personer	11490607 Nordre Side	2015	425	6	3
+Personer	11490607 Nordre Side	2016	418	6	3
+Personer	11490607 Nordre Side	2017	413	6	3
+Personer	11490607 Nordre Side	2018	430	6	3
+Personer	11490607 Nordre Side	2019	430	6	3
+Personer	11490607 Nordre Side	2020	421	6	3
+Personer	11490607 Nordre Side	2021	426	6	3
+Personer	11490607 Nordre Side	2022	437	6	3
+Personer	11490607 Nordre Side	2023	437	6	3
+Personer	11490608 Østremneset	2000	960	6	3
+Personer	11490608 Østremneset	2001	987	6	3
+Personer	11490608 Østremneset	2002	983	6	3
+Personer	11490608 Østremneset	2003	966	6	3
+Personer	11490608 Østremneset	2004	942	6	3
+Personer	11490608 Østremneset	2005	885	6	3
+Personer	11490608 Østremneset	2006	878	6	3
+Personer	11490608 Østremneset	2007	865	6	3
+Personer	11490608 Østremneset	2008	910	6	3
+Personer	11490608 Østremneset	2009	932	6	3
+Personer	11490608 Østremneset	2010	944	6	3
+Personer	11490608 Østremneset	2011	933	6	3
+Personer	11490608 Østremneset	2012	950	6	3
+Personer	11490608 Østremneset	2013	935	6	3
+Personer	11490608 Østremneset	2014	935	6	3
+Personer	11490608 Østremneset	2015	903	6	3
+Personer	11490608 Østremneset	2016	873	6	3
+Personer	11490608 Østremneset	2017	893	6	3
+Personer	11490608 Østremneset	2018	875	6	3
+Personer	11490608 Østremneset	2019	881	6	3
+Personer	11490608 Østremneset	2020	883	6	3
+Personer	11490608 Østremneset	2021	888	6	3
+Personer	11490608 Østremneset	2022	841	6	3
+Personer	11490608 Østremneset	2023	842	6	3
+Personer	11490609 Eide	2000	375	6	3
+Personer	11490609 Eide	2001	370	6	3
+Personer	11490609 Eide	2002	382	6	3
+Personer	11490609 Eide	2003	410	6	3
+Personer	11490609 Eide	2004	436	6	3
+Personer	11490609 Eide	2005	471	6	3
+Personer	11490609 Eide	2006	468	6	3
+Personer	11490609 Eide	2007	503	6	3
+Personer	11490609 Eide	2008	518	6	3
+Personer	11490609 Eide	2009	542	6	3
+Personer	11490609 Eide	2010	582	6	3
+Personer	11490609 Eide	2011	620	6	3
+Personer	11490609 Eide	2012	651	6	3
+Personer	11490609 Eide	2013	668	6	3
+Personer	11490609 Eide	2014	705	6	3
+Personer	11490609 Eide	2015	755	6	3
+Personer	11490609 Eide	2016	802	6	3
+Personer	11490609 Eide	2017	805	6	3
+Personer	11490609 Eide	2018	830	6	3
+Personer	11490609 Eide	2019	807	6	3
+Personer	11490609 Eide	2020	800	6	3
+Personer	11490609 Eide	2021	780	6	3
+Personer	11490609 Eide	2022	783	6	3
+Personer	11490609 Eide	2023	780	6	3
+Personer	11490610 Brekke	2000	421	6	3
+Personer	11490610 Brekke	2001	424	6	3
+Personer	11490610 Brekke	2002	428	6	3
+Personer	11490610 Brekke	2003	429	6	3
+Personer	11490610 Brekke	2004	427	6	3
+Personer	11490610 Brekke	2005	430	6	3
+Personer	11490610 Brekke	2006	444	6	3
+Personer	11490610 Brekke	2007	433	6	3
+Personer	11490610 Brekke	2008	435	6	3
+Personer	11490610 Brekke	2009	450	6	3
+Personer	11490610 Brekke	2010	459	6	3
+Personer	11490610 Brekke	2011	454	6	3
+Personer	11490610 Brekke	2012	479	6	3
+Personer	11490610 Brekke	2013	503	6	3
+Personer	11490610 Brekke	2014	509	6	3
+Personer	11490610 Brekke	2015	518	6	3
+Personer	11490610 Brekke	2016	511	6	3
+Personer	11490610 Brekke	2017	521	6	3
+Personer	11490610 Brekke	2018	532	6	3
+Personer	11490610 Brekke	2019	539	6	3
+Personer	11490610 Brekke	2020	518	6	3
+Personer	11490610 Brekke	2021	509	6	3
+Personer	11490610 Brekke	2022	505	6	3
+Personer	11490610 Brekke	2023	501	6	3
+Personer	11490701 Østrem	2000	579	7	3
+Personer	11490701 Østrem	2001	573	7	3
+Personer	11490701 Østrem	2002	575	7	3
+Personer	11490701 Østrem	2003	569	7	3
+Personer	11490701 Østrem	2004	574	7	3
+Personer	11490701 Østrem	2005	609	7	3
+Personer	11490701 Østrem	2006	720	7	3
+Personer	11490701 Østrem	2007	714	7	3
+Personer	11490701 Østrem	2008	721	7	3
+Personer	11490701 Østrem	2009	726	7	3
+Personer	11490701 Østrem	2010	731	7	3
+Personer	11490701 Østrem	2011	753	7	3
+Personer	11490701 Østrem	2012	746	7	3
+Personer	11490701 Østrem	2013	748	7	3
+Personer	11490701 Østrem	2014	759	7	3
+Personer	11490701 Østrem	2015	774	7	3
+Personer	11490701 Østrem	2016	767	7	3
+Personer	11490701 Østrem	2017	750	7	3
+Personer	11490701 Østrem	2018	761	7	3
+Personer	11490701 Østrem	2019	773	7	3
+Personer	11490701 Østrem	2020	761	7	3
+Personer	11490701 Østrem	2021	797	7	3
+Personer	11490701 Østrem	2022	783	7	3
+Personer	11490701 Østrem	2023	791	7	3
+Personer	11490702 Bygnes	2000	151	7	3
+Personer	11490702 Bygnes	2001	150	7	3
+Personer	11490702 Bygnes	2002	141	7	3
+Personer	11490702 Bygnes	2003	136	7	3
+Personer	11490702 Bygnes	2004	129	7	3
+Personer	11490702 Bygnes	2005	138	7	3
+Personer	11490702 Bygnes	2006	126	7	3
+Personer	11490702 Bygnes	2007	123	7	3
+Personer	11490702 Bygnes	2008	130	7	3
+Personer	11490702 Bygnes	2009	136	7	3
+Personer	11490702 Bygnes	2010	130	7	3
+Personer	11490702 Bygnes	2011	126	7	3
+Personer	11490702 Bygnes	2012	120	7	3
+Personer	11490702 Bygnes	2013	129	7	3
+Personer	11490702 Bygnes	2014	145	7	3
+Personer	11490702 Bygnes	2015	139	7	3
+Personer	11490702 Bygnes	2016	123	7	3
+Personer	11490702 Bygnes	2017	123	7	3
+Personer	11490702 Bygnes	2018	122	7	3
+Personer	11490702 Bygnes	2019	125	7	3
+Personer	11490702 Bygnes	2020	125	7	3
+Personer	11490702 Bygnes	2021	120	7	3
+Personer	11490702 Bygnes	2022	127	7	3
+Personer	11490702 Bygnes	2023	127	7	3
+Personer	11490703 Skår	2000	500	7	3
+Personer	11490703 Skår	2001	484	7	3
+Personer	11490703 Skår	2002	494	7	3
+Personer	11490703 Skår	2003	498	7	3
+Personer	11490703 Skår	2004	476	7	3
+Personer	11490703 Skår	2005	491	7	3
+Personer	11490703 Skår	2006	470	7	3
+Personer	11490703 Skår	2007	514	7	3
+Personer	11490703 Skår	2008	531	7	3
+Personer	11490703 Skår	2009	520	7	3
+Personer	11490703 Skår	2010	529	7	3
+Personer	11490703 Skår	2011	550	7	3
+Personer	11490703 Skår	2012	554	7	3
+Personer	11490703 Skår	2013	574	7	3
+Personer	11490703 Skår	2014	569	7	3
+Personer	11490703 Skår	2015	581	7	3
+Personer	11490703 Skår	2016	576	7	3
+Personer	11490703 Skår	2017	577	7	3
+Personer	11490703 Skår	2018	574	7	3
+Personer	11490703 Skår	2019	592	7	3
+Personer	11490703 Skår	2020	586	7	3
+Personer	11490703 Skår	2021	609	7	3
+Personer	11490703 Skår	2022	631	7	3
+Personer	11490703 Skår	2023	636	7	3
+Personer	11490704 Sund	2000	212	7	3
+Personer	11490704 Sund	2001	216	7	3
+Personer	11490704 Sund	2002	225	7	3
+Personer	11490704 Sund	2003	223	7	3
+Personer	11490704 Sund	2004	223	7	3
+Personer	11490704 Sund	2005	216	7	3
+Personer	11490704 Sund	2006	215	7	3
+Personer	11490704 Sund	2007	204	7	3
+Personer	11490704 Sund	2008	206	7	3
+Personer	11490704 Sund	2009	219	7	3
+Personer	11490704 Sund	2010	222	7	3
+Personer	11490704 Sund	2011	231	7	3
+Personer	11490704 Sund	2012	243	7	3
+Personer	11490704 Sund	2013	234	7	3
+Personer	11490704 Sund	2014	234	7	3
+Personer	11490704 Sund	2015	233	7	3
+Personer	11490704 Sund	2016	238	7	3
+Personer	11490704 Sund	2017	233	7	3
+Personer	11490704 Sund	2018	222	7	3
+Personer	11490704 Sund	2019	224	7	3
+Personer	11490704 Sund	2020	225	7	3
+Personer	11490704 Sund	2021	224	7	3
+Personer	11490704 Sund	2022	220	7	3
+Personer	11490704 Sund	2023	215	7	3
+Personer	11490705 Vorå	2000	342	7	3
+Personer	11490705 Vorå	2001	344	7	3
+Personer	11490705 Vorå	2002	347	7	3
+Personer	11490705 Vorå	2003	346	7	3
+Personer	11490705 Vorå	2004	335	7	3
+Personer	11490705 Vorå	2005	342	7	3
+Personer	11490705 Vorå	2006	347	7	3
+Personer	11490705 Vorå	2007	342	7	3
+Personer	11490705 Vorå	2008	326	7	3
+Personer	11490705 Vorå	2009	320	7	3
+Personer	11490705 Vorå	2010	335	7	3
+Personer	11490705 Vorå	2011	348	7	3
+Personer	11490705 Vorå	2012	341	7	3
+Personer	11490705 Vorå	2013	346	7	3
+Personer	11490705 Vorå	2014	352	7	3
+Personer	11490705 Vorå	2015	334	7	3
+Personer	11490705 Vorå	2016	336	7	3
+Personer	11490705 Vorå	2017	338	7	3
+Personer	11490705 Vorå	2018	329	7	3
+Personer	11490705 Vorå	2019	334	7	3
+Personer	11490705 Vorå	2020	339	7	3
+Personer	11490705 Vorå	2021	327	7	3
+Personer	11490705 Vorå	2022	325	7	3
+Personer	11490705 Vorå	2023	318	7	3
+Personer	11490706 Kolstø	2000	780	7	3
+Personer	11490706 Kolstø	2001	750	7	3
+Personer	11490706 Kolstø	2002	764	7	3
+Personer	11490706 Kolstø	2003	749	7	3
+Personer	11490706 Kolstø	2004	739	7	3
+Personer	11490706 Kolstø	2005	727	7	3
+Personer	11490706 Kolstø	2006	769	7	3
+Personer	11490706 Kolstø	2007	773	7	3
+Personer	11490706 Kolstø	2008	773	7	3
+Personer	11490706 Kolstø	2009	756	7	3
+Personer	11490706 Kolstø	2010	765	7	3
+Personer	11490706 Kolstø	2011	783	7	3
+Personer	11490706 Kolstø	2012	781	7	3
+Personer	11490706 Kolstø	2013	763	7	3
+Personer	11490706 Kolstø	2014	779	7	3
+Personer	11490706 Kolstø	2015	811	7	3
+Personer	11490706 Kolstø	2016	820	7	3
+Personer	11490706 Kolstø	2017	806	7	3
+Personer	11490706 Kolstø	2018	792	7	3
+Personer	11490706 Kolstø	2019	802	7	3
+Personer	11490706 Kolstø	2020	755	7	3
+Personer	11490706 Kolstø	2021	758	7	3
+Personer	11490706 Kolstø	2022	752	7	3
+Personer	11490706 Kolstø	2023	776	7	3
+Personer	11490801 Kvalavåg	2000	264	8	4
+Personer	11490801 Kvalavåg	2001	271	8	4
+Personer	11490801 Kvalavåg	2002	264	8	4
+Personer	11490801 Kvalavåg	2003	257	8	4
+Personer	11490801 Kvalavåg	2004	257	8	4
+Personer	11490801 Kvalavåg	2005	254	8	4
+Personer	11490801 Kvalavåg	2006	262	8	4
+Personer	11490801 Kvalavåg	2007	276	8	4
+Personer	11490801 Kvalavåg	2008	287	8	4
+Personer	11490801 Kvalavåg	2009	311	8	4
+Personer	11490801 Kvalavåg	2010	327	8	4
+Personer	11490801 Kvalavåg	2011	323	8	4
+Personer	11490801 Kvalavåg	2012	320	8	4
+Personer	11490801 Kvalavåg	2013	345	8	4
+Personer	11490801 Kvalavåg	2014	347	8	4
+Personer	11490801 Kvalavåg	2015	343	8	4
+Personer	11490801 Kvalavåg	2016	347	8	4
+Personer	11490801 Kvalavåg	2017	338	8	4
+Personer	11490801 Kvalavåg	2018	358	8	4
+Personer	11490801 Kvalavåg	2019	344	8	4
+Personer	11490801 Kvalavåg	2020	334	8	4
+Personer	11490801 Kvalavåg	2021	340	8	4
+Personer	11490801 Kvalavåg	2022	338	8	4
+Personer	11490801 Kvalavåg	2023	337	8	4
+Personer	11490802 Visnes	2000	684	8	4
+Personer	11490802 Visnes	2001	667	8	4
+Personer	11490802 Visnes	2002	663	8	4
+Personer	11490802 Visnes	2003	648	8	4
+Personer	11490802 Visnes	2004	665	8	4
+Personer	11490802 Visnes	2005	675	8	4
+Personer	11490802 Visnes	2006	689	8	4
+Personer	11490802 Visnes	2007	668	8	4
+Personer	11490802 Visnes	2008	689	8	4
+Personer	11490802 Visnes	2009	669	8	4
+Personer	11490802 Visnes	2010	678	8	4
+Personer	11490802 Visnes	2011	681	8	4
+Personer	11490802 Visnes	2012	656	8	4
+Personer	11490802 Visnes	2013	661	8	4
+Personer	11490802 Visnes	2014	659	8	4
+Personer	11490802 Visnes	2015	650	8	4
+Personer	11490802 Visnes	2016	647	8	4
+Personer	11490802 Visnes	2017	647	8	4
+Personer	11490802 Visnes	2018	640	8	4
+Personer	11490802 Visnes	2019	626	8	4
+Personer	11490802 Visnes	2020	632	8	4
+Personer	11490802 Visnes	2021	633	8	4
+Personer	11490802 Visnes	2022	629	8	4
+Personer	11490802 Visnes	2023	610	8	4
+Personer	11490803 Skeie	2000	340	8	4
+Personer	11490803 Skeie	2001	337	8	4
+Personer	11490803 Skeie	2002	336	8	4
+Personer	11490803 Skeie	2003	327	8	4
+Personer	11490803 Skeie	2004	329	8	4
+Personer	11490803 Skeie	2005	331	8	4
+Personer	11490803 Skeie	2006	335	8	4
+Personer	11490803 Skeie	2007	344	8	4
+Personer	11490803 Skeie	2008	341	8	4
+Personer	11490803 Skeie	2009	332	8	4
+Personer	11490803 Skeie	2010	346	8	4
+Personer	11490803 Skeie	2011	348	8	4
+Personer	11490803 Skeie	2012	349	8	4
+Personer	11490803 Skeie	2013	358	8	4
+Personer	11490803 Skeie	2014	368	8	4
+Personer	11490803 Skeie	2015	356	8	4
+Personer	11490803 Skeie	2016	353	8	4
+Personer	11490803 Skeie	2017	365	8	4
+Personer	11490803 Skeie	2018	366	8	4
+Personer	11490803 Skeie	2019	344	8	4
+Personer	11490803 Skeie	2020	350	8	4
+Personer	11490803 Skeie	2021	364	8	4
+Personer	11490803 Skeie	2022	362	8	4
+Personer	11490803 Skeie	2023	366	8	4
+Personer	11490804 Velde	2000	1030	8	4
+Personer	11490804 Velde	2001	1019	8	4
+Personer	11490804 Velde	2002	991	8	4
+Personer	11490804 Velde	2003	961	8	4
+Personer	11490804 Velde	2004	919	8	4
+Personer	11490804 Velde	2005	921	8	4
+Personer	11490804 Velde	2006	896	8	4
+Personer	11490804 Velde	2007	904	8	4
+Personer	11490804 Velde	2008	931	8	4
+Personer	11490804 Velde	2009	944	8	4
+Personer	11490804 Velde	2010	924	8	4
+Personer	11490804 Velde	2011	927	8	4
+Personer	11490804 Velde	2012	908	8	4
+Personer	11490804 Velde	2013	886	8	4
+Personer	11490804 Velde	2014	902	8	4
+Personer	11490804 Velde	2015	882	8	4
+Personer	11490804 Velde	2016	867	8	4
+Personer	11490804 Velde	2017	852	8	4
+Personer	11490804 Velde	2018	864	8	4
+Personer	11490804 Velde	2019	841	8	4
+Personer	11490804 Velde	2020	818	8	4
+Personer	11490804 Velde	2021	834	8	4
+Personer	11490804 Velde	2022	851	8	4
+Personer	11490804 Velde	2023	828	8	4
+Personer	11490805 Fiskå	2000	305	8	4
+Personer	11490805 Fiskå	2001	306	8	4
+Personer	11490805 Fiskå	2002	313	8	4
+Personer	11490805 Fiskå	2003	303	8	4
+Personer	11490805 Fiskå	2004	313	8	4
+Personer	11490805 Fiskå	2005	312	8	4
+Personer	11490805 Fiskå	2006	302	8	4
+Personer	11490805 Fiskå	2007	304	8	4
+Personer	11490805 Fiskå	2008	299	8	4
+Personer	11490805 Fiskå	2009	288	8	4
+Personer	11490805 Fiskå	2010	294	8	4
+Personer	11490805 Fiskå	2011	296	8	4
+Personer	11490805 Fiskå	2012	312	8	4
+Personer	11490805 Fiskå	2013	322	8	4
+Personer	11490805 Fiskå	2014	304	8	4
+Personer	11490805 Fiskå	2015	302	8	4
+Personer	11490805 Fiskå	2016	301	8	4
+Personer	11490805 Fiskå	2017	292	8	4
+Personer	11490805 Fiskå	2018	286	8	4
+Personer	11490805 Fiskå	2019	283	8	4
+Personer	11490805 Fiskå	2020	284	8	4
+Personer	11490805 Fiskå	2021	284	8	4
+Personer	11490805 Fiskå	2022	292	8	4
+Personer	11490805 Fiskå	2023	280	8	4
+Personer	11490806 Utvik	2000	489	8	4
+Personer	11490806 Utvik	2001	522	8	4
+Personer	11490806 Utvik	2002	540	8	4
+Personer	11490806 Utvik	2003	573	8	4
+Personer	11490806 Utvik	2004	604	8	4
+Personer	11490806 Utvik	2005	626	8	4
+Personer	11490806 Utvik	2006	652	8	4
+Personer	11490806 Utvik	2007	668	8	4
+Personer	11490806 Utvik	2008	697	8	4
+Personer	11490806 Utvik	2009	737	8	4
+Personer	11490806 Utvik	2010	730	8	4
+Personer	11490806 Utvik	2011	711	8	4
+Personer	11490806 Utvik	2012	742	8	4
+Personer	11490806 Utvik	2013	752	8	4
+Personer	11490806 Utvik	2014	739	8	4
+Personer	11490806 Utvik	2015	741	8	4
+Personer	11490806 Utvik	2016	739	8	4
+Personer	11490806 Utvik	2017	737	8	4
+Personer	11490806 Utvik	2018	727	8	4
+Personer	11490806 Utvik	2019	708	8	4
+Personer	11490806 Utvik	2020	718	8	4
+Personer	11490806 Utvik	2021	707	8	4
+Personer	11490806 Utvik	2022	726	8	4
+Personer	11490806 Utvik	2023	719	8	4
+Personer	11490901 Feøy	2000	53	9	4
+Personer	11490901 Feøy	2001	62	9	4
+Personer	11490901 Feøy	2002	55	9	4
+Personer	11490901 Feøy	2003	47	9	4
+Personer	11490901 Feøy	2004	51	9	4
+Personer	11490901 Feøy	2005	53	9	4
+Personer	11490901 Feøy	2006	47	9	4
+Personer	11490901 Feøy	2007	43	9	4
+Personer	11490901 Feøy	2008	56	9	4
+Personer	11490901 Feøy	2009	56	9	4
+Personer	11490901 Feøy	2010	41	9	4
+Personer	11490901 Feøy	2011	54	9	4
+Personer	11490901 Feøy	2012	53	9	4
+Personer	11490901 Feøy	2013	49	9	4
+Personer	11490901 Feøy	2014	49	9	4
+Personer	11490901 Feøy	2015	41	9	4
+Personer	11490901 Feøy	2016	45	9	4
+Personer	11490901 Feøy	2017	40	9	4
+Personer	11490901 Feøy	2018	42	9	4
+Personer	11490901 Feøy	2019	41	9	4
+Personer	11490901 Feøy	2020	37	9	4
+Personer	11490901 Feøy	2021	33	9	4
+Personer	11490901 Feøy	2022	36	9	4
+Personer	11490901 Feøy	2023	42	9	4
+Personer	11490902 Hauge	2000	424	9	4
+Personer	11490902 Hauge	2001	446	9	4
+Personer	11490902 Hauge	2002	442	9	4
+Personer	11490902 Hauge	2003	453	9	4
+Personer	11490902 Hauge	2004	450	9	4
+Personer	11490902 Hauge	2005	455	9	4
+Personer	11490902 Hauge	2006	444	9	4
+Personer	11490902 Hauge	2007	441	9	4
+Personer	11490902 Hauge	2008	437	9	4
+Personer	11490902 Hauge	2009	403	9	4
+Personer	11490902 Hauge	2010	392	9	4
+Personer	11490902 Hauge	2011	407	9	4
+Personer	11490902 Hauge	2012	406	9	4
+Personer	11490902 Hauge	2013	413	9	4
+Personer	11490902 Hauge	2014	424	9	4
+Personer	11490902 Hauge	2015	427	9	4
+Personer	11490902 Hauge	2016	417	9	4
+Personer	11490902 Hauge	2017	409	9	4
+Personer	11490902 Hauge	2018	407	9	4
+Personer	11490902 Hauge	2019	388	9	4
+Personer	11490902 Hauge	2020	397	9	4
+Personer	11490902 Hauge	2021	395	9	4
+Personer	11490902 Hauge	2022	403	9	4
+Personer	11490902 Hauge	2023	403	9	4
+Personer	11490903 Håland	2000	351	9	4
+Personer	11490903 Håland	2001	352	9	4
+Personer	11490903 Håland	2002	353	9	4
+Personer	11490903 Håland	2003	355	9	4
+Personer	11490903 Håland	2004	356	9	4
+Personer	11490903 Håland	2005	370	9	4
+Personer	11490903 Håland	2006	373	9	4
+Personer	11490903 Håland	2007	369	9	4
+Personer	11490903 Håland	2008	360	9	4
+Personer	11490903 Håland	2009	355	9	4
+Personer	11490903 Håland	2010	363	9	4
+Personer	11490903 Håland	2011	354	9	4
+Personer	11490903 Håland	2012	346	9	4
+Personer	11490903 Håland	2013	339	9	4
+Personer	11490903 Håland	2014	356	9	4
+Personer	11490903 Håland	2015	376	9	4
+Personer	11490903 Håland	2016	343	9	4
+Personer	11490903 Håland	2017	356	9	4
+Personer	11490903 Håland	2018	357	9	4
+Personer	11490903 Håland	2019	358	9	4
+Personer	11490903 Håland	2020	364	9	4
+Personer	11490903 Håland	2021	359	9	4
+Personer	11490903 Håland	2022	370	9	4
+Personer	11490903 Håland	2023	378	9	4
+Personer	11490904 Osnes	2000	337	9	4
+Personer	11490904 Osnes	2001	340	9	4
+Personer	11490904 Osnes	2002	335	9	4
+Personer	11490904 Osnes	2003	337	9	4
+Personer	11490904 Osnes	2004	331	9	4
+Personer	11490904 Osnes	2005	324	9	4
+Personer	11490904 Osnes	2006	329	9	4
+Personer	11490904 Osnes	2007	331	9	4
+Personer	11490904 Osnes	2008	354	9	4
+Personer	11490904 Osnes	2009	391	9	4
+Personer	11490904 Osnes	2010	411	9	4
+Personer	11490904 Osnes	2011	423	9	4
+Personer	11490904 Osnes	2012	434	9	4
+Personer	11490904 Osnes	2013	451	9	4
+Personer	11490904 Osnes	2014	457	9	4
+Personer	11490904 Osnes	2015	456	9	4
+Personer	11490904 Osnes	2016	453	9	4
+Personer	11490904 Osnes	2017	453	9	4
+Personer	11490904 Osnes	2018	434	9	4
+Personer	11490904 Osnes	2019	439	9	4
+Personer	11490904 Osnes	2020	427	9	4
+Personer	11490904 Osnes	2021	421	9	4
+Personer	11490904 Osnes	2022	424	9	4
+Personer	11490904 Osnes	2023	419	9	4
+Personer	11490905 Litlasund	2000	289	9	4
+Personer	11490905 Litlasund	2001	274	9	4
+Personer	11490905 Litlasund	2002	273	9	4
+Personer	11490905 Litlasund	2003	291	9	4
+Personer	11490905 Litlasund	2004	282	9	4
+Personer	11490905 Litlasund	2005	269	9	4
+Personer	11490905 Litlasund	2006	282	9	4
+Personer	11490905 Litlasund	2007	285	9	4
+Personer	11490905 Litlasund	2008	293	9	4
+Personer	11490905 Litlasund	2009	268	9	4
+Personer	11490905 Litlasund	2010	269	9	4
+Personer	11490905 Litlasund	2011	282	9	4
+Personer	11490905 Litlasund	2012	273	9	4
+Personer	11490905 Litlasund	2013	283	9	4
+Personer	11490905 Litlasund	2014	317	9	4
+Personer	11490905 Litlasund	2015	336	9	4
+Personer	11490905 Litlasund	2016	346	9	4
+Personer	11490905 Litlasund	2017	348	9	4
+Personer	11490905 Litlasund	2018	352	9	4
+Personer	11490905 Litlasund	2019	367	9	4
+Personer	11490905 Litlasund	2020	378	9	4
+Personer	11490905 Litlasund	2021	395	9	4
+Personer	11490905 Litlasund	2022	424	9	4
+Personer	11490905 Litlasund	2023	440	9	4
+Personer	11490906 Karmsund	2000	928	9	4
+Personer	11490906 Karmsund	2001	931	9	4
+Personer	11490906 Karmsund	2002	955	9	4
+Personer	11490906 Karmsund	2003	968	9	4
+Personer	11490906 Karmsund	2004	933	9	4
+Personer	11490906 Karmsund	2005	919	9	4
+Personer	11490906 Karmsund	2006	930	9	4
+Personer	11490906 Karmsund	2007	995	9	4
+Personer	11490906 Karmsund	2008	998	9	4
+Personer	11490906 Karmsund	2009	994	9	4
+Personer	11490906 Karmsund	2010	998	9	4
+Personer	11490906 Karmsund	2011	985	9	4
+Personer	11490906 Karmsund	2012	978	9	4
+Personer	11490906 Karmsund	2013	969	9	4
+Personer	11490906 Karmsund	2014	975	9	4
+Personer	11490906 Karmsund	2015	968	9	4
+Personer	11490906 Karmsund	2016	995	9	4
+Personer	11490906 Karmsund	2017	989	9	4
+Personer	11490906 Karmsund	2018	988	9	4
+Personer	11490906 Karmsund	2019	985	9	4
+Personer	11490906 Karmsund	2020	1018	9	4
+Personer	11490906 Karmsund	2021	1028	9	4
+Personer	11490906 Karmsund	2022	1027	9	4
+Personer	11490906 Karmsund	2023	1025	9	4
+Personer	11490907 Storesund	2000	463	9	4
+Personer	11490907 Storesund	2001	466	9	4
+Personer	11490907 Storesund	2002	464	9	4
+Personer	11490907 Storesund	2003	472	9	4
+Personer	11490907 Storesund	2004	468	9	4
+Personer	11490907 Storesund	2005	449	9	4
+Personer	11490907 Storesund	2006	453	9	4
+Personer	11490907 Storesund	2007	430	9	4
+Personer	11490907 Storesund	2008	448	9	4
+Personer	11490907 Storesund	2009	425	9	4
+Personer	11490907 Storesund	2010	421	9	4
+Personer	11490907 Storesund	2011	413	9	4
+Personer	11490907 Storesund	2012	398	9	4
+Personer	11490907 Storesund	2013	400	9	4
+Personer	11490907 Storesund	2014	404	9	4
+Personer	11490907 Storesund	2015	421	9	4
+Personer	11490907 Storesund	2016	404	9	4
+Personer	11490907 Storesund	2017	407	9	4
+Personer	11490907 Storesund	2018	386	9	4
+Personer	11490907 Storesund	2019	396	9	4
+Personer	11490907 Storesund	2020	397	9	4
+Personer	11490907 Storesund	2021	390	9	4
+Personer	11490907 Storesund	2022	379	9	4
+Personer	11490907 Storesund	2023	389	9	4
+Personer	11490908 Nordbø	2000	299	9	4
+Personer	11490908 Nordbø	2001	292	9	4
+Personer	11490908 Nordbø	2002	273	9	4
+Personer	11490908 Nordbø	2003	284	9	4
+Personer	11490908 Nordbø	2004	289	9	4
+Personer	11490908 Nordbø	2005	279	9	4
+Personer	11490908 Nordbø	2006	268	9	4
+Personer	11490908 Nordbø	2007	277	9	4
+Personer	11490908 Nordbø	2008	280	9	4
+Personer	11490908 Nordbø	2009	281	9	4
+Personer	11490908 Nordbø	2010	279	9	4
+Personer	11490908 Nordbø	2011	280	9	4
+Personer	11490908 Nordbø	2012	273	9	4
+Personer	11490908 Nordbø	2013	268	9	4
+Personer	11490908 Nordbø	2014	274	9	4
+Personer	11490908 Nordbø	2015	261	9	4
+Personer	11490908 Nordbø	2016	272	9	4
+Personer	11490908 Nordbø	2017	267	9	4
+Personer	11490908 Nordbø	2018	270	9	4
+Personer	11490908 Nordbø	2019	267	9	4
+Personer	11490908 Nordbø	2020	258	9	4
+Personer	11490908 Nordbø	2021	257	9	4
+Personer	11490908 Nordbø	2022	255	9	4
+Personer	11490908 Nordbø	2023	258	9	4
+Personer	11490909 Bø	2000	238	9	4
+Personer	11490909 Bø	2001	213	9	4
+Personer	11490909 Bø	2002	212	9	4
+Personer	11490909 Bø	2003	212	9	4
+Personer	11490909 Bø	2004	219	9	4
+Personer	11490909 Bø	2005	208	9	4
+Personer	11490909 Bø	2006	211	9	4
+Personer	11490909 Bø	2007	229	9	4
+Personer	11490909 Bø	2008	225	9	4
+Personer	11490909 Bø	2009	226	9	4
+Personer	11490909 Bø	2010	211	9	4
+Personer	11490909 Bø	2011	215	9	4
+Personer	11490909 Bø	2012	207	9	4
+Personer	11490909 Bø	2013	217	9	4
+Personer	11490909 Bø	2014	202	9	4
+Personer	11490909 Bø	2015	201	9	4
+Personer	11490909 Bø	2016	186	9	4
+Personer	11490909 Bø	2017	198	9	4
+Personer	11490909 Bø	2018	200	9	4
+Personer	11490909 Bø	2019	177	9	4
+Personer	11490909 Bø	2020	182	9	4
+Personer	11490909 Bø	2021	191	9	4
+Personer	11490909 Bø	2022	199	9	4
+Personer	11490909 Bø	2023	202	9	4
+Personer	11491001 Norheimsvågen	2000	378	10	5
+Personer	11491001 Norheimsvågen	2001	322	10	5
+Personer	11491001 Norheimsvågen	2002	420	10	5
+Personer	11491001 Norheimsvågen	2003	422	10	5
+Personer	11491001 Norheimsvågen	2004	422	10	5
+Personer	11491001 Norheimsvågen	2005	444	10	5
+Personer	11491001 Norheimsvågen	2006	452	10	5
+Personer	11491001 Norheimsvågen	2007	468	10	5
+Personer	11491001 Norheimsvågen	2008	490	10	5
+Personer	11491001 Norheimsvågen	2009	515	10	5
+Personer	11491001 Norheimsvågen	2010	527	10	5
+Personer	11491001 Norheimsvågen	2011	526	10	5
+Personer	11491001 Norheimsvågen	2012	541	10	5
+Personer	11491001 Norheimsvågen	2013	579	10	5
+Personer	11491001 Norheimsvågen	2014	559	10	5
+Personer	11491001 Norheimsvågen	2015	549	10	5
+Personer	11491001 Norheimsvågen	2016	578	10	5
+Personer	11491001 Norheimsvågen	2017	566	10	5
+Personer	11491001 Norheimsvågen	2018	547	10	5
+Personer	11491001 Norheimsvågen	2019	534	10	5
+Personer	11491001 Norheimsvågen	2020	539	10	5
+Personer	11491001 Norheimsvågen	2021	554	10	5
+Personer	11491001 Norheimsvågen	2022	557	10	5
+Personer	11491001 Norheimsvågen	2023	560	10	5
+Personer	11491002 Norheim	2000	318	10	5
+Personer	11491002 Norheim	2001	309	10	5
+Personer	11491002 Norheim	2002	319	10	5
+Personer	11491002 Norheim	2003	315	10	5
+Personer	11491002 Norheim	2004	318	10	5
+Personer	11491002 Norheim	2005	365	10	5
+Personer	11491002 Norheim	2006	376	10	5
+Personer	11491002 Norheim	2007	363	10	5
+Personer	11491002 Norheim	2008	362	10	5
+Personer	11491002 Norheim	2009	297	10	5
+Personer	11491002 Norheim	2010	295	10	5
+Personer	11491002 Norheim	2011	309	10	5
+Personer	11491002 Norheim	2012	289	10	5
+Personer	11491002 Norheim	2013	293	10	5
+Personer	11491002 Norheim	2014	287	10	5
+Personer	11491002 Norheim	2015	284	10	5
+Personer	11491002 Norheim	2016	281	10	5
+Personer	11491002 Norheim	2017	270	10	5
+Personer	11491002 Norheim	2018	265	10	5
+Personer	11491002 Norheim	2019	277	10	5
+Personer	11491002 Norheim	2020	278	10	5
+Personer	11491002 Norheim	2021	276	10	5
+Personer	11491002 Norheim	2022	261	10	5
+Personer	11491002 Norheim	2023	262	10	5
+Personer	11491003 Norheimsskogen	2000	932	10	5
+Personer	11491003 Norheimsskogen	2001	927	10	5
+Personer	11491003 Norheimsskogen	2002	928	10	5
+Personer	11491003 Norheimsskogen	2003	931	10	5
+Personer	11491003 Norheimsskogen	2004	911	10	5
+Personer	11491003 Norheimsskogen	2005	908	10	5
+Personer	11491003 Norheimsskogen	2006	900	10	5
+Personer	11491003 Norheimsskogen	2007	913	10	5
+Personer	11491003 Norheimsskogen	2008	897	10	5
+Personer	11491003 Norheimsskogen	2009	960	10	5
+Personer	11491003 Norheimsskogen	2010	965	10	5
+Personer	11491003 Norheimsskogen	2011	947	10	5
+Personer	11491003 Norheimsskogen	2012	957	10	5
+Personer	11491003 Norheimsskogen	2013	971	10	5
+Personer	11491003 Norheimsskogen	2014	972	10	5
+Personer	11491003 Norheimsskogen	2015	993	10	5
+Personer	11491003 Norheimsskogen	2016	952	10	5
+Personer	11491003 Norheimsskogen	2017	950	10	5
+Personer	11491003 Norheimsskogen	2018	935	10	5
+Personer	11491003 Norheimsskogen	2019	947	10	5
+Personer	11491003 Norheimsskogen	2020	929	10	5
+Personer	11491003 Norheimsskogen	2021	918	10	5
+Personer	11491003 Norheimsskogen	2022	901	10	5
+Personer	11491003 Norheimsskogen	2023	922	10	5
+Personer	11491004 Spanne	2000	772	10	5
+Personer	11491004 Spanne	2001	763	10	5
+Personer	11491004 Spanne	2002	750	10	5
+Personer	11491004 Spanne	2003	747	10	5
+Personer	11491004 Spanne	2004	756	10	5
+Personer	11491004 Spanne	2005	775	10	5
+Personer	11491004 Spanne	2006	793	10	5
+Personer	11491004 Spanne	2007	784	10	5
+Personer	11491004 Spanne	2008	787	10	5
+Personer	11491004 Spanne	2009	807	10	5
+Personer	11491004 Spanne	2010	843	10	5
+Personer	11491004 Spanne	2011	882	10	5
+Personer	11491004 Spanne	2012	980	10	5
+Personer	11491004 Spanne	2013	1103	10	5
+Personer	11491004 Spanne	2014	1215	10	5
+Personer	11491004 Spanne	2015	1227	10	5
+Personer	11491004 Spanne	2016	1308	10	5
+Personer	11491004 Spanne	2017	1309	10	5
+Personer	11491004 Spanne	2018	1304	10	5
+Personer	11491004 Spanne	2019	1304	10	5
+Personer	11491004 Spanne	2020	1393	10	5
+Personer	11491004 Spanne	2021	1412	10	5
+Personer	11491004 Spanne	2022	1405	10	5
+Personer	11491004 Spanne	2023	1446	10	5
+Personer	11491007 Røyksund	2000	257	10	5
+Personer	11491007 Røyksund	2001	250	10	5
+Personer	11491007 Røyksund	2002	266	10	5
+Personer	11491007 Røyksund	2003	262	10	5
+Personer	11491007 Røyksund	2004	244	10	5
+Personer	11491007 Røyksund	2005	244	10	5
+Personer	11491007 Røyksund	2006	252	10	5
+Personer	11491007 Røyksund	2007	245	10	5
+Personer	11491007 Røyksund	2008	258	10	5
+Personer	11491007 Røyksund	2009	251	10	5
+Personer	11491007 Røyksund	2010	238	10	5
+Personer	11491007 Røyksund	2011	245	10	5
+Personer	11491007 Røyksund	2012	243	10	5
+Personer	11491007 Røyksund	2013	243	10	5
+Personer	11491007 Røyksund	2014	255	10	5
+Personer	11491007 Røyksund	2015	252	10	5
+Personer	11491007 Røyksund	2016	254	10	5
+Personer	11491007 Røyksund	2017	255	10	5
+Personer	11491007 Røyksund	2018	243	10	5
+Personer	11491007 Røyksund	2019	251	10	5
+Personer	11491007 Røyksund	2020	249	10	5
+Personer	11491007 Røyksund	2021	251	10	5
+Personer	11491007 Røyksund	2022	251	10	5
+Personer	11491007 Røyksund	2023	253	10	5
+Personer	11491008 Fosen	2000	292	10	5
+Personer	11491008 Fosen	2001	286	10	5
+Personer	11491008 Fosen	2002	284	10	5
+Personer	11491008 Fosen	2003	281	10	5
+Personer	11491008 Fosen	2004	276	10	5
+Personer	11491008 Fosen	2005	265	10	5
+Personer	11491008 Fosen	2006	254	10	5
+Personer	11491008 Fosen	2007	254	10	5
+Personer	11491008 Fosen	2008	246	10	5
+Personer	11491008 Fosen	2009	246	10	5
+Personer	11491008 Fosen	2010	246	10	5
+Personer	11491008 Fosen	2011	232	10	5
+Personer	11491008 Fosen	2012	225	10	5
+Personer	11491008 Fosen	2013	240	10	5
+Personer	11491008 Fosen	2014	247	10	5
+Personer	11491008 Fosen	2015	265	10	5
+Personer	11491008 Fosen	2016	252	10	5
+Personer	11491008 Fosen	2017	256	10	5
+Personer	11491008 Fosen	2018	258	10	5
+Personer	11491008 Fosen	2019	259	10	5
+Personer	11491008 Fosen	2020	262	10	5
+Personer	11491008 Fosen	2021	266	10	5
+Personer	11491008 Fosen	2022	274	10	5
+Personer	11491008 Fosen	2023	274	10	5
+Personer	11491009 Mykje	2000	219	10	5
+Personer	11491009 Mykje	2001	228	10	5
+Personer	11491009 Mykje	2002	221	10	5
+Personer	11491009 Mykje	2003	217	10	5
+Personer	11491009 Mykje	2004	215	10	5
+Personer	11491009 Mykje	2005	214	10	5
+Personer	11491009 Mykje	2006	218	10	5
+Personer	11491009 Mykje	2007	211	10	5
+Personer	11491009 Mykje	2008	209	10	5
+Personer	11491009 Mykje	2009	209	10	5
+Personer	11491009 Mykje	2010	207	10	5
+Personer	11491009 Mykje	2011	210	10	5
+Personer	11491009 Mykje	2012	206	10	5
+Personer	11491009 Mykje	2013	213	10	5
+Personer	11491009 Mykje	2014	206	10	5
+Personer	11491009 Mykje	2015	201	10	5
+Personer	11491009 Mykje	2016	185	10	5
+Personer	11491009 Mykje	2017	189	10	5
+Personer	11491009 Mykje	2018	195	10	5
+Personer	11491009 Mykje	2019	187	10	5
+Personer	11491009 Mykje	2020	195	10	5
+Personer	11491009 Mykje	2021	197	10	5
+Personer	11491009 Mykje	2022	191	10	5
+Personer	11491009 Mykje	2023	188	10	5
+Personer	11491010 Aksnes	2000	165	10	5
+Personer	11491010 Aksnes	2001	161	10	5
+Personer	11491010 Aksnes	2002	145	10	5
+Personer	11491010 Aksnes	2003	161	10	5
+Personer	11491010 Aksnes	2004	155	10	5
+Personer	11491010 Aksnes	2005	158	10	5
+Personer	11491010 Aksnes	2006	159	10	5
+Personer	11491010 Aksnes	2007	160	10	5
+Personer	11491010 Aksnes	2008	155	10	5
+Personer	11491010 Aksnes	2009	153	10	5
+Personer	11491010 Aksnes	2010	154	10	5
+Personer	11491010 Aksnes	2011	155	10	5
+Personer	11491010 Aksnes	2012	161	10	5
+Personer	11491010 Aksnes	2013	170	10	5
+Personer	11491010 Aksnes	2014	166	10	5
+Personer	11491010 Aksnes	2015	169	10	5
+Personer	11491010 Aksnes	2016	167	10	5
+Personer	11491010 Aksnes	2017	167	10	5
+Personer	11491010 Aksnes	2018	181	10	5
+Personer	11491010 Aksnes	2019	173	10	5
+Personer	11491010 Aksnes	2020	171	10	5
+Personer	11491010 Aksnes	2021	162	10	5
+Personer	11491010 Aksnes	2022	167	10	5
+Personer	11491010 Aksnes	2023	171	10	5
+Personer	11491011 Eike	2000	1238	10	5
+Personer	11491011 Eike	2001	1265	10	5
+Personer	11491011 Eike	2002	1284	10	5
+Personer	11491011 Eike	2003	1300	10	5
+Personer	11491011 Eike	2004	1375	10	5
+Personer	11491011 Eike	2005	1417	10	5
+Personer	11491011 Eike	2006	1462	10	5
+Personer	11491011 Eike	2007	1510	10	5
+Personer	11491011 Eike	2008	1508	10	5
+Personer	11491011 Eike	2009	1492	10	5
+Personer	11491011 Eike	2010	1502	10	5
+Personer	11491011 Eike	2011	1477	10	5
+Personer	11491011 Eike	2012	1526	10	5
+Personer	11491011 Eike	2013	1536	10	5
+Personer	11491011 Eike	2014	1595	10	5
+Personer	11491011 Eike	2015	1642	10	5
+Personer	11491011 Eike	2016	1642	10	5
+Personer	11491011 Eike	2017	1621	10	5
+Personer	11491011 Eike	2018	1620	10	5
+Personer	11491011 Eike	2019	1612	10	5
+Personer	11491011 Eike	2020	1593	10	5
+Personer	11491011 Eike	2021	1583	10	5
+Personer	11491011 Eike	2022	1606	10	5
+Personer	11491011 Eike	2023	1576	10	5
+Personer	11491012 Moksheim	2000	143	10	5
+Personer	11491012 Moksheim	2001	136	10	5
+Personer	11491012 Moksheim	2002	123	10	5
+Personer	11491012 Moksheim	2003	123	10	5
+Personer	11491012 Moksheim	2004	123	10	5
+Personer	11491012 Moksheim	2005	143	10	5
+Personer	11491012 Moksheim	2006	147	10	5
+Personer	11491012 Moksheim	2007	151	10	5
+Personer	11491012 Moksheim	2008	154	10	5
+Personer	11491012 Moksheim	2009	158	10	5
+Personer	11491012 Moksheim	2010	168	10	5
+Personer	11491012 Moksheim	2011	165	10	5
+Personer	11491012 Moksheim	2012	178	10	5
+Personer	11491012 Moksheim	2013	184	10	5
+Personer	11491012 Moksheim	2014	181	10	5
+Personer	11491012 Moksheim	2015	183	10	5
+Personer	11491012 Moksheim	2016	168	10	5
+Personer	11491012 Moksheim	2017	162	10	5
+Personer	11491012 Moksheim	2018	176	10	5
+Personer	11491012 Moksheim	2019	167	10	5
+Personer	11491012 Moksheim	2020	167	10	5
+Personer	11491012 Moksheim	2021	169	10	5
+Personer	11491012 Moksheim	2022	177	10	5
+Personer	11491012 Moksheim	2023	196	10	5
+Personer	11491013 Bjøllehaugen	2000	1249	10	5
+Personer	11491013 Bjøllehaugen	2001	1282	10	5
+Personer	11491013 Bjøllehaugen	2002	1351	10	5
+Personer	11491013 Bjøllehaugen	2003	1388	10	5
+Personer	11491013 Bjøllehaugen	2004	1423	10	5
+Personer	11491013 Bjøllehaugen	2005	1416	10	5
+Personer	11491013 Bjøllehaugen	2006	1417	10	5
+Personer	11491013 Bjøllehaugen	2007	1449	10	5
+Personer	11491013 Bjøllehaugen	2008	1451	10	5
+Personer	11491013 Bjøllehaugen	2009	1488	10	5
+Personer	11491013 Bjøllehaugen	2010	1472	10	5
+Personer	11491013 Bjøllehaugen	2011	1483	10	5
+Personer	11491013 Bjøllehaugen	2012	1492	10	5
+Personer	11491013 Bjøllehaugen	2013	1540	10	5
+Personer	11491013 Bjøllehaugen	2014	1518	10	5
+Personer	11491013 Bjøllehaugen	2015	1533	10	5
+Personer	11491013 Bjøllehaugen	2016	1557	10	5
+Personer	11491013 Bjøllehaugen	2017	1647	10	5
+Personer	11491013 Bjøllehaugen	2018	1671	10	5
+Personer	11491013 Bjøllehaugen	2019	1711	10	5
+Personer	11491013 Bjøllehaugen	2020	1666	10	5
+Personer	11491013 Bjøllehaugen	2021	1693	10	5
+Personer	11491013 Bjøllehaugen	2022	1689	10	5
+Personer	11491013 Bjøllehaugen	2023	1713	10	5
+Personer	11491014 Trevarden	2000	356	10	5
+Personer	11491014 Trevarden	2001	352	10	5
+Personer	11491014 Trevarden	2002	335	10	5
+Personer	11491014 Trevarden	2003	344	10	5
+Personer	11491014 Trevarden	2004	330	10	5
+Personer	11491014 Trevarden	2005	320	10	5
+Personer	11491014 Trevarden	2006	309	10	5
+Personer	11491014 Trevarden	2007	311	10	5
+Personer	11491014 Trevarden	2008	313	10	5
+Personer	11491014 Trevarden	2009	330	10	5
+Personer	11491014 Trevarden	2010	326	10	5
+Personer	11491014 Trevarden	2011	343	10	5
+Personer	11491014 Trevarden	2012	334	10	5
+Personer	11491014 Trevarden	2013	332	10	5
+Personer	11491014 Trevarden	2014	343	10	5
+Personer	11491014 Trevarden	2015	347	10	5
+Personer	11491014 Trevarden	2016	359	10	5
+Personer	11491014 Trevarden	2017	370	10	5
+Personer	11491014 Trevarden	2018	374	10	5
+Personer	11491014 Trevarden	2019	373	10	5
+Personer	11491014 Trevarden	2020	359	10	5
+Personer	11491014 Trevarden	2021	369	10	5
+Personer	11491014 Trevarden	2022	366	10	5
+Personer	11491014 Trevarden	2023	372	10	5
+Personer	11491015 Vormedal	2000	536	10	5
+Personer	11491015 Vormedal	2001	567	10	5
+Personer	11491015 Vormedal	2002	597	10	5
+Personer	11491015 Vormedal	2003	582	10	5
+Personer	11491015 Vormedal	2004	633	10	5
+Personer	11491015 Vormedal	2005	677	10	5
+Personer	11491015 Vormedal	2006	691	10	5
+Personer	11491015 Vormedal	2007	745	10	5
+Personer	11491015 Vormedal	2008	791	10	5
+Personer	11491015 Vormedal	2009	798	10	5
+Personer	11491015 Vormedal	2010	869	10	5
+Personer	11491015 Vormedal	2011	884	10	5
+Personer	11491015 Vormedal	2012	920	10	5
+Personer	11491015 Vormedal	2013	933	10	5
+Personer	11491015 Vormedal	2014	960	10	5
+Personer	11491015 Vormedal	2015	986	10	5
+Personer	11491015 Vormedal	2016	1002	10	5
+Personer	11491015 Vormedal	2017	995	10	5
+Personer	11491015 Vormedal	2018	1053	10	5
+Personer	11491015 Vormedal	2019	1089	10	5
+Personer	11491015 Vormedal	2020	1195	10	5
+Personer	11491015 Vormedal	2021	1234	10	5
+Personer	11491015 Vormedal	2022	1342	10	5
+Personer	11491015 Vormedal	2023	1402	10	5
+Personer	11499999 Uoppgitt grunnkrets	2000	81	9	4
+Personer	11499999 Uoppgitt grunnkrets	2001	204	9	4
+Personer	11499999 Uoppgitt grunnkrets	2002	61	9	4
+Personer	11499999 Uoppgitt grunnkrets	2003	38	9	4
+Personer	11499999 Uoppgitt grunnkrets	2004	17	9	4
+Personer	11499999 Uoppgitt grunnkrets	2005	20	9	4
+Personer	11499999 Uoppgitt grunnkrets	2006	25	9	4
+Personer	11499999 Uoppgitt grunnkrets	2007	24	9	4
+Personer	11499999 Uoppgitt grunnkrets	2008	87	9	4
+Personer	11499999 Uoppgitt grunnkrets	2009	57	9	4
+Personer	11499999 Uoppgitt grunnkrets	2010	13	9	4
+Personer	11499999 Uoppgitt grunnkrets	2011	48	9	4
+Personer	11499999 Uoppgitt grunnkrets	2012	46	9	4
+Personer	11499999 Uoppgitt grunnkrets	2013	80	9	4
+Personer	11499999 Uoppgitt grunnkrets	2014	99	9	4
+Personer	11499999 Uoppgitt grunnkrets	2015	99	9	4
+Personer	11499999 Uoppgitt grunnkrets	2016	72	9	4
+Personer	11499999 Uoppgitt grunnkrets	2017	49	9	4
+Personer	11499999 Uoppgitt grunnkrets	2018	37	9	4
+Personer	11499999 Uoppgitt grunnkrets	2019	27	9	4
+Personer	11499999 Uoppgitt grunnkrets	2020	26	9	4
+Personer	11499999 Uoppgitt grunnkrets	2021	34	9	4
+Personer	11499999 Uoppgitt grunnkrets	2022	33	9	4
+Personer	11499999 Uoppgitt grunnkrets	2023	19	9	4

@@ -1,0 +1,3199 @@
+statistikkvariabel	region	innvandringskategori	landbakgrunn	ar	antall
+Personer	1149 Karmøy	Innvandrere	Danmark	2012	96
+Personer	1149 Karmøy	Innvandrere	Danmark	2013	100
+Personer	1149 Karmøy	Innvandrere	Danmark	2014	103
+Personer	1149 Karmøy	Innvandrere	Danmark	2015	106
+Personer	1149 Karmøy	Innvandrere	Danmark	2016	103
+Personer	1149 Karmøy	Innvandrere	Danmark	2017	100
+Personer	1149 Karmøy	Innvandrere	Danmark	2018	102
+Personer	1149 Karmøy	Innvandrere	Danmark	2019	95
+Personer	1149 Karmøy	Innvandrere	Danmark	2020	102
+Personer	1149 Karmøy	Innvandrere	Danmark	2021	104
+Personer	1149 Karmøy	Innvandrere	Danmark	2022	96
+Personer	1149 Karmøy	Innvandrere	Danmark	2023	95
+Personer	1149 Karmøy	Innvandrere	Danmark	2024	95
+Personer	1149 Karmøy	Innvandrere	Grønland	2012	0
+Personer	1149 Karmøy	Innvandrere	Grønland	2013	0
+Personer	1149 Karmøy	Innvandrere	Grønland	2014	0
+Personer	1149 Karmøy	Innvandrere	Grønland	2015	0
+Personer	1149 Karmøy	Innvandrere	Grønland	2016	0
+Personer	1149 Karmøy	Innvandrere	Grønland	2017	0
+Personer	1149 Karmøy	Innvandrere	Grønland	2018	0
+Personer	1149 Karmøy	Innvandrere	Grønland	2019	0
+Personer	1149 Karmøy	Innvandrere	Grønland	2020	0
+Personer	1149 Karmøy	Innvandrere	Grønland	2021	0
+Personer	1149 Karmøy	Innvandrere	Grønland	2022	0
+Personer	1149 Karmøy	Innvandrere	Grønland	2023	0
+Personer	1149 Karmøy	Innvandrere	Grønland	2024	0
+Personer	1149 Karmøy	Innvandrere	Finland	2012	24
+Personer	1149 Karmøy	Innvandrere	Finland	2013	24
+Personer	1149 Karmøy	Innvandrere	Finland	2014	27
+Personer	1149 Karmøy	Innvandrere	Finland	2015	30
+Personer	1149 Karmøy	Innvandrere	Finland	2016	31
+Personer	1149 Karmøy	Innvandrere	Finland	2017	31
+Personer	1149 Karmøy	Innvandrere	Finland	2018	30
+Personer	1149 Karmøy	Innvandrere	Finland	2019	34
+Personer	1149 Karmøy	Innvandrere	Finland	2020	35
+Personer	1149 Karmøy	Innvandrere	Finland	2021	35
+Personer	1149 Karmøy	Innvandrere	Finland	2022	31
+Personer	1149 Karmøy	Innvandrere	Finland	2023	28
+Personer	1149 Karmøy	Innvandrere	Finland	2024	27
+Personer	1149 Karmøy	Innvandrere	Færøyene	2012	11
+Personer	1149 Karmøy	Innvandrere	Færøyene	2013	10
+Personer	1149 Karmøy	Innvandrere	Færøyene	2014	9
+Personer	1149 Karmøy	Innvandrere	Færøyene	2015	8
+Personer	1149 Karmøy	Innvandrere	Færøyene	2016	7
+Personer	1149 Karmøy	Innvandrere	Færøyene	2017	7
+Personer	1149 Karmøy	Innvandrere	Færøyene	2018	6
+Personer	1149 Karmøy	Innvandrere	Færøyene	2019	6
+Personer	1149 Karmøy	Innvandrere	Færøyene	2020	7
+Personer	1149 Karmøy	Innvandrere	Færøyene	2021	6
+Personer	1149 Karmøy	Innvandrere	Færøyene	2022	6
+Personer	1149 Karmøy	Innvandrere	Færøyene	2023	5
+Personer	1149 Karmøy	Innvandrere	Færøyene	2024	5
+Personer	1149 Karmøy	Innvandrere	Island	2012	141
+Personer	1149 Karmøy	Innvandrere	Island	2013	144
+Personer	1149 Karmøy	Innvandrere	Island	2014	170
+Personer	1149 Karmøy	Innvandrere	Island	2015	176
+Personer	1149 Karmøy	Innvandrere	Island	2016	170
+Personer	1149 Karmøy	Innvandrere	Island	2017	177
+Personer	1149 Karmøy	Innvandrere	Island	2018	165
+Personer	1149 Karmøy	Innvandrere	Island	2019	163
+Personer	1149 Karmøy	Innvandrere	Island	2020	141
+Personer	1149 Karmøy	Innvandrere	Island	2021	140
+Personer	1149 Karmøy	Innvandrere	Island	2022	132
+Personer	1149 Karmøy	Innvandrere	Island	2023	129
+Personer	1149 Karmøy	Innvandrere	Island	2024	128
+Personer	1149 Karmøy	Innvandrere	Sverige	2012	62
+Personer	1149 Karmøy	Innvandrere	Sverige	2013	67
+Personer	1149 Karmøy	Innvandrere	Sverige	2014	75
+Personer	1149 Karmøy	Innvandrere	Sverige	2015	75
+Personer	1149 Karmøy	Innvandrere	Sverige	2016	79
+Personer	1149 Karmøy	Innvandrere	Sverige	2017	75
+Personer	1149 Karmøy	Innvandrere	Sverige	2018	75
+Personer	1149 Karmøy	Innvandrere	Sverige	2019	81
+Personer	1149 Karmøy	Innvandrere	Sverige	2020	83
+Personer	1149 Karmøy	Innvandrere	Sverige	2021	82
+Personer	1149 Karmøy	Innvandrere	Sverige	2022	82
+Personer	1149 Karmøy	Innvandrere	Sverige	2023	80
+Personer	1149 Karmøy	Innvandrere	Sverige	2024	83
+Personer	1149 Karmøy	Innvandrere	Albania	2012	0
+Personer	1149 Karmøy	Innvandrere	Albania	2013	0
+Personer	1149 Karmøy	Innvandrere	Albania	2014	0
+Personer	1149 Karmøy	Innvandrere	Albania	2015	0
+Personer	1149 Karmøy	Innvandrere	Albania	2016	0
+Personer	1149 Karmøy	Innvandrere	Albania	2017	0
+Personer	1149 Karmøy	Innvandrere	Albania	2018	0
+Personer	1149 Karmøy	Innvandrere	Albania	2019	0
+Personer	1149 Karmøy	Innvandrere	Albania	2020	0
+Personer	1149 Karmøy	Innvandrere	Albania	2021	0
+Personer	1149 Karmøy	Innvandrere	Albania	2022	0
+Personer	1149 Karmøy	Innvandrere	Albania	2023	3
+Personer	1149 Karmøy	Innvandrere	Albania	2024	3
+Personer	1149 Karmøy	Innvandrere	Andorra	2012	0
+Personer	1149 Karmøy	Innvandrere	Andorra	2013	0
+Personer	1149 Karmøy	Innvandrere	Andorra	2014	0
+Personer	1149 Karmøy	Innvandrere	Andorra	2015	0
+Personer	1149 Karmøy	Innvandrere	Andorra	2016	0
+Personer	1149 Karmøy	Innvandrere	Andorra	2017	0
+Personer	1149 Karmøy	Innvandrere	Andorra	2018	0
+Personer	1149 Karmøy	Innvandrere	Andorra	2019	0
+Personer	1149 Karmøy	Innvandrere	Andorra	2020	0
+Personer	1149 Karmøy	Innvandrere	Andorra	2021	0
+Personer	1149 Karmøy	Innvandrere	Andorra	2022	0
+Personer	1149 Karmøy	Innvandrere	Andorra	2023	0
+Personer	1149 Karmøy	Innvandrere	Andorra	2024	0
+Personer	1149 Karmøy	Innvandrere	Belarus	2012	4
+Personer	1149 Karmøy	Innvandrere	Belarus	2013	4
+Personer	1149 Karmøy	Innvandrere	Belarus	2014	3
+Personer	1149 Karmøy	Innvandrere	Belarus	2015	3
+Personer	1149 Karmøy	Innvandrere	Belarus	2016	3
+Personer	1149 Karmøy	Innvandrere	Belarus	2017	3
+Personer	1149 Karmøy	Innvandrere	Belarus	2018	4
+Personer	1149 Karmøy	Innvandrere	Belarus	2019	5
+Personer	1149 Karmøy	Innvandrere	Belarus	2020	5
+Personer	1149 Karmøy	Innvandrere	Belarus	2021	3
+Personer	1149 Karmøy	Innvandrere	Belarus	2022	3
+Personer	1149 Karmøy	Innvandrere	Belarus	2023	3
+Personer	1149 Karmøy	Innvandrere	Belarus	2024	5
+Personer	1149 Karmøy	Innvandrere	Belgia	2012	0
+Personer	1149 Karmøy	Innvandrere	Belgia	2013	4
+Personer	1149 Karmøy	Innvandrere	Belgia	2014	4
+Personer	1149 Karmøy	Innvandrere	Belgia	2015	3
+Personer	1149 Karmøy	Innvandrere	Belgia	2016	3
+Personer	1149 Karmøy	Innvandrere	Belgia	2017	3
+Personer	1149 Karmøy	Innvandrere	Belgia	2018	3
+Personer	1149 Karmøy	Innvandrere	Belgia	2019	3
+Personer	1149 Karmøy	Innvandrere	Belgia	2020	3
+Personer	1149 Karmøy	Innvandrere	Belgia	2021	3
+Personer	1149 Karmøy	Innvandrere	Belgia	2022	4
+Personer	1149 Karmøy	Innvandrere	Belgia	2023	4
+Personer	1149 Karmøy	Innvandrere	Belgia	2024	6
+Personer	1149 Karmøy	Innvandrere	Bosnia-Hercegovina	2012	30
+Personer	1149 Karmøy	Innvandrere	Bosnia-Hercegovina	2013	29
+Personer	1149 Karmøy	Innvandrere	Bosnia-Hercegovina	2014	27
+Personer	1149 Karmøy	Innvandrere	Bosnia-Hercegovina	2015	28
+Personer	1149 Karmøy	Innvandrere	Bosnia-Hercegovina	2016	30
+Personer	1149 Karmøy	Innvandrere	Bosnia-Hercegovina	2017	30
+Personer	1149 Karmøy	Innvandrere	Bosnia-Hercegovina	2018	30
+Personer	1149 Karmøy	Innvandrere	Bosnia-Hercegovina	2019	30
+Personer	1149 Karmøy	Innvandrere	Bosnia-Hercegovina	2020	35
+Personer	1149 Karmøy	Innvandrere	Bosnia-Hercegovina	2021	37
+Personer	1149 Karmøy	Innvandrere	Bosnia-Hercegovina	2022	36
+Personer	1149 Karmøy	Innvandrere	Bosnia-Hercegovina	2023	34
+Personer	1149 Karmøy	Innvandrere	Bosnia-Hercegovina	2024	33
+Personer	1149 Karmøy	Innvandrere	Bulgaria	2012	29
+Personer	1149 Karmøy	Innvandrere	Bulgaria	2013	41
+Personer	1149 Karmøy	Innvandrere	Bulgaria	2014	44
+Personer	1149 Karmøy	Innvandrere	Bulgaria	2015	40
+Personer	1149 Karmøy	Innvandrere	Bulgaria	2016	30
+Personer	1149 Karmøy	Innvandrere	Bulgaria	2017	33
+Personer	1149 Karmøy	Innvandrere	Bulgaria	2018	30
+Personer	1149 Karmøy	Innvandrere	Bulgaria	2019	31
+Personer	1149 Karmøy	Innvandrere	Bulgaria	2020	29
+Personer	1149 Karmøy	Innvandrere	Bulgaria	2021	35
+Personer	1149 Karmøy	Innvandrere	Bulgaria	2022	35
+Personer	1149 Karmøy	Innvandrere	Bulgaria	2023	39
+Personer	1149 Karmøy	Innvandrere	Bulgaria	2024	48
+Personer	1149 Karmøy	Innvandrere	Estland	2012	12
+Personer	1149 Karmøy	Innvandrere	Estland	2013	13
+Personer	1149 Karmøy	Innvandrere	Estland	2014	11
+Personer	1149 Karmøy	Innvandrere	Estland	2015	7
+Personer	1149 Karmøy	Innvandrere	Estland	2016	5
+Personer	1149 Karmøy	Innvandrere	Estland	2017	9
+Personer	1149 Karmøy	Innvandrere	Estland	2018	7
+Personer	1149 Karmøy	Innvandrere	Estland	2019	9
+Personer	1149 Karmøy	Innvandrere	Estland	2020	8
+Personer	1149 Karmøy	Innvandrere	Estland	2021	6
+Personer	1149 Karmøy	Innvandrere	Estland	2022	7
+Personer	1149 Karmøy	Innvandrere	Estland	2023	7
+Personer	1149 Karmøy	Innvandrere	Estland	2024	10
+Personer	1149 Karmøy	Innvandrere	Frankrike	2012	6
+Personer	1149 Karmøy	Innvandrere	Frankrike	2013	5
+Personer	1149 Karmøy	Innvandrere	Frankrike	2014	5
+Personer	1149 Karmøy	Innvandrere	Frankrike	2015	4
+Personer	1149 Karmøy	Innvandrere	Frankrike	2016	4
+Personer	1149 Karmøy	Innvandrere	Frankrike	2017	4
+Personer	1149 Karmøy	Innvandrere	Frankrike	2018	4
+Personer	1149 Karmøy	Innvandrere	Frankrike	2019	4
+Personer	1149 Karmøy	Innvandrere	Frankrike	2020	4
+Personer	1149 Karmøy	Innvandrere	Frankrike	2021	5
+Personer	1149 Karmøy	Innvandrere	Frankrike	2022	6
+Personer	1149 Karmøy	Innvandrere	Frankrike	2023	9
+Personer	1149 Karmøy	Innvandrere	Frankrike	2024	9
+Personer	1149 Karmøy	Innvandrere	Gibraltar	2012	0
+Personer	1149 Karmøy	Innvandrere	Gibraltar	2013	0
+Personer	1149 Karmøy	Innvandrere	Gibraltar	2014	0
+Personer	1149 Karmøy	Innvandrere	Gibraltar	2015	0
+Personer	1149 Karmøy	Innvandrere	Gibraltar	2016	0
+Personer	1149 Karmøy	Innvandrere	Gibraltar	2017	0
+Personer	1149 Karmøy	Innvandrere	Gibraltar	2018	0
+Personer	1149 Karmøy	Innvandrere	Gibraltar	2019	0
+Personer	1149 Karmøy	Innvandrere	Gibraltar	2020	0
+Personer	1149 Karmøy	Innvandrere	Gibraltar	2021	0
+Personer	1149 Karmøy	Innvandrere	Gibraltar	2022	0
+Personer	1149 Karmøy	Innvandrere	Gibraltar	2023	0
+Personer	1149 Karmøy	Innvandrere	Gibraltar	2024	0
+Personer	1149 Karmøy	Innvandrere	Guernsey	2012	0
+Personer	1149 Karmøy	Innvandrere	Guernsey	2013	0
+Personer	1149 Karmøy	Innvandrere	Guernsey	2014	0
+Personer	1149 Karmøy	Innvandrere	Guernsey	2015	0
+Personer	1149 Karmøy	Innvandrere	Guernsey	2016	0
+Personer	1149 Karmøy	Innvandrere	Guernsey	2017	0
+Personer	1149 Karmøy	Innvandrere	Guernsey	2018	0
+Personer	1149 Karmøy	Innvandrere	Guernsey	2019	0
+Personer	1149 Karmøy	Innvandrere	Guernsey	2020	0
+Personer	1149 Karmøy	Innvandrere	Guernsey	2021	0
+Personer	1149 Karmøy	Innvandrere	Guernsey	2022	0
+Personer	1149 Karmøy	Innvandrere	Guernsey	2023	0
+Personer	1149 Karmøy	Innvandrere	Guernsey	2024	0
+Personer	1149 Karmøy	Innvandrere	Hellas	2012	4
+Personer	1149 Karmøy	Innvandrere	Hellas	2013	5
+Personer	1149 Karmøy	Innvandrere	Hellas	2014	5
+Personer	1149 Karmøy	Innvandrere	Hellas	2015	5
+Personer	1149 Karmøy	Innvandrere	Hellas	2016	5
+Personer	1149 Karmøy	Innvandrere	Hellas	2017	6
+Personer	1149 Karmøy	Innvandrere	Hellas	2018	6
+Personer	1149 Karmøy	Innvandrere	Hellas	2019	6
+Personer	1149 Karmøy	Innvandrere	Hellas	2020	11
+Personer	1149 Karmøy	Innvandrere	Hellas	2021	13
+Personer	1149 Karmøy	Innvandrere	Hellas	2022	17
+Personer	1149 Karmøy	Innvandrere	Hellas	2023	18
+Personer	1149 Karmøy	Innvandrere	Hellas	2024	22
+Personer	1149 Karmøy	Innvandrere	Irland	2012	6
+Personer	1149 Karmøy	Innvandrere	Irland	2013	8
+Personer	1149 Karmøy	Innvandrere	Irland	2014	12
+Personer	1149 Karmøy	Innvandrere	Irland	2015	12
+Personer	1149 Karmøy	Innvandrere	Irland	2016	9
+Personer	1149 Karmøy	Innvandrere	Irland	2017	8
+Personer	1149 Karmøy	Innvandrere	Irland	2018	9
+Personer	1149 Karmøy	Innvandrere	Irland	2019	9
+Personer	1149 Karmøy	Innvandrere	Irland	2020	9
+Personer	1149 Karmøy	Innvandrere	Irland	2021	9
+Personer	1149 Karmøy	Innvandrere	Irland	2022	9
+Personer	1149 Karmøy	Innvandrere	Irland	2023	9
+Personer	1149 Karmøy	Innvandrere	Irland	2024	9
+Personer	1149 Karmøy	Innvandrere	Italia	2012	10
+Personer	1149 Karmøy	Innvandrere	Italia	2013	17
+Personer	1149 Karmøy	Innvandrere	Italia	2014	18
+Personer	1149 Karmøy	Innvandrere	Italia	2015	12
+Personer	1149 Karmøy	Innvandrere	Italia	2016	12
+Personer	1149 Karmøy	Innvandrere	Italia	2017	11
+Personer	1149 Karmøy	Innvandrere	Italia	2018	13
+Personer	1149 Karmøy	Innvandrere	Italia	2019	11
+Personer	1149 Karmøy	Innvandrere	Italia	2020	11
+Personer	1149 Karmøy	Innvandrere	Italia	2021	11
+Personer	1149 Karmøy	Innvandrere	Italia	2022	12
+Personer	1149 Karmøy	Innvandrere	Italia	2023	18
+Personer	1149 Karmøy	Innvandrere	Italia	2024	16
+Personer	1149 Karmøy	Innvandrere	Jersey	2012	0
+Personer	1149 Karmøy	Innvandrere	Jersey	2013	0
+Personer	1149 Karmøy	Innvandrere	Jersey	2014	0
+Personer	1149 Karmøy	Innvandrere	Jersey	2015	0
+Personer	1149 Karmøy	Innvandrere	Jersey	2016	0
+Personer	1149 Karmøy	Innvandrere	Jersey	2017	0
+Personer	1149 Karmøy	Innvandrere	Jersey	2018	0
+Personer	1149 Karmøy	Innvandrere	Jersey	2019	0
+Personer	1149 Karmøy	Innvandrere	Jersey	2020	0
+Personer	1149 Karmøy	Innvandrere	Jersey	2021	0
+Personer	1149 Karmøy	Innvandrere	Jersey	2022	0
+Personer	1149 Karmøy	Innvandrere	Jersey	2023	0
+Personer	1149 Karmøy	Innvandrere	Jersey	2024	0
+Personer	1149 Karmøy	Innvandrere	Kosovo	2012	13
+Personer	1149 Karmøy	Innvandrere	Kosovo	2013	12
+Personer	1149 Karmøy	Innvandrere	Kosovo	2014	12
+Personer	1149 Karmøy	Innvandrere	Kosovo	2015	14
+Personer	1149 Karmøy	Innvandrere	Kosovo	2016	15
+Personer	1149 Karmøy	Innvandrere	Kosovo	2017	11
+Personer	1149 Karmøy	Innvandrere	Kosovo	2018	11
+Personer	1149 Karmøy	Innvandrere	Kosovo	2019	12
+Personer	1149 Karmøy	Innvandrere	Kosovo	2020	9
+Personer	1149 Karmøy	Innvandrere	Kosovo	2021	10
+Personer	1149 Karmøy	Innvandrere	Kosovo	2022	8
+Personer	1149 Karmøy	Innvandrere	Kosovo	2023	9
+Personer	1149 Karmøy	Innvandrere	Kosovo	2024	9
+Personer	1149 Karmøy	Innvandrere	Kroatia	2012	0
+Personer	1149 Karmøy	Innvandrere	Kroatia	2013	3
+Personer	1149 Karmøy	Innvandrere	Kroatia	2014	3
+Personer	1149 Karmøy	Innvandrere	Kroatia	2015	3
+Personer	1149 Karmøy	Innvandrere	Kroatia	2016	3
+Personer	1149 Karmøy	Innvandrere	Kroatia	2017	3
+Personer	1149 Karmøy	Innvandrere	Kroatia	2018	4
+Personer	1149 Karmøy	Innvandrere	Kroatia	2019	3
+Personer	1149 Karmøy	Innvandrere	Kroatia	2020	3
+Personer	1149 Karmøy	Innvandrere	Kroatia	2021	4
+Personer	1149 Karmøy	Innvandrere	Kroatia	2022	5
+Personer	1149 Karmøy	Innvandrere	Kroatia	2023	5
+Personer	1149 Karmøy	Innvandrere	Kroatia	2024	5
+Personer	1149 Karmøy	Innvandrere	Latvia	2012	29
+Personer	1149 Karmøy	Innvandrere	Latvia	2013	58
+Personer	1149 Karmøy	Innvandrere	Latvia	2014	81
+Personer	1149 Karmøy	Innvandrere	Latvia	2015	89
+Personer	1149 Karmøy	Innvandrere	Latvia	2016	89
+Personer	1149 Karmøy	Innvandrere	Latvia	2017	84
+Personer	1149 Karmøy	Innvandrere	Latvia	2018	77
+Personer	1149 Karmøy	Innvandrere	Latvia	2019	73
+Personer	1149 Karmøy	Innvandrere	Latvia	2020	71
+Personer	1149 Karmøy	Innvandrere	Latvia	2021	75
+Personer	1149 Karmøy	Innvandrere	Latvia	2022	77
+Personer	1149 Karmøy	Innvandrere	Latvia	2023	83
+Personer	1149 Karmøy	Innvandrere	Latvia	2024	93
+Personer	1149 Karmøy	Innvandrere	Liechtenstein	2012	0
+Personer	1149 Karmøy	Innvandrere	Liechtenstein	2013	0
+Personer	1149 Karmøy	Innvandrere	Liechtenstein	2014	0
+Personer	1149 Karmøy	Innvandrere	Liechtenstein	2015	0
+Personer	1149 Karmøy	Innvandrere	Liechtenstein	2016	0
+Personer	1149 Karmøy	Innvandrere	Liechtenstein	2017	0
+Personer	1149 Karmøy	Innvandrere	Liechtenstein	2018	0
+Personer	1149 Karmøy	Innvandrere	Liechtenstein	2019	0
+Personer	1149 Karmøy	Innvandrere	Liechtenstein	2020	0
+Personer	1149 Karmøy	Innvandrere	Liechtenstein	2021	0
+Personer	1149 Karmøy	Innvandrere	Liechtenstein	2022	0
+Personer	1149 Karmøy	Innvandrere	Liechtenstein	2023	0
+Personer	1149 Karmøy	Innvandrere	Liechtenstein	2024	0
+Personer	1149 Karmøy	Innvandrere	Litauen	2012	131
+Personer	1149 Karmøy	Innvandrere	Litauen	2013	202
+Personer	1149 Karmøy	Innvandrere	Litauen	2014	238
+Personer	1149 Karmøy	Innvandrere	Litauen	2015	265
+Personer	1149 Karmøy	Innvandrere	Litauen	2016	255
+Personer	1149 Karmøy	Innvandrere	Litauen	2017	258
+Personer	1149 Karmøy	Innvandrere	Litauen	2018	245
+Personer	1149 Karmøy	Innvandrere	Litauen	2019	244
+Personer	1149 Karmøy	Innvandrere	Litauen	2020	256
+Personer	1149 Karmøy	Innvandrere	Litauen	2021	256
+Personer	1149 Karmøy	Innvandrere	Litauen	2022	260
+Personer	1149 Karmøy	Innvandrere	Litauen	2023	254
+Personer	1149 Karmøy	Innvandrere	Litauen	2024	246
+Personer	1149 Karmøy	Innvandrere	Luxembourg	2012	0
+Personer	1149 Karmøy	Innvandrere	Luxembourg	2013	0
+Personer	1149 Karmøy	Innvandrere	Luxembourg	2014	0
+Personer	1149 Karmøy	Innvandrere	Luxembourg	2015	0
+Personer	1149 Karmøy	Innvandrere	Luxembourg	2016	0
+Personer	1149 Karmøy	Innvandrere	Luxembourg	2017	0
+Personer	1149 Karmøy	Innvandrere	Luxembourg	2018	0
+Personer	1149 Karmøy	Innvandrere	Luxembourg	2019	0
+Personer	1149 Karmøy	Innvandrere	Luxembourg	2020	0
+Personer	1149 Karmøy	Innvandrere	Luxembourg	2021	0
+Personer	1149 Karmøy	Innvandrere	Luxembourg	2022	0
+Personer	1149 Karmøy	Innvandrere	Luxembourg	2023	0
+Personer	1149 Karmøy	Innvandrere	Luxembourg	2024	0
+Personer	1149 Karmøy	Innvandrere	Malta	2012	0
+Personer	1149 Karmøy	Innvandrere	Malta	2013	0
+Personer	1149 Karmøy	Innvandrere	Malta	2014	0
+Personer	1149 Karmøy	Innvandrere	Malta	2015	0
+Personer	1149 Karmøy	Innvandrere	Malta	2016	0
+Personer	1149 Karmøy	Innvandrere	Malta	2017	0
+Personer	1149 Karmøy	Innvandrere	Malta	2018	0
+Personer	1149 Karmøy	Innvandrere	Malta	2019	0
+Personer	1149 Karmøy	Innvandrere	Malta	2020	0
+Personer	1149 Karmøy	Innvandrere	Malta	2021	0
+Personer	1149 Karmøy	Innvandrere	Malta	2022	0
+Personer	1149 Karmøy	Innvandrere	Malta	2023	0
+Personer	1149 Karmøy	Innvandrere	Malta	2024	0
+Personer	1149 Karmøy	Innvandrere	Man	2012	0
+Personer	1149 Karmøy	Innvandrere	Man	2013	0
+Personer	1149 Karmøy	Innvandrere	Man	2014	0
+Personer	1149 Karmøy	Innvandrere	Man	2015	0
+Personer	1149 Karmøy	Innvandrere	Man	2016	0
+Personer	1149 Karmøy	Innvandrere	Man	2017	0
+Personer	1149 Karmøy	Innvandrere	Man	2018	0
+Personer	1149 Karmøy	Innvandrere	Man	2019	0
+Personer	1149 Karmøy	Innvandrere	Man	2020	0
+Personer	1149 Karmøy	Innvandrere	Man	2021	0
+Personer	1149 Karmøy	Innvandrere	Man	2022	0
+Personer	1149 Karmøy	Innvandrere	Man	2023	0
+Personer	1149 Karmøy	Innvandrere	Man	2024	0
+Personer	1149 Karmøy	Innvandrere	Moldova	2012	0
+Personer	1149 Karmøy	Innvandrere	Moldova	2013	0
+Personer	1149 Karmøy	Innvandrere	Moldova	2014	0
+Personer	1149 Karmøy	Innvandrere	Moldova	2015	0
+Personer	1149 Karmøy	Innvandrere	Moldova	2016	0
+Personer	1149 Karmøy	Innvandrere	Moldova	2017	0
+Personer	1149 Karmøy	Innvandrere	Moldova	2018	0
+Personer	1149 Karmøy	Innvandrere	Moldova	2019	0
+Personer	1149 Karmøy	Innvandrere	Moldova	2020	0
+Personer	1149 Karmøy	Innvandrere	Moldova	2021	0
+Personer	1149 Karmøy	Innvandrere	Moldova	2022	0
+Personer	1149 Karmøy	Innvandrere	Moldova	2023	0
+Personer	1149 Karmøy	Innvandrere	Moldova	2024	3
+Personer	1149 Karmøy	Innvandrere	Monaco	2012	0
+Personer	1149 Karmøy	Innvandrere	Monaco	2013	0
+Personer	1149 Karmøy	Innvandrere	Monaco	2014	0
+Personer	1149 Karmøy	Innvandrere	Monaco	2015	0
+Personer	1149 Karmøy	Innvandrere	Monaco	2016	0
+Personer	1149 Karmøy	Innvandrere	Monaco	2017	0
+Personer	1149 Karmøy	Innvandrere	Monaco	2018	0
+Personer	1149 Karmøy	Innvandrere	Monaco	2019	0
+Personer	1149 Karmøy	Innvandrere	Monaco	2020	0
+Personer	1149 Karmøy	Innvandrere	Monaco	2021	0
+Personer	1149 Karmøy	Innvandrere	Monaco	2022	0
+Personer	1149 Karmøy	Innvandrere	Monaco	2023	0
+Personer	1149 Karmøy	Innvandrere	Monaco	2024	0
+Personer	1149 Karmøy	Innvandrere	Montenegro	2012	0
+Personer	1149 Karmøy	Innvandrere	Montenegro	2013	0
+Personer	1149 Karmøy	Innvandrere	Montenegro	2014	0
+Personer	1149 Karmøy	Innvandrere	Montenegro	2015	0
+Personer	1149 Karmøy	Innvandrere	Montenegro	2016	0
+Personer	1149 Karmøy	Innvandrere	Montenegro	2017	0
+Personer	1149 Karmøy	Innvandrere	Montenegro	2018	0
+Personer	1149 Karmøy	Innvandrere	Montenegro	2019	0
+Personer	1149 Karmøy	Innvandrere	Montenegro	2020	0
+Personer	1149 Karmøy	Innvandrere	Montenegro	2021	0
+Personer	1149 Karmøy	Innvandrere	Montenegro	2022	0
+Personer	1149 Karmøy	Innvandrere	Montenegro	2023	0
+Personer	1149 Karmøy	Innvandrere	Montenegro	2024	0
+Personer	1149 Karmøy	Innvandrere	Nederland	2012	40
+Personer	1149 Karmøy	Innvandrere	Nederland	2013	41
+Personer	1149 Karmøy	Innvandrere	Nederland	2014	41
+Personer	1149 Karmøy	Innvandrere	Nederland	2015	35
+Personer	1149 Karmøy	Innvandrere	Nederland	2016	29
+Personer	1149 Karmøy	Innvandrere	Nederland	2017	27
+Personer	1149 Karmøy	Innvandrere	Nederland	2018	28
+Personer	1149 Karmøy	Innvandrere	Nederland	2019	32
+Personer	1149 Karmøy	Innvandrere	Nederland	2020	26
+Personer	1149 Karmøy	Innvandrere	Nederland	2021	26
+Personer	1149 Karmøy	Innvandrere	Nederland	2022	27
+Personer	1149 Karmøy	Innvandrere	Nederland	2023	28
+Personer	1149 Karmøy	Innvandrere	Nederland	2024	37
+Personer	1149 Karmøy	Innvandrere	Nord-Makedonia	2012	5
+Personer	1149 Karmøy	Innvandrere	Nord-Makedonia	2013	6
+Personer	1149 Karmøy	Innvandrere	Nord-Makedonia	2014	7
+Personer	1149 Karmøy	Innvandrere	Nord-Makedonia	2015	6
+Personer	1149 Karmøy	Innvandrere	Nord-Makedonia	2016	6
+Personer	1149 Karmøy	Innvandrere	Nord-Makedonia	2017	6
+Personer	1149 Karmøy	Innvandrere	Nord-Makedonia	2018	5
+Personer	1149 Karmøy	Innvandrere	Nord-Makedonia	2019	5
+Personer	1149 Karmøy	Innvandrere	Nord-Makedonia	2020	5
+Personer	1149 Karmøy	Innvandrere	Nord-Makedonia	2021	6
+Personer	1149 Karmøy	Innvandrere	Nord-Makedonia	2022	6
+Personer	1149 Karmøy	Innvandrere	Nord-Makedonia	2023	7
+Personer	1149 Karmøy	Innvandrere	Nord-Makedonia	2024	10
+Personer	1149 Karmøy	Innvandrere	Polen	2012	519
+Personer	1149 Karmøy	Innvandrere	Polen	2013	634
+Personer	1149 Karmøy	Innvandrere	Polen	2014	686
+Personer	1149 Karmøy	Innvandrere	Polen	2015	731
+Personer	1149 Karmøy	Innvandrere	Polen	2016	785
+Personer	1149 Karmøy	Innvandrere	Polen	2017	771
+Personer	1149 Karmøy	Innvandrere	Polen	2018	767
+Personer	1149 Karmøy	Innvandrere	Polen	2019	726
+Personer	1149 Karmøy	Innvandrere	Polen	2020	738
+Personer	1149 Karmøy	Innvandrere	Polen	2021	766
+Personer	1149 Karmøy	Innvandrere	Polen	2022	804
+Personer	1149 Karmøy	Innvandrere	Polen	2023	765
+Personer	1149 Karmøy	Innvandrere	Polen	2024	773
+Personer	1149 Karmøy	Innvandrere	Portugal	2012	3
+Personer	1149 Karmøy	Innvandrere	Portugal	2013	0
+Personer	1149 Karmøy	Innvandrere	Portugal	2014	3
+Personer	1149 Karmøy	Innvandrere	Portugal	2015	0
+Personer	1149 Karmøy	Innvandrere	Portugal	2016	0
+Personer	1149 Karmøy	Innvandrere	Portugal	2017	0
+Personer	1149 Karmøy	Innvandrere	Portugal	2018	3
+Personer	1149 Karmøy	Innvandrere	Portugal	2019	5
+Personer	1149 Karmøy	Innvandrere	Portugal	2020	6
+Personer	1149 Karmøy	Innvandrere	Portugal	2021	8
+Personer	1149 Karmøy	Innvandrere	Portugal	2022	9
+Personer	1149 Karmøy	Innvandrere	Portugal	2023	10
+Personer	1149 Karmøy	Innvandrere	Portugal	2024	8
+Personer	1149 Karmøy	Innvandrere	Romania	2012	105
+Personer	1149 Karmøy	Innvandrere	Romania	2013	129
+Personer	1149 Karmøy	Innvandrere	Romania	2014	157
+Personer	1149 Karmøy	Innvandrere	Romania	2015	175
+Personer	1149 Karmøy	Innvandrere	Romania	2016	184
+Personer	1149 Karmøy	Innvandrere	Romania	2017	185
+Personer	1149 Karmøy	Innvandrere	Romania	2018	185
+Personer	1149 Karmøy	Innvandrere	Romania	2019	179
+Personer	1149 Karmøy	Innvandrere	Romania	2020	178
+Personer	1149 Karmøy	Innvandrere	Romania	2021	182
+Personer	1149 Karmøy	Innvandrere	Romania	2022	184
+Personer	1149 Karmøy	Innvandrere	Romania	2023	195
+Personer	1149 Karmøy	Innvandrere	Romania	2024	203
+Personer	1149 Karmøy	Innvandrere	Russland	2012	112
+Personer	1149 Karmøy	Innvandrere	Russland	2013	101
+Personer	1149 Karmøy	Innvandrere	Russland	2014	101
+Personer	1149 Karmøy	Innvandrere	Russland	2015	96
+Personer	1149 Karmøy	Innvandrere	Russland	2016	96
+Personer	1149 Karmøy	Innvandrere	Russland	2017	87
+Personer	1149 Karmøy	Innvandrere	Russland	2018	103
+Personer	1149 Karmøy	Innvandrere	Russland	2019	104
+Personer	1149 Karmøy	Innvandrere	Russland	2020	102
+Personer	1149 Karmøy	Innvandrere	Russland	2021	96
+Personer	1149 Karmøy	Innvandrere	Russland	2022	94
+Personer	1149 Karmøy	Innvandrere	Russland	2023	90
+Personer	1149 Karmøy	Innvandrere	Russland	2024	100
+Personer	1149 Karmøy	Innvandrere	San Marino	2012	0
+Personer	1149 Karmøy	Innvandrere	San Marino	2013	0
+Personer	1149 Karmøy	Innvandrere	San Marino	2014	0
+Personer	1149 Karmøy	Innvandrere	San Marino	2015	0
+Personer	1149 Karmøy	Innvandrere	San Marino	2016	0
+Personer	1149 Karmøy	Innvandrere	San Marino	2017	0
+Personer	1149 Karmøy	Innvandrere	San Marino	2018	0
+Personer	1149 Karmøy	Innvandrere	San Marino	2019	0
+Personer	1149 Karmøy	Innvandrere	San Marino	2020	0
+Personer	1149 Karmøy	Innvandrere	San Marino	2021	0
+Personer	1149 Karmøy	Innvandrere	San Marino	2022	0
+Personer	1149 Karmøy	Innvandrere	San Marino	2023	0
+Personer	1149 Karmøy	Innvandrere	San Marino	2024	0
+Personer	1149 Karmøy	Innvandrere	Serbia	2012	19
+Personer	1149 Karmøy	Innvandrere	Serbia	2013	19
+Personer	1149 Karmøy	Innvandrere	Serbia	2014	12
+Personer	1149 Karmøy	Innvandrere	Serbia	2015	11
+Personer	1149 Karmøy	Innvandrere	Serbia	2016	16
+Personer	1149 Karmøy	Innvandrere	Serbia	2017	15
+Personer	1149 Karmøy	Innvandrere	Serbia	2018	16
+Personer	1149 Karmøy	Innvandrere	Serbia	2019	13
+Personer	1149 Karmøy	Innvandrere	Serbia	2020	14
+Personer	1149 Karmøy	Innvandrere	Serbia	2021	15
+Personer	1149 Karmøy	Innvandrere	Serbia	2022	15
+Personer	1149 Karmøy	Innvandrere	Serbia	2023	15
+Personer	1149 Karmøy	Innvandrere	Serbia	2024	18
+Personer	1149 Karmøy	Innvandrere	Serbia og Montenegro	2012	0
+Personer	1149 Karmøy	Innvandrere	Serbia og Montenegro	2013	0
+Personer	1149 Karmøy	Innvandrere	Serbia og Montenegro	2014	0
+Personer	1149 Karmøy	Innvandrere	Serbia og Montenegro	2015	0
+Personer	1149 Karmøy	Innvandrere	Serbia og Montenegro	2016	0
+Personer	1149 Karmøy	Innvandrere	Serbia og Montenegro	2017	0
+Personer	1149 Karmøy	Innvandrere	Serbia og Montenegro	2018	0
+Personer	1149 Karmøy	Innvandrere	Serbia og Montenegro	2019	0
+Personer	1149 Karmøy	Innvandrere	Serbia og Montenegro	2020	0
+Personer	1149 Karmøy	Innvandrere	Serbia og Montenegro	2021	0
+Personer	1149 Karmøy	Innvandrere	Serbia og Montenegro	2022	0
+Personer	1149 Karmøy	Innvandrere	Serbia og Montenegro	2023	0
+Personer	1149 Karmøy	Innvandrere	Serbia og Montenegro	2024	0
+Personer	1149 Karmøy	Innvandrere	Slovakia	2012	3
+Personer	1149 Karmøy	Innvandrere	Slovakia	2013	6
+Personer	1149 Karmøy	Innvandrere	Slovakia	2014	7
+Personer	1149 Karmøy	Innvandrere	Slovakia	2015	10
+Personer	1149 Karmøy	Innvandrere	Slovakia	2016	9
+Personer	1149 Karmøy	Innvandrere	Slovakia	2017	4
+Personer	1149 Karmøy	Innvandrere	Slovakia	2018	4
+Personer	1149 Karmøy	Innvandrere	Slovakia	2019	4
+Personer	1149 Karmøy	Innvandrere	Slovakia	2020	5
+Personer	1149 Karmøy	Innvandrere	Slovakia	2021	6
+Personer	1149 Karmøy	Innvandrere	Slovakia	2022	9
+Personer	1149 Karmøy	Innvandrere	Slovakia	2023	9
+Personer	1149 Karmøy	Innvandrere	Slovakia	2024	9
+Personer	1149 Karmøy	Innvandrere	Slovenia	2012	3
+Personer	1149 Karmøy	Innvandrere	Slovenia	2013	3
+Personer	1149 Karmøy	Innvandrere	Slovenia	2014	3
+Personer	1149 Karmøy	Innvandrere	Slovenia	2015	3
+Personer	1149 Karmøy	Innvandrere	Slovenia	2016	0
+Personer	1149 Karmøy	Innvandrere	Slovenia	2017	0
+Personer	1149 Karmøy	Innvandrere	Slovenia	2018	3
+Personer	1149 Karmøy	Innvandrere	Slovenia	2019	3
+Personer	1149 Karmøy	Innvandrere	Slovenia	2020	0
+Personer	1149 Karmøy	Innvandrere	Slovenia	2021	0
+Personer	1149 Karmøy	Innvandrere	Slovenia	2022	0
+Personer	1149 Karmøy	Innvandrere	Slovenia	2023	0
+Personer	1149 Karmøy	Innvandrere	Slovenia	2024	0
+Personer	1149 Karmøy	Innvandrere	Spania	2012	9
+Personer	1149 Karmøy	Innvandrere	Spania	2013	10
+Personer	1149 Karmøy	Innvandrere	Spania	2014	17
+Personer	1149 Karmøy	Innvandrere	Spania	2015	24
+Personer	1149 Karmøy	Innvandrere	Spania	2016	25
+Personer	1149 Karmøy	Innvandrere	Spania	2017	21
+Personer	1149 Karmøy	Innvandrere	Spania	2018	23
+Personer	1149 Karmøy	Innvandrere	Spania	2019	16
+Personer	1149 Karmøy	Innvandrere	Spania	2020	17
+Personer	1149 Karmøy	Innvandrere	Spania	2021	21
+Personer	1149 Karmøy	Innvandrere	Spania	2022	23
+Personer	1149 Karmøy	Innvandrere	Spania	2023	28
+Personer	1149 Karmøy	Innvandrere	Spania	2024	29
+Personer	1149 Karmøy	Innvandrere	Storbritannia	2012	93
+Personer	1149 Karmøy	Innvandrere	Storbritannia	2013	95
+Personer	1149 Karmøy	Innvandrere	Storbritannia	2014	95
+Personer	1149 Karmøy	Innvandrere	Storbritannia	2015	98
+Personer	1149 Karmøy	Innvandrere	Storbritannia	2016	99
+Personer	1149 Karmøy	Innvandrere	Storbritannia	2017	97
+Personer	1149 Karmøy	Innvandrere	Storbritannia	2018	90
+Personer	1149 Karmøy	Innvandrere	Storbritannia	2019	87
+Personer	1149 Karmøy	Innvandrere	Storbritannia	2020	85
+Personer	1149 Karmøy	Innvandrere	Storbritannia	2021	94
+Personer	1149 Karmøy	Innvandrere	Storbritannia	2022	94
+Personer	1149 Karmøy	Innvandrere	Storbritannia	2023	94
+Personer	1149 Karmøy	Innvandrere	Storbritannia	2024	98
+Personer	1149 Karmøy	Innvandrere	Sveits	2012	3
+Personer	1149 Karmøy	Innvandrere	Sveits	2013	3
+Personer	1149 Karmøy	Innvandrere	Sveits	2014	4
+Personer	1149 Karmøy	Innvandrere	Sveits	2015	4
+Personer	1149 Karmøy	Innvandrere	Sveits	2016	3
+Personer	1149 Karmøy	Innvandrere	Sveits	2017	3
+Personer	1149 Karmøy	Innvandrere	Sveits	2018	3
+Personer	1149 Karmøy	Innvandrere	Sveits	2019	3
+Personer	1149 Karmøy	Innvandrere	Sveits	2020	3
+Personer	1149 Karmøy	Innvandrere	Sveits	2021	3
+Personer	1149 Karmøy	Innvandrere	Sveits	2022	3
+Personer	1149 Karmøy	Innvandrere	Sveits	2023	4
+Personer	1149 Karmøy	Innvandrere	Sveits	2024	5
+Personer	1149 Karmøy	Innvandrere	Tsjekkia	2012	4
+Personer	1149 Karmøy	Innvandrere	Tsjekkia	2013	4
+Personer	1149 Karmøy	Innvandrere	Tsjekkia	2014	4
+Personer	1149 Karmøy	Innvandrere	Tsjekkia	2015	4
+Personer	1149 Karmøy	Innvandrere	Tsjekkia	2016	4
+Personer	1149 Karmøy	Innvandrere	Tsjekkia	2017	4
+Personer	1149 Karmøy	Innvandrere	Tsjekkia	2018	4
+Personer	1149 Karmøy	Innvandrere	Tsjekkia	2019	3
+Personer	1149 Karmøy	Innvandrere	Tsjekkia	2020	4
+Personer	1149 Karmøy	Innvandrere	Tsjekkia	2021	6
+Personer	1149 Karmøy	Innvandrere	Tsjekkia	2022	6
+Personer	1149 Karmøy	Innvandrere	Tsjekkia	2023	7
+Personer	1149 Karmøy	Innvandrere	Tsjekkia	2024	7
+Personer	1149 Karmøy	Innvandrere	Tyrkia	2012	19
+Personer	1149 Karmøy	Innvandrere	Tyrkia	2013	28
+Personer	1149 Karmøy	Innvandrere	Tyrkia	2014	27
+Personer	1149 Karmøy	Innvandrere	Tyrkia	2015	22
+Personer	1149 Karmøy	Innvandrere	Tyrkia	2016	23
+Personer	1149 Karmøy	Innvandrere	Tyrkia	2017	20
+Personer	1149 Karmøy	Innvandrere	Tyrkia	2018	18
+Personer	1149 Karmøy	Innvandrere	Tyrkia	2019	22
+Personer	1149 Karmøy	Innvandrere	Tyrkia	2020	22
+Personer	1149 Karmøy	Innvandrere	Tyrkia	2021	23
+Personer	1149 Karmøy	Innvandrere	Tyrkia	2022	25
+Personer	1149 Karmøy	Innvandrere	Tyrkia	2023	24
+Personer	1149 Karmøy	Innvandrere	Tyrkia	2024	30
+Personer	1149 Karmøy	Innvandrere	Tyskland	2012	194
+Personer	1149 Karmøy	Innvandrere	Tyskland	2013	208
+Personer	1149 Karmøy	Innvandrere	Tyskland	2014	199
+Personer	1149 Karmøy	Innvandrere	Tyskland	2015	203
+Personer	1149 Karmøy	Innvandrere	Tyskland	2016	217
+Personer	1149 Karmøy	Innvandrere	Tyskland	2017	195
+Personer	1149 Karmøy	Innvandrere	Tyskland	2018	186
+Personer	1149 Karmøy	Innvandrere	Tyskland	2019	180
+Personer	1149 Karmøy	Innvandrere	Tyskland	2020	185
+Personer	1149 Karmøy	Innvandrere	Tyskland	2021	181
+Personer	1149 Karmøy	Innvandrere	Tyskland	2022	188
+Personer	1149 Karmøy	Innvandrere	Tyskland	2023	182
+Personer	1149 Karmøy	Innvandrere	Tyskland	2024	183
+Personer	1149 Karmøy	Innvandrere	Ukraina	2012	13
+Personer	1149 Karmøy	Innvandrere	Ukraina	2013	17
+Personer	1149 Karmøy	Innvandrere	Ukraina	2014	19
+Personer	1149 Karmøy	Innvandrere	Ukraina	2015	30
+Personer	1149 Karmøy	Innvandrere	Ukraina	2016	31
+Personer	1149 Karmøy	Innvandrere	Ukraina	2017	36
+Personer	1149 Karmøy	Innvandrere	Ukraina	2018	35
+Personer	1149 Karmøy	Innvandrere	Ukraina	2019	37
+Personer	1149 Karmøy	Innvandrere	Ukraina	2020	41
+Personer	1149 Karmøy	Innvandrere	Ukraina	2021	41
+Personer	1149 Karmøy	Innvandrere	Ukraina	2022	33
+Personer	1149 Karmøy	Innvandrere	Ukraina	2023	210
+Personer	1149 Karmøy	Innvandrere	Ukraina	2024	498
+Personer	1149 Karmøy	Innvandrere	Ungarn	2012	13
+Personer	1149 Karmøy	Innvandrere	Ungarn	2013	17
+Personer	1149 Karmøy	Innvandrere	Ungarn	2014	19
+Personer	1149 Karmøy	Innvandrere	Ungarn	2015	17
+Personer	1149 Karmøy	Innvandrere	Ungarn	2016	17
+Personer	1149 Karmøy	Innvandrere	Ungarn	2017	8
+Personer	1149 Karmøy	Innvandrere	Ungarn	2018	11
+Personer	1149 Karmøy	Innvandrere	Ungarn	2019	14
+Personer	1149 Karmøy	Innvandrere	Ungarn	2020	14
+Personer	1149 Karmøy	Innvandrere	Ungarn	2021	14
+Personer	1149 Karmøy	Innvandrere	Ungarn	2022	13
+Personer	1149 Karmøy	Innvandrere	Ungarn	2023	12
+Personer	1149 Karmøy	Innvandrere	Ungarn	2024	16
+Personer	1149 Karmøy	Innvandrere	Vatikanstaten	2012	0
+Personer	1149 Karmøy	Innvandrere	Vatikanstaten	2013	0
+Personer	1149 Karmøy	Innvandrere	Vatikanstaten	2014	0
+Personer	1149 Karmøy	Innvandrere	Vatikanstaten	2015	0
+Personer	1149 Karmøy	Innvandrere	Vatikanstaten	2016	0
+Personer	1149 Karmøy	Innvandrere	Vatikanstaten	2017	0
+Personer	1149 Karmøy	Innvandrere	Vatikanstaten	2018	0
+Personer	1149 Karmøy	Innvandrere	Vatikanstaten	2019	0
+Personer	1149 Karmøy	Innvandrere	Vatikanstaten	2020	0
+Personer	1149 Karmøy	Innvandrere	Vatikanstaten	2021	0
+Personer	1149 Karmøy	Innvandrere	Vatikanstaten	2022	0
+Personer	1149 Karmøy	Innvandrere	Vatikanstaten	2023	0
+Personer	1149 Karmøy	Innvandrere	Vatikanstaten	2024	0
+Personer	1149 Karmøy	Innvandrere	Østerrike	2012	7
+Personer	1149 Karmøy	Innvandrere	Østerrike	2013	7
+Personer	1149 Karmøy	Innvandrere	Østerrike	2014	7
+Personer	1149 Karmøy	Innvandrere	Østerrike	2015	6
+Personer	1149 Karmøy	Innvandrere	Østerrike	2016	6
+Personer	1149 Karmøy	Innvandrere	Østerrike	2017	5
+Personer	1149 Karmøy	Innvandrere	Østerrike	2018	5
+Personer	1149 Karmøy	Innvandrere	Østerrike	2019	5
+Personer	1149 Karmøy	Innvandrere	Østerrike	2020	4
+Personer	1149 Karmøy	Innvandrere	Østerrike	2021	8
+Personer	1149 Karmøy	Innvandrere	Østerrike	2022	9
+Personer	1149 Karmøy	Innvandrere	Østerrike	2023	9
+Personer	1149 Karmøy	Innvandrere	Østerrike	2024	9
+Personer	1149 Karmøy	Innvandrere	Algerie	2012	0
+Personer	1149 Karmøy	Innvandrere	Algerie	2013	0
+Personer	1149 Karmøy	Innvandrere	Algerie	2014	0
+Personer	1149 Karmøy	Innvandrere	Algerie	2015	0
+Personer	1149 Karmøy	Innvandrere	Algerie	2016	0
+Personer	1149 Karmøy	Innvandrere	Algerie	2017	3
+Personer	1149 Karmøy	Innvandrere	Algerie	2018	0
+Personer	1149 Karmøy	Innvandrere	Algerie	2019	0
+Personer	1149 Karmøy	Innvandrere	Algerie	2020	0
+Personer	1149 Karmøy	Innvandrere	Algerie	2021	0
+Personer	1149 Karmøy	Innvandrere	Algerie	2022	3
+Personer	1149 Karmøy	Innvandrere	Algerie	2023	3
+Personer	1149 Karmøy	Innvandrere	Algerie	2024	4
+Personer	1149 Karmøy	Innvandrere	Angola	2012	0
+Personer	1149 Karmøy	Innvandrere	Angola	2013	0
+Personer	1149 Karmøy	Innvandrere	Angola	2014	0
+Personer	1149 Karmøy	Innvandrere	Angola	2015	0
+Personer	1149 Karmøy	Innvandrere	Angola	2016	0
+Personer	1149 Karmøy	Innvandrere	Angola	2017	0
+Personer	1149 Karmøy	Innvandrere	Angola	2018	0
+Personer	1149 Karmøy	Innvandrere	Angola	2019	0
+Personer	1149 Karmøy	Innvandrere	Angola	2020	0
+Personer	1149 Karmøy	Innvandrere	Angola	2021	0
+Personer	1149 Karmøy	Innvandrere	Angola	2022	0
+Personer	1149 Karmøy	Innvandrere	Angola	2023	0
+Personer	1149 Karmøy	Innvandrere	Angola	2024	0
+Personer	1149 Karmøy	Innvandrere	Benin	2012	0
+Personer	1149 Karmøy	Innvandrere	Benin	2013	0
+Personer	1149 Karmøy	Innvandrere	Benin	2014	0
+Personer	1149 Karmøy	Innvandrere	Benin	2015	0
+Personer	1149 Karmøy	Innvandrere	Benin	2016	0
+Personer	1149 Karmøy	Innvandrere	Benin	2017	0
+Personer	1149 Karmøy	Innvandrere	Benin	2018	0
+Personer	1149 Karmøy	Innvandrere	Benin	2019	0
+Personer	1149 Karmøy	Innvandrere	Benin	2020	0
+Personer	1149 Karmøy	Innvandrere	Benin	2021	0
+Personer	1149 Karmøy	Innvandrere	Benin	2022	0
+Personer	1149 Karmøy	Innvandrere	Benin	2023	0
+Personer	1149 Karmøy	Innvandrere	Benin	2024	0
+Personer	1149 Karmøy	Innvandrere	Botswana	2012	0
+Personer	1149 Karmøy	Innvandrere	Botswana	2013	0
+Personer	1149 Karmøy	Innvandrere	Botswana	2014	0
+Personer	1149 Karmøy	Innvandrere	Botswana	2015	0
+Personer	1149 Karmøy	Innvandrere	Botswana	2016	0
+Personer	1149 Karmøy	Innvandrere	Botswana	2017	3
+Personer	1149 Karmøy	Innvandrere	Botswana	2018	3
+Personer	1149 Karmøy	Innvandrere	Botswana	2019	0
+Personer	1149 Karmøy	Innvandrere	Botswana	2020	0
+Personer	1149 Karmøy	Innvandrere	Botswana	2021	0
+Personer	1149 Karmøy	Innvandrere	Botswana	2022	0
+Personer	1149 Karmøy	Innvandrere	Botswana	2023	0
+Personer	1149 Karmøy	Innvandrere	Botswana	2024	0
+Personer	1149 Karmøy	Innvandrere	Det britiske territoriet i Indiahavet	2012	0
+Personer	1149 Karmøy	Innvandrere	Det britiske territoriet i Indiahavet	2013	0
+Personer	1149 Karmøy	Innvandrere	Det britiske territoriet i Indiahavet	2014	0
+Personer	1149 Karmøy	Innvandrere	Det britiske territoriet i Indiahavet	2015	0
+Personer	1149 Karmøy	Innvandrere	Det britiske territoriet i Indiahavet	2016	0
+Personer	1149 Karmøy	Innvandrere	Det britiske territoriet i Indiahavet	2017	0
+Personer	1149 Karmøy	Innvandrere	Det britiske territoriet i Indiahavet	2018	0
+Personer	1149 Karmøy	Innvandrere	Det britiske territoriet i Indiahavet	2019	0
+Personer	1149 Karmøy	Innvandrere	Det britiske territoriet i Indiahavet	2020	0
+Personer	1149 Karmøy	Innvandrere	Det britiske territoriet i Indiahavet	2021	0
+Personer	1149 Karmøy	Innvandrere	Det britiske territoriet i Indiahavet	2022	0
+Personer	1149 Karmøy	Innvandrere	Det britiske territoriet i Indiahavet	2023	0
+Personer	1149 Karmøy	Innvandrere	Det britiske territoriet i Indiahavet	2024	0
+Personer	1149 Karmøy	Innvandrere	Burkina Faso	2012	0
+Personer	1149 Karmøy	Innvandrere	Burkina Faso	2013	0
+Personer	1149 Karmøy	Innvandrere	Burkina Faso	2014	0
+Personer	1149 Karmøy	Innvandrere	Burkina Faso	2015	0
+Personer	1149 Karmøy	Innvandrere	Burkina Faso	2016	0
+Personer	1149 Karmøy	Innvandrere	Burkina Faso	2017	0
+Personer	1149 Karmøy	Innvandrere	Burkina Faso	2018	0
+Personer	1149 Karmøy	Innvandrere	Burkina Faso	2019	0
+Personer	1149 Karmøy	Innvandrere	Burkina Faso	2020	0
+Personer	1149 Karmøy	Innvandrere	Burkina Faso	2021	0
+Personer	1149 Karmøy	Innvandrere	Burkina Faso	2022	0
+Personer	1149 Karmøy	Innvandrere	Burkina Faso	2023	0
+Personer	1149 Karmøy	Innvandrere	Burkina Faso	2024	0
+Personer	1149 Karmøy	Innvandrere	Burundi	2012	47
+Personer	1149 Karmøy	Innvandrere	Burundi	2013	43
+Personer	1149 Karmøy	Innvandrere	Burundi	2014	46
+Personer	1149 Karmøy	Innvandrere	Burundi	2015	51
+Personer	1149 Karmøy	Innvandrere	Burundi	2016	45
+Personer	1149 Karmøy	Innvandrere	Burundi	2017	43
+Personer	1149 Karmøy	Innvandrere	Burundi	2018	41
+Personer	1149 Karmøy	Innvandrere	Burundi	2019	38
+Personer	1149 Karmøy	Innvandrere	Burundi	2020	38
+Personer	1149 Karmøy	Innvandrere	Burundi	2021	38
+Personer	1149 Karmøy	Innvandrere	Burundi	2022	36
+Personer	1149 Karmøy	Innvandrere	Burundi	2023	32
+Personer	1149 Karmøy	Innvandrere	Burundi	2024	29
+Personer	1149 Karmøy	Innvandrere	Djibouti	2012	0
+Personer	1149 Karmøy	Innvandrere	Djibouti	2013	0
+Personer	1149 Karmøy	Innvandrere	Djibouti	2014	0
+Personer	1149 Karmøy	Innvandrere	Djibouti	2015	0
+Personer	1149 Karmøy	Innvandrere	Djibouti	2016	0
+Personer	1149 Karmøy	Innvandrere	Djibouti	2017	0
+Personer	1149 Karmøy	Innvandrere	Djibouti	2018	0
+Personer	1149 Karmøy	Innvandrere	Djibouti	2019	0
+Personer	1149 Karmøy	Innvandrere	Djibouti	2020	0
+Personer	1149 Karmøy	Innvandrere	Djibouti	2021	0
+Personer	1149 Karmøy	Innvandrere	Djibouti	2022	0
+Personer	1149 Karmøy	Innvandrere	Djibouti	2023	0
+Personer	1149 Karmøy	Innvandrere	Djibouti	2024	0
+Personer	1149 Karmøy	Innvandrere	Egypt	2012	0
+Personer	1149 Karmøy	Innvandrere	Egypt	2013	3
+Personer	1149 Karmøy	Innvandrere	Egypt	2014	3
+Personer	1149 Karmøy	Innvandrere	Egypt	2015	3
+Personer	1149 Karmøy	Innvandrere	Egypt	2016	3
+Personer	1149 Karmøy	Innvandrere	Egypt	2017	3
+Personer	1149 Karmøy	Innvandrere	Egypt	2018	0
+Personer	1149 Karmøy	Innvandrere	Egypt	2019	3
+Personer	1149 Karmøy	Innvandrere	Egypt	2020	3
+Personer	1149 Karmøy	Innvandrere	Egypt	2021	3
+Personer	1149 Karmøy	Innvandrere	Egypt	2022	5
+Personer	1149 Karmøy	Innvandrere	Egypt	2023	5
+Personer	1149 Karmøy	Innvandrere	Egypt	2024	6
+Personer	1149 Karmøy	Innvandrere	Ekvatorial-Guinea	2012	0
+Personer	1149 Karmøy	Innvandrere	Ekvatorial-Guinea	2013	0
+Personer	1149 Karmøy	Innvandrere	Ekvatorial-Guinea	2014	0
+Personer	1149 Karmøy	Innvandrere	Ekvatorial-Guinea	2015	0
+Personer	1149 Karmøy	Innvandrere	Ekvatorial-Guinea	2016	0
+Personer	1149 Karmøy	Innvandrere	Ekvatorial-Guinea	2017	0
+Personer	1149 Karmøy	Innvandrere	Ekvatorial-Guinea	2018	0
+Personer	1149 Karmøy	Innvandrere	Ekvatorial-Guinea	2019	0
+Personer	1149 Karmøy	Innvandrere	Ekvatorial-Guinea	2020	0
+Personer	1149 Karmøy	Innvandrere	Ekvatorial-Guinea	2021	0
+Personer	1149 Karmøy	Innvandrere	Ekvatorial-Guinea	2022	0
+Personer	1149 Karmøy	Innvandrere	Ekvatorial-Guinea	2023	0
+Personer	1149 Karmøy	Innvandrere	Ekvatorial-Guinea	2024	0
+Personer	1149 Karmøy	Innvandrere	Elfenbeinskysten	2012	0
+Personer	1149 Karmøy	Innvandrere	Elfenbeinskysten	2013	0
+Personer	1149 Karmøy	Innvandrere	Elfenbeinskysten	2014	0
+Personer	1149 Karmøy	Innvandrere	Elfenbeinskysten	2015	0
+Personer	1149 Karmøy	Innvandrere	Elfenbeinskysten	2016	0
+Personer	1149 Karmøy	Innvandrere	Elfenbeinskysten	2017	0
+Personer	1149 Karmøy	Innvandrere	Elfenbeinskysten	2018	0
+Personer	1149 Karmøy	Innvandrere	Elfenbeinskysten	2019	0
+Personer	1149 Karmøy	Innvandrere	Elfenbeinskysten	2020	0
+Personer	1149 Karmøy	Innvandrere	Elfenbeinskysten	2021	0
+Personer	1149 Karmøy	Innvandrere	Elfenbeinskysten	2022	0
+Personer	1149 Karmøy	Innvandrere	Elfenbeinskysten	2023	0
+Personer	1149 Karmøy	Innvandrere	Elfenbeinskysten	2024	0
+Personer	1149 Karmøy	Innvandrere	Eritrea	2012	44
+Personer	1149 Karmøy	Innvandrere	Eritrea	2013	57
+Personer	1149 Karmøy	Innvandrere	Eritrea	2014	67
+Personer	1149 Karmøy	Innvandrere	Eritrea	2015	77
+Personer	1149 Karmøy	Innvandrere	Eritrea	2016	86
+Personer	1149 Karmøy	Innvandrere	Eritrea	2017	106
+Personer	1149 Karmøy	Innvandrere	Eritrea	2018	114
+Personer	1149 Karmøy	Innvandrere	Eritrea	2019	109
+Personer	1149 Karmøy	Innvandrere	Eritrea	2020	107
+Personer	1149 Karmøy	Innvandrere	Eritrea	2021	104
+Personer	1149 Karmøy	Innvandrere	Eritrea	2022	109
+Personer	1149 Karmøy	Innvandrere	Eritrea	2023	110
+Personer	1149 Karmøy	Innvandrere	Eritrea	2024	114
+Personer	1149 Karmøy	Innvandrere	Eswatini	2012	0
+Personer	1149 Karmøy	Innvandrere	Eswatini	2013	0
+Personer	1149 Karmøy	Innvandrere	Eswatini	2014	0
+Personer	1149 Karmøy	Innvandrere	Eswatini	2015	0
+Personer	1149 Karmøy	Innvandrere	Eswatini	2016	0
+Personer	1149 Karmøy	Innvandrere	Eswatini	2017	0
+Personer	1149 Karmøy	Innvandrere	Eswatini	2018	0
+Personer	1149 Karmøy	Innvandrere	Eswatini	2019	0
+Personer	1149 Karmøy	Innvandrere	Eswatini	2020	0
+Personer	1149 Karmøy	Innvandrere	Eswatini	2021	0
+Personer	1149 Karmøy	Innvandrere	Eswatini	2022	0
+Personer	1149 Karmøy	Innvandrere	Eswatini	2023	0
+Personer	1149 Karmøy	Innvandrere	Eswatini	2024	0
+Personer	1149 Karmøy	Innvandrere	Etiopia	2012	51
+Personer	1149 Karmøy	Innvandrere	Etiopia	2013	46
+Personer	1149 Karmøy	Innvandrere	Etiopia	2014	49
+Personer	1149 Karmøy	Innvandrere	Etiopia	2015	44
+Personer	1149 Karmøy	Innvandrere	Etiopia	2016	42
+Personer	1149 Karmøy	Innvandrere	Etiopia	2017	46
+Personer	1149 Karmøy	Innvandrere	Etiopia	2018	51
+Personer	1149 Karmøy	Innvandrere	Etiopia	2019	48
+Personer	1149 Karmøy	Innvandrere	Etiopia	2020	44
+Personer	1149 Karmøy	Innvandrere	Etiopia	2021	45
+Personer	1149 Karmøy	Innvandrere	Etiopia	2022	48
+Personer	1149 Karmøy	Innvandrere	Etiopia	2023	47
+Personer	1149 Karmøy	Innvandrere	Etiopia	2024	54
+Personer	1149 Karmøy	Innvandrere	Gabon	2012	0
+Personer	1149 Karmøy	Innvandrere	Gabon	2013	0
+Personer	1149 Karmøy	Innvandrere	Gabon	2014	0
+Personer	1149 Karmøy	Innvandrere	Gabon	2015	0
+Personer	1149 Karmøy	Innvandrere	Gabon	2016	0
+Personer	1149 Karmøy	Innvandrere	Gabon	2017	0
+Personer	1149 Karmøy	Innvandrere	Gabon	2018	0
+Personer	1149 Karmøy	Innvandrere	Gabon	2019	0
+Personer	1149 Karmøy	Innvandrere	Gabon	2020	0
+Personer	1149 Karmøy	Innvandrere	Gabon	2021	0
+Personer	1149 Karmøy	Innvandrere	Gabon	2022	0
+Personer	1149 Karmøy	Innvandrere	Gabon	2023	0
+Personer	1149 Karmøy	Innvandrere	Gabon	2024	0
+Personer	1149 Karmøy	Innvandrere	Gambia	2012	0
+Personer	1149 Karmøy	Innvandrere	Gambia	2013	0
+Personer	1149 Karmøy	Innvandrere	Gambia	2014	0
+Personer	1149 Karmøy	Innvandrere	Gambia	2015	0
+Personer	1149 Karmøy	Innvandrere	Gambia	2016	0
+Personer	1149 Karmøy	Innvandrere	Gambia	2017	0
+Personer	1149 Karmøy	Innvandrere	Gambia	2018	0
+Personer	1149 Karmøy	Innvandrere	Gambia	2019	0
+Personer	1149 Karmøy	Innvandrere	Gambia	2020	0
+Personer	1149 Karmøy	Innvandrere	Gambia	2021	0
+Personer	1149 Karmøy	Innvandrere	Gambia	2022	0
+Personer	1149 Karmøy	Innvandrere	Gambia	2023	0
+Personer	1149 Karmøy	Innvandrere	Gambia	2024	0
+Personer	1149 Karmøy	Innvandrere	Ghana	2012	0
+Personer	1149 Karmøy	Innvandrere	Ghana	2013	0
+Personer	1149 Karmøy	Innvandrere	Ghana	2014	0
+Personer	1149 Karmøy	Innvandrere	Ghana	2015	0
+Personer	1149 Karmøy	Innvandrere	Ghana	2016	0
+Personer	1149 Karmøy	Innvandrere	Ghana	2017	0
+Personer	1149 Karmøy	Innvandrere	Ghana	2018	0
+Personer	1149 Karmøy	Innvandrere	Ghana	2019	0
+Personer	1149 Karmøy	Innvandrere	Ghana	2020	0
+Personer	1149 Karmøy	Innvandrere	Ghana	2021	0
+Personer	1149 Karmøy	Innvandrere	Ghana	2022	0
+Personer	1149 Karmøy	Innvandrere	Ghana	2023	0
+Personer	1149 Karmøy	Innvandrere	Ghana	2024	3
+Personer	1149 Karmøy	Innvandrere	Guinea	2012	0
+Personer	1149 Karmøy	Innvandrere	Guinea	2013	0
+Personer	1149 Karmøy	Innvandrere	Guinea	2014	0
+Personer	1149 Karmøy	Innvandrere	Guinea	2015	0
+Personer	1149 Karmøy	Innvandrere	Guinea	2016	0
+Personer	1149 Karmøy	Innvandrere	Guinea	2017	0
+Personer	1149 Karmøy	Innvandrere	Guinea	2018	0
+Personer	1149 Karmøy	Innvandrere	Guinea	2019	0
+Personer	1149 Karmøy	Innvandrere	Guinea	2020	0
+Personer	1149 Karmøy	Innvandrere	Guinea	2021	0
+Personer	1149 Karmøy	Innvandrere	Guinea	2022	0
+Personer	1149 Karmøy	Innvandrere	Guinea	2023	0
+Personer	1149 Karmøy	Innvandrere	Guinea	2024	0
+Personer	1149 Karmøy	Innvandrere	Guinea-Bissau	2012	0
+Personer	1149 Karmøy	Innvandrere	Guinea-Bissau	2013	0
+Personer	1149 Karmøy	Innvandrere	Guinea-Bissau	2014	0
+Personer	1149 Karmøy	Innvandrere	Guinea-Bissau	2015	0
+Personer	1149 Karmøy	Innvandrere	Guinea-Bissau	2016	0
+Personer	1149 Karmøy	Innvandrere	Guinea-Bissau	2017	0
+Personer	1149 Karmøy	Innvandrere	Guinea-Bissau	2018	0
+Personer	1149 Karmøy	Innvandrere	Guinea-Bissau	2019	0
+Personer	1149 Karmøy	Innvandrere	Guinea-Bissau	2020	0
+Personer	1149 Karmøy	Innvandrere	Guinea-Bissau	2021	0
+Personer	1149 Karmøy	Innvandrere	Guinea-Bissau	2022	0
+Personer	1149 Karmøy	Innvandrere	Guinea-Bissau	2023	0
+Personer	1149 Karmøy	Innvandrere	Guinea-Bissau	2024	0
+Personer	1149 Karmøy	Innvandrere	Kamerun	2012	0
+Personer	1149 Karmøy	Innvandrere	Kamerun	2013	0
+Personer	1149 Karmøy	Innvandrere	Kamerun	2014	0
+Personer	1149 Karmøy	Innvandrere	Kamerun	2015	0
+Personer	1149 Karmøy	Innvandrere	Kamerun	2016	0
+Personer	1149 Karmøy	Innvandrere	Kamerun	2017	0
+Personer	1149 Karmøy	Innvandrere	Kamerun	2018	0
+Personer	1149 Karmøy	Innvandrere	Kamerun	2019	0
+Personer	1149 Karmøy	Innvandrere	Kamerun	2020	0
+Personer	1149 Karmøy	Innvandrere	Kamerun	2021	0
+Personer	1149 Karmøy	Innvandrere	Kamerun	2022	0
+Personer	1149 Karmøy	Innvandrere	Kamerun	2023	0
+Personer	1149 Karmøy	Innvandrere	Kamerun	2024	3
+Personer	1149 Karmøy	Innvandrere	Kapp Verde	2012	0
+Personer	1149 Karmøy	Innvandrere	Kapp Verde	2013	3
+Personer	1149 Karmøy	Innvandrere	Kapp Verde	2014	0
+Personer	1149 Karmøy	Innvandrere	Kapp Verde	2015	3
+Personer	1149 Karmøy	Innvandrere	Kapp Verde	2016	3
+Personer	1149 Karmøy	Innvandrere	Kapp Verde	2017	0
+Personer	1149 Karmøy	Innvandrere	Kapp Verde	2018	0
+Personer	1149 Karmøy	Innvandrere	Kapp Verde	2019	0
+Personer	1149 Karmøy	Innvandrere	Kapp Verde	2020	3
+Personer	1149 Karmøy	Innvandrere	Kapp Verde	2021	3
+Personer	1149 Karmøy	Innvandrere	Kapp Verde	2022	0
+Personer	1149 Karmøy	Innvandrere	Kapp Verde	2023	0
+Personer	1149 Karmøy	Innvandrere	Kapp Verde	2024	0
+Personer	1149 Karmøy	Innvandrere	Kenya	2012	7
+Personer	1149 Karmøy	Innvandrere	Kenya	2013	7
+Personer	1149 Karmøy	Innvandrere	Kenya	2014	7
+Personer	1149 Karmøy	Innvandrere	Kenya	2015	8
+Personer	1149 Karmøy	Innvandrere	Kenya	2016	6
+Personer	1149 Karmøy	Innvandrere	Kenya	2017	8
+Personer	1149 Karmøy	Innvandrere	Kenya	2018	8
+Personer	1149 Karmøy	Innvandrere	Kenya	2019	8
+Personer	1149 Karmøy	Innvandrere	Kenya	2020	9
+Personer	1149 Karmøy	Innvandrere	Kenya	2021	7
+Personer	1149 Karmøy	Innvandrere	Kenya	2022	6
+Personer	1149 Karmøy	Innvandrere	Kenya	2023	7
+Personer	1149 Karmøy	Innvandrere	Kenya	2024	8
+Personer	1149 Karmøy	Innvandrere	Komorene	2012	0
+Personer	1149 Karmøy	Innvandrere	Komorene	2013	0
+Personer	1149 Karmøy	Innvandrere	Komorene	2014	0
+Personer	1149 Karmøy	Innvandrere	Komorene	2015	0
+Personer	1149 Karmøy	Innvandrere	Komorene	2016	0
+Personer	1149 Karmøy	Innvandrere	Komorene	2017	0
+Personer	1149 Karmøy	Innvandrere	Komorene	2018	0
+Personer	1149 Karmøy	Innvandrere	Komorene	2019	0
+Personer	1149 Karmøy	Innvandrere	Komorene	2020	0
+Personer	1149 Karmøy	Innvandrere	Komorene	2021	0
+Personer	1149 Karmøy	Innvandrere	Komorene	2022	0
+Personer	1149 Karmøy	Innvandrere	Komorene	2023	0
+Personer	1149 Karmøy	Innvandrere	Komorene	2024	0
+Personer	1149 Karmøy	Innvandrere	Kongo	2012	10
+Personer	1149 Karmøy	Innvandrere	Kongo	2013	6
+Personer	1149 Karmøy	Innvandrere	Kongo	2014	7
+Personer	1149 Karmøy	Innvandrere	Kongo	2015	8
+Personer	1149 Karmøy	Innvandrere	Kongo	2016	6
+Personer	1149 Karmøy	Innvandrere	Kongo	2017	5
+Personer	1149 Karmøy	Innvandrere	Kongo	2018	7
+Personer	1149 Karmøy	Innvandrere	Kongo	2019	15
+Personer	1149 Karmøy	Innvandrere	Kongo	2020	27
+Personer	1149 Karmøy	Innvandrere	Kongo	2021	25
+Personer	1149 Karmøy	Innvandrere	Kongo	2022	27
+Personer	1149 Karmøy	Innvandrere	Kongo	2023	27
+Personer	1149 Karmøy	Innvandrere	Kongo	2024	32
+Personer	1149 Karmøy	Innvandrere	Kongo-Brazzaville	2012	0
+Personer	1149 Karmøy	Innvandrere	Kongo-Brazzaville	2013	0
+Personer	1149 Karmøy	Innvandrere	Kongo-Brazzaville	2014	0
+Personer	1149 Karmøy	Innvandrere	Kongo-Brazzaville	2015	3
+Personer	1149 Karmøy	Innvandrere	Kongo-Brazzaville	2016	3
+Personer	1149 Karmøy	Innvandrere	Kongo-Brazzaville	2017	0
+Personer	1149 Karmøy	Innvandrere	Kongo-Brazzaville	2018	0
+Personer	1149 Karmøy	Innvandrere	Kongo-Brazzaville	2019	0
+Personer	1149 Karmøy	Innvandrere	Kongo-Brazzaville	2020	0
+Personer	1149 Karmøy	Innvandrere	Kongo-Brazzaville	2021	0
+Personer	1149 Karmøy	Innvandrere	Kongo-Brazzaville	2022	0
+Personer	1149 Karmøy	Innvandrere	Kongo-Brazzaville	2023	0
+Personer	1149 Karmøy	Innvandrere	Kongo-Brazzaville	2024	0
+Personer	1149 Karmøy	Innvandrere	Lesotho	2012	0
+Personer	1149 Karmøy	Innvandrere	Lesotho	2013	0
+Personer	1149 Karmøy	Innvandrere	Lesotho	2014	0
+Personer	1149 Karmøy	Innvandrere	Lesotho	2015	0
+Personer	1149 Karmøy	Innvandrere	Lesotho	2016	3
+Personer	1149 Karmøy	Innvandrere	Lesotho	2017	0
+Personer	1149 Karmøy	Innvandrere	Lesotho	2018	0
+Personer	1149 Karmøy	Innvandrere	Lesotho	2019	0
+Personer	1149 Karmøy	Innvandrere	Lesotho	2020	0
+Personer	1149 Karmøy	Innvandrere	Lesotho	2021	0
+Personer	1149 Karmøy	Innvandrere	Lesotho	2022	0
+Personer	1149 Karmøy	Innvandrere	Lesotho	2023	0
+Personer	1149 Karmøy	Innvandrere	Lesotho	2024	0
+Personer	1149 Karmøy	Innvandrere	Liberia	2012	0
+Personer	1149 Karmøy	Innvandrere	Liberia	2013	0
+Personer	1149 Karmøy	Innvandrere	Liberia	2014	0
+Personer	1149 Karmøy	Innvandrere	Liberia	2015	0
+Personer	1149 Karmøy	Innvandrere	Liberia	2016	0
+Personer	1149 Karmøy	Innvandrere	Liberia	2017	0
+Personer	1149 Karmøy	Innvandrere	Liberia	2018	3
+Personer	1149 Karmøy	Innvandrere	Liberia	2019	3
+Personer	1149 Karmøy	Innvandrere	Liberia	2020	0
+Personer	1149 Karmøy	Innvandrere	Liberia	2021	0
+Personer	1149 Karmøy	Innvandrere	Liberia	2022	0
+Personer	1149 Karmøy	Innvandrere	Liberia	2023	0
+Personer	1149 Karmøy	Innvandrere	Liberia	2024	0
+Personer	1149 Karmøy	Innvandrere	Libya	2012	0
+Personer	1149 Karmøy	Innvandrere	Libya	2013	0
+Personer	1149 Karmøy	Innvandrere	Libya	2014	0
+Personer	1149 Karmøy	Innvandrere	Libya	2015	0
+Personer	1149 Karmøy	Innvandrere	Libya	2016	0
+Personer	1149 Karmøy	Innvandrere	Libya	2017	0
+Personer	1149 Karmøy	Innvandrere	Libya	2018	0
+Personer	1149 Karmøy	Innvandrere	Libya	2019	3
+Personer	1149 Karmøy	Innvandrere	Libya	2020	0
+Personer	1149 Karmøy	Innvandrere	Libya	2021	0
+Personer	1149 Karmøy	Innvandrere	Libya	2022	0
+Personer	1149 Karmøy	Innvandrere	Libya	2023	5
+Personer	1149 Karmøy	Innvandrere	Libya	2024	5
+Personer	1149 Karmøy	Innvandrere	Madagaskar	2012	0
+Personer	1149 Karmøy	Innvandrere	Madagaskar	2013	0
+Personer	1149 Karmøy	Innvandrere	Madagaskar	2014	0
+Personer	1149 Karmøy	Innvandrere	Madagaskar	2015	0
+Personer	1149 Karmøy	Innvandrere	Madagaskar	2016	0
+Personer	1149 Karmøy	Innvandrere	Madagaskar	2017	0
+Personer	1149 Karmøy	Innvandrere	Madagaskar	2018	0
+Personer	1149 Karmøy	Innvandrere	Madagaskar	2019	0
+Personer	1149 Karmøy	Innvandrere	Madagaskar	2020	0
+Personer	1149 Karmøy	Innvandrere	Madagaskar	2021	0
+Personer	1149 Karmøy	Innvandrere	Madagaskar	2022	0
+Personer	1149 Karmøy	Innvandrere	Madagaskar	2023	0
+Personer	1149 Karmøy	Innvandrere	Madagaskar	2024	0
+Personer	1149 Karmøy	Innvandrere	Malawi	2012	0
+Personer	1149 Karmøy	Innvandrere	Malawi	2013	0
+Personer	1149 Karmøy	Innvandrere	Malawi	2014	0
+Personer	1149 Karmøy	Innvandrere	Malawi	2015	0
+Personer	1149 Karmøy	Innvandrere	Malawi	2016	3
+Personer	1149 Karmøy	Innvandrere	Malawi	2017	3
+Personer	1149 Karmøy	Innvandrere	Malawi	2018	0
+Personer	1149 Karmøy	Innvandrere	Malawi	2019	3
+Personer	1149 Karmøy	Innvandrere	Malawi	2020	0
+Personer	1149 Karmøy	Innvandrere	Malawi	2021	3
+Personer	1149 Karmøy	Innvandrere	Malawi	2022	0
+Personer	1149 Karmøy	Innvandrere	Malawi	2023	0
+Personer	1149 Karmøy	Innvandrere	Malawi	2024	3
+Personer	1149 Karmøy	Innvandrere	Mali	2012	0
+Personer	1149 Karmøy	Innvandrere	Mali	2013	0
+Personer	1149 Karmøy	Innvandrere	Mali	2014	0
+Personer	1149 Karmøy	Innvandrere	Mali	2015	0
+Personer	1149 Karmøy	Innvandrere	Mali	2016	0
+Personer	1149 Karmøy	Innvandrere	Mali	2017	0
+Personer	1149 Karmøy	Innvandrere	Mali	2018	0
+Personer	1149 Karmøy	Innvandrere	Mali	2019	0
+Personer	1149 Karmøy	Innvandrere	Mali	2020	0
+Personer	1149 Karmøy	Innvandrere	Mali	2021	0
+Personer	1149 Karmøy	Innvandrere	Mali	2022	0
+Personer	1149 Karmøy	Innvandrere	Mali	2023	0
+Personer	1149 Karmøy	Innvandrere	Mali	2024	0
+Personer	1149 Karmøy	Innvandrere	Marokko	2012	14
+Personer	1149 Karmøy	Innvandrere	Marokko	2013	14
+Personer	1149 Karmøy	Innvandrere	Marokko	2014	13
+Personer	1149 Karmøy	Innvandrere	Marokko	2015	13
+Personer	1149 Karmøy	Innvandrere	Marokko	2016	11
+Personer	1149 Karmøy	Innvandrere	Marokko	2017	11
+Personer	1149 Karmøy	Innvandrere	Marokko	2018	11
+Personer	1149 Karmøy	Innvandrere	Marokko	2019	10
+Personer	1149 Karmøy	Innvandrere	Marokko	2020	10
+Personer	1149 Karmøy	Innvandrere	Marokko	2021	10
+Personer	1149 Karmøy	Innvandrere	Marokko	2022	11
+Personer	1149 Karmøy	Innvandrere	Marokko	2023	12
+Personer	1149 Karmøy	Innvandrere	Marokko	2024	13
+Personer	1149 Karmøy	Innvandrere	Mauritania	2012	0
+Personer	1149 Karmøy	Innvandrere	Mauritania	2013	0
+Personer	1149 Karmøy	Innvandrere	Mauritania	2014	0
+Personer	1149 Karmøy	Innvandrere	Mauritania	2015	0
+Personer	1149 Karmøy	Innvandrere	Mauritania	2016	0
+Personer	1149 Karmøy	Innvandrere	Mauritania	2017	0
+Personer	1149 Karmøy	Innvandrere	Mauritania	2018	0
+Personer	1149 Karmøy	Innvandrere	Mauritania	2019	0
+Personer	1149 Karmøy	Innvandrere	Mauritania	2020	0
+Personer	1149 Karmøy	Innvandrere	Mauritania	2021	0
+Personer	1149 Karmøy	Innvandrere	Mauritania	2022	0
+Personer	1149 Karmøy	Innvandrere	Mauritania	2023	0
+Personer	1149 Karmøy	Innvandrere	Mauritania	2024	0
+Personer	1149 Karmøy	Innvandrere	Mauritius	2012	0
+Personer	1149 Karmøy	Innvandrere	Mauritius	2013	0
+Personer	1149 Karmøy	Innvandrere	Mauritius	2014	0
+Personer	1149 Karmøy	Innvandrere	Mauritius	2015	0
+Personer	1149 Karmøy	Innvandrere	Mauritius	2016	0
+Personer	1149 Karmøy	Innvandrere	Mauritius	2017	0
+Personer	1149 Karmøy	Innvandrere	Mauritius	2018	0
+Personer	1149 Karmøy	Innvandrere	Mauritius	2019	0
+Personer	1149 Karmøy	Innvandrere	Mauritius	2020	0
+Personer	1149 Karmøy	Innvandrere	Mauritius	2021	0
+Personer	1149 Karmøy	Innvandrere	Mauritius	2022	0
+Personer	1149 Karmøy	Innvandrere	Mauritius	2023	0
+Personer	1149 Karmøy	Innvandrere	Mauritius	2024	0
+Personer	1149 Karmøy	Innvandrere	Mayotte	2012	0
+Personer	1149 Karmøy	Innvandrere	Mayotte	2013	0
+Personer	1149 Karmøy	Innvandrere	Mayotte	2014	0
+Personer	1149 Karmøy	Innvandrere	Mayotte	2015	0
+Personer	1149 Karmøy	Innvandrere	Mayotte	2016	0
+Personer	1149 Karmøy	Innvandrere	Mayotte	2017	0
+Personer	1149 Karmøy	Innvandrere	Mayotte	2018	0
+Personer	1149 Karmøy	Innvandrere	Mayotte	2019	0
+Personer	1149 Karmøy	Innvandrere	Mayotte	2020	0
+Personer	1149 Karmøy	Innvandrere	Mayotte	2021	0
+Personer	1149 Karmøy	Innvandrere	Mayotte	2022	0
+Personer	1149 Karmøy	Innvandrere	Mayotte	2023	0
+Personer	1149 Karmøy	Innvandrere	Mayotte	2024	0
+Personer	1149 Karmøy	Innvandrere	Mosambik	2012	0
+Personer	1149 Karmøy	Innvandrere	Mosambik	2013	0
+Personer	1149 Karmøy	Innvandrere	Mosambik	2014	0
+Personer	1149 Karmøy	Innvandrere	Mosambik	2015	0
+Personer	1149 Karmøy	Innvandrere	Mosambik	2016	0
+Personer	1149 Karmøy	Innvandrere	Mosambik	2017	0
+Personer	1149 Karmøy	Innvandrere	Mosambik	2018	0
+Personer	1149 Karmøy	Innvandrere	Mosambik	2019	0
+Personer	1149 Karmøy	Innvandrere	Mosambik	2020	0
+Personer	1149 Karmøy	Innvandrere	Mosambik	2021	0
+Personer	1149 Karmøy	Innvandrere	Mosambik	2022	0
+Personer	1149 Karmøy	Innvandrere	Mosambik	2023	0
+Personer	1149 Karmøy	Innvandrere	Mosambik	2024	0
+Personer	1149 Karmøy	Innvandrere	Namibia	2012	0
+Personer	1149 Karmøy	Innvandrere	Namibia	2013	0
+Personer	1149 Karmøy	Innvandrere	Namibia	2014	0
+Personer	1149 Karmøy	Innvandrere	Namibia	2015	0
+Personer	1149 Karmøy	Innvandrere	Namibia	2016	0
+Personer	1149 Karmøy	Innvandrere	Namibia	2017	0
+Personer	1149 Karmøy	Innvandrere	Namibia	2018	0
+Personer	1149 Karmøy	Innvandrere	Namibia	2019	0
+Personer	1149 Karmøy	Innvandrere	Namibia	2020	3
+Personer	1149 Karmøy	Innvandrere	Namibia	2021	0
+Personer	1149 Karmøy	Innvandrere	Namibia	2022	0
+Personer	1149 Karmøy	Innvandrere	Namibia	2023	0
+Personer	1149 Karmøy	Innvandrere	Namibia	2024	0
+Personer	1149 Karmøy	Innvandrere	Niger	2012	0
+Personer	1149 Karmøy	Innvandrere	Niger	2013	0
+Personer	1149 Karmøy	Innvandrere	Niger	2014	0
+Personer	1149 Karmøy	Innvandrere	Niger	2015	0
+Personer	1149 Karmøy	Innvandrere	Niger	2016	0
+Personer	1149 Karmøy	Innvandrere	Niger	2017	0
+Personer	1149 Karmøy	Innvandrere	Niger	2018	0
+Personer	1149 Karmøy	Innvandrere	Niger	2019	0
+Personer	1149 Karmøy	Innvandrere	Niger	2020	0
+Personer	1149 Karmøy	Innvandrere	Niger	2021	0
+Personer	1149 Karmøy	Innvandrere	Niger	2022	0
+Personer	1149 Karmøy	Innvandrere	Niger	2023	0
+Personer	1149 Karmøy	Innvandrere	Niger	2024	0
+Personer	1149 Karmøy	Innvandrere	Nigeria	2012	3
+Personer	1149 Karmøy	Innvandrere	Nigeria	2013	3
+Personer	1149 Karmøy	Innvandrere	Nigeria	2014	4
+Personer	1149 Karmøy	Innvandrere	Nigeria	2015	3
+Personer	1149 Karmøy	Innvandrere	Nigeria	2016	4
+Personer	1149 Karmøy	Innvandrere	Nigeria	2017	3
+Personer	1149 Karmøy	Innvandrere	Nigeria	2018	4
+Personer	1149 Karmøy	Innvandrere	Nigeria	2019	4
+Personer	1149 Karmøy	Innvandrere	Nigeria	2020	4
+Personer	1149 Karmøy	Innvandrere	Nigeria	2021	5
+Personer	1149 Karmøy	Innvandrere	Nigeria	2022	6
+Personer	1149 Karmøy	Innvandrere	Nigeria	2023	9
+Personer	1149 Karmøy	Innvandrere	Nigeria	2024	10
+Personer	1149 Karmøy	Innvandrere	Réunion	2012	0
+Personer	1149 Karmøy	Innvandrere	Réunion	2013	0
+Personer	1149 Karmøy	Innvandrere	Réunion	2014	0
+Personer	1149 Karmøy	Innvandrere	Réunion	2015	0
+Personer	1149 Karmøy	Innvandrere	Réunion	2016	0
+Personer	1149 Karmøy	Innvandrere	Réunion	2017	0
+Personer	1149 Karmøy	Innvandrere	Réunion	2018	0
+Personer	1149 Karmøy	Innvandrere	Réunion	2019	0
+Personer	1149 Karmøy	Innvandrere	Réunion	2020	0
+Personer	1149 Karmøy	Innvandrere	Réunion	2021	0
+Personer	1149 Karmøy	Innvandrere	Réunion	2022	0
+Personer	1149 Karmøy	Innvandrere	Réunion	2023	0
+Personer	1149 Karmøy	Innvandrere	Réunion	2024	0
+Personer	1149 Karmøy	Innvandrere	Rwanda	2012	0
+Personer	1149 Karmøy	Innvandrere	Rwanda	2013	0
+Personer	1149 Karmøy	Innvandrere	Rwanda	2014	0
+Personer	1149 Karmøy	Innvandrere	Rwanda	2015	0
+Personer	1149 Karmøy	Innvandrere	Rwanda	2016	0
+Personer	1149 Karmøy	Innvandrere	Rwanda	2017	3
+Personer	1149 Karmøy	Innvandrere	Rwanda	2018	3
+Personer	1149 Karmøy	Innvandrere	Rwanda	2019	3
+Personer	1149 Karmøy	Innvandrere	Rwanda	2020	3
+Personer	1149 Karmøy	Innvandrere	Rwanda	2021	3
+Personer	1149 Karmøy	Innvandrere	Rwanda	2022	12
+Personer	1149 Karmøy	Innvandrere	Rwanda	2023	12
+Personer	1149 Karmøy	Innvandrere	Rwanda	2024	13
+Personer	1149 Karmøy	Innvandrere	São Tomé og Príncipe	2012	0
+Personer	1149 Karmøy	Innvandrere	São Tomé og Príncipe	2013	0
+Personer	1149 Karmøy	Innvandrere	São Tomé og Príncipe	2014	0
+Personer	1149 Karmøy	Innvandrere	São Tomé og Príncipe	2015	0
+Personer	1149 Karmøy	Innvandrere	São Tomé og Príncipe	2016	0
+Personer	1149 Karmøy	Innvandrere	São Tomé og Príncipe	2017	0
+Personer	1149 Karmøy	Innvandrere	São Tomé og Príncipe	2018	0
+Personer	1149 Karmøy	Innvandrere	São Tomé og Príncipe	2019	0
+Personer	1149 Karmøy	Innvandrere	São Tomé og Príncipe	2020	0
+Personer	1149 Karmøy	Innvandrere	São Tomé og Príncipe	2021	0
+Personer	1149 Karmøy	Innvandrere	São Tomé og Príncipe	2022	0
+Personer	1149 Karmøy	Innvandrere	São Tomé og Príncipe	2023	0
+Personer	1149 Karmøy	Innvandrere	São Tomé og Príncipe	2024	0
+Personer	1149 Karmøy	Innvandrere	Senegal	2012	0
+Personer	1149 Karmøy	Innvandrere	Senegal	2013	0
+Personer	1149 Karmøy	Innvandrere	Senegal	2014	0
+Personer	1149 Karmøy	Innvandrere	Senegal	2015	0
+Personer	1149 Karmøy	Innvandrere	Senegal	2016	0
+Personer	1149 Karmøy	Innvandrere	Senegal	2017	0
+Personer	1149 Karmøy	Innvandrere	Senegal	2018	0
+Personer	1149 Karmøy	Innvandrere	Senegal	2019	0
+Personer	1149 Karmøy	Innvandrere	Senegal	2020	0
+Personer	1149 Karmøy	Innvandrere	Senegal	2021	0
+Personer	1149 Karmøy	Innvandrere	Senegal	2022	0
+Personer	1149 Karmøy	Innvandrere	Senegal	2023	0
+Personer	1149 Karmøy	Innvandrere	Senegal	2024	0
+Personer	1149 Karmøy	Innvandrere	Den sentralafrikanske republikk	2012	0
+Personer	1149 Karmøy	Innvandrere	Den sentralafrikanske republikk	2013	0
+Personer	1149 Karmøy	Innvandrere	Den sentralafrikanske republikk	2014	0
+Personer	1149 Karmøy	Innvandrere	Den sentralafrikanske republikk	2015	0
+Personer	1149 Karmøy	Innvandrere	Den sentralafrikanske republikk	2016	0
+Personer	1149 Karmøy	Innvandrere	Den sentralafrikanske republikk	2017	0
+Personer	1149 Karmøy	Innvandrere	Den sentralafrikanske republikk	2018	0
+Personer	1149 Karmøy	Innvandrere	Den sentralafrikanske republikk	2019	0
+Personer	1149 Karmøy	Innvandrere	Den sentralafrikanske republikk	2020	0
+Personer	1149 Karmøy	Innvandrere	Den sentralafrikanske republikk	2021	0
+Personer	1149 Karmøy	Innvandrere	Den sentralafrikanske republikk	2022	0
+Personer	1149 Karmøy	Innvandrere	Den sentralafrikanske republikk	2023	0
+Personer	1149 Karmøy	Innvandrere	Den sentralafrikanske republikk	2024	0
+Personer	1149 Karmøy	Innvandrere	Seychellene	2012	0
+Personer	1149 Karmøy	Innvandrere	Seychellene	2013	0
+Personer	1149 Karmøy	Innvandrere	Seychellene	2014	0
+Personer	1149 Karmøy	Innvandrere	Seychellene	2015	0
+Personer	1149 Karmøy	Innvandrere	Seychellene	2016	0
+Personer	1149 Karmøy	Innvandrere	Seychellene	2017	0
+Personer	1149 Karmøy	Innvandrere	Seychellene	2018	0
+Personer	1149 Karmøy	Innvandrere	Seychellene	2019	0
+Personer	1149 Karmøy	Innvandrere	Seychellene	2020	0
+Personer	1149 Karmøy	Innvandrere	Seychellene	2021	0
+Personer	1149 Karmøy	Innvandrere	Seychellene	2022	0
+Personer	1149 Karmøy	Innvandrere	Seychellene	2023	0
+Personer	1149 Karmøy	Innvandrere	Seychellene	2024	0
+Personer	1149 Karmøy	Innvandrere	Sierra Leone	2012	0
+Personer	1149 Karmøy	Innvandrere	Sierra Leone	2013	0
+Personer	1149 Karmøy	Innvandrere	Sierra Leone	2014	0
+Personer	1149 Karmøy	Innvandrere	Sierra Leone	2015	0
+Personer	1149 Karmøy	Innvandrere	Sierra Leone	2016	0
+Personer	1149 Karmøy	Innvandrere	Sierra Leone	2017	0
+Personer	1149 Karmøy	Innvandrere	Sierra Leone	2018	0
+Personer	1149 Karmøy	Innvandrere	Sierra Leone	2019	0
+Personer	1149 Karmøy	Innvandrere	Sierra Leone	2020	0
+Personer	1149 Karmøy	Innvandrere	Sierra Leone	2021	0
+Personer	1149 Karmøy	Innvandrere	Sierra Leone	2022	0
+Personer	1149 Karmøy	Innvandrere	Sierra Leone	2023	0
+Personer	1149 Karmøy	Innvandrere	Sierra Leone	2024	0
+Personer	1149 Karmøy	Innvandrere	Somalia	2012	5
+Personer	1149 Karmøy	Innvandrere	Somalia	2013	24
+Personer	1149 Karmøy	Innvandrere	Somalia	2014	43
+Personer	1149 Karmøy	Innvandrere	Somalia	2015	64
+Personer	1149 Karmøy	Innvandrere	Somalia	2016	79
+Personer	1149 Karmøy	Innvandrere	Somalia	2017	77
+Personer	1149 Karmøy	Innvandrere	Somalia	2018	74
+Personer	1149 Karmøy	Innvandrere	Somalia	2019	73
+Personer	1149 Karmøy	Innvandrere	Somalia	2020	69
+Personer	1149 Karmøy	Innvandrere	Somalia	2021	57
+Personer	1149 Karmøy	Innvandrere	Somalia	2022	54
+Personer	1149 Karmøy	Innvandrere	Somalia	2023	46
+Personer	1149 Karmøy	Innvandrere	Somalia	2024	42
+Personer	1149 Karmøy	Innvandrere	St. Helena	2012	0
+Personer	1149 Karmøy	Innvandrere	St. Helena	2013	0
+Personer	1149 Karmøy	Innvandrere	St. Helena	2014	0
+Personer	1149 Karmøy	Innvandrere	St. Helena	2015	0
+Personer	1149 Karmøy	Innvandrere	St. Helena	2016	0
+Personer	1149 Karmøy	Innvandrere	St. Helena	2017	0
+Personer	1149 Karmøy	Innvandrere	St. Helena	2018	0
+Personer	1149 Karmøy	Innvandrere	St. Helena	2019	0
+Personer	1149 Karmøy	Innvandrere	St. Helena	2020	0
+Personer	1149 Karmøy	Innvandrere	St. Helena	2021	0
+Personer	1149 Karmøy	Innvandrere	St. Helena	2022	0
+Personer	1149 Karmøy	Innvandrere	St. Helena	2023	0
+Personer	1149 Karmøy	Innvandrere	St. Helena	2024	0
+Personer	1149 Karmøy	Innvandrere	Sudan	2012	0
+Personer	1149 Karmøy	Innvandrere	Sudan	2013	4
+Personer	1149 Karmøy	Innvandrere	Sudan	2014	7
+Personer	1149 Karmøy	Innvandrere	Sudan	2015	14
+Personer	1149 Karmøy	Innvandrere	Sudan	2016	14
+Personer	1149 Karmøy	Innvandrere	Sudan	2017	22
+Personer	1149 Karmøy	Innvandrere	Sudan	2018	28
+Personer	1149 Karmøy	Innvandrere	Sudan	2019	25
+Personer	1149 Karmøy	Innvandrere	Sudan	2020	18
+Personer	1149 Karmøy	Innvandrere	Sudan	2021	16
+Personer	1149 Karmøy	Innvandrere	Sudan	2022	21
+Personer	1149 Karmøy	Innvandrere	Sudan	2023	21
+Personer	1149 Karmøy	Innvandrere	Sudan	2024	24
+Personer	1149 Karmøy	Innvandrere	Sør-Afrika	2012	3
+Personer	1149 Karmøy	Innvandrere	Sør-Afrika	2013	3
+Personer	1149 Karmøy	Innvandrere	Sør-Afrika	2014	3
+Personer	1149 Karmøy	Innvandrere	Sør-Afrika	2015	0
+Personer	1149 Karmøy	Innvandrere	Sør-Afrika	2016	3
+Personer	1149 Karmøy	Innvandrere	Sør-Afrika	2017	3
+Personer	1149 Karmøy	Innvandrere	Sør-Afrika	2018	4
+Personer	1149 Karmøy	Innvandrere	Sør-Afrika	2019	5
+Personer	1149 Karmøy	Innvandrere	Sør-Afrika	2020	3
+Personer	1149 Karmøy	Innvandrere	Sør-Afrika	2021	3
+Personer	1149 Karmøy	Innvandrere	Sør-Afrika	2022	3
+Personer	1149 Karmøy	Innvandrere	Sør-Afrika	2023	4
+Personer	1149 Karmøy	Innvandrere	Sør-Afrika	2024	3
+Personer	1149 Karmøy	Innvandrere	Sør-Sudan	2012	0
+Personer	1149 Karmøy	Innvandrere	Sør-Sudan	2013	0
+Personer	1149 Karmøy	Innvandrere	Sør-Sudan	2014	0
+Personer	1149 Karmøy	Innvandrere	Sør-Sudan	2015	0
+Personer	1149 Karmøy	Innvandrere	Sør-Sudan	2016	0
+Personer	1149 Karmøy	Innvandrere	Sør-Sudan	2017	3
+Personer	1149 Karmøy	Innvandrere	Sør-Sudan	2018	3
+Personer	1149 Karmøy	Innvandrere	Sør-Sudan	2019	3
+Personer	1149 Karmøy	Innvandrere	Sør-Sudan	2020	3
+Personer	1149 Karmøy	Innvandrere	Sør-Sudan	2021	0
+Personer	1149 Karmøy	Innvandrere	Sør-Sudan	2022	0
+Personer	1149 Karmøy	Innvandrere	Sør-Sudan	2023	0
+Personer	1149 Karmøy	Innvandrere	Sør-Sudan	2024	3
+Personer	1149 Karmøy	Innvandrere	Tanzania	2012	4
+Personer	1149 Karmøy	Innvandrere	Tanzania	2013	4
+Personer	1149 Karmøy	Innvandrere	Tanzania	2014	4
+Personer	1149 Karmøy	Innvandrere	Tanzania	2015	4
+Personer	1149 Karmøy	Innvandrere	Tanzania	2016	10
+Personer	1149 Karmøy	Innvandrere	Tanzania	2017	8
+Personer	1149 Karmøy	Innvandrere	Tanzania	2018	8
+Personer	1149 Karmøy	Innvandrere	Tanzania	2019	7
+Personer	1149 Karmøy	Innvandrere	Tanzania	2020	6
+Personer	1149 Karmøy	Innvandrere	Tanzania	2021	5
+Personer	1149 Karmøy	Innvandrere	Tanzania	2022	6
+Personer	1149 Karmøy	Innvandrere	Tanzania	2023	6
+Personer	1149 Karmøy	Innvandrere	Tanzania	2024	5
+Personer	1149 Karmøy	Innvandrere	Togo	2012	0
+Personer	1149 Karmøy	Innvandrere	Togo	2013	0
+Personer	1149 Karmøy	Innvandrere	Togo	2014	0
+Personer	1149 Karmøy	Innvandrere	Togo	2015	0
+Personer	1149 Karmøy	Innvandrere	Togo	2016	0
+Personer	1149 Karmøy	Innvandrere	Togo	2017	0
+Personer	1149 Karmøy	Innvandrere	Togo	2018	0
+Personer	1149 Karmøy	Innvandrere	Togo	2019	0
+Personer	1149 Karmøy	Innvandrere	Togo	2020	0
+Personer	1149 Karmøy	Innvandrere	Togo	2021	0
+Personer	1149 Karmøy	Innvandrere	Togo	2022	0
+Personer	1149 Karmøy	Innvandrere	Togo	2023	0
+Personer	1149 Karmøy	Innvandrere	Togo	2024	0
+Personer	1149 Karmøy	Innvandrere	Tsjad	2012	0
+Personer	1149 Karmøy	Innvandrere	Tsjad	2013	0
+Personer	1149 Karmøy	Innvandrere	Tsjad	2014	0
+Personer	1149 Karmøy	Innvandrere	Tsjad	2015	0
+Personer	1149 Karmøy	Innvandrere	Tsjad	2016	0
+Personer	1149 Karmøy	Innvandrere	Tsjad	2017	0
+Personer	1149 Karmøy	Innvandrere	Tsjad	2018	0
+Personer	1149 Karmøy	Innvandrere	Tsjad	2019	0
+Personer	1149 Karmøy	Innvandrere	Tsjad	2020	0
+Personer	1149 Karmøy	Innvandrere	Tsjad	2021	0
+Personer	1149 Karmøy	Innvandrere	Tsjad	2022	0
+Personer	1149 Karmøy	Innvandrere	Tsjad	2023	0
+Personer	1149 Karmøy	Innvandrere	Tsjad	2024	0
+Personer	1149 Karmøy	Innvandrere	Tunisia	2012	3
+Personer	1149 Karmøy	Innvandrere	Tunisia	2013	5
+Personer	1149 Karmøy	Innvandrere	Tunisia	2014	5
+Personer	1149 Karmøy	Innvandrere	Tunisia	2015	7
+Personer	1149 Karmøy	Innvandrere	Tunisia	2016	7
+Personer	1149 Karmøy	Innvandrere	Tunisia	2017	7
+Personer	1149 Karmøy	Innvandrere	Tunisia	2018	7
+Personer	1149 Karmøy	Innvandrere	Tunisia	2019	6
+Personer	1149 Karmøy	Innvandrere	Tunisia	2020	6
+Personer	1149 Karmøy	Innvandrere	Tunisia	2021	6
+Personer	1149 Karmøy	Innvandrere	Tunisia	2022	6
+Personer	1149 Karmøy	Innvandrere	Tunisia	2023	6
+Personer	1149 Karmøy	Innvandrere	Tunisia	2024	6
+Personer	1149 Karmøy	Innvandrere	Uganda	2012	0
+Personer	1149 Karmøy	Innvandrere	Uganda	2013	0
+Personer	1149 Karmøy	Innvandrere	Uganda	2014	3
+Personer	1149 Karmøy	Innvandrere	Uganda	2015	0
+Personer	1149 Karmøy	Innvandrere	Uganda	2016	0
+Personer	1149 Karmøy	Innvandrere	Uganda	2017	0
+Personer	1149 Karmøy	Innvandrere	Uganda	2018	0
+Personer	1149 Karmøy	Innvandrere	Uganda	2019	14
+Personer	1149 Karmøy	Innvandrere	Uganda	2020	25
+Personer	1149 Karmøy	Innvandrere	Uganda	2021	23
+Personer	1149 Karmøy	Innvandrere	Uganda	2022	23
+Personer	1149 Karmøy	Innvandrere	Uganda	2023	23
+Personer	1149 Karmøy	Innvandrere	Uganda	2024	25
+Personer	1149 Karmøy	Innvandrere	Vest-Sahara	2012	0
+Personer	1149 Karmøy	Innvandrere	Vest-Sahara	2013	0
+Personer	1149 Karmøy	Innvandrere	Vest-Sahara	2014	0
+Personer	1149 Karmøy	Innvandrere	Vest-Sahara	2015	0
+Personer	1149 Karmøy	Innvandrere	Vest-Sahara	2016	0
+Personer	1149 Karmøy	Innvandrere	Vest-Sahara	2017	0
+Personer	1149 Karmøy	Innvandrere	Vest-Sahara	2018	0
+Personer	1149 Karmøy	Innvandrere	Vest-Sahara	2019	0
+Personer	1149 Karmøy	Innvandrere	Vest-Sahara	2020	0
+Personer	1149 Karmøy	Innvandrere	Vest-Sahara	2021	0
+Personer	1149 Karmøy	Innvandrere	Vest-Sahara	2022	0
+Personer	1149 Karmøy	Innvandrere	Vest-Sahara	2023	0
+Personer	1149 Karmøy	Innvandrere	Vest-Sahara	2024	0
+Personer	1149 Karmøy	Innvandrere	Zambia	2012	0
+Personer	1149 Karmøy	Innvandrere	Zambia	2013	0
+Personer	1149 Karmøy	Innvandrere	Zambia	2014	3
+Personer	1149 Karmøy	Innvandrere	Zambia	2015	3
+Personer	1149 Karmøy	Innvandrere	Zambia	2016	3
+Personer	1149 Karmøy	Innvandrere	Zambia	2017	3
+Personer	1149 Karmøy	Innvandrere	Zambia	2018	5
+Personer	1149 Karmøy	Innvandrere	Zambia	2019	4
+Personer	1149 Karmøy	Innvandrere	Zambia	2020	4
+Personer	1149 Karmøy	Innvandrere	Zambia	2021	3
+Personer	1149 Karmøy	Innvandrere	Zambia	2022	4
+Personer	1149 Karmøy	Innvandrere	Zambia	2023	5
+Personer	1149 Karmøy	Innvandrere	Zambia	2024	5
+Personer	1149 Karmøy	Innvandrere	Zimbabwe	2012	0
+Personer	1149 Karmøy	Innvandrere	Zimbabwe	2013	0
+Personer	1149 Karmøy	Innvandrere	Zimbabwe	2014	0
+Personer	1149 Karmøy	Innvandrere	Zimbabwe	2015	0
+Personer	1149 Karmøy	Innvandrere	Zimbabwe	2016	3
+Personer	1149 Karmøy	Innvandrere	Zimbabwe	2017	0
+Personer	1149 Karmøy	Innvandrere	Zimbabwe	2018	3
+Personer	1149 Karmøy	Innvandrere	Zimbabwe	2019	0
+Personer	1149 Karmøy	Innvandrere	Zimbabwe	2020	0
+Personer	1149 Karmøy	Innvandrere	Zimbabwe	2021	3
+Personer	1149 Karmøy	Innvandrere	Zimbabwe	2022	3
+Personer	1149 Karmøy	Innvandrere	Zimbabwe	2023	3
+Personer	1149 Karmøy	Innvandrere	Zimbabwe	2024	3
+Personer	1149 Karmøy	Innvandrere	Afghanistan	2012	31
+Personer	1149 Karmøy	Innvandrere	Afghanistan	2013	37
+Personer	1149 Karmøy	Innvandrere	Afghanistan	2014	33
+Personer	1149 Karmøy	Innvandrere	Afghanistan	2015	34
+Personer	1149 Karmøy	Innvandrere	Afghanistan	2016	32
+Personer	1149 Karmøy	Innvandrere	Afghanistan	2017	38
+Personer	1149 Karmøy	Innvandrere	Afghanistan	2018	39
+Personer	1149 Karmøy	Innvandrere	Afghanistan	2019	42
+Personer	1149 Karmøy	Innvandrere	Afghanistan	2020	42
+Personer	1149 Karmøy	Innvandrere	Afghanistan	2021	37
+Personer	1149 Karmøy	Innvandrere	Afghanistan	2022	38
+Personer	1149 Karmøy	Innvandrere	Afghanistan	2023	39
+Personer	1149 Karmøy	Innvandrere	Afghanistan	2024	38
+Personer	1149 Karmøy	Innvandrere	Armenia	2012	0
+Personer	1149 Karmøy	Innvandrere	Armenia	2013	0
+Personer	1149 Karmøy	Innvandrere	Armenia	2014	0
+Personer	1149 Karmøy	Innvandrere	Armenia	2015	0
+Personer	1149 Karmøy	Innvandrere	Armenia	2016	0
+Personer	1149 Karmøy	Innvandrere	Armenia	2017	0
+Personer	1149 Karmøy	Innvandrere	Armenia	2018	0
+Personer	1149 Karmøy	Innvandrere	Armenia	2019	0
+Personer	1149 Karmøy	Innvandrere	Armenia	2020	0
+Personer	1149 Karmøy	Innvandrere	Armenia	2021	0
+Personer	1149 Karmøy	Innvandrere	Armenia	2022	0
+Personer	1149 Karmøy	Innvandrere	Armenia	2023	0
+Personer	1149 Karmøy	Innvandrere	Armenia	2024	0
+Personer	1149 Karmøy	Innvandrere	Aserbajdsjan	2012	0
+Personer	1149 Karmøy	Innvandrere	Aserbajdsjan	2013	0
+Personer	1149 Karmøy	Innvandrere	Aserbajdsjan	2014	0
+Personer	1149 Karmøy	Innvandrere	Aserbajdsjan	2015	0
+Personer	1149 Karmøy	Innvandrere	Aserbajdsjan	2016	0
+Personer	1149 Karmøy	Innvandrere	Aserbajdsjan	2017	3
+Personer	1149 Karmøy	Innvandrere	Aserbajdsjan	2018	0
+Personer	1149 Karmøy	Innvandrere	Aserbajdsjan	2019	0
+Personer	1149 Karmøy	Innvandrere	Aserbajdsjan	2020	0
+Personer	1149 Karmøy	Innvandrere	Aserbajdsjan	2021	3
+Personer	1149 Karmøy	Innvandrere	Aserbajdsjan	2022	3
+Personer	1149 Karmøy	Innvandrere	Aserbajdsjan	2023	5
+Personer	1149 Karmøy	Innvandrere	Aserbajdsjan	2024	6
+Personer	1149 Karmøy	Innvandrere	Bahrain	2012	0
+Personer	1149 Karmøy	Innvandrere	Bahrain	2013	0
+Personer	1149 Karmøy	Innvandrere	Bahrain	2014	0
+Personer	1149 Karmøy	Innvandrere	Bahrain	2015	0
+Personer	1149 Karmøy	Innvandrere	Bahrain	2016	0
+Personer	1149 Karmøy	Innvandrere	Bahrain	2017	0
+Personer	1149 Karmøy	Innvandrere	Bahrain	2018	0
+Personer	1149 Karmøy	Innvandrere	Bahrain	2019	0
+Personer	1149 Karmøy	Innvandrere	Bahrain	2020	0
+Personer	1149 Karmøy	Innvandrere	Bahrain	2021	0
+Personer	1149 Karmøy	Innvandrere	Bahrain	2022	0
+Personer	1149 Karmøy	Innvandrere	Bahrain	2023	0
+Personer	1149 Karmøy	Innvandrere	Bahrain	2024	0
+Personer	1149 Karmøy	Innvandrere	Bangladesh	2012	0
+Personer	1149 Karmøy	Innvandrere	Bangladesh	2013	0
+Personer	1149 Karmøy	Innvandrere	Bangladesh	2014	0
+Personer	1149 Karmøy	Innvandrere	Bangladesh	2015	0
+Personer	1149 Karmøy	Innvandrere	Bangladesh	2016	0
+Personer	1149 Karmøy	Innvandrere	Bangladesh	2017	0
+Personer	1149 Karmøy	Innvandrere	Bangladesh	2018	0
+Personer	1149 Karmøy	Innvandrere	Bangladesh	2019	0
+Personer	1149 Karmøy	Innvandrere	Bangladesh	2020	0
+Personer	1149 Karmøy	Innvandrere	Bangladesh	2021	0
+Personer	1149 Karmøy	Innvandrere	Bangladesh	2022	0
+Personer	1149 Karmøy	Innvandrere	Bangladesh	2023	0
+Personer	1149 Karmøy	Innvandrere	Bangladesh	2024	0
+Personer	1149 Karmøy	Innvandrere	Bhutan	2012	10
+Personer	1149 Karmøy	Innvandrere	Bhutan	2013	13
+Personer	1149 Karmøy	Innvandrere	Bhutan	2014	12
+Personer	1149 Karmøy	Innvandrere	Bhutan	2015	12
+Personer	1149 Karmøy	Innvandrere	Bhutan	2016	12
+Personer	1149 Karmøy	Innvandrere	Bhutan	2017	8
+Personer	1149 Karmøy	Innvandrere	Bhutan	2018	7
+Personer	1149 Karmøy	Innvandrere	Bhutan	2019	7
+Personer	1149 Karmøy	Innvandrere	Bhutan	2020	7
+Personer	1149 Karmøy	Innvandrere	Bhutan	2021	4
+Personer	1149 Karmøy	Innvandrere	Bhutan	2022	4
+Personer	1149 Karmøy	Innvandrere	Bhutan	2023	4
+Personer	1149 Karmøy	Innvandrere	Bhutan	2024	6
+Personer	1149 Karmøy	Innvandrere	Brunei	2012	0
+Personer	1149 Karmøy	Innvandrere	Brunei	2013	0
+Personer	1149 Karmøy	Innvandrere	Brunei	2014	0
+Personer	1149 Karmøy	Innvandrere	Brunei	2015	0
+Personer	1149 Karmøy	Innvandrere	Brunei	2016	0
+Personer	1149 Karmøy	Innvandrere	Brunei	2017	0
+Personer	1149 Karmøy	Innvandrere	Brunei	2018	0
+Personer	1149 Karmøy	Innvandrere	Brunei	2019	0
+Personer	1149 Karmøy	Innvandrere	Brunei	2020	0
+Personer	1149 Karmøy	Innvandrere	Brunei	2021	0
+Personer	1149 Karmøy	Innvandrere	Brunei	2022	0
+Personer	1149 Karmøy	Innvandrere	Brunei	2023	0
+Personer	1149 Karmøy	Innvandrere	Brunei	2024	0
+Personer	1149 Karmøy	Innvandrere	Filippinene	2012	122
+Personer	1149 Karmøy	Innvandrere	Filippinene	2013	130
+Personer	1149 Karmøy	Innvandrere	Filippinene	2014	142
+Personer	1149 Karmøy	Innvandrere	Filippinene	2015	153
+Personer	1149 Karmøy	Innvandrere	Filippinene	2016	154
+Personer	1149 Karmøy	Innvandrere	Filippinene	2017	167
+Personer	1149 Karmøy	Innvandrere	Filippinene	2018	175
+Personer	1149 Karmøy	Innvandrere	Filippinene	2019	174
+Personer	1149 Karmøy	Innvandrere	Filippinene	2020	182
+Personer	1149 Karmøy	Innvandrere	Filippinene	2021	184
+Personer	1149 Karmøy	Innvandrere	Filippinene	2022	185
+Personer	1149 Karmøy	Innvandrere	Filippinene	2023	185
+Personer	1149 Karmøy	Innvandrere	Filippinene	2024	194
+Personer	1149 Karmøy	Innvandrere	De forente arabiske emirater	2012	0
+Personer	1149 Karmøy	Innvandrere	De forente arabiske emirater	2013	0
+Personer	1149 Karmøy	Innvandrere	De forente arabiske emirater	2014	0
+Personer	1149 Karmøy	Innvandrere	De forente arabiske emirater	2015	0
+Personer	1149 Karmøy	Innvandrere	De forente arabiske emirater	2016	0
+Personer	1149 Karmøy	Innvandrere	De forente arabiske emirater	2017	0
+Personer	1149 Karmøy	Innvandrere	De forente arabiske emirater	2018	0
+Personer	1149 Karmøy	Innvandrere	De forente arabiske emirater	2019	0
+Personer	1149 Karmøy	Innvandrere	De forente arabiske emirater	2020	0
+Personer	1149 Karmøy	Innvandrere	De forente arabiske emirater	2021	0
+Personer	1149 Karmøy	Innvandrere	De forente arabiske emirater	2022	0
+Personer	1149 Karmøy	Innvandrere	De forente arabiske emirater	2023	3
+Personer	1149 Karmøy	Innvandrere	De forente arabiske emirater	2024	0
+Personer	1149 Karmøy	Innvandrere	Georgia	2012	0
+Personer	1149 Karmøy	Innvandrere	Georgia	2013	3
+Personer	1149 Karmøy	Innvandrere	Georgia	2014	3
+Personer	1149 Karmøy	Innvandrere	Georgia	2015	3
+Personer	1149 Karmøy	Innvandrere	Georgia	2016	0
+Personer	1149 Karmøy	Innvandrere	Georgia	2017	0
+Personer	1149 Karmøy	Innvandrere	Georgia	2018	3
+Personer	1149 Karmøy	Innvandrere	Georgia	2019	0
+Personer	1149 Karmøy	Innvandrere	Georgia	2020	3
+Personer	1149 Karmøy	Innvandrere	Georgia	2021	0
+Personer	1149 Karmøy	Innvandrere	Georgia	2022	3
+Personer	1149 Karmøy	Innvandrere	Georgia	2023	0
+Personer	1149 Karmøy	Innvandrere	Georgia	2024	3
+Personer	1149 Karmøy	Innvandrere	Hongkong	2012	3
+Personer	1149 Karmøy	Innvandrere	Hongkong	2013	3
+Personer	1149 Karmøy	Innvandrere	Hongkong	2014	3
+Personer	1149 Karmøy	Innvandrere	Hongkong	2015	3
+Personer	1149 Karmøy	Innvandrere	Hongkong	2016	4
+Personer	1149 Karmøy	Innvandrere	Hongkong	2017	4
+Personer	1149 Karmøy	Innvandrere	Hongkong	2018	4
+Personer	1149 Karmøy	Innvandrere	Hongkong	2019	4
+Personer	1149 Karmøy	Innvandrere	Hongkong	2020	3
+Personer	1149 Karmøy	Innvandrere	Hongkong	2021	3
+Personer	1149 Karmøy	Innvandrere	Hongkong	2022	3
+Personer	1149 Karmøy	Innvandrere	Hongkong	2023	3
+Personer	1149 Karmøy	Innvandrere	Hongkong	2024	3
+Personer	1149 Karmøy	Innvandrere	India	2012	13
+Personer	1149 Karmøy	Innvandrere	India	2013	12
+Personer	1149 Karmøy	Innvandrere	India	2014	13
+Personer	1149 Karmøy	Innvandrere	India	2015	13
+Personer	1149 Karmøy	Innvandrere	India	2016	11
+Personer	1149 Karmøy	Innvandrere	India	2017	12
+Personer	1149 Karmøy	Innvandrere	India	2018	12
+Personer	1149 Karmøy	Innvandrere	India	2019	14
+Personer	1149 Karmøy	Innvandrere	India	2020	14
+Personer	1149 Karmøy	Innvandrere	India	2021	17
+Personer	1149 Karmøy	Innvandrere	India	2022	19
+Personer	1149 Karmøy	Innvandrere	India	2023	22
+Personer	1149 Karmøy	Innvandrere	India	2024	22
+Personer	1149 Karmøy	Innvandrere	Indonesia	2012	7
+Personer	1149 Karmøy	Innvandrere	Indonesia	2013	12
+Personer	1149 Karmøy	Innvandrere	Indonesia	2014	11
+Personer	1149 Karmøy	Innvandrere	Indonesia	2015	11
+Personer	1149 Karmøy	Innvandrere	Indonesia	2016	11
+Personer	1149 Karmøy	Innvandrere	Indonesia	2017	11
+Personer	1149 Karmøy	Innvandrere	Indonesia	2018	11
+Personer	1149 Karmøy	Innvandrere	Indonesia	2019	12
+Personer	1149 Karmøy	Innvandrere	Indonesia	2020	12
+Personer	1149 Karmøy	Innvandrere	Indonesia	2021	12
+Personer	1149 Karmøy	Innvandrere	Indonesia	2022	12
+Personer	1149 Karmøy	Innvandrere	Indonesia	2023	9
+Personer	1149 Karmøy	Innvandrere	Indonesia	2024	9
+Personer	1149 Karmøy	Innvandrere	Irak	2012	58
+Personer	1149 Karmøy	Innvandrere	Irak	2013	58
+Personer	1149 Karmøy	Innvandrere	Irak	2014	61
+Personer	1149 Karmøy	Innvandrere	Irak	2015	65
+Personer	1149 Karmøy	Innvandrere	Irak	2016	63
+Personer	1149 Karmøy	Innvandrere	Irak	2017	63
+Personer	1149 Karmøy	Innvandrere	Irak	2018	63
+Personer	1149 Karmøy	Innvandrere	Irak	2019	65
+Personer	1149 Karmøy	Innvandrere	Irak	2020	58
+Personer	1149 Karmøy	Innvandrere	Irak	2021	65
+Personer	1149 Karmøy	Innvandrere	Irak	2022	64
+Personer	1149 Karmøy	Innvandrere	Irak	2023	68
+Personer	1149 Karmøy	Innvandrere	Irak	2024	63
+Personer	1149 Karmøy	Innvandrere	Iran	2012	28
+Personer	1149 Karmøy	Innvandrere	Iran	2013	36
+Personer	1149 Karmøy	Innvandrere	Iran	2014	45
+Personer	1149 Karmøy	Innvandrere	Iran	2015	50
+Personer	1149 Karmøy	Innvandrere	Iran	2016	42
+Personer	1149 Karmøy	Innvandrere	Iran	2017	43
+Personer	1149 Karmøy	Innvandrere	Iran	2018	43
+Personer	1149 Karmøy	Innvandrere	Iran	2019	36
+Personer	1149 Karmøy	Innvandrere	Iran	2020	31
+Personer	1149 Karmøy	Innvandrere	Iran	2021	30
+Personer	1149 Karmøy	Innvandrere	Iran	2022	35
+Personer	1149 Karmøy	Innvandrere	Iran	2023	31
+Personer	1149 Karmøy	Innvandrere	Iran	2024	35
+Personer	1149 Karmøy	Innvandrere	Israel	2012	3
+Personer	1149 Karmøy	Innvandrere	Israel	2013	3
+Personer	1149 Karmøy	Innvandrere	Israel	2014	3
+Personer	1149 Karmøy	Innvandrere	Israel	2015	3
+Personer	1149 Karmøy	Innvandrere	Israel	2016	3
+Personer	1149 Karmøy	Innvandrere	Israel	2017	3
+Personer	1149 Karmøy	Innvandrere	Israel	2018	3
+Personer	1149 Karmøy	Innvandrere	Israel	2019	3
+Personer	1149 Karmøy	Innvandrere	Israel	2020	3
+Personer	1149 Karmøy	Innvandrere	Israel	2021	3
+Personer	1149 Karmøy	Innvandrere	Israel	2022	3
+Personer	1149 Karmøy	Innvandrere	Israel	2023	3
+Personer	1149 Karmøy	Innvandrere	Israel	2024	3
+Personer	1149 Karmøy	Innvandrere	Japan	2012	4
+Personer	1149 Karmøy	Innvandrere	Japan	2013	4
+Personer	1149 Karmøy	Innvandrere	Japan	2014	4
+Personer	1149 Karmøy	Innvandrere	Japan	2015	5
+Personer	1149 Karmøy	Innvandrere	Japan	2016	5
+Personer	1149 Karmøy	Innvandrere	Japan	2017	5
+Personer	1149 Karmøy	Innvandrere	Japan	2018	5
+Personer	1149 Karmøy	Innvandrere	Japan	2019	4
+Personer	1149 Karmøy	Innvandrere	Japan	2020	4
+Personer	1149 Karmøy	Innvandrere	Japan	2021	4
+Personer	1149 Karmøy	Innvandrere	Japan	2022	4
+Personer	1149 Karmøy	Innvandrere	Japan	2023	3
+Personer	1149 Karmøy	Innvandrere	Japan	2024	3
+Personer	1149 Karmøy	Innvandrere	Jemen	2012	0
+Personer	1149 Karmøy	Innvandrere	Jemen	2013	0
+Personer	1149 Karmøy	Innvandrere	Jemen	2014	0
+Personer	1149 Karmøy	Innvandrere	Jemen	2015	0
+Personer	1149 Karmøy	Innvandrere	Jemen	2016	0
+Personer	1149 Karmøy	Innvandrere	Jemen	2017	0
+Personer	1149 Karmøy	Innvandrere	Jemen	2018	0
+Personer	1149 Karmøy	Innvandrere	Jemen	2019	0
+Personer	1149 Karmøy	Innvandrere	Jemen	2020	0
+Personer	1149 Karmøy	Innvandrere	Jemen	2021	0
+Personer	1149 Karmøy	Innvandrere	Jemen	2022	0
+Personer	1149 Karmøy	Innvandrere	Jemen	2023	0
+Personer	1149 Karmøy	Innvandrere	Jemen	2024	0
+Personer	1149 Karmøy	Innvandrere	Jordan	2012	0
+Personer	1149 Karmøy	Innvandrere	Jordan	2013	0
+Personer	1149 Karmøy	Innvandrere	Jordan	2014	0
+Personer	1149 Karmøy	Innvandrere	Jordan	2015	0
+Personer	1149 Karmøy	Innvandrere	Jordan	2016	0
+Personer	1149 Karmøy	Innvandrere	Jordan	2017	0
+Personer	1149 Karmøy	Innvandrere	Jordan	2018	3
+Personer	1149 Karmøy	Innvandrere	Jordan	2019	3
+Personer	1149 Karmøy	Innvandrere	Jordan	2020	3
+Personer	1149 Karmøy	Innvandrere	Jordan	2021	3
+Personer	1149 Karmøy	Innvandrere	Jordan	2022	3
+Personer	1149 Karmøy	Innvandrere	Jordan	2023	6
+Personer	1149 Karmøy	Innvandrere	Jordan	2024	6
+Personer	1149 Karmøy	Innvandrere	Kambodsja	2012	0
+Personer	1149 Karmøy	Innvandrere	Kambodsja	2013	0
+Personer	1149 Karmøy	Innvandrere	Kambodsja	2014	0
+Personer	1149 Karmøy	Innvandrere	Kambodsja	2015	0
+Personer	1149 Karmøy	Innvandrere	Kambodsja	2016	0
+Personer	1149 Karmøy	Innvandrere	Kambodsja	2017	0
+Personer	1149 Karmøy	Innvandrere	Kambodsja	2018	0
+Personer	1149 Karmøy	Innvandrere	Kambodsja	2019	0
+Personer	1149 Karmøy	Innvandrere	Kambodsja	2020	0
+Personer	1149 Karmøy	Innvandrere	Kambodsja	2021	0
+Personer	1149 Karmøy	Innvandrere	Kambodsja	2022	0
+Personer	1149 Karmøy	Innvandrere	Kambodsja	2023	0
+Personer	1149 Karmøy	Innvandrere	Kambodsja	2024	0
+Personer	1149 Karmøy	Innvandrere	Kasakhstan	2012	7
+Personer	1149 Karmøy	Innvandrere	Kasakhstan	2013	8
+Personer	1149 Karmøy	Innvandrere	Kasakhstan	2014	8
+Personer	1149 Karmøy	Innvandrere	Kasakhstan	2015	7
+Personer	1149 Karmøy	Innvandrere	Kasakhstan	2016	7
+Personer	1149 Karmøy	Innvandrere	Kasakhstan	2017	6
+Personer	1149 Karmøy	Innvandrere	Kasakhstan	2018	5
+Personer	1149 Karmøy	Innvandrere	Kasakhstan	2019	6
+Personer	1149 Karmøy	Innvandrere	Kasakhstan	2020	6
+Personer	1149 Karmøy	Innvandrere	Kasakhstan	2021	6
+Personer	1149 Karmøy	Innvandrere	Kasakhstan	2022	6
+Personer	1149 Karmøy	Innvandrere	Kasakhstan	2023	6
+Personer	1149 Karmøy	Innvandrere	Kasakhstan	2024	6
+Personer	1149 Karmøy	Innvandrere	Kina	2012	15
+Personer	1149 Karmøy	Innvandrere	Kina	2013	17
+Personer	1149 Karmøy	Innvandrere	Kina	2014	20
+Personer	1149 Karmøy	Innvandrere	Kina	2015	17
+Personer	1149 Karmøy	Innvandrere	Kina	2016	17
+Personer	1149 Karmøy	Innvandrere	Kina	2017	17
+Personer	1149 Karmøy	Innvandrere	Kina	2018	19
+Personer	1149 Karmøy	Innvandrere	Kina	2019	21
+Personer	1149 Karmøy	Innvandrere	Kina	2020	24
+Personer	1149 Karmøy	Innvandrere	Kina	2021	26
+Personer	1149 Karmøy	Innvandrere	Kina	2022	22
+Personer	1149 Karmøy	Innvandrere	Kina	2023	21
+Personer	1149 Karmøy	Innvandrere	Kina	2024	21
+Personer	1149 Karmøy	Innvandrere	Kirgisistan	2012	4
+Personer	1149 Karmøy	Innvandrere	Kirgisistan	2013	4
+Personer	1149 Karmøy	Innvandrere	Kirgisistan	2014	4
+Personer	1149 Karmøy	Innvandrere	Kirgisistan	2015	4
+Personer	1149 Karmøy	Innvandrere	Kirgisistan	2016	4
+Personer	1149 Karmøy	Innvandrere	Kirgisistan	2017	4
+Personer	1149 Karmøy	Innvandrere	Kirgisistan	2018	4
+Personer	1149 Karmøy	Innvandrere	Kirgisistan	2019	4
+Personer	1149 Karmøy	Innvandrere	Kirgisistan	2020	6
+Personer	1149 Karmøy	Innvandrere	Kirgisistan	2021	7
+Personer	1149 Karmøy	Innvandrere	Kirgisistan	2022	5
+Personer	1149 Karmøy	Innvandrere	Kirgisistan	2023	5
+Personer	1149 Karmøy	Innvandrere	Kirgisistan	2024	5
+Personer	1149 Karmøy	Innvandrere	Kuwait	2012	0
+Personer	1149 Karmøy	Innvandrere	Kuwait	2013	0
+Personer	1149 Karmøy	Innvandrere	Kuwait	2014	0
+Personer	1149 Karmøy	Innvandrere	Kuwait	2015	0
+Personer	1149 Karmøy	Innvandrere	Kuwait	2016	0
+Personer	1149 Karmøy	Innvandrere	Kuwait	2017	0
+Personer	1149 Karmøy	Innvandrere	Kuwait	2018	0
+Personer	1149 Karmøy	Innvandrere	Kuwait	2019	0
+Personer	1149 Karmøy	Innvandrere	Kuwait	2020	0
+Personer	1149 Karmøy	Innvandrere	Kuwait	2021	0
+Personer	1149 Karmøy	Innvandrere	Kuwait	2022	0
+Personer	1149 Karmøy	Innvandrere	Kuwait	2023	0
+Personer	1149 Karmøy	Innvandrere	Kuwait	2024	0
+Personer	1149 Karmøy	Innvandrere	Kypros	2012	3
+Personer	1149 Karmøy	Innvandrere	Kypros	2013	0
+Personer	1149 Karmøy	Innvandrere	Kypros	2014	0
+Personer	1149 Karmøy	Innvandrere	Kypros	2015	0
+Personer	1149 Karmøy	Innvandrere	Kypros	2016	0
+Personer	1149 Karmøy	Innvandrere	Kypros	2017	0
+Personer	1149 Karmøy	Innvandrere	Kypros	2018	0
+Personer	1149 Karmøy	Innvandrere	Kypros	2019	3
+Personer	1149 Karmøy	Innvandrere	Kypros	2020	3
+Personer	1149 Karmøy	Innvandrere	Kypros	2021	3
+Personer	1149 Karmøy	Innvandrere	Kypros	2022	3
+Personer	1149 Karmøy	Innvandrere	Kypros	2023	3
+Personer	1149 Karmøy	Innvandrere	Kypros	2024	3
+Personer	1149 Karmøy	Innvandrere	Laos	2012	0
+Personer	1149 Karmøy	Innvandrere	Laos	2013	0
+Personer	1149 Karmøy	Innvandrere	Laos	2014	0
+Personer	1149 Karmøy	Innvandrere	Laos	2015	0
+Personer	1149 Karmøy	Innvandrere	Laos	2016	0
+Personer	1149 Karmøy	Innvandrere	Laos	2017	0
+Personer	1149 Karmøy	Innvandrere	Laos	2018	0
+Personer	1149 Karmøy	Innvandrere	Laos	2019	0
+Personer	1149 Karmøy	Innvandrere	Laos	2020	0
+Personer	1149 Karmøy	Innvandrere	Laos	2021	0
+Personer	1149 Karmøy	Innvandrere	Laos	2022	0
+Personer	1149 Karmøy	Innvandrere	Laos	2023	0
+Personer	1149 Karmøy	Innvandrere	Laos	2024	0
+Personer	1149 Karmøy	Innvandrere	Libanon	2012	0
+Personer	1149 Karmøy	Innvandrere	Libanon	2013	0
+Personer	1149 Karmøy	Innvandrere	Libanon	2014	0
+Personer	1149 Karmøy	Innvandrere	Libanon	2015	0
+Personer	1149 Karmøy	Innvandrere	Libanon	2016	3
+Personer	1149 Karmøy	Innvandrere	Libanon	2017	3
+Personer	1149 Karmøy	Innvandrere	Libanon	2018	5
+Personer	1149 Karmøy	Innvandrere	Libanon	2019	5
+Personer	1149 Karmøy	Innvandrere	Libanon	2020	5
+Personer	1149 Karmøy	Innvandrere	Libanon	2021	6
+Personer	1149 Karmøy	Innvandrere	Libanon	2022	7
+Personer	1149 Karmøy	Innvandrere	Libanon	2023	9
+Personer	1149 Karmøy	Innvandrere	Libanon	2024	8
+Personer	1149 Karmøy	Innvandrere	Macao	2012	0
+Personer	1149 Karmøy	Innvandrere	Macao	2013	0
+Personer	1149 Karmøy	Innvandrere	Macao	2014	0
+Personer	1149 Karmøy	Innvandrere	Macao	2015	0
+Personer	1149 Karmøy	Innvandrere	Macao	2016	0
+Personer	1149 Karmøy	Innvandrere	Macao	2017	0
+Personer	1149 Karmøy	Innvandrere	Macao	2018	0
+Personer	1149 Karmøy	Innvandrere	Macao	2019	0
+Personer	1149 Karmøy	Innvandrere	Macao	2020	0
+Personer	1149 Karmøy	Innvandrere	Macao	2021	0
+Personer	1149 Karmøy	Innvandrere	Macao	2022	0
+Personer	1149 Karmøy	Innvandrere	Macao	2023	0
+Personer	1149 Karmøy	Innvandrere	Macao	2024	0
+Personer	1149 Karmøy	Innvandrere	Malaysia	2012	3
+Personer	1149 Karmøy	Innvandrere	Malaysia	2013	3
+Personer	1149 Karmøy	Innvandrere	Malaysia	2014	3
+Personer	1149 Karmøy	Innvandrere	Malaysia	2015	3
+Personer	1149 Karmøy	Innvandrere	Malaysia	2016	3
+Personer	1149 Karmøy	Innvandrere	Malaysia	2017	3
+Personer	1149 Karmøy	Innvandrere	Malaysia	2018	0
+Personer	1149 Karmøy	Innvandrere	Malaysia	2019	0
+Personer	1149 Karmøy	Innvandrere	Malaysia	2020	3
+Personer	1149 Karmøy	Innvandrere	Malaysia	2021	3
+Personer	1149 Karmøy	Innvandrere	Malaysia	2022	3
+Personer	1149 Karmøy	Innvandrere	Malaysia	2023	3
+Personer	1149 Karmøy	Innvandrere	Malaysia	2024	3
+Personer	1149 Karmøy	Innvandrere	Maldivene	2012	0
+Personer	1149 Karmøy	Innvandrere	Maldivene	2013	0
+Personer	1149 Karmøy	Innvandrere	Maldivene	2014	0
+Personer	1149 Karmøy	Innvandrere	Maldivene	2015	0
+Personer	1149 Karmøy	Innvandrere	Maldivene	2016	0
+Personer	1149 Karmøy	Innvandrere	Maldivene	2017	0
+Personer	1149 Karmøy	Innvandrere	Maldivene	2018	0
+Personer	1149 Karmøy	Innvandrere	Maldivene	2019	0
+Personer	1149 Karmøy	Innvandrere	Maldivene	2020	0
+Personer	1149 Karmøy	Innvandrere	Maldivene	2021	0
+Personer	1149 Karmøy	Innvandrere	Maldivene	2022	0
+Personer	1149 Karmøy	Innvandrere	Maldivene	2023	0
+Personer	1149 Karmøy	Innvandrere	Maldivene	2024	0
+Personer	1149 Karmøy	Innvandrere	Mongolia	2012	0
+Personer	1149 Karmøy	Innvandrere	Mongolia	2013	0
+Personer	1149 Karmøy	Innvandrere	Mongolia	2014	0
+Personer	1149 Karmøy	Innvandrere	Mongolia	2015	0
+Personer	1149 Karmøy	Innvandrere	Mongolia	2016	0
+Personer	1149 Karmøy	Innvandrere	Mongolia	2017	0
+Personer	1149 Karmøy	Innvandrere	Mongolia	2018	0
+Personer	1149 Karmøy	Innvandrere	Mongolia	2019	0
+Personer	1149 Karmøy	Innvandrere	Mongolia	2020	0
+Personer	1149 Karmøy	Innvandrere	Mongolia	2021	0
+Personer	1149 Karmøy	Innvandrere	Mongolia	2022	0
+Personer	1149 Karmøy	Innvandrere	Mongolia	2023	0
+Personer	1149 Karmøy	Innvandrere	Mongolia	2024	0
+Personer	1149 Karmøy	Innvandrere	Myanmar	2012	0
+Personer	1149 Karmøy	Innvandrere	Myanmar	2013	0
+Personer	1149 Karmøy	Innvandrere	Myanmar	2014	0
+Personer	1149 Karmøy	Innvandrere	Myanmar	2015	0
+Personer	1149 Karmøy	Innvandrere	Myanmar	2016	0
+Personer	1149 Karmøy	Innvandrere	Myanmar	2017	0
+Personer	1149 Karmøy	Innvandrere	Myanmar	2018	0
+Personer	1149 Karmøy	Innvandrere	Myanmar	2019	0
+Personer	1149 Karmøy	Innvandrere	Myanmar	2020	0
+Personer	1149 Karmøy	Innvandrere	Myanmar	2021	3
+Personer	1149 Karmøy	Innvandrere	Myanmar	2022	0
+Personer	1149 Karmøy	Innvandrere	Myanmar	2023	0
+Personer	1149 Karmøy	Innvandrere	Myanmar	2024	0
+Personer	1149 Karmøy	Innvandrere	Nepal	2012	4
+Personer	1149 Karmøy	Innvandrere	Nepal	2013	8
+Personer	1149 Karmøy	Innvandrere	Nepal	2014	9
+Personer	1149 Karmøy	Innvandrere	Nepal	2015	10
+Personer	1149 Karmøy	Innvandrere	Nepal	2016	10
+Personer	1149 Karmøy	Innvandrere	Nepal	2017	8
+Personer	1149 Karmøy	Innvandrere	Nepal	2018	8
+Personer	1149 Karmøy	Innvandrere	Nepal	2019	11
+Personer	1149 Karmøy	Innvandrere	Nepal	2020	11
+Personer	1149 Karmøy	Innvandrere	Nepal	2021	9
+Personer	1149 Karmøy	Innvandrere	Nepal	2022	8
+Personer	1149 Karmøy	Innvandrere	Nepal	2023	9
+Personer	1149 Karmøy	Innvandrere	Nepal	2024	9
+Personer	1149 Karmøy	Innvandrere	Nord-Korea	2012	0
+Personer	1149 Karmøy	Innvandrere	Nord-Korea	2013	0
+Personer	1149 Karmøy	Innvandrere	Nord-Korea	2014	0
+Personer	1149 Karmøy	Innvandrere	Nord-Korea	2015	0
+Personer	1149 Karmøy	Innvandrere	Nord-Korea	2016	0
+Personer	1149 Karmøy	Innvandrere	Nord-Korea	2017	0
+Personer	1149 Karmøy	Innvandrere	Nord-Korea	2018	0
+Personer	1149 Karmøy	Innvandrere	Nord-Korea	2019	0
+Personer	1149 Karmøy	Innvandrere	Nord-Korea	2020	0
+Personer	1149 Karmøy	Innvandrere	Nord-Korea	2021	0
+Personer	1149 Karmøy	Innvandrere	Nord-Korea	2022	0
+Personer	1149 Karmøy	Innvandrere	Nord-Korea	2023	0
+Personer	1149 Karmøy	Innvandrere	Nord-Korea	2024	0
+Personer	1149 Karmøy	Innvandrere	Oman	2012	0
+Personer	1149 Karmøy	Innvandrere	Oman	2013	0
+Personer	1149 Karmøy	Innvandrere	Oman	2014	0
+Personer	1149 Karmøy	Innvandrere	Oman	2015	0
+Personer	1149 Karmøy	Innvandrere	Oman	2016	0
+Personer	1149 Karmøy	Innvandrere	Oman	2017	0
+Personer	1149 Karmøy	Innvandrere	Oman	2018	0
+Personer	1149 Karmøy	Innvandrere	Oman	2019	0
+Personer	1149 Karmøy	Innvandrere	Oman	2020	0
+Personer	1149 Karmøy	Innvandrere	Oman	2021	0
+Personer	1149 Karmøy	Innvandrere	Oman	2022	0
+Personer	1149 Karmøy	Innvandrere	Oman	2023	0
+Personer	1149 Karmøy	Innvandrere	Oman	2024	0
+Personer	1149 Karmøy	Innvandrere	Pakistan	2012	0
+Personer	1149 Karmøy	Innvandrere	Pakistan	2013	0
+Personer	1149 Karmøy	Innvandrere	Pakistan	2014	0
+Personer	1149 Karmøy	Innvandrere	Pakistan	2015	0
+Personer	1149 Karmøy	Innvandrere	Pakistan	2016	0
+Personer	1149 Karmøy	Innvandrere	Pakistan	2017	0
+Personer	1149 Karmøy	Innvandrere	Pakistan	2018	0
+Personer	1149 Karmøy	Innvandrere	Pakistan	2019	0
+Personer	1149 Karmøy	Innvandrere	Pakistan	2020	0
+Personer	1149 Karmøy	Innvandrere	Pakistan	2021	0
+Personer	1149 Karmøy	Innvandrere	Pakistan	2022	3
+Personer	1149 Karmøy	Innvandrere	Pakistan	2023	0
+Personer	1149 Karmøy	Innvandrere	Pakistan	2024	3
+Personer	1149 Karmøy	Innvandrere	Palestina	2012	12
+Personer	1149 Karmøy	Innvandrere	Palestina	2013	13
+Personer	1149 Karmøy	Innvandrere	Palestina	2014	13
+Personer	1149 Karmøy	Innvandrere	Palestina	2015	13
+Personer	1149 Karmøy	Innvandrere	Palestina	2016	8
+Personer	1149 Karmøy	Innvandrere	Palestina	2017	7
+Personer	1149 Karmøy	Innvandrere	Palestina	2018	7
+Personer	1149 Karmøy	Innvandrere	Palestina	2019	7
+Personer	1149 Karmøy	Innvandrere	Palestina	2020	7
+Personer	1149 Karmøy	Innvandrere	Palestina	2021	7
+Personer	1149 Karmøy	Innvandrere	Palestina	2022	7
+Personer	1149 Karmøy	Innvandrere	Palestina	2023	7
+Personer	1149 Karmøy	Innvandrere	Palestina	2024	7
+Personer	1149 Karmøy	Innvandrere	Qatar	2012	0
+Personer	1149 Karmøy	Innvandrere	Qatar	2013	0
+Personer	1149 Karmøy	Innvandrere	Qatar	2014	0
+Personer	1149 Karmøy	Innvandrere	Qatar	2015	0
+Personer	1149 Karmøy	Innvandrere	Qatar	2016	0
+Personer	1149 Karmøy	Innvandrere	Qatar	2017	0
+Personer	1149 Karmøy	Innvandrere	Qatar	2018	0
+Personer	1149 Karmøy	Innvandrere	Qatar	2019	0
+Personer	1149 Karmøy	Innvandrere	Qatar	2020	0
+Personer	1149 Karmøy	Innvandrere	Qatar	2021	0
+Personer	1149 Karmøy	Innvandrere	Qatar	2022	0
+Personer	1149 Karmøy	Innvandrere	Qatar	2023	0
+Personer	1149 Karmøy	Innvandrere	Qatar	2024	0
+Personer	1149 Karmøy	Innvandrere	Saudi-Arabia	2012	6
+Personer	1149 Karmøy	Innvandrere	Saudi-Arabia	2013	7
+Personer	1149 Karmøy	Innvandrere	Saudi-Arabia	2014	10
+Personer	1149 Karmøy	Innvandrere	Saudi-Arabia	2015	10
+Personer	1149 Karmøy	Innvandrere	Saudi-Arabia	2016	8
+Personer	1149 Karmøy	Innvandrere	Saudi-Arabia	2017	9
+Personer	1149 Karmøy	Innvandrere	Saudi-Arabia	2018	7
+Personer	1149 Karmøy	Innvandrere	Saudi-Arabia	2019	4
+Personer	1149 Karmøy	Innvandrere	Saudi-Arabia	2020	3
+Personer	1149 Karmøy	Innvandrere	Saudi-Arabia	2021	3
+Personer	1149 Karmøy	Innvandrere	Saudi-Arabia	2022	3
+Personer	1149 Karmøy	Innvandrere	Saudi-Arabia	2023	3
+Personer	1149 Karmøy	Innvandrere	Saudi-Arabia	2024	3
+Personer	1149 Karmøy	Innvandrere	Singapore	2012	3
+Personer	1149 Karmøy	Innvandrere	Singapore	2013	3
+Personer	1149 Karmøy	Innvandrere	Singapore	2014	3
+Personer	1149 Karmøy	Innvandrere	Singapore	2015	3
+Personer	1149 Karmøy	Innvandrere	Singapore	2016	3
+Personer	1149 Karmøy	Innvandrere	Singapore	2017	3
+Personer	1149 Karmøy	Innvandrere	Singapore	2018	4
+Personer	1149 Karmøy	Innvandrere	Singapore	2019	4
+Personer	1149 Karmøy	Innvandrere	Singapore	2020	4
+Personer	1149 Karmøy	Innvandrere	Singapore	2021	5
+Personer	1149 Karmøy	Innvandrere	Singapore	2022	5
+Personer	1149 Karmøy	Innvandrere	Singapore	2023	5
+Personer	1149 Karmøy	Innvandrere	Singapore	2024	5
+Personer	1149 Karmøy	Innvandrere	Sri Lanka	2012	0
+Personer	1149 Karmøy	Innvandrere	Sri Lanka	2013	0
+Personer	1149 Karmøy	Innvandrere	Sri Lanka	2014	0
+Personer	1149 Karmøy	Innvandrere	Sri Lanka	2015	0
+Personer	1149 Karmøy	Innvandrere	Sri Lanka	2016	0
+Personer	1149 Karmøy	Innvandrere	Sri Lanka	2017	0
+Personer	1149 Karmøy	Innvandrere	Sri Lanka	2018	3
+Personer	1149 Karmøy	Innvandrere	Sri Lanka	2019	3
+Personer	1149 Karmøy	Innvandrere	Sri Lanka	2020	3
+Personer	1149 Karmøy	Innvandrere	Sri Lanka	2021	3
+Personer	1149 Karmøy	Innvandrere	Sri Lanka	2022	3
+Personer	1149 Karmøy	Innvandrere	Sri Lanka	2023	3
+Personer	1149 Karmøy	Innvandrere	Sri Lanka	2024	3
+Personer	1149 Karmøy	Innvandrere	Syria	2012	3
+Personer	1149 Karmøy	Innvandrere	Syria	2013	3
+Personer	1149 Karmøy	Innvandrere	Syria	2014	4
+Personer	1149 Karmøy	Innvandrere	Syria	2015	3
+Personer	1149 Karmøy	Innvandrere	Syria	2016	25
+Personer	1149 Karmøy	Innvandrere	Syria	2017	68
+Personer	1149 Karmøy	Innvandrere	Syria	2018	108
+Personer	1149 Karmøy	Innvandrere	Syria	2019	130
+Personer	1149 Karmøy	Innvandrere	Syria	2020	128
+Personer	1149 Karmøy	Innvandrere	Syria	2021	119
+Personer	1149 Karmøy	Innvandrere	Syria	2022	123
+Personer	1149 Karmøy	Innvandrere	Syria	2023	139
+Personer	1149 Karmøy	Innvandrere	Syria	2024	149
+Personer	1149 Karmøy	Innvandrere	Sør-Korea	2012	3
+Personer	1149 Karmøy	Innvandrere	Sør-Korea	2013	3
+Personer	1149 Karmøy	Innvandrere	Sør-Korea	2014	3
+Personer	1149 Karmøy	Innvandrere	Sør-Korea	2015	3
+Personer	1149 Karmøy	Innvandrere	Sør-Korea	2016	3
+Personer	1149 Karmøy	Innvandrere	Sør-Korea	2017	3
+Personer	1149 Karmøy	Innvandrere	Sør-Korea	2018	4
+Personer	1149 Karmøy	Innvandrere	Sør-Korea	2019	5
+Personer	1149 Karmøy	Innvandrere	Sør-Korea	2020	6
+Personer	1149 Karmøy	Innvandrere	Sør-Korea	2021	7
+Personer	1149 Karmøy	Innvandrere	Sør-Korea	2022	6
+Personer	1149 Karmøy	Innvandrere	Sør-Korea	2023	6
+Personer	1149 Karmøy	Innvandrere	Sør-Korea	2024	6
+Personer	1149 Karmøy	Innvandrere	Tadsjikistan	2012	0
+Personer	1149 Karmøy	Innvandrere	Tadsjikistan	2013	3
+Personer	1149 Karmøy	Innvandrere	Tadsjikistan	2014	3
+Personer	1149 Karmøy	Innvandrere	Tadsjikistan	2015	0
+Personer	1149 Karmøy	Innvandrere	Tadsjikistan	2016	0
+Personer	1149 Karmøy	Innvandrere	Tadsjikistan	2017	0
+Personer	1149 Karmøy	Innvandrere	Tadsjikistan	2018	0
+Personer	1149 Karmøy	Innvandrere	Tadsjikistan	2019	3
+Personer	1149 Karmøy	Innvandrere	Tadsjikistan	2020	3
+Personer	1149 Karmøy	Innvandrere	Tadsjikistan	2021	3
+Personer	1149 Karmøy	Innvandrere	Tadsjikistan	2022	0
+Personer	1149 Karmøy	Innvandrere	Tadsjikistan	2023	0
+Personer	1149 Karmøy	Innvandrere	Tadsjikistan	2024	0
+Personer	1149 Karmøy	Innvandrere	Taiwan	2012	3
+Personer	1149 Karmøy	Innvandrere	Taiwan	2013	3
+Personer	1149 Karmøy	Innvandrere	Taiwan	2014	3
+Personer	1149 Karmøy	Innvandrere	Taiwan	2015	3
+Personer	1149 Karmøy	Innvandrere	Taiwan	2016	3
+Personer	1149 Karmøy	Innvandrere	Taiwan	2017	3
+Personer	1149 Karmøy	Innvandrere	Taiwan	2018	3
+Personer	1149 Karmøy	Innvandrere	Taiwan	2019	3
+Personer	1149 Karmøy	Innvandrere	Taiwan	2020	3
+Personer	1149 Karmøy	Innvandrere	Taiwan	2021	3
+Personer	1149 Karmøy	Innvandrere	Taiwan	2022	3
+Personer	1149 Karmøy	Innvandrere	Taiwan	2023	3
+Personer	1149 Karmøy	Innvandrere	Taiwan	2024	3
+Personer	1149 Karmøy	Innvandrere	Thailand	2012	152
+Personer	1149 Karmøy	Innvandrere	Thailand	2013	175
+Personer	1149 Karmøy	Innvandrere	Thailand	2014	195
+Personer	1149 Karmøy	Innvandrere	Thailand	2015	191
+Personer	1149 Karmøy	Innvandrere	Thailand	2016	200
+Personer	1149 Karmøy	Innvandrere	Thailand	2017	216
+Personer	1149 Karmøy	Innvandrere	Thailand	2018	224
+Personer	1149 Karmøy	Innvandrere	Thailand	2019	225
+Personer	1149 Karmøy	Innvandrere	Thailand	2020	228
+Personer	1149 Karmøy	Innvandrere	Thailand	2021	232
+Personer	1149 Karmøy	Innvandrere	Thailand	2022	236
+Personer	1149 Karmøy	Innvandrere	Thailand	2023	237
+Personer	1149 Karmøy	Innvandrere	Thailand	2024	236
+Personer	1149 Karmøy	Innvandrere	Turkmenistan	2012	0
+Personer	1149 Karmøy	Innvandrere	Turkmenistan	2013	0
+Personer	1149 Karmøy	Innvandrere	Turkmenistan	2014	0
+Personer	1149 Karmøy	Innvandrere	Turkmenistan	2015	0
+Personer	1149 Karmøy	Innvandrere	Turkmenistan	2016	0
+Personer	1149 Karmøy	Innvandrere	Turkmenistan	2017	0
+Personer	1149 Karmøy	Innvandrere	Turkmenistan	2018	0
+Personer	1149 Karmøy	Innvandrere	Turkmenistan	2019	0
+Personer	1149 Karmøy	Innvandrere	Turkmenistan	2020	0
+Personer	1149 Karmøy	Innvandrere	Turkmenistan	2021	0
+Personer	1149 Karmøy	Innvandrere	Turkmenistan	2022	0
+Personer	1149 Karmøy	Innvandrere	Turkmenistan	2023	0
+Personer	1149 Karmøy	Innvandrere	Turkmenistan	2024	0
+Personer	1149 Karmøy	Innvandrere	Usbekistan	2012	0
+Personer	1149 Karmøy	Innvandrere	Usbekistan	2013	0
+Personer	1149 Karmøy	Innvandrere	Usbekistan	2014	0
+Personer	1149 Karmøy	Innvandrere	Usbekistan	2015	0
+Personer	1149 Karmøy	Innvandrere	Usbekistan	2016	3
+Personer	1149 Karmøy	Innvandrere	Usbekistan	2017	0
+Personer	1149 Karmøy	Innvandrere	Usbekistan	2018	0
+Personer	1149 Karmøy	Innvandrere	Usbekistan	2019	0
+Personer	1149 Karmøy	Innvandrere	Usbekistan	2020	0
+Personer	1149 Karmøy	Innvandrere	Usbekistan	2021	3
+Personer	1149 Karmøy	Innvandrere	Usbekistan	2022	0
+Personer	1149 Karmøy	Innvandrere	Usbekistan	2023	3
+Personer	1149 Karmøy	Innvandrere	Usbekistan	2024	9
+Personer	1149 Karmøy	Innvandrere	Vietnam	2012	89
+Personer	1149 Karmøy	Innvandrere	Vietnam	2013	92
+Personer	1149 Karmøy	Innvandrere	Vietnam	2014	86
+Personer	1149 Karmøy	Innvandrere	Vietnam	2015	85
+Personer	1149 Karmøy	Innvandrere	Vietnam	2016	88
+Personer	1149 Karmøy	Innvandrere	Vietnam	2017	92
+Personer	1149 Karmøy	Innvandrere	Vietnam	2018	90
+Personer	1149 Karmøy	Innvandrere	Vietnam	2019	90
+Personer	1149 Karmøy	Innvandrere	Vietnam	2020	91
+Personer	1149 Karmøy	Innvandrere	Vietnam	2021	89
+Personer	1149 Karmøy	Innvandrere	Vietnam	2022	86
+Personer	1149 Karmøy	Innvandrere	Vietnam	2023	88
+Personer	1149 Karmøy	Innvandrere	Vietnam	2024	86
+Personer	1149 Karmøy	Innvandrere	Øst-Timor	2012	0
+Personer	1149 Karmøy	Innvandrere	Øst-Timor	2013	0
+Personer	1149 Karmøy	Innvandrere	Øst-Timor	2014	0
+Personer	1149 Karmøy	Innvandrere	Øst-Timor	2015	0
+Personer	1149 Karmøy	Innvandrere	Øst-Timor	2016	0
+Personer	1149 Karmøy	Innvandrere	Øst-Timor	2017	0
+Personer	1149 Karmøy	Innvandrere	Øst-Timor	2018	0
+Personer	1149 Karmøy	Innvandrere	Øst-Timor	2019	0
+Personer	1149 Karmøy	Innvandrere	Øst-Timor	2020	0
+Personer	1149 Karmøy	Innvandrere	Øst-Timor	2021	0
+Personer	1149 Karmøy	Innvandrere	Øst-Timor	2022	0
+Personer	1149 Karmøy	Innvandrere	Øst-Timor	2023	0
+Personer	1149 Karmøy	Innvandrere	Øst-Timor	2024	0
+Personer	1149 Karmøy	Innvandrere	De amerikanske Jomfruøyene	2012	0
+Personer	1149 Karmøy	Innvandrere	De amerikanske Jomfruøyene	2013	0
+Personer	1149 Karmøy	Innvandrere	De amerikanske Jomfruøyene	2014	0
+Personer	1149 Karmøy	Innvandrere	De amerikanske Jomfruøyene	2015	0
+Personer	1149 Karmøy	Innvandrere	De amerikanske Jomfruøyene	2016	0
+Personer	1149 Karmøy	Innvandrere	De amerikanske Jomfruøyene	2017	0
+Personer	1149 Karmøy	Innvandrere	De amerikanske Jomfruøyene	2018	0
+Personer	1149 Karmøy	Innvandrere	De amerikanske Jomfruøyene	2019	0
+Personer	1149 Karmøy	Innvandrere	De amerikanske Jomfruøyene	2020	0
+Personer	1149 Karmøy	Innvandrere	De amerikanske Jomfruøyene	2021	0
+Personer	1149 Karmøy	Innvandrere	De amerikanske Jomfruøyene	2022	0
+Personer	1149 Karmøy	Innvandrere	De amerikanske Jomfruøyene	2023	0
+Personer	1149 Karmøy	Innvandrere	De amerikanske Jomfruøyene	2024	0
+Personer	1149 Karmøy	Innvandrere	Anguilla	2012	0
+Personer	1149 Karmøy	Innvandrere	Anguilla	2013	0
+Personer	1149 Karmøy	Innvandrere	Anguilla	2014	0
+Personer	1149 Karmøy	Innvandrere	Anguilla	2015	0
+Personer	1149 Karmøy	Innvandrere	Anguilla	2016	0
+Personer	1149 Karmøy	Innvandrere	Anguilla	2017	0
+Personer	1149 Karmøy	Innvandrere	Anguilla	2018	0
+Personer	1149 Karmøy	Innvandrere	Anguilla	2019	0
+Personer	1149 Karmøy	Innvandrere	Anguilla	2020	0
+Personer	1149 Karmøy	Innvandrere	Anguilla	2021	0
+Personer	1149 Karmøy	Innvandrere	Anguilla	2022	0
+Personer	1149 Karmøy	Innvandrere	Anguilla	2023	0
+Personer	1149 Karmøy	Innvandrere	Anguilla	2024	0
+Personer	1149 Karmøy	Innvandrere	Antigua og Barbuda	2012	0
+Personer	1149 Karmøy	Innvandrere	Antigua og Barbuda	2013	0
+Personer	1149 Karmøy	Innvandrere	Antigua og Barbuda	2014	0
+Personer	1149 Karmøy	Innvandrere	Antigua og Barbuda	2015	0
+Personer	1149 Karmøy	Innvandrere	Antigua og Barbuda	2016	0
+Personer	1149 Karmøy	Innvandrere	Antigua og Barbuda	2017	0
+Personer	1149 Karmøy	Innvandrere	Antigua og Barbuda	2018	0
+Personer	1149 Karmøy	Innvandrere	Antigua og Barbuda	2019	0
+Personer	1149 Karmøy	Innvandrere	Antigua og Barbuda	2020	0
+Personer	1149 Karmøy	Innvandrere	Antigua og Barbuda	2021	0
+Personer	1149 Karmøy	Innvandrere	Antigua og Barbuda	2022	0
+Personer	1149 Karmøy	Innvandrere	Antigua og Barbuda	2023	0
+Personer	1149 Karmøy	Innvandrere	Antigua og Barbuda	2024	0
+Personer	1149 Karmøy	Innvandrere	Aruba	2012	0
+Personer	1149 Karmøy	Innvandrere	Aruba	2013	0
+Personer	1149 Karmøy	Innvandrere	Aruba	2014	0
+Personer	1149 Karmøy	Innvandrere	Aruba	2015	0
+Personer	1149 Karmøy	Innvandrere	Aruba	2016	0
+Personer	1149 Karmøy	Innvandrere	Aruba	2017	0
+Personer	1149 Karmøy	Innvandrere	Aruba	2018	0
+Personer	1149 Karmøy	Innvandrere	Aruba	2019	0
+Personer	1149 Karmøy	Innvandrere	Aruba	2020	0
+Personer	1149 Karmøy	Innvandrere	Aruba	2021	0
+Personer	1149 Karmøy	Innvandrere	Aruba	2022	0
+Personer	1149 Karmøy	Innvandrere	Aruba	2023	0
+Personer	1149 Karmøy	Innvandrere	Aruba	2024	0
+Personer	1149 Karmøy	Innvandrere	Bahamas	2012	0
+Personer	1149 Karmøy	Innvandrere	Bahamas	2013	0
+Personer	1149 Karmøy	Innvandrere	Bahamas	2014	0
+Personer	1149 Karmøy	Innvandrere	Bahamas	2015	0
+Personer	1149 Karmøy	Innvandrere	Bahamas	2016	0
+Personer	1149 Karmøy	Innvandrere	Bahamas	2017	0
+Personer	1149 Karmøy	Innvandrere	Bahamas	2018	0
+Personer	1149 Karmøy	Innvandrere	Bahamas	2019	0
+Personer	1149 Karmøy	Innvandrere	Bahamas	2020	0
+Personer	1149 Karmøy	Innvandrere	Bahamas	2021	0
+Personer	1149 Karmøy	Innvandrere	Bahamas	2022	0
+Personer	1149 Karmøy	Innvandrere	Bahamas	2023	0
+Personer	1149 Karmøy	Innvandrere	Bahamas	2024	0
+Personer	1149 Karmøy	Innvandrere	Barbados	2012	0
+Personer	1149 Karmøy	Innvandrere	Barbados	2013	0
+Personer	1149 Karmøy	Innvandrere	Barbados	2014	0
+Personer	1149 Karmøy	Innvandrere	Barbados	2015	0
+Personer	1149 Karmøy	Innvandrere	Barbados	2016	0
+Personer	1149 Karmøy	Innvandrere	Barbados	2017	0
+Personer	1149 Karmøy	Innvandrere	Barbados	2018	0
+Personer	1149 Karmøy	Innvandrere	Barbados	2019	0
+Personer	1149 Karmøy	Innvandrere	Barbados	2020	0
+Personer	1149 Karmøy	Innvandrere	Barbados	2021	0
+Personer	1149 Karmøy	Innvandrere	Barbados	2022	0
+Personer	1149 Karmøy	Innvandrere	Barbados	2023	0
+Personer	1149 Karmøy	Innvandrere	Barbados	2024	0
+Personer	1149 Karmøy	Innvandrere	Belize	2012	0
+Personer	1149 Karmøy	Innvandrere	Belize	2013	0
+Personer	1149 Karmøy	Innvandrere	Belize	2014	0
+Personer	1149 Karmøy	Innvandrere	Belize	2015	0
+Personer	1149 Karmøy	Innvandrere	Belize	2016	0
+Personer	1149 Karmøy	Innvandrere	Belize	2017	0
+Personer	1149 Karmøy	Innvandrere	Belize	2018	0
+Personer	1149 Karmøy	Innvandrere	Belize	2019	0
+Personer	1149 Karmøy	Innvandrere	Belize	2020	0
+Personer	1149 Karmøy	Innvandrere	Belize	2021	0
+Personer	1149 Karmøy	Innvandrere	Belize	2022	0
+Personer	1149 Karmøy	Innvandrere	Belize	2023	0
+Personer	1149 Karmøy	Innvandrere	Belize	2024	0
+Personer	1149 Karmøy	Innvandrere	Bermuda	2012	0
+Personer	1149 Karmøy	Innvandrere	Bermuda	2013	0
+Personer	1149 Karmøy	Innvandrere	Bermuda	2014	0
+Personer	1149 Karmøy	Innvandrere	Bermuda	2015	0
+Personer	1149 Karmøy	Innvandrere	Bermuda	2016	0
+Personer	1149 Karmøy	Innvandrere	Bermuda	2017	0
+Personer	1149 Karmøy	Innvandrere	Bermuda	2018	0
+Personer	1149 Karmøy	Innvandrere	Bermuda	2019	0
+Personer	1149 Karmøy	Innvandrere	Bermuda	2020	0
+Personer	1149 Karmøy	Innvandrere	Bermuda	2021	0
+Personer	1149 Karmøy	Innvandrere	Bermuda	2022	0
+Personer	1149 Karmøy	Innvandrere	Bermuda	2023	0
+Personer	1149 Karmøy	Innvandrere	Bermuda	2024	0
+Personer	1149 Karmøy	Innvandrere	Bonaire, Sint Eustatius og Saba	2012	0
+Personer	1149 Karmøy	Innvandrere	Bonaire, Sint Eustatius og Saba	2013	0
+Personer	1149 Karmøy	Innvandrere	Bonaire, Sint Eustatius og Saba	2014	0
+Personer	1149 Karmøy	Innvandrere	Bonaire, Sint Eustatius og Saba	2015	0
+Personer	1149 Karmøy	Innvandrere	Bonaire, Sint Eustatius og Saba	2016	0
+Personer	1149 Karmøy	Innvandrere	Bonaire, Sint Eustatius og Saba	2017	0
+Personer	1149 Karmøy	Innvandrere	Bonaire, Sint Eustatius og Saba	2018	0
+Personer	1149 Karmøy	Innvandrere	Bonaire, Sint Eustatius og Saba	2019	0
+Personer	1149 Karmøy	Innvandrere	Bonaire, Sint Eustatius og Saba	2020	0
+Personer	1149 Karmøy	Innvandrere	Bonaire, Sint Eustatius og Saba	2021	0
+Personer	1149 Karmøy	Innvandrere	Bonaire, Sint Eustatius og Saba	2022	0
+Personer	1149 Karmøy	Innvandrere	Bonaire, Sint Eustatius og Saba	2023	0
+Personer	1149 Karmøy	Innvandrere	Bonaire, Sint Eustatius og Saba	2024	0
+Personer	1149 Karmøy	Innvandrere	De britiske Jomfruøyene	2012	0
+Personer	1149 Karmøy	Innvandrere	De britiske Jomfruøyene	2013	0
+Personer	1149 Karmøy	Innvandrere	De britiske Jomfruøyene	2014	0
+Personer	1149 Karmøy	Innvandrere	De britiske Jomfruøyene	2015	0
+Personer	1149 Karmøy	Innvandrere	De britiske Jomfruøyene	2016	0
+Personer	1149 Karmøy	Innvandrere	De britiske Jomfruøyene	2017	0
+Personer	1149 Karmøy	Innvandrere	De britiske Jomfruøyene	2018	0
+Personer	1149 Karmøy	Innvandrere	De britiske Jomfruøyene	2019	0
+Personer	1149 Karmøy	Innvandrere	De britiske Jomfruøyene	2020	0
+Personer	1149 Karmøy	Innvandrere	De britiske Jomfruøyene	2021	0
+Personer	1149 Karmøy	Innvandrere	De britiske Jomfruøyene	2022	0
+Personer	1149 Karmøy	Innvandrere	De britiske Jomfruøyene	2023	0
+Personer	1149 Karmøy	Innvandrere	De britiske Jomfruøyene	2024	0
+Personer	1149 Karmøy	Innvandrere	Canada	2012	7
+Personer	1149 Karmøy	Innvandrere	Canada	2013	6
+Personer	1149 Karmøy	Innvandrere	Canada	2014	6
+Personer	1149 Karmøy	Innvandrere	Canada	2015	6
+Personer	1149 Karmøy	Innvandrere	Canada	2016	6
+Personer	1149 Karmøy	Innvandrere	Canada	2017	6
+Personer	1149 Karmøy	Innvandrere	Canada	2018	8
+Personer	1149 Karmøy	Innvandrere	Canada	2019	7
+Personer	1149 Karmøy	Innvandrere	Canada	2020	7
+Personer	1149 Karmøy	Innvandrere	Canada	2021	6
+Personer	1149 Karmøy	Innvandrere	Canada	2022	6
+Personer	1149 Karmøy	Innvandrere	Canada	2023	8
+Personer	1149 Karmøy	Innvandrere	Canada	2024	8
+Personer	1149 Karmøy	Innvandrere	Caymanøyene	2012	0
+Personer	1149 Karmøy	Innvandrere	Caymanøyene	2013	0
+Personer	1149 Karmøy	Innvandrere	Caymanøyene	2014	0
+Personer	1149 Karmøy	Innvandrere	Caymanøyene	2015	0
+Personer	1149 Karmøy	Innvandrere	Caymanøyene	2016	0
+Personer	1149 Karmøy	Innvandrere	Caymanøyene	2017	0
+Personer	1149 Karmøy	Innvandrere	Caymanøyene	2018	0
+Personer	1149 Karmøy	Innvandrere	Caymanøyene	2019	0
+Personer	1149 Karmøy	Innvandrere	Caymanøyene	2020	0
+Personer	1149 Karmøy	Innvandrere	Caymanøyene	2021	0
+Personer	1149 Karmøy	Innvandrere	Caymanøyene	2022	0
+Personer	1149 Karmøy	Innvandrere	Caymanøyene	2023	0
+Personer	1149 Karmøy	Innvandrere	Caymanøyene	2024	0
+Personer	1149 Karmøy	Innvandrere	Costa Rica	2012	0
+Personer	1149 Karmøy	Innvandrere	Costa Rica	2013	0
+Personer	1149 Karmøy	Innvandrere	Costa Rica	2014	0
+Personer	1149 Karmøy	Innvandrere	Costa Rica	2015	0
+Personer	1149 Karmøy	Innvandrere	Costa Rica	2016	0
+Personer	1149 Karmøy	Innvandrere	Costa Rica	2017	0
+Personer	1149 Karmøy	Innvandrere	Costa Rica	2018	0
+Personer	1149 Karmøy	Innvandrere	Costa Rica	2019	0
+Personer	1149 Karmøy	Innvandrere	Costa Rica	2020	0
+Personer	1149 Karmøy	Innvandrere	Costa Rica	2021	0
+Personer	1149 Karmøy	Innvandrere	Costa Rica	2022	0
+Personer	1149 Karmøy	Innvandrere	Costa Rica	2023	0
+Personer	1149 Karmøy	Innvandrere	Costa Rica	2024	0
+Personer	1149 Karmøy	Innvandrere	Cuba	2012	7
+Personer	1149 Karmøy	Innvandrere	Cuba	2013	8
+Personer	1149 Karmøy	Innvandrere	Cuba	2014	11
+Personer	1149 Karmøy	Innvandrere	Cuba	2015	11
+Personer	1149 Karmøy	Innvandrere	Cuba	2016	12
+Personer	1149 Karmøy	Innvandrere	Cuba	2017	10
+Personer	1149 Karmøy	Innvandrere	Cuba	2018	12
+Personer	1149 Karmøy	Innvandrere	Cuba	2019	13
+Personer	1149 Karmøy	Innvandrere	Cuba	2020	13
+Personer	1149 Karmøy	Innvandrere	Cuba	2021	13
+Personer	1149 Karmøy	Innvandrere	Cuba	2022	13
+Personer	1149 Karmøy	Innvandrere	Cuba	2023	13
+Personer	1149 Karmøy	Innvandrere	Cuba	2024	12
+Personer	1149 Karmøy	Innvandrere	Curaçao	2012	0
+Personer	1149 Karmøy	Innvandrere	Curaçao	2013	0
+Personer	1149 Karmøy	Innvandrere	Curaçao	2014	0
+Personer	1149 Karmøy	Innvandrere	Curaçao	2015	0
+Personer	1149 Karmøy	Innvandrere	Curaçao	2016	0
+Personer	1149 Karmøy	Innvandrere	Curaçao	2017	0
+Personer	1149 Karmøy	Innvandrere	Curaçao	2018	0
+Personer	1149 Karmøy	Innvandrere	Curaçao	2019	0
+Personer	1149 Karmøy	Innvandrere	Curaçao	2020	0
+Personer	1149 Karmøy	Innvandrere	Curaçao	2021	0
+Personer	1149 Karmøy	Innvandrere	Curaçao	2022	0
+Personer	1149 Karmøy	Innvandrere	Curaçao	2023	0
+Personer	1149 Karmøy	Innvandrere	Curaçao	2024	0
+Personer	1149 Karmøy	Innvandrere	Dominica	2012	0
+Personer	1149 Karmøy	Innvandrere	Dominica	2013	0
+Personer	1149 Karmøy	Innvandrere	Dominica	2014	0
+Personer	1149 Karmøy	Innvandrere	Dominica	2015	0
+Personer	1149 Karmøy	Innvandrere	Dominica	2016	0
+Personer	1149 Karmøy	Innvandrere	Dominica	2017	0
+Personer	1149 Karmøy	Innvandrere	Dominica	2018	0
+Personer	1149 Karmøy	Innvandrere	Dominica	2019	0
+Personer	1149 Karmøy	Innvandrere	Dominica	2020	0
+Personer	1149 Karmøy	Innvandrere	Dominica	2021	0
+Personer	1149 Karmøy	Innvandrere	Dominica	2022	0
+Personer	1149 Karmøy	Innvandrere	Dominica	2023	0
+Personer	1149 Karmøy	Innvandrere	Dominica	2024	0
+Personer	1149 Karmøy	Innvandrere	Den dominikanske republikk	2012	3
+Personer	1149 Karmøy	Innvandrere	Den dominikanske republikk	2013	4
+Personer	1149 Karmøy	Innvandrere	Den dominikanske republikk	2014	0
+Personer	1149 Karmøy	Innvandrere	Den dominikanske republikk	2015	4
+Personer	1149 Karmøy	Innvandrere	Den dominikanske republikk	2016	4
+Personer	1149 Karmøy	Innvandrere	Den dominikanske republikk	2017	7
+Personer	1149 Karmøy	Innvandrere	Den dominikanske republikk	2018	7
+Personer	1149 Karmøy	Innvandrere	Den dominikanske republikk	2019	7
+Personer	1149 Karmøy	Innvandrere	Den dominikanske republikk	2020	7
+Personer	1149 Karmøy	Innvandrere	Den dominikanske republikk	2021	7
+Personer	1149 Karmøy	Innvandrere	Den dominikanske republikk	2022	7
+Personer	1149 Karmøy	Innvandrere	Den dominikanske republikk	2023	7
+Personer	1149 Karmøy	Innvandrere	Den dominikanske republikk	2024	5
+Personer	1149 Karmøy	Innvandrere	El Salvador	2012	0
+Personer	1149 Karmøy	Innvandrere	El Salvador	2013	0
+Personer	1149 Karmøy	Innvandrere	El Salvador	2014	0
+Personer	1149 Karmøy	Innvandrere	El Salvador	2015	0
+Personer	1149 Karmøy	Innvandrere	El Salvador	2016	0
+Personer	1149 Karmøy	Innvandrere	El Salvador	2017	0
+Personer	1149 Karmøy	Innvandrere	El Salvador	2018	0
+Personer	1149 Karmøy	Innvandrere	El Salvador	2019	0
+Personer	1149 Karmøy	Innvandrere	El Salvador	2020	0
+Personer	1149 Karmøy	Innvandrere	El Salvador	2021	0
+Personer	1149 Karmøy	Innvandrere	El Salvador	2022	0
+Personer	1149 Karmøy	Innvandrere	El Salvador	2023	0
+Personer	1149 Karmøy	Innvandrere	El Salvador	2024	0
+Personer	1149 Karmøy	Innvandrere	Franske Antiller	2012	0
+Personer	1149 Karmøy	Innvandrere	Franske Antiller	2013	0
+Personer	1149 Karmøy	Innvandrere	Franske Antiller	2014	0
+Personer	1149 Karmøy	Innvandrere	Franske Antiller	2015	0
+Personer	1149 Karmøy	Innvandrere	Franske Antiller	2016	0
+Personer	1149 Karmøy	Innvandrere	Franske Antiller	2017	0
+Personer	1149 Karmøy	Innvandrere	Franske Antiller	2018	0
+Personer	1149 Karmøy	Innvandrere	Franske Antiller	2019	0
+Personer	1149 Karmøy	Innvandrere	Franske Antiller	2020	0
+Personer	1149 Karmøy	Innvandrere	Franske Antiller	2021	0
+Personer	1149 Karmøy	Innvandrere	Franske Antiller	2022	0
+Personer	1149 Karmøy	Innvandrere	Franske Antiller	2023	0
+Personer	1149 Karmøy	Innvandrere	Franske Antiller	2024	0
+Personer	1149 Karmøy	Innvandrere	Grenada	2012	0
+Personer	1149 Karmøy	Innvandrere	Grenada	2013	0
+Personer	1149 Karmøy	Innvandrere	Grenada	2014	0
+Personer	1149 Karmøy	Innvandrere	Grenada	2015	0
+Personer	1149 Karmøy	Innvandrere	Grenada	2016	0
+Personer	1149 Karmøy	Innvandrere	Grenada	2017	0
+Personer	1149 Karmøy	Innvandrere	Grenada	2018	0
+Personer	1149 Karmøy	Innvandrere	Grenada	2019	0
+Personer	1149 Karmøy	Innvandrere	Grenada	2020	0
+Personer	1149 Karmøy	Innvandrere	Grenada	2021	0
+Personer	1149 Karmøy	Innvandrere	Grenada	2022	0
+Personer	1149 Karmøy	Innvandrere	Grenada	2023	0
+Personer	1149 Karmøy	Innvandrere	Grenada	2024	0
+Personer	1149 Karmøy	Innvandrere	Guadeloupe	2012	0
+Personer	1149 Karmøy	Innvandrere	Guadeloupe	2013	0
+Personer	1149 Karmøy	Innvandrere	Guadeloupe	2014	0
+Personer	1149 Karmøy	Innvandrere	Guadeloupe	2015	0
+Personer	1149 Karmøy	Innvandrere	Guadeloupe	2016	0
+Personer	1149 Karmøy	Innvandrere	Guadeloupe	2017	0
+Personer	1149 Karmøy	Innvandrere	Guadeloupe	2018	0
+Personer	1149 Karmøy	Innvandrere	Guadeloupe	2019	0
+Personer	1149 Karmøy	Innvandrere	Guadeloupe	2020	0
+Personer	1149 Karmøy	Innvandrere	Guadeloupe	2021	0
+Personer	1149 Karmøy	Innvandrere	Guadeloupe	2022	0
+Personer	1149 Karmøy	Innvandrere	Guadeloupe	2023	0
+Personer	1149 Karmøy	Innvandrere	Guadeloupe	2024	0
+Personer	1149 Karmøy	Innvandrere	Guatemala	2012	0
+Personer	1149 Karmøy	Innvandrere	Guatemala	2013	0
+Personer	1149 Karmøy	Innvandrere	Guatemala	2014	0
+Personer	1149 Karmøy	Innvandrere	Guatemala	2015	0
+Personer	1149 Karmøy	Innvandrere	Guatemala	2016	0
+Personer	1149 Karmøy	Innvandrere	Guatemala	2017	0
+Personer	1149 Karmøy	Innvandrere	Guatemala	2018	3
+Personer	1149 Karmøy	Innvandrere	Guatemala	2019	0
+Personer	1149 Karmøy	Innvandrere	Guatemala	2020	0
+Personer	1149 Karmøy	Innvandrere	Guatemala	2021	0
+Personer	1149 Karmøy	Innvandrere	Guatemala	2022	0
+Personer	1149 Karmøy	Innvandrere	Guatemala	2023	3
+Personer	1149 Karmøy	Innvandrere	Guatemala	2024	0
+Personer	1149 Karmøy	Innvandrere	Haiti	2012	0
+Personer	1149 Karmøy	Innvandrere	Haiti	2013	0
+Personer	1149 Karmøy	Innvandrere	Haiti	2014	0
+Personer	1149 Karmøy	Innvandrere	Haiti	2015	0
+Personer	1149 Karmøy	Innvandrere	Haiti	2016	0
+Personer	1149 Karmøy	Innvandrere	Haiti	2017	0
+Personer	1149 Karmøy	Innvandrere	Haiti	2018	0
+Personer	1149 Karmøy	Innvandrere	Haiti	2019	0
+Personer	1149 Karmøy	Innvandrere	Haiti	2020	0
+Personer	1149 Karmøy	Innvandrere	Haiti	2021	0
+Personer	1149 Karmøy	Innvandrere	Haiti	2022	0
+Personer	1149 Karmøy	Innvandrere	Haiti	2023	0
+Personer	1149 Karmøy	Innvandrere	Haiti	2024	0
+Personer	1149 Karmøy	Innvandrere	Honduras	2012	0
+Personer	1149 Karmøy	Innvandrere	Honduras	2013	0
+Personer	1149 Karmøy	Innvandrere	Honduras	2014	0
+Personer	1149 Karmøy	Innvandrere	Honduras	2015	0
+Personer	1149 Karmøy	Innvandrere	Honduras	2016	0
+Personer	1149 Karmøy	Innvandrere	Honduras	2017	0
+Personer	1149 Karmøy	Innvandrere	Honduras	2018	0
+Personer	1149 Karmøy	Innvandrere	Honduras	2019	0
+Personer	1149 Karmøy	Innvandrere	Honduras	2020	0
+Personer	1149 Karmøy	Innvandrere	Honduras	2021	3
+Personer	1149 Karmøy	Innvandrere	Honduras	2022	3
+Personer	1149 Karmøy	Innvandrere	Honduras	2023	0
+Personer	1149 Karmøy	Innvandrere	Honduras	2024	0
+Personer	1149 Karmøy	Innvandrere	Jamaica	2012	0
+Personer	1149 Karmøy	Innvandrere	Jamaica	2013	0
+Personer	1149 Karmøy	Innvandrere	Jamaica	2014	0
+Personer	1149 Karmøy	Innvandrere	Jamaica	2015	0
+Personer	1149 Karmøy	Innvandrere	Jamaica	2016	0
+Personer	1149 Karmøy	Innvandrere	Jamaica	2017	0
+Personer	1149 Karmøy	Innvandrere	Jamaica	2018	0
+Personer	1149 Karmøy	Innvandrere	Jamaica	2019	0
+Personer	1149 Karmøy	Innvandrere	Jamaica	2020	0
+Personer	1149 Karmøy	Innvandrere	Jamaica	2021	0
+Personer	1149 Karmøy	Innvandrere	Jamaica	2022	0
+Personer	1149 Karmøy	Innvandrere	Jamaica	2023	0
+Personer	1149 Karmøy	Innvandrere	Jamaica	2024	0
+Personer	1149 Karmøy	Innvandrere	Martinique	2012	0
+Personer	1149 Karmøy	Innvandrere	Martinique	2013	0
+Personer	1149 Karmøy	Innvandrere	Martinique	2014	0
+Personer	1149 Karmøy	Innvandrere	Martinique	2015	0
+Personer	1149 Karmøy	Innvandrere	Martinique	2016	0
+Personer	1149 Karmøy	Innvandrere	Martinique	2017	0
+Personer	1149 Karmøy	Innvandrere	Martinique	2018	0
+Personer	1149 Karmøy	Innvandrere	Martinique	2019	0
+Personer	1149 Karmøy	Innvandrere	Martinique	2020	0
+Personer	1149 Karmøy	Innvandrere	Martinique	2021	0
+Personer	1149 Karmøy	Innvandrere	Martinique	2022	0
+Personer	1149 Karmøy	Innvandrere	Martinique	2023	0
+Personer	1149 Karmøy	Innvandrere	Martinique	2024	0
+Personer	1149 Karmøy	Innvandrere	Mexico	2012	9
+Personer	1149 Karmøy	Innvandrere	Mexico	2013	12
+Personer	1149 Karmøy	Innvandrere	Mexico	2014	13
+Personer	1149 Karmøy	Innvandrere	Mexico	2015	11
+Personer	1149 Karmøy	Innvandrere	Mexico	2016	10
+Personer	1149 Karmøy	Innvandrere	Mexico	2017	11
+Personer	1149 Karmøy	Innvandrere	Mexico	2018	12
+Personer	1149 Karmøy	Innvandrere	Mexico	2019	12
+Personer	1149 Karmøy	Innvandrere	Mexico	2020	15
+Personer	1149 Karmøy	Innvandrere	Mexico	2021	15
+Personer	1149 Karmøy	Innvandrere	Mexico	2022	15
+Personer	1149 Karmøy	Innvandrere	Mexico	2023	15
+Personer	1149 Karmøy	Innvandrere	Mexico	2024	16
+Personer	1149 Karmøy	Innvandrere	Montserrat	2012	0
+Personer	1149 Karmøy	Innvandrere	Montserrat	2013	0
+Personer	1149 Karmøy	Innvandrere	Montserrat	2014	0
+Personer	1149 Karmøy	Innvandrere	Montserrat	2015	0
+Personer	1149 Karmøy	Innvandrere	Montserrat	2016	0
+Personer	1149 Karmøy	Innvandrere	Montserrat	2017	0
+Personer	1149 Karmøy	Innvandrere	Montserrat	2018	0
+Personer	1149 Karmøy	Innvandrere	Montserrat	2019	0
+Personer	1149 Karmøy	Innvandrere	Montserrat	2020	0
+Personer	1149 Karmøy	Innvandrere	Montserrat	2021	0
+Personer	1149 Karmøy	Innvandrere	Montserrat	2022	0
+Personer	1149 Karmøy	Innvandrere	Montserrat	2023	0
+Personer	1149 Karmøy	Innvandrere	Montserrat	2024	0
+Personer	1149 Karmøy	Innvandrere	De nederlandske Antillene	2012	0
+Personer	1149 Karmøy	Innvandrere	De nederlandske Antillene	2013	0
+Personer	1149 Karmøy	Innvandrere	De nederlandske Antillene	2014	0
+Personer	1149 Karmøy	Innvandrere	De nederlandske Antillene	2015	0
+Personer	1149 Karmøy	Innvandrere	De nederlandske Antillene	2016	0
+Personer	1149 Karmøy	Innvandrere	De nederlandske Antillene	2017	0
+Personer	1149 Karmøy	Innvandrere	De nederlandske Antillene	2018	0
+Personer	1149 Karmøy	Innvandrere	De nederlandske Antillene	2019	0
+Personer	1149 Karmøy	Innvandrere	De nederlandske Antillene	2020	0
+Personer	1149 Karmøy	Innvandrere	De nederlandske Antillene	2021	0
+Personer	1149 Karmøy	Innvandrere	De nederlandske Antillene	2022	0
+Personer	1149 Karmøy	Innvandrere	De nederlandske Antillene	2023	0
+Personer	1149 Karmøy	Innvandrere	De nederlandske Antillene	2024	0
+Personer	1149 Karmøy	Innvandrere	Nicaragua	2012	0
+Personer	1149 Karmøy	Innvandrere	Nicaragua	2013	0
+Personer	1149 Karmøy	Innvandrere	Nicaragua	2014	0
+Personer	1149 Karmøy	Innvandrere	Nicaragua	2015	0
+Personer	1149 Karmøy	Innvandrere	Nicaragua	2016	0
+Personer	1149 Karmøy	Innvandrere	Nicaragua	2017	0
+Personer	1149 Karmøy	Innvandrere	Nicaragua	2018	0
+Personer	1149 Karmøy	Innvandrere	Nicaragua	2019	0
+Personer	1149 Karmøy	Innvandrere	Nicaragua	2020	0
+Personer	1149 Karmøy	Innvandrere	Nicaragua	2021	0
+Personer	1149 Karmøy	Innvandrere	Nicaragua	2022	0
+Personer	1149 Karmøy	Innvandrere	Nicaragua	2023	0
+Personer	1149 Karmøy	Innvandrere	Nicaragua	2024	0
+Personer	1149 Karmøy	Innvandrere	Panama	2012	0
+Personer	1149 Karmøy	Innvandrere	Panama	2013	0
+Personer	1149 Karmøy	Innvandrere	Panama	2014	0
+Personer	1149 Karmøy	Innvandrere	Panama	2015	0
+Personer	1149 Karmøy	Innvandrere	Panama	2016	0
+Personer	1149 Karmøy	Innvandrere	Panama	2017	0
+Personer	1149 Karmøy	Innvandrere	Panama	2018	0
+Personer	1149 Karmøy	Innvandrere	Panama	2019	0
+Personer	1149 Karmøy	Innvandrere	Panama	2020	0
+Personer	1149 Karmøy	Innvandrere	Panama	2021	0
+Personer	1149 Karmøy	Innvandrere	Panama	2022	0
+Personer	1149 Karmøy	Innvandrere	Panama	2023	0
+Personer	1149 Karmøy	Innvandrere	Panama	2024	0
+Personer	1149 Karmøy	Innvandrere	Puerto Rico	2012	0
+Personer	1149 Karmøy	Innvandrere	Puerto Rico	2013	0
+Personer	1149 Karmøy	Innvandrere	Puerto Rico	2014	0
+Personer	1149 Karmøy	Innvandrere	Puerto Rico	2015	0
+Personer	1149 Karmøy	Innvandrere	Puerto Rico	2016	0
+Personer	1149 Karmøy	Innvandrere	Puerto Rico	2017	0
+Personer	1149 Karmøy	Innvandrere	Puerto Rico	2018	0
+Personer	1149 Karmøy	Innvandrere	Puerto Rico	2019	0
+Personer	1149 Karmøy	Innvandrere	Puerto Rico	2020	0
+Personer	1149 Karmøy	Innvandrere	Puerto Rico	2021	0
+Personer	1149 Karmøy	Innvandrere	Puerto Rico	2022	0
+Personer	1149 Karmøy	Innvandrere	Puerto Rico	2023	0
+Personer	1149 Karmøy	Innvandrere	Puerto Rico	2024	0
+Personer	1149 Karmøy	Innvandrere	Saint Kitts og Nevis	2012	0
+Personer	1149 Karmøy	Innvandrere	Saint Kitts og Nevis	2013	0
+Personer	1149 Karmøy	Innvandrere	Saint Kitts og Nevis	2014	0
+Personer	1149 Karmøy	Innvandrere	Saint Kitts og Nevis	2015	0
+Personer	1149 Karmøy	Innvandrere	Saint Kitts og Nevis	2016	0
+Personer	1149 Karmøy	Innvandrere	Saint Kitts og Nevis	2017	0
+Personer	1149 Karmøy	Innvandrere	Saint Kitts og Nevis	2018	0
+Personer	1149 Karmøy	Innvandrere	Saint Kitts og Nevis	2019	0
+Personer	1149 Karmøy	Innvandrere	Saint Kitts og Nevis	2020	0
+Personer	1149 Karmøy	Innvandrere	Saint Kitts og Nevis	2021	0
+Personer	1149 Karmøy	Innvandrere	Saint Kitts og Nevis	2022	0
+Personer	1149 Karmøy	Innvandrere	Saint Kitts og Nevis	2023	0
+Personer	1149 Karmøy	Innvandrere	Saint Kitts og Nevis	2024	0
+Personer	1149 Karmøy	Innvandrere	Saint Lucia	2012	0
+Personer	1149 Karmøy	Innvandrere	Saint Lucia	2013	0
+Personer	1149 Karmøy	Innvandrere	Saint Lucia	2014	0
+Personer	1149 Karmøy	Innvandrere	Saint Lucia	2015	0
+Personer	1149 Karmøy	Innvandrere	Saint Lucia	2016	0
+Personer	1149 Karmøy	Innvandrere	Saint Lucia	2017	0
+Personer	1149 Karmøy	Innvandrere	Saint Lucia	2018	0
+Personer	1149 Karmøy	Innvandrere	Saint Lucia	2019	0
+Personer	1149 Karmøy	Innvandrere	Saint Lucia	2020	0
+Personer	1149 Karmøy	Innvandrere	Saint Lucia	2021	0
+Personer	1149 Karmøy	Innvandrere	Saint Lucia	2022	0
+Personer	1149 Karmøy	Innvandrere	Saint Lucia	2023	0
+Personer	1149 Karmøy	Innvandrere	Saint Lucia	2024	0
+Personer	1149 Karmøy	Innvandrere	Saint Vincent og Grenadinene	2012	0
+Personer	1149 Karmøy	Innvandrere	Saint Vincent og Grenadinene	2013	0
+Personer	1149 Karmøy	Innvandrere	Saint Vincent og Grenadinene	2014	0
+Personer	1149 Karmøy	Innvandrere	Saint Vincent og Grenadinene	2015	0
+Personer	1149 Karmøy	Innvandrere	Saint Vincent og Grenadinene	2016	0
+Personer	1149 Karmøy	Innvandrere	Saint Vincent og Grenadinene	2017	0
+Personer	1149 Karmøy	Innvandrere	Saint Vincent og Grenadinene	2018	0
+Personer	1149 Karmøy	Innvandrere	Saint Vincent og Grenadinene	2019	0
+Personer	1149 Karmøy	Innvandrere	Saint Vincent og Grenadinene	2020	0
+Personer	1149 Karmøy	Innvandrere	Saint Vincent og Grenadinene	2021	0
+Personer	1149 Karmøy	Innvandrere	Saint Vincent og Grenadinene	2022	0
+Personer	1149 Karmøy	Innvandrere	Saint Vincent og Grenadinene	2023	0
+Personer	1149 Karmøy	Innvandrere	Saint Vincent og Grenadinene	2024	0
+Personer	1149 Karmøy	Innvandrere	Saint-Barthélemy	2012	0
+Personer	1149 Karmøy	Innvandrere	Saint-Barthélemy	2013	0
+Personer	1149 Karmøy	Innvandrere	Saint-Barthélemy	2014	0
+Personer	1149 Karmøy	Innvandrere	Saint-Barthélemy	2015	0
+Personer	1149 Karmøy	Innvandrere	Saint-Barthélemy	2016	0
+Personer	1149 Karmøy	Innvandrere	Saint-Barthélemy	2017	0
+Personer	1149 Karmøy	Innvandrere	Saint-Barthélemy	2018	0
+Personer	1149 Karmøy	Innvandrere	Saint-Barthélemy	2019	0
+Personer	1149 Karmøy	Innvandrere	Saint-Barthélemy	2020	0
+Personer	1149 Karmøy	Innvandrere	Saint-Barthélemy	2021	0
+Personer	1149 Karmøy	Innvandrere	Saint-Barthélemy	2022	0
+Personer	1149 Karmøy	Innvandrere	Saint-Barthélemy	2023	0
+Personer	1149 Karmøy	Innvandrere	Saint-Barthélemy	2024	0
+Personer	1149 Karmøy	Innvandrere	Saint-Martin	2012	0
+Personer	1149 Karmøy	Innvandrere	Saint-Martin	2013	0
+Personer	1149 Karmøy	Innvandrere	Saint-Martin	2014	0
+Personer	1149 Karmøy	Innvandrere	Saint-Martin	2015	0
+Personer	1149 Karmøy	Innvandrere	Saint-Martin	2016	0
+Personer	1149 Karmøy	Innvandrere	Saint-Martin	2017	0
+Personer	1149 Karmøy	Innvandrere	Saint-Martin	2018	0
+Personer	1149 Karmøy	Innvandrere	Saint-Martin	2019	0
+Personer	1149 Karmøy	Innvandrere	Saint-Martin	2020	0
+Personer	1149 Karmøy	Innvandrere	Saint-Martin	2021	0
+Personer	1149 Karmøy	Innvandrere	Saint-Martin	2022	0
+Personer	1149 Karmøy	Innvandrere	Saint-Martin	2023	0
+Personer	1149 Karmøy	Innvandrere	Saint-Martin	2024	0
+Personer	1149 Karmøy	Innvandrere	Saint-Pierre-et-Miquelon	2012	0
+Personer	1149 Karmøy	Innvandrere	Saint-Pierre-et-Miquelon	2013	0
+Personer	1149 Karmøy	Innvandrere	Saint-Pierre-et-Miquelon	2014	0
+Personer	1149 Karmøy	Innvandrere	Saint-Pierre-et-Miquelon	2015	0
+Personer	1149 Karmøy	Innvandrere	Saint-Pierre-et-Miquelon	2016	0
+Personer	1149 Karmøy	Innvandrere	Saint-Pierre-et-Miquelon	2017	0
+Personer	1149 Karmøy	Innvandrere	Saint-Pierre-et-Miquelon	2018	0
+Personer	1149 Karmøy	Innvandrere	Saint-Pierre-et-Miquelon	2019	0
+Personer	1149 Karmøy	Innvandrere	Saint-Pierre-et-Miquelon	2020	0
+Personer	1149 Karmøy	Innvandrere	Saint-Pierre-et-Miquelon	2021	0
+Personer	1149 Karmøy	Innvandrere	Saint-Pierre-et-Miquelon	2022	0
+Personer	1149 Karmøy	Innvandrere	Saint-Pierre-et-Miquelon	2023	0
+Personer	1149 Karmøy	Innvandrere	Saint-Pierre-et-Miquelon	2024	0
+Personer	1149 Karmøy	Innvandrere	Sint Maarten	2012	0
+Personer	1149 Karmøy	Innvandrere	Sint Maarten	2013	0
+Personer	1149 Karmøy	Innvandrere	Sint Maarten	2014	0
+Personer	1149 Karmøy	Innvandrere	Sint Maarten	2015	0
+Personer	1149 Karmøy	Innvandrere	Sint Maarten	2016	0
+Personer	1149 Karmøy	Innvandrere	Sint Maarten	2017	0
+Personer	1149 Karmøy	Innvandrere	Sint Maarten	2018	0
+Personer	1149 Karmøy	Innvandrere	Sint Maarten	2019	0
+Personer	1149 Karmøy	Innvandrere	Sint Maarten	2020	0
+Personer	1149 Karmøy	Innvandrere	Sint Maarten	2021	0
+Personer	1149 Karmøy	Innvandrere	Sint Maarten	2022	0
+Personer	1149 Karmøy	Innvandrere	Sint Maarten	2023	0
+Personer	1149 Karmøy	Innvandrere	Sint Maarten	2024	0
+Personer	1149 Karmøy	Innvandrere	Trinidad og Tobago	2012	0
+Personer	1149 Karmøy	Innvandrere	Trinidad og Tobago	2013	0
+Personer	1149 Karmøy	Innvandrere	Trinidad og Tobago	2014	0
+Personer	1149 Karmøy	Innvandrere	Trinidad og Tobago	2015	0
+Personer	1149 Karmøy	Innvandrere	Trinidad og Tobago	2016	0
+Personer	1149 Karmøy	Innvandrere	Trinidad og Tobago	2017	0
+Personer	1149 Karmøy	Innvandrere	Trinidad og Tobago	2018	0
+Personer	1149 Karmøy	Innvandrere	Trinidad og Tobago	2019	0
+Personer	1149 Karmøy	Innvandrere	Trinidad og Tobago	2020	0
+Personer	1149 Karmøy	Innvandrere	Trinidad og Tobago	2021	0
+Personer	1149 Karmøy	Innvandrere	Trinidad og Tobago	2022	0
+Personer	1149 Karmøy	Innvandrere	Trinidad og Tobago	2023	0
+Personer	1149 Karmøy	Innvandrere	Trinidad og Tobago	2024	0
+Personer	1149 Karmøy	Innvandrere	Turks- og Caicosøyene	2012	0
+Personer	1149 Karmøy	Innvandrere	Turks- og Caicosøyene	2013	0
+Personer	1149 Karmøy	Innvandrere	Turks- og Caicosøyene	2014	0
+Personer	1149 Karmøy	Innvandrere	Turks- og Caicosøyene	2015	0
+Personer	1149 Karmøy	Innvandrere	Turks- og Caicosøyene	2016	0
+Personer	1149 Karmøy	Innvandrere	Turks- og Caicosøyene	2017	0
+Personer	1149 Karmøy	Innvandrere	Turks- og Caicosøyene	2018	0
+Personer	1149 Karmøy	Innvandrere	Turks- og Caicosøyene	2019	0
+Personer	1149 Karmøy	Innvandrere	Turks- og Caicosøyene	2020	0
+Personer	1149 Karmøy	Innvandrere	Turks- og Caicosøyene	2021	0
+Personer	1149 Karmøy	Innvandrere	Turks- og Caicosøyene	2022	0
+Personer	1149 Karmøy	Innvandrere	Turks- og Caicosøyene	2023	0
+Personer	1149 Karmøy	Innvandrere	Turks- og Caicosøyene	2024	0
+Personer	1149 Karmøy	Innvandrere	USA	2012	60
+Personer	1149 Karmøy	Innvandrere	USA	2013	55
+Personer	1149 Karmøy	Innvandrere	USA	2014	60
+Personer	1149 Karmøy	Innvandrere	USA	2015	56
+Personer	1149 Karmøy	Innvandrere	USA	2016	51
+Personer	1149 Karmøy	Innvandrere	USA	2017	49
+Personer	1149 Karmøy	Innvandrere	USA	2018	49
+Personer	1149 Karmøy	Innvandrere	USA	2019	51
+Personer	1149 Karmøy	Innvandrere	USA	2020	57
+Personer	1149 Karmøy	Innvandrere	USA	2021	45
+Personer	1149 Karmøy	Innvandrere	USA	2022	45
+Personer	1149 Karmøy	Innvandrere	USA	2023	46
+Personer	1149 Karmøy	Innvandrere	USA	2024	46
+Personer	1149 Karmøy	Innvandrere	Argentina	2012	18
+Personer	1149 Karmøy	Innvandrere	Argentina	2013	18
+Personer	1149 Karmøy	Innvandrere	Argentina	2014	20
+Personer	1149 Karmøy	Innvandrere	Argentina	2015	19
+Personer	1149 Karmøy	Innvandrere	Argentina	2016	19
+Personer	1149 Karmøy	Innvandrere	Argentina	2017	19
+Personer	1149 Karmøy	Innvandrere	Argentina	2018	19
+Personer	1149 Karmøy	Innvandrere	Argentina	2019	20
+Personer	1149 Karmøy	Innvandrere	Argentina	2020	17
+Personer	1149 Karmøy	Innvandrere	Argentina	2021	18
+Personer	1149 Karmøy	Innvandrere	Argentina	2022	18
+Personer	1149 Karmøy	Innvandrere	Argentina	2023	20
+Personer	1149 Karmøy	Innvandrere	Argentina	2024	20
+Personer	1149 Karmøy	Innvandrere	Bolivia	2012	0
+Personer	1149 Karmøy	Innvandrere	Bolivia	2013	0
+Personer	1149 Karmøy	Innvandrere	Bolivia	2014	0
+Personer	1149 Karmøy	Innvandrere	Bolivia	2015	3
+Personer	1149 Karmøy	Innvandrere	Bolivia	2016	3
+Personer	1149 Karmøy	Innvandrere	Bolivia	2017	3
+Personer	1149 Karmøy	Innvandrere	Bolivia	2018	3
+Personer	1149 Karmøy	Innvandrere	Bolivia	2019	3
+Personer	1149 Karmøy	Innvandrere	Bolivia	2020	0
+Personer	1149 Karmøy	Innvandrere	Bolivia	2021	0
+Personer	1149 Karmøy	Innvandrere	Bolivia	2022	3
+Personer	1149 Karmøy	Innvandrere	Bolivia	2023	0
+Personer	1149 Karmøy	Innvandrere	Bolivia	2024	3
+Personer	1149 Karmøy	Innvandrere	Brasil	2012	32
+Personer	1149 Karmøy	Innvandrere	Brasil	2013	30
+Personer	1149 Karmøy	Innvandrere	Brasil	2014	34
+Personer	1149 Karmøy	Innvandrere	Brasil	2015	37
+Personer	1149 Karmøy	Innvandrere	Brasil	2016	36
+Personer	1149 Karmøy	Innvandrere	Brasil	2017	37
+Personer	1149 Karmøy	Innvandrere	Brasil	2018	38
+Personer	1149 Karmøy	Innvandrere	Brasil	2019	40
+Personer	1149 Karmøy	Innvandrere	Brasil	2020	45
+Personer	1149 Karmøy	Innvandrere	Brasil	2021	43
+Personer	1149 Karmøy	Innvandrere	Brasil	2022	41
+Personer	1149 Karmøy	Innvandrere	Brasil	2023	38
+Personer	1149 Karmøy	Innvandrere	Brasil	2024	38
+Personer	1149 Karmøy	Innvandrere	Chile	2012	59
+Personer	1149 Karmøy	Innvandrere	Chile	2013	56
+Personer	1149 Karmøy	Innvandrere	Chile	2014	58
+Personer	1149 Karmøy	Innvandrere	Chile	2015	55
+Personer	1149 Karmøy	Innvandrere	Chile	2016	54
+Personer	1149 Karmøy	Innvandrere	Chile	2017	61
+Personer	1149 Karmøy	Innvandrere	Chile	2018	59
+Personer	1149 Karmøy	Innvandrere	Chile	2019	57
+Personer	1149 Karmøy	Innvandrere	Chile	2020	51
+Personer	1149 Karmøy	Innvandrere	Chile	2021	53
+Personer	1149 Karmøy	Innvandrere	Chile	2022	53
+Personer	1149 Karmøy	Innvandrere	Chile	2023	55
+Personer	1149 Karmøy	Innvandrere	Chile	2024	52
+Personer	1149 Karmøy	Innvandrere	Colombia	2012	0
+Personer	1149 Karmøy	Innvandrere	Colombia	2013	4
+Personer	1149 Karmøy	Innvandrere	Colombia	2014	5
+Personer	1149 Karmøy	Innvandrere	Colombia	2015	5
+Personer	1149 Karmøy	Innvandrere	Colombia	2016	6
+Personer	1149 Karmøy	Innvandrere	Colombia	2017	6
+Personer	1149 Karmøy	Innvandrere	Colombia	2018	7
+Personer	1149 Karmøy	Innvandrere	Colombia	2019	7
+Personer	1149 Karmøy	Innvandrere	Colombia	2020	7
+Personer	1149 Karmøy	Innvandrere	Colombia	2021	7
+Personer	1149 Karmøy	Innvandrere	Colombia	2022	8
+Personer	1149 Karmøy	Innvandrere	Colombia	2023	9
+Personer	1149 Karmøy	Innvandrere	Colombia	2024	9
+Personer	1149 Karmøy	Innvandrere	Ecuador	2012	0
+Personer	1149 Karmøy	Innvandrere	Ecuador	2013	0
+Personer	1149 Karmøy	Innvandrere	Ecuador	2014	0
+Personer	1149 Karmøy	Innvandrere	Ecuador	2015	0
+Personer	1149 Karmøy	Innvandrere	Ecuador	2016	0
+Personer	1149 Karmøy	Innvandrere	Ecuador	2017	0
+Personer	1149 Karmøy	Innvandrere	Ecuador	2018	0
+Personer	1149 Karmøy	Innvandrere	Ecuador	2019	0
+Personer	1149 Karmøy	Innvandrere	Ecuador	2020	0
+Personer	1149 Karmøy	Innvandrere	Ecuador	2021	0
+Personer	1149 Karmøy	Innvandrere	Ecuador	2022	0
+Personer	1149 Karmøy	Innvandrere	Ecuador	2023	0
+Personer	1149 Karmøy	Innvandrere	Ecuador	2024	0
+Personer	1149 Karmøy	Innvandrere	Falklandsøyene	2012	0
+Personer	1149 Karmøy	Innvandrere	Falklandsøyene	2013	0
+Personer	1149 Karmøy	Innvandrere	Falklandsøyene	2014	0
+Personer	1149 Karmøy	Innvandrere	Falklandsøyene	2015	0
+Personer	1149 Karmøy	Innvandrere	Falklandsøyene	2016	0
+Personer	1149 Karmøy	Innvandrere	Falklandsøyene	2017	0
+Personer	1149 Karmøy	Innvandrere	Falklandsøyene	2018	0
+Personer	1149 Karmøy	Innvandrere	Falklandsøyene	2019	0
+Personer	1149 Karmøy	Innvandrere	Falklandsøyene	2020	0
+Personer	1149 Karmøy	Innvandrere	Falklandsøyene	2021	0
+Personer	1149 Karmøy	Innvandrere	Falklandsøyene	2022	0
+Personer	1149 Karmøy	Innvandrere	Falklandsøyene	2023	0
+Personer	1149 Karmøy	Innvandrere	Falklandsøyene	2024	0
+Personer	1149 Karmøy	Innvandrere	Fransk Guyana	2012	0
+Personer	1149 Karmøy	Innvandrere	Fransk Guyana	2013	0
+Personer	1149 Karmøy	Innvandrere	Fransk Guyana	2014	0
+Personer	1149 Karmøy	Innvandrere	Fransk Guyana	2015	0
+Personer	1149 Karmøy	Innvandrere	Fransk Guyana	2016	0
+Personer	1149 Karmøy	Innvandrere	Fransk Guyana	2017	0
+Personer	1149 Karmøy	Innvandrere	Fransk Guyana	2018	0
+Personer	1149 Karmøy	Innvandrere	Fransk Guyana	2019	0
+Personer	1149 Karmøy	Innvandrere	Fransk Guyana	2020	0
+Personer	1149 Karmøy	Innvandrere	Fransk Guyana	2021	0
+Personer	1149 Karmøy	Innvandrere	Fransk Guyana	2022	0
+Personer	1149 Karmøy	Innvandrere	Fransk Guyana	2023	0
+Personer	1149 Karmøy	Innvandrere	Fransk Guyana	2024	0
+Personer	1149 Karmøy	Innvandrere	Guyana	2012	3
+Personer	1149 Karmøy	Innvandrere	Guyana	2013	3
+Personer	1149 Karmøy	Innvandrere	Guyana	2014	0
+Personer	1149 Karmøy	Innvandrere	Guyana	2015	3
+Personer	1149 Karmøy	Innvandrere	Guyana	2016	3
+Personer	1149 Karmøy	Innvandrere	Guyana	2017	0
+Personer	1149 Karmøy	Innvandrere	Guyana	2018	0
+Personer	1149 Karmøy	Innvandrere	Guyana	2019	0
+Personer	1149 Karmøy	Innvandrere	Guyana	2020	0
+Personer	1149 Karmøy	Innvandrere	Guyana	2021	0
+Personer	1149 Karmøy	Innvandrere	Guyana	2022	0
+Personer	1149 Karmøy	Innvandrere	Guyana	2023	0
+Personer	1149 Karmøy	Innvandrere	Guyana	2024	0
+Personer	1149 Karmøy	Innvandrere	Paraguay	2012	0
+Personer	1149 Karmøy	Innvandrere	Paraguay	2013	0
+Personer	1149 Karmøy	Innvandrere	Paraguay	2014	0
+Personer	1149 Karmøy	Innvandrere	Paraguay	2015	0
+Personer	1149 Karmøy	Innvandrere	Paraguay	2016	0
+Personer	1149 Karmøy	Innvandrere	Paraguay	2017	0
+Personer	1149 Karmøy	Innvandrere	Paraguay	2018	0
+Personer	1149 Karmøy	Innvandrere	Paraguay	2019	0
+Personer	1149 Karmøy	Innvandrere	Paraguay	2020	0
+Personer	1149 Karmøy	Innvandrere	Paraguay	2021	0
+Personer	1149 Karmøy	Innvandrere	Paraguay	2022	0
+Personer	1149 Karmøy	Innvandrere	Paraguay	2023	0
+Personer	1149 Karmøy	Innvandrere	Paraguay	2024	0
+Personer	1149 Karmøy	Innvandrere	Peru	2012	9
+Personer	1149 Karmøy	Innvandrere	Peru	2013	11
+Personer	1149 Karmøy	Innvandrere	Peru	2014	11
+Personer	1149 Karmøy	Innvandrere	Peru	2015	14
+Personer	1149 Karmøy	Innvandrere	Peru	2016	12
+Personer	1149 Karmøy	Innvandrere	Peru	2017	13
+Personer	1149 Karmøy	Innvandrere	Peru	2018	12
+Personer	1149 Karmøy	Innvandrere	Peru	2019	13
+Personer	1149 Karmøy	Innvandrere	Peru	2020	13
+Personer	1149 Karmøy	Innvandrere	Peru	2021	12
+Personer	1149 Karmøy	Innvandrere	Peru	2022	12
+Personer	1149 Karmøy	Innvandrere	Peru	2023	13
+Personer	1149 Karmøy	Innvandrere	Peru	2024	12
+Personer	1149 Karmøy	Innvandrere	Surinam	2012	0
+Personer	1149 Karmøy	Innvandrere	Surinam	2013	0
+Personer	1149 Karmøy	Innvandrere	Surinam	2014	0
+Personer	1149 Karmøy	Innvandrere	Surinam	2015	0
+Personer	1149 Karmøy	Innvandrere	Surinam	2016	0
+Personer	1149 Karmøy	Innvandrere	Surinam	2017	0
+Personer	1149 Karmøy	Innvandrere	Surinam	2018	0
+Personer	1149 Karmøy	Innvandrere	Surinam	2019	0
+Personer	1149 Karmøy	Innvandrere	Surinam	2020	0
+Personer	1149 Karmøy	Innvandrere	Surinam	2021	0
+Personer	1149 Karmøy	Innvandrere	Surinam	2022	0
+Personer	1149 Karmøy	Innvandrere	Surinam	2023	0
+Personer	1149 Karmøy	Innvandrere	Surinam	2024	0
+Personer	1149 Karmøy	Innvandrere	Uruguay	2012	3
+Personer	1149 Karmøy	Innvandrere	Uruguay	2013	0
+Personer	1149 Karmøy	Innvandrere	Uruguay	2014	3
+Personer	1149 Karmøy	Innvandrere	Uruguay	2015	3
+Personer	1149 Karmøy	Innvandrere	Uruguay	2016	0
+Personer	1149 Karmøy	Innvandrere	Uruguay	2017	3
+Personer	1149 Karmøy	Innvandrere	Uruguay	2018	0
+Personer	1149 Karmøy	Innvandrere	Uruguay	2019	0
+Personer	1149 Karmøy	Innvandrere	Uruguay	2020	0
+Personer	1149 Karmøy	Innvandrere	Uruguay	2021	0
+Personer	1149 Karmøy	Innvandrere	Uruguay	2022	0
+Personer	1149 Karmøy	Innvandrere	Uruguay	2023	0
+Personer	1149 Karmøy	Innvandrere	Uruguay	2024	0
+Personer	1149 Karmøy	Innvandrere	Venezuela	2012	3
+Personer	1149 Karmøy	Innvandrere	Venezuela	2013	0
+Personer	1149 Karmøy	Innvandrere	Venezuela	2014	3
+Personer	1149 Karmøy	Innvandrere	Venezuela	2015	3
+Personer	1149 Karmøy	Innvandrere	Venezuela	2016	0
+Personer	1149 Karmøy	Innvandrere	Venezuela	2017	3
+Personer	1149 Karmøy	Innvandrere	Venezuela	2018	3
+Personer	1149 Karmøy	Innvandrere	Venezuela	2019	3
+Personer	1149 Karmøy	Innvandrere	Venezuela	2020	3
+Personer	1149 Karmøy	Innvandrere	Venezuela	2021	3
+Personer	1149 Karmøy	Innvandrere	Venezuela	2022	3
+Personer	1149 Karmøy	Innvandrere	Venezuela	2023	3
+Personer	1149 Karmøy	Innvandrere	Venezuela	2024	3
+Personer	1149 Karmøy	Innvandrere	Amerikansk Samoa	2012	0
+Personer	1149 Karmøy	Innvandrere	Amerikansk Samoa	2013	0
+Personer	1149 Karmøy	Innvandrere	Amerikansk Samoa	2014	0
+Personer	1149 Karmøy	Innvandrere	Amerikansk Samoa	2015	0
+Personer	1149 Karmøy	Innvandrere	Amerikansk Samoa	2016	0
+Personer	1149 Karmøy	Innvandrere	Amerikansk Samoa	2017	0
+Personer	1149 Karmøy	Innvandrere	Amerikansk Samoa	2018	0
+Personer	1149 Karmøy	Innvandrere	Amerikansk Samoa	2019	0
+Personer	1149 Karmøy	Innvandrere	Amerikansk Samoa	2020	0
+Personer	1149 Karmøy	Innvandrere	Amerikansk Samoa	2021	0
+Personer	1149 Karmøy	Innvandrere	Amerikansk Samoa	2022	0
+Personer	1149 Karmøy	Innvandrere	Amerikansk Samoa	2023	0
+Personer	1149 Karmøy	Innvandrere	Amerikansk Samoa	2024	0
+Personer	1149 Karmøy	Innvandrere	Australia	2012	4
+Personer	1149 Karmøy	Innvandrere	Australia	2013	5
+Personer	1149 Karmøy	Innvandrere	Australia	2014	6
+Personer	1149 Karmøy	Innvandrere	Australia	2015	6
+Personer	1149 Karmøy	Innvandrere	Australia	2016	8
+Personer	1149 Karmøy	Innvandrere	Australia	2017	6
+Personer	1149 Karmøy	Innvandrere	Australia	2018	8
+Personer	1149 Karmøy	Innvandrere	Australia	2019	5
+Personer	1149 Karmøy	Innvandrere	Australia	2020	7
+Personer	1149 Karmøy	Innvandrere	Australia	2021	8
+Personer	1149 Karmøy	Innvandrere	Australia	2022	9
+Personer	1149 Karmøy	Innvandrere	Australia	2023	6
+Personer	1149 Karmøy	Innvandrere	Australia	2024	7
+Personer	1149 Karmøy	Innvandrere	Christmasøya	2012	0
+Personer	1149 Karmøy	Innvandrere	Christmasøya	2013	0
+Personer	1149 Karmøy	Innvandrere	Christmasøya	2014	0
+Personer	1149 Karmøy	Innvandrere	Christmasøya	2015	0
+Personer	1149 Karmøy	Innvandrere	Christmasøya	2016	0
+Personer	1149 Karmøy	Innvandrere	Christmasøya	2017	0
+Personer	1149 Karmøy	Innvandrere	Christmasøya	2018	0
+Personer	1149 Karmøy	Innvandrere	Christmasøya	2019	0
+Personer	1149 Karmøy	Innvandrere	Christmasøya	2020	0
+Personer	1149 Karmøy	Innvandrere	Christmasøya	2021	0
+Personer	1149 Karmøy	Innvandrere	Christmasøya	2022	0
+Personer	1149 Karmøy	Innvandrere	Christmasøya	2023	0
+Personer	1149 Karmøy	Innvandrere	Christmasøya	2024	0
+Personer	1149 Karmøy	Innvandrere	Cookøyene	2012	0
+Personer	1149 Karmøy	Innvandrere	Cookøyene	2013	0
+Personer	1149 Karmøy	Innvandrere	Cookøyene	2014	0
+Personer	1149 Karmøy	Innvandrere	Cookøyene	2015	0
+Personer	1149 Karmøy	Innvandrere	Cookøyene	2016	0
+Personer	1149 Karmøy	Innvandrere	Cookøyene	2017	0
+Personer	1149 Karmøy	Innvandrere	Cookøyene	2018	0
+Personer	1149 Karmøy	Innvandrere	Cookøyene	2019	0
+Personer	1149 Karmøy	Innvandrere	Cookøyene	2020	0
+Personer	1149 Karmøy	Innvandrere	Cookøyene	2021	0
+Personer	1149 Karmøy	Innvandrere	Cookøyene	2022	0
+Personer	1149 Karmøy	Innvandrere	Cookøyene	2023	0
+Personer	1149 Karmøy	Innvandrere	Cookøyene	2024	0
+Personer	1149 Karmøy	Innvandrere	Fiji	2012	0
+Personer	1149 Karmøy	Innvandrere	Fiji	2013	0
+Personer	1149 Karmøy	Innvandrere	Fiji	2014	0
+Personer	1149 Karmøy	Innvandrere	Fiji	2015	0
+Personer	1149 Karmøy	Innvandrere	Fiji	2016	0
+Personer	1149 Karmøy	Innvandrere	Fiji	2017	0
+Personer	1149 Karmøy	Innvandrere	Fiji	2018	0
+Personer	1149 Karmøy	Innvandrere	Fiji	2019	0
+Personer	1149 Karmøy	Innvandrere	Fiji	2020	0
+Personer	1149 Karmøy	Innvandrere	Fiji	2021	0
+Personer	1149 Karmøy	Innvandrere	Fiji	2022	0
+Personer	1149 Karmøy	Innvandrere	Fiji	2023	0
+Personer	1149 Karmøy	Innvandrere	Fiji	2024	0
+Personer	1149 Karmøy	Innvandrere	Fransk Polynesia	2012	0
+Personer	1149 Karmøy	Innvandrere	Fransk Polynesia	2013	0
+Personer	1149 Karmøy	Innvandrere	Fransk Polynesia	2014	0
+Personer	1149 Karmøy	Innvandrere	Fransk Polynesia	2015	0
+Personer	1149 Karmøy	Innvandrere	Fransk Polynesia	2016	0
+Personer	1149 Karmøy	Innvandrere	Fransk Polynesia	2017	0
+Personer	1149 Karmøy	Innvandrere	Fransk Polynesia	2018	0
+Personer	1149 Karmøy	Innvandrere	Fransk Polynesia	2019	0
+Personer	1149 Karmøy	Innvandrere	Fransk Polynesia	2020	0
+Personer	1149 Karmøy	Innvandrere	Fransk Polynesia	2021	0
+Personer	1149 Karmøy	Innvandrere	Fransk Polynesia	2022	0
+Personer	1149 Karmøy	Innvandrere	Fransk Polynesia	2023	0
+Personer	1149 Karmøy	Innvandrere	Fransk Polynesia	2024	0
+Personer	1149 Karmøy	Innvandrere	Guam	2012	0
+Personer	1149 Karmøy	Innvandrere	Guam	2013	0
+Personer	1149 Karmøy	Innvandrere	Guam	2014	0
+Personer	1149 Karmøy	Innvandrere	Guam	2015	0
+Personer	1149 Karmøy	Innvandrere	Guam	2016	0
+Personer	1149 Karmøy	Innvandrere	Guam	2017	0
+Personer	1149 Karmøy	Innvandrere	Guam	2018	0
+Personer	1149 Karmøy	Innvandrere	Guam	2019	0
+Personer	1149 Karmøy	Innvandrere	Guam	2020	0
+Personer	1149 Karmøy	Innvandrere	Guam	2021	0
+Personer	1149 Karmøy	Innvandrere	Guam	2022	0
+Personer	1149 Karmøy	Innvandrere	Guam	2023	0
+Personer	1149 Karmøy	Innvandrere	Guam	2024	0
+Personer	1149 Karmøy	Innvandrere	Kiribati	2012	0
+Personer	1149 Karmøy	Innvandrere	Kiribati	2013	0
+Personer	1149 Karmøy	Innvandrere	Kiribati	2014	0
+Personer	1149 Karmøy	Innvandrere	Kiribati	2015	0
+Personer	1149 Karmøy	Innvandrere	Kiribati	2016	0
+Personer	1149 Karmøy	Innvandrere	Kiribati	2017	0
+Personer	1149 Karmøy	Innvandrere	Kiribati	2018	0
+Personer	1149 Karmøy	Innvandrere	Kiribati	2019	0
+Personer	1149 Karmøy	Innvandrere	Kiribati	2020	0
+Personer	1149 Karmøy	Innvandrere	Kiribati	2021	0
+Personer	1149 Karmøy	Innvandrere	Kiribati	2022	0
+Personer	1149 Karmøy	Innvandrere	Kiribati	2023	0
+Personer	1149 Karmøy	Innvandrere	Kiribati	2024	0
+Personer	1149 Karmøy	Innvandrere	Kokosøyene	2012	0
+Personer	1149 Karmøy	Innvandrere	Kokosøyene	2013	0
+Personer	1149 Karmøy	Innvandrere	Kokosøyene	2014	0
+Personer	1149 Karmøy	Innvandrere	Kokosøyene	2015	0
+Personer	1149 Karmøy	Innvandrere	Kokosøyene	2016	0
+Personer	1149 Karmøy	Innvandrere	Kokosøyene	2017	0
+Personer	1149 Karmøy	Innvandrere	Kokosøyene	2018	0
+Personer	1149 Karmøy	Innvandrere	Kokosøyene	2019	0
+Personer	1149 Karmøy	Innvandrere	Kokosøyene	2020	0
+Personer	1149 Karmøy	Innvandrere	Kokosøyene	2021	0
+Personer	1149 Karmøy	Innvandrere	Kokosøyene	2022	0
+Personer	1149 Karmøy	Innvandrere	Kokosøyene	2023	0
+Personer	1149 Karmøy	Innvandrere	Kokosøyene	2024	0
+Personer	1149 Karmøy	Innvandrere	Marshalløyene	2012	0
+Personer	1149 Karmøy	Innvandrere	Marshalløyene	2013	0
+Personer	1149 Karmøy	Innvandrere	Marshalløyene	2014	0
+Personer	1149 Karmøy	Innvandrere	Marshalløyene	2015	0
+Personer	1149 Karmøy	Innvandrere	Marshalløyene	2016	0
+Personer	1149 Karmøy	Innvandrere	Marshalløyene	2017	0
+Personer	1149 Karmøy	Innvandrere	Marshalløyene	2018	0
+Personer	1149 Karmøy	Innvandrere	Marshalløyene	2019	0
+Personer	1149 Karmøy	Innvandrere	Marshalløyene	2020	0
+Personer	1149 Karmøy	Innvandrere	Marshalløyene	2021	0
+Personer	1149 Karmøy	Innvandrere	Marshalløyene	2022	0
+Personer	1149 Karmøy	Innvandrere	Marshalløyene	2023	0
+Personer	1149 Karmøy	Innvandrere	Marshalløyene	2024	0
+Personer	1149 Karmøy	Innvandrere	Mikronesiaføderasjonen	2012	0
+Personer	1149 Karmøy	Innvandrere	Mikronesiaføderasjonen	2013	0
+Personer	1149 Karmøy	Innvandrere	Mikronesiaføderasjonen	2014	0
+Personer	1149 Karmøy	Innvandrere	Mikronesiaføderasjonen	2015	0
+Personer	1149 Karmøy	Innvandrere	Mikronesiaføderasjonen	2016	0
+Personer	1149 Karmøy	Innvandrere	Mikronesiaføderasjonen	2017	3
+Personer	1149 Karmøy	Innvandrere	Mikronesiaføderasjonen	2018	3
+Personer	1149 Karmøy	Innvandrere	Mikronesiaføderasjonen	2019	0
+Personer	1149 Karmøy	Innvandrere	Mikronesiaføderasjonen	2020	3
+Personer	1149 Karmøy	Innvandrere	Mikronesiaføderasjonen	2021	0
+Personer	1149 Karmøy	Innvandrere	Mikronesiaføderasjonen	2022	0
+Personer	1149 Karmøy	Innvandrere	Mikronesiaføderasjonen	2023	3
+Personer	1149 Karmøy	Innvandrere	Mikronesiaføderasjonen	2024	0
+Personer	1149 Karmøy	Innvandrere	Mindre stillehavsøyer (am.)	2012	0
+Personer	1149 Karmøy	Innvandrere	Mindre stillehavsøyer (am.)	2013	0
+Personer	1149 Karmøy	Innvandrere	Mindre stillehavsøyer (am.)	2014	0
+Personer	1149 Karmøy	Innvandrere	Mindre stillehavsøyer (am.)	2015	0
+Personer	1149 Karmøy	Innvandrere	Mindre stillehavsøyer (am.)	2016	0
+Personer	1149 Karmøy	Innvandrere	Mindre stillehavsøyer (am.)	2017	0
+Personer	1149 Karmøy	Innvandrere	Mindre stillehavsøyer (am.)	2018	0
+Personer	1149 Karmøy	Innvandrere	Mindre stillehavsøyer (am.)	2019	0
+Personer	1149 Karmøy	Innvandrere	Mindre stillehavsøyer (am.)	2020	0
+Personer	1149 Karmøy	Innvandrere	Mindre stillehavsøyer (am.)	2021	0
+Personer	1149 Karmøy	Innvandrere	Mindre stillehavsøyer (am.)	2022	0
+Personer	1149 Karmøy	Innvandrere	Mindre stillehavsøyer (am.)	2023	0
+Personer	1149 Karmøy	Innvandrere	Mindre stillehavsøyer (am.)	2024	0
+Personer	1149 Karmøy	Innvandrere	Nauru	2012	0
+Personer	1149 Karmøy	Innvandrere	Nauru	2013	0
+Personer	1149 Karmøy	Innvandrere	Nauru	2014	0
+Personer	1149 Karmøy	Innvandrere	Nauru	2015	0
+Personer	1149 Karmøy	Innvandrere	Nauru	2016	0
+Personer	1149 Karmøy	Innvandrere	Nauru	2017	0
+Personer	1149 Karmøy	Innvandrere	Nauru	2018	0
+Personer	1149 Karmøy	Innvandrere	Nauru	2019	0
+Personer	1149 Karmøy	Innvandrere	Nauru	2020	0
+Personer	1149 Karmøy	Innvandrere	Nauru	2021	0
+Personer	1149 Karmøy	Innvandrere	Nauru	2022	0
+Personer	1149 Karmøy	Innvandrere	Nauru	2023	0
+Personer	1149 Karmøy	Innvandrere	Nauru	2024	0
+Personer	1149 Karmøy	Innvandrere	New Zealand	2012	4
+Personer	1149 Karmøy	Innvandrere	New Zealand	2013	4
+Personer	1149 Karmøy	Innvandrere	New Zealand	2014	4
+Personer	1149 Karmøy	Innvandrere	New Zealand	2015	4
+Personer	1149 Karmøy	Innvandrere	New Zealand	2016	4
+Personer	1149 Karmøy	Innvandrere	New Zealand	2017	4
+Personer	1149 Karmøy	Innvandrere	New Zealand	2018	3
+Personer	1149 Karmøy	Innvandrere	New Zealand	2019	3
+Personer	1149 Karmøy	Innvandrere	New Zealand	2020	3
+Personer	1149 Karmøy	Innvandrere	New Zealand	2021	3
+Personer	1149 Karmøy	Innvandrere	New Zealand	2022	3
+Personer	1149 Karmøy	Innvandrere	New Zealand	2023	3
+Personer	1149 Karmøy	Innvandrere	New Zealand	2024	3
+Personer	1149 Karmøy	Innvandrere	Niue	2012	0
+Personer	1149 Karmøy	Innvandrere	Niue	2013	0
+Personer	1149 Karmøy	Innvandrere	Niue	2014	0
+Personer	1149 Karmøy	Innvandrere	Niue	2015	0
+Personer	1149 Karmøy	Innvandrere	Niue	2016	0
+Personer	1149 Karmøy	Innvandrere	Niue	2017	0
+Personer	1149 Karmøy	Innvandrere	Niue	2018	0
+Personer	1149 Karmøy	Innvandrere	Niue	2019	0
+Personer	1149 Karmøy	Innvandrere	Niue	2020	0
+Personer	1149 Karmøy	Innvandrere	Niue	2021	0
+Personer	1149 Karmøy	Innvandrere	Niue	2022	0
+Personer	1149 Karmøy	Innvandrere	Niue	2023	0
+Personer	1149 Karmøy	Innvandrere	Niue	2024	0
+Personer	1149 Karmøy	Innvandrere	Nord-Marianene	2012	0
+Personer	1149 Karmøy	Innvandrere	Nord-Marianene	2013	0
+Personer	1149 Karmøy	Innvandrere	Nord-Marianene	2014	0
+Personer	1149 Karmøy	Innvandrere	Nord-Marianene	2015	0
+Personer	1149 Karmøy	Innvandrere	Nord-Marianene	2016	0
+Personer	1149 Karmøy	Innvandrere	Nord-Marianene	2017	0
+Personer	1149 Karmøy	Innvandrere	Nord-Marianene	2018	0
+Personer	1149 Karmøy	Innvandrere	Nord-Marianene	2019	0
+Personer	1149 Karmøy	Innvandrere	Nord-Marianene	2020	0
+Personer	1149 Karmøy	Innvandrere	Nord-Marianene	2021	0
+Personer	1149 Karmøy	Innvandrere	Nord-Marianene	2022	0
+Personer	1149 Karmøy	Innvandrere	Nord-Marianene	2023	0
+Personer	1149 Karmøy	Innvandrere	Nord-Marianene	2024	0
+Personer	1149 Karmøy	Innvandrere	Norfolkøya	2012	0
+Personer	1149 Karmøy	Innvandrere	Norfolkøya	2013	0
+Personer	1149 Karmøy	Innvandrere	Norfolkøya	2014	0
+Personer	1149 Karmøy	Innvandrere	Norfolkøya	2015	0
+Personer	1149 Karmøy	Innvandrere	Norfolkøya	2016	0
+Personer	1149 Karmøy	Innvandrere	Norfolkøya	2017	0
+Personer	1149 Karmøy	Innvandrere	Norfolkøya	2018	0
+Personer	1149 Karmøy	Innvandrere	Norfolkøya	2019	0
+Personer	1149 Karmøy	Innvandrere	Norfolkøya	2020	0
+Personer	1149 Karmøy	Innvandrere	Norfolkøya	2021	0
+Personer	1149 Karmøy	Innvandrere	Norfolkøya	2022	0
+Personer	1149 Karmøy	Innvandrere	Norfolkøya	2023	0
+Personer	1149 Karmøy	Innvandrere	Norfolkøya	2024	0
+Personer	1149 Karmøy	Innvandrere	Ny-Caledonia	2012	0
+Personer	1149 Karmøy	Innvandrere	Ny-Caledonia	2013	0
+Personer	1149 Karmøy	Innvandrere	Ny-Caledonia	2014	0
+Personer	1149 Karmøy	Innvandrere	Ny-Caledonia	2015	0
+Personer	1149 Karmøy	Innvandrere	Ny-Caledonia	2016	0
+Personer	1149 Karmøy	Innvandrere	Ny-Caledonia	2017	0
+Personer	1149 Karmøy	Innvandrere	Ny-Caledonia	2018	0
+Personer	1149 Karmøy	Innvandrere	Ny-Caledonia	2019	0
+Personer	1149 Karmøy	Innvandrere	Ny-Caledonia	2020	0
+Personer	1149 Karmøy	Innvandrere	Ny-Caledonia	2021	0
+Personer	1149 Karmøy	Innvandrere	Ny-Caledonia	2022	0
+Personer	1149 Karmøy	Innvandrere	Ny-Caledonia	2023	0
+Personer	1149 Karmøy	Innvandrere	Ny-Caledonia	2024	0
+Personer	1149 Karmøy	Innvandrere	Palau	2012	0
+Personer	1149 Karmøy	Innvandrere	Palau	2013	0
+Personer	1149 Karmøy	Innvandrere	Palau	2014	0
+Personer	1149 Karmøy	Innvandrere	Palau	2015	0
+Personer	1149 Karmøy	Innvandrere	Palau	2016	0
+Personer	1149 Karmøy	Innvandrere	Palau	2017	0
+Personer	1149 Karmøy	Innvandrere	Palau	2018	0
+Personer	1149 Karmøy	Innvandrere	Palau	2019	0
+Personer	1149 Karmøy	Innvandrere	Palau	2020	0
+Personer	1149 Karmøy	Innvandrere	Palau	2021	0
+Personer	1149 Karmøy	Innvandrere	Palau	2022	0
+Personer	1149 Karmøy	Innvandrere	Palau	2023	0
+Personer	1149 Karmøy	Innvandrere	Palau	2024	0
+Personer	1149 Karmøy	Innvandrere	Papua Ny-Guinea	2012	0
+Personer	1149 Karmøy	Innvandrere	Papua Ny-Guinea	2013	0
+Personer	1149 Karmøy	Innvandrere	Papua Ny-Guinea	2014	0
+Personer	1149 Karmøy	Innvandrere	Papua Ny-Guinea	2015	0
+Personer	1149 Karmøy	Innvandrere	Papua Ny-Guinea	2016	0
+Personer	1149 Karmøy	Innvandrere	Papua Ny-Guinea	2017	0
+Personer	1149 Karmøy	Innvandrere	Papua Ny-Guinea	2018	0
+Personer	1149 Karmøy	Innvandrere	Papua Ny-Guinea	2019	0
+Personer	1149 Karmøy	Innvandrere	Papua Ny-Guinea	2020	0
+Personer	1149 Karmøy	Innvandrere	Papua Ny-Guinea	2021	0
+Personer	1149 Karmøy	Innvandrere	Papua Ny-Guinea	2022	0
+Personer	1149 Karmøy	Innvandrere	Papua Ny-Guinea	2023	0
+Personer	1149 Karmøy	Innvandrere	Papua Ny-Guinea	2024	0
+Personer	1149 Karmøy	Innvandrere	Pitcairn	2012	0
+Personer	1149 Karmøy	Innvandrere	Pitcairn	2013	0
+Personer	1149 Karmøy	Innvandrere	Pitcairn	2014	0
+Personer	1149 Karmøy	Innvandrere	Pitcairn	2015	0
+Personer	1149 Karmøy	Innvandrere	Pitcairn	2016	0
+Personer	1149 Karmøy	Innvandrere	Pitcairn	2017	0
+Personer	1149 Karmøy	Innvandrere	Pitcairn	2018	0
+Personer	1149 Karmøy	Innvandrere	Pitcairn	2019	0
+Personer	1149 Karmøy	Innvandrere	Pitcairn	2020	0
+Personer	1149 Karmøy	Innvandrere	Pitcairn	2021	0
+Personer	1149 Karmøy	Innvandrere	Pitcairn	2022	0
+Personer	1149 Karmøy	Innvandrere	Pitcairn	2023	0
+Personer	1149 Karmøy	Innvandrere	Pitcairn	2024	0
+Personer	1149 Karmøy	Innvandrere	Salomonøyene	2012	0
+Personer	1149 Karmøy	Innvandrere	Salomonøyene	2013	0
+Personer	1149 Karmøy	Innvandrere	Salomonøyene	2014	0
+Personer	1149 Karmøy	Innvandrere	Salomonøyene	2015	0
+Personer	1149 Karmøy	Innvandrere	Salomonøyene	2016	0
+Personer	1149 Karmøy	Innvandrere	Salomonøyene	2017	0
+Personer	1149 Karmøy	Innvandrere	Salomonøyene	2018	0
+Personer	1149 Karmøy	Innvandrere	Salomonøyene	2019	0
+Personer	1149 Karmøy	Innvandrere	Salomonøyene	2020	0
+Personer	1149 Karmøy	Innvandrere	Salomonøyene	2021	0
+Personer	1149 Karmøy	Innvandrere	Salomonøyene	2022	0
+Personer	1149 Karmøy	Innvandrere	Salomonøyene	2023	0
+Personer	1149 Karmøy	Innvandrere	Salomonøyene	2024	0
+Personer	1149 Karmøy	Innvandrere	Samoa	2012	0
+Personer	1149 Karmøy	Innvandrere	Samoa	2013	0
+Personer	1149 Karmøy	Innvandrere	Samoa	2014	0
+Personer	1149 Karmøy	Innvandrere	Samoa	2015	0
+Personer	1149 Karmøy	Innvandrere	Samoa	2016	0
+Personer	1149 Karmøy	Innvandrere	Samoa	2017	0
+Personer	1149 Karmøy	Innvandrere	Samoa	2018	0
+Personer	1149 Karmøy	Innvandrere	Samoa	2019	0
+Personer	1149 Karmøy	Innvandrere	Samoa	2020	0
+Personer	1149 Karmøy	Innvandrere	Samoa	2021	0
+Personer	1149 Karmøy	Innvandrere	Samoa	2022	0
+Personer	1149 Karmøy	Innvandrere	Samoa	2023	0
+Personer	1149 Karmøy	Innvandrere	Samoa	2024	0
+Personer	1149 Karmøy	Innvandrere	Tokelau	2012	0
+Personer	1149 Karmøy	Innvandrere	Tokelau	2013	0
+Personer	1149 Karmøy	Innvandrere	Tokelau	2014	0
+Personer	1149 Karmøy	Innvandrere	Tokelau	2015	0
+Personer	1149 Karmøy	Innvandrere	Tokelau	2016	0
+Personer	1149 Karmøy	Innvandrere	Tokelau	2017	0
+Personer	1149 Karmøy	Innvandrere	Tokelau	2018	0
+Personer	1149 Karmøy	Innvandrere	Tokelau	2019	0
+Personer	1149 Karmøy	Innvandrere	Tokelau	2020	0
+Personer	1149 Karmøy	Innvandrere	Tokelau	2021	0
+Personer	1149 Karmøy	Innvandrere	Tokelau	2022	0
+Personer	1149 Karmøy	Innvandrere	Tokelau	2023	0
+Personer	1149 Karmøy	Innvandrere	Tokelau	2024	0
+Personer	1149 Karmøy	Innvandrere	Tonga	2012	0
+Personer	1149 Karmøy	Innvandrere	Tonga	2013	0
+Personer	1149 Karmøy	Innvandrere	Tonga	2014	0
+Personer	1149 Karmøy	Innvandrere	Tonga	2015	0
+Personer	1149 Karmøy	Innvandrere	Tonga	2016	0
+Personer	1149 Karmøy	Innvandrere	Tonga	2017	0
+Personer	1149 Karmøy	Innvandrere	Tonga	2018	0
+Personer	1149 Karmøy	Innvandrere	Tonga	2019	0
+Personer	1149 Karmøy	Innvandrere	Tonga	2020	0
+Personer	1149 Karmøy	Innvandrere	Tonga	2021	0
+Personer	1149 Karmøy	Innvandrere	Tonga	2022	0
+Personer	1149 Karmøy	Innvandrere	Tonga	2023	0
+Personer	1149 Karmøy	Innvandrere	Tonga	2024	0
+Personer	1149 Karmøy	Innvandrere	Tuvalu	2012	0
+Personer	1149 Karmøy	Innvandrere	Tuvalu	2013	0
+Personer	1149 Karmøy	Innvandrere	Tuvalu	2014	0
+Personer	1149 Karmøy	Innvandrere	Tuvalu	2015	0
+Personer	1149 Karmøy	Innvandrere	Tuvalu	2016	0
+Personer	1149 Karmøy	Innvandrere	Tuvalu	2017	0
+Personer	1149 Karmøy	Innvandrere	Tuvalu	2018	0
+Personer	1149 Karmøy	Innvandrere	Tuvalu	2019	0
+Personer	1149 Karmøy	Innvandrere	Tuvalu	2020	0
+Personer	1149 Karmøy	Innvandrere	Tuvalu	2021	0
+Personer	1149 Karmøy	Innvandrere	Tuvalu	2022	0
+Personer	1149 Karmøy	Innvandrere	Tuvalu	2023	0
+Personer	1149 Karmøy	Innvandrere	Tuvalu	2024	0
+Personer	1149 Karmøy	Innvandrere	Vanuatu	2012	0
+Personer	1149 Karmøy	Innvandrere	Vanuatu	2013	0
+Personer	1149 Karmøy	Innvandrere	Vanuatu	2014	0
+Personer	1149 Karmøy	Innvandrere	Vanuatu	2015	0
+Personer	1149 Karmøy	Innvandrere	Vanuatu	2016	0
+Personer	1149 Karmøy	Innvandrere	Vanuatu	2017	0
+Personer	1149 Karmøy	Innvandrere	Vanuatu	2018	0
+Personer	1149 Karmøy	Innvandrere	Vanuatu	2019	0
+Personer	1149 Karmøy	Innvandrere	Vanuatu	2020	0
+Personer	1149 Karmøy	Innvandrere	Vanuatu	2021	0
+Personer	1149 Karmøy	Innvandrere	Vanuatu	2022	0
+Personer	1149 Karmøy	Innvandrere	Vanuatu	2023	0
+Personer	1149 Karmøy	Innvandrere	Vanuatu	2024	0
+Personer	1149 Karmøy	Innvandrere	Wallis- og Futunaøyene	2012	0
+Personer	1149 Karmøy	Innvandrere	Wallis- og Futunaøyene	2013	0
+Personer	1149 Karmøy	Innvandrere	Wallis- og Futunaøyene	2014	0
+Personer	1149 Karmøy	Innvandrere	Wallis- og Futunaøyene	2015	0
+Personer	1149 Karmøy	Innvandrere	Wallis- og Futunaøyene	2016	0
+Personer	1149 Karmøy	Innvandrere	Wallis- og Futunaøyene	2017	0
+Personer	1149 Karmøy	Innvandrere	Wallis- og Futunaøyene	2018	0
+Personer	1149 Karmøy	Innvandrere	Wallis- og Futunaøyene	2019	0
+Personer	1149 Karmøy	Innvandrere	Wallis- og Futunaøyene	2020	0
+Personer	1149 Karmøy	Innvandrere	Wallis- og Futunaøyene	2021	0
+Personer	1149 Karmøy	Innvandrere	Wallis- og Futunaøyene	2022	0
+Personer	1149 Karmøy	Innvandrere	Wallis- og Futunaøyene	2023	0
+Personer	1149 Karmøy	Innvandrere	Wallis- og Futunaøyene	2024	0
+Personer	1149 Karmøy	Innvandrere	Statsløse	2012	0
+Personer	1149 Karmøy	Innvandrere	Statsløse	2013	0
+Personer	1149 Karmøy	Innvandrere	Statsløse	2014	0
+Personer	1149 Karmøy	Innvandrere	Statsløse	2015	0
+Personer	1149 Karmøy	Innvandrere	Statsløse	2016	0
+Personer	1149 Karmøy	Innvandrere	Statsløse	2017	0
+Personer	1149 Karmøy	Innvandrere	Statsløse	2018	0
+Personer	1149 Karmøy	Innvandrere	Statsløse	2019	0
+Personer	1149 Karmøy	Innvandrere	Statsløse	2020	0
+Personer	1149 Karmøy	Innvandrere	Statsløse	2021	0
+Personer	1149 Karmøy	Innvandrere	Statsløse	2022	0
+Personer	1149 Karmøy	Innvandrere	Statsløse	2023	0
+Personer	1149 Karmøy	Innvandrere	Statsløse	2024	0

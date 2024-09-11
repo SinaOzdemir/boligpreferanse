@@ -1,0 +1,529 @@
+region	bygningstype	antall rom	statistikkvariabel	ar	06515: Boliger,
+K-1149 Karmøy	Enebolig	1 rom	Boliger (bebodde og ubebodde)	2013	67
+K-1149 Karmøy	Enebolig	1 rom	Boliger (bebodde og ubebodde)	2014	69
+K-1149 Karmøy	Enebolig	1 rom	Boliger (bebodde og ubebodde)	2015	69
+K-1149 Karmøy	Enebolig	1 rom	Boliger (bebodde og ubebodde)	2016	67
+K-1149 Karmøy	Enebolig	1 rom	Boliger (bebodde og ubebodde)	2017	71
+K-1149 Karmøy	Enebolig	1 rom	Boliger (bebodde og ubebodde)	2018	60
+K-1149 Karmøy	Enebolig	1 rom	Boliger (bebodde og ubebodde)	2019	57
+K-1149 Karmøy	Enebolig	1 rom	Boliger (bebodde og ubebodde)	2020	51
+K-1149 Karmøy	Enebolig	1 rom	Boliger (bebodde og ubebodde)	2021	50
+K-1149 Karmøy	Enebolig	1 rom	Boliger (bebodde og ubebodde)	2022	45
+K-1149 Karmøy	Enebolig	1 rom	Boliger (bebodde og ubebodde)	2023	40
+K-1149 Karmøy	Enebolig	2 rom	Boliger (bebodde og ubebodde)	2013	604
+K-1149 Karmøy	Enebolig	2 rom	Boliger (bebodde og ubebodde)	2014	601
+K-1149 Karmøy	Enebolig	2 rom	Boliger (bebodde og ubebodde)	2015	602
+K-1149 Karmøy	Enebolig	2 rom	Boliger (bebodde og ubebodde)	2016	603
+K-1149 Karmøy	Enebolig	2 rom	Boliger (bebodde og ubebodde)	2017	609
+K-1149 Karmøy	Enebolig	2 rom	Boliger (bebodde og ubebodde)	2018	574
+K-1149 Karmøy	Enebolig	2 rom	Boliger (bebodde og ubebodde)	2019	575
+K-1149 Karmøy	Enebolig	2 rom	Boliger (bebodde og ubebodde)	2020	531
+K-1149 Karmøy	Enebolig	2 rom	Boliger (bebodde og ubebodde)	2021	526
+K-1149 Karmøy	Enebolig	2 rom	Boliger (bebodde og ubebodde)	2022	521
+K-1149 Karmøy	Enebolig	2 rom	Boliger (bebodde og ubebodde)	2023	525
+K-1149 Karmøy	Enebolig	3 rom	Boliger (bebodde og ubebodde)	2013	1771
+K-1149 Karmøy	Enebolig	3 rom	Boliger (bebodde og ubebodde)	2014	1781
+K-1149 Karmøy	Enebolig	3 rom	Boliger (bebodde og ubebodde)	2015	1790
+K-1149 Karmøy	Enebolig	3 rom	Boliger (bebodde og ubebodde)	2016	1797
+K-1149 Karmøy	Enebolig	3 rom	Boliger (bebodde og ubebodde)	2017	1797
+K-1149 Karmøy	Enebolig	3 rom	Boliger (bebodde og ubebodde)	2018	1797
+K-1149 Karmøy	Enebolig	3 rom	Boliger (bebodde og ubebodde)	2019	1796
+K-1149 Karmøy	Enebolig	3 rom	Boliger (bebodde og ubebodde)	2020	1786
+K-1149 Karmøy	Enebolig	3 rom	Boliger (bebodde og ubebodde)	2021	1784
+K-1149 Karmøy	Enebolig	3 rom	Boliger (bebodde og ubebodde)	2022	1790
+K-1149 Karmøy	Enebolig	3 rom	Boliger (bebodde og ubebodde)	2023	1775
+K-1149 Karmøy	Enebolig	4 rom	Boliger (bebodde og ubebodde)	2013	6380
+K-1149 Karmøy	Enebolig	4 rom	Boliger (bebodde og ubebodde)	2014	6384
+K-1149 Karmøy	Enebolig	4 rom	Boliger (bebodde og ubebodde)	2015	6373
+K-1149 Karmøy	Enebolig	4 rom	Boliger (bebodde og ubebodde)	2016	6370
+K-1149 Karmøy	Enebolig	4 rom	Boliger (bebodde og ubebodde)	2017	6351
+K-1149 Karmøy	Enebolig	4 rom	Boliger (bebodde og ubebodde)	2018	6380
+K-1149 Karmøy	Enebolig	4 rom	Boliger (bebodde og ubebodde)	2019	6351
+K-1149 Karmøy	Enebolig	4 rom	Boliger (bebodde og ubebodde)	2020	6336
+K-1149 Karmøy	Enebolig	4 rom	Boliger (bebodde og ubebodde)	2021	6313
+K-1149 Karmøy	Enebolig	4 rom	Boliger (bebodde og ubebodde)	2022	6296
+K-1149 Karmøy	Enebolig	4 rom	Boliger (bebodde og ubebodde)	2023	6274
+K-1149 Karmøy	Enebolig	5 rom	Boliger (bebodde og ubebodde)	2013	2885
+K-1149 Karmøy	Enebolig	5 rom	Boliger (bebodde og ubebodde)	2014	2915
+K-1149 Karmøy	Enebolig	5 rom	Boliger (bebodde og ubebodde)	2015	2934
+K-1149 Karmøy	Enebolig	5 rom	Boliger (bebodde og ubebodde)	2016	2944
+K-1149 Karmøy	Enebolig	5 rom	Boliger (bebodde og ubebodde)	2017	2959
+K-1149 Karmøy	Enebolig	5 rom	Boliger (bebodde og ubebodde)	2018	3000
+K-1149 Karmøy	Enebolig	5 rom	Boliger (bebodde og ubebodde)	2019	3035
+K-1149 Karmøy	Enebolig	5 rom	Boliger (bebodde og ubebodde)	2020	3076
+K-1149 Karmøy	Enebolig	5 rom	Boliger (bebodde og ubebodde)	2021	3081
+K-1149 Karmøy	Enebolig	5 rom	Boliger (bebodde og ubebodde)	2022	3088
+K-1149 Karmøy	Enebolig	5 rom	Boliger (bebodde og ubebodde)	2023	3101
+K-1149 Karmøy	Enebolig	6 rom	Boliger (bebodde og ubebodde)	2013	1464
+K-1149 Karmøy	Enebolig	6 rom	Boliger (bebodde og ubebodde)	2014	1484
+K-1149 Karmøy	Enebolig	6 rom	Boliger (bebodde og ubebodde)	2015	1532
+K-1149 Karmøy	Enebolig	6 rom	Boliger (bebodde og ubebodde)	2016	1581
+K-1149 Karmøy	Enebolig	6 rom	Boliger (bebodde og ubebodde)	2017	1619
+K-1149 Karmøy	Enebolig	6 rom	Boliger (bebodde og ubebodde)	2018	1645
+K-1149 Karmøy	Enebolig	6 rom	Boliger (bebodde og ubebodde)	2019	1697
+K-1149 Karmøy	Enebolig	6 rom	Boliger (bebodde og ubebodde)	2020	1771
+K-1149 Karmøy	Enebolig	6 rom	Boliger (bebodde og ubebodde)	2021	1803
+K-1149 Karmøy	Enebolig	6 rom	Boliger (bebodde og ubebodde)	2022	1846
+K-1149 Karmøy	Enebolig	6 rom	Boliger (bebodde og ubebodde)	2023	1897
+K-1149 Karmøy	Enebolig	7 rom	Boliger (bebodde og ubebodde)	2013	552
+K-1149 Karmøy	Enebolig	7 rom	Boliger (bebodde og ubebodde)	2014	574
+K-1149 Karmøy	Enebolig	7 rom	Boliger (bebodde og ubebodde)	2015	596
+K-1149 Karmøy	Enebolig	7 rom	Boliger (bebodde og ubebodde)	2016	616
+K-1149 Karmøy	Enebolig	7 rom	Boliger (bebodde og ubebodde)	2017	641
+K-1149 Karmøy	Enebolig	7 rom	Boliger (bebodde og ubebodde)	2018	653
+K-1149 Karmøy	Enebolig	7 rom	Boliger (bebodde og ubebodde)	2019	684
+K-1149 Karmøy	Enebolig	7 rom	Boliger (bebodde og ubebodde)	2020	719
+K-1149 Karmøy	Enebolig	7 rom	Boliger (bebodde og ubebodde)	2021	747
+K-1149 Karmøy	Enebolig	7 rom	Boliger (bebodde og ubebodde)	2022	781
+K-1149 Karmøy	Enebolig	7 rom	Boliger (bebodde og ubebodde)	2023	806
+K-1149 Karmøy	Enebolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2013	253
+K-1149 Karmøy	Enebolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2014	263
+K-1149 Karmøy	Enebolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2015	280
+K-1149 Karmøy	Enebolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2016	291
+K-1149 Karmøy	Enebolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2017	312
+K-1149 Karmøy	Enebolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2018	328
+K-1149 Karmøy	Enebolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2019	343
+K-1149 Karmøy	Enebolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2020	362
+K-1149 Karmøy	Enebolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2021	383
+K-1149 Karmøy	Enebolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2022	393
+K-1149 Karmøy	Enebolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2023	409
+K-1149 Karmøy	Tomannsbolig	1 rom	Boliger (bebodde og ubebodde)	2013	3
+K-1149 Karmøy	Tomannsbolig	1 rom	Boliger (bebodde og ubebodde)	2014	3
+K-1149 Karmøy	Tomannsbolig	1 rom	Boliger (bebodde og ubebodde)	2015	3
+K-1149 Karmøy	Tomannsbolig	1 rom	Boliger (bebodde og ubebodde)	2016	3
+K-1149 Karmøy	Tomannsbolig	1 rom	Boliger (bebodde og ubebodde)	2017	3
+K-1149 Karmøy	Tomannsbolig	1 rom	Boliger (bebodde og ubebodde)	2018	3
+K-1149 Karmøy	Tomannsbolig	1 rom	Boliger (bebodde og ubebodde)	2019	1
+K-1149 Karmøy	Tomannsbolig	1 rom	Boliger (bebodde og ubebodde)	2020	1
+K-1149 Karmøy	Tomannsbolig	1 rom	Boliger (bebodde og ubebodde)	2021	1
+K-1149 Karmøy	Tomannsbolig	1 rom	Boliger (bebodde og ubebodde)	2022	1
+K-1149 Karmøy	Tomannsbolig	1 rom	Boliger (bebodde og ubebodde)	2023	2
+K-1149 Karmøy	Tomannsbolig	2 rom	Boliger (bebodde og ubebodde)	2013	55
+K-1149 Karmøy	Tomannsbolig	2 rom	Boliger (bebodde og ubebodde)	2014	53
+K-1149 Karmøy	Tomannsbolig	2 rom	Boliger (bebodde og ubebodde)	2015	53
+K-1149 Karmøy	Tomannsbolig	2 rom	Boliger (bebodde og ubebodde)	2016	52
+K-1149 Karmøy	Tomannsbolig	2 rom	Boliger (bebodde og ubebodde)	2017	54
+K-1149 Karmøy	Tomannsbolig	2 rom	Boliger (bebodde og ubebodde)	2018	51
+K-1149 Karmøy	Tomannsbolig	2 rom	Boliger (bebodde og ubebodde)	2019	56
+K-1149 Karmøy	Tomannsbolig	2 rom	Boliger (bebodde og ubebodde)	2020	48
+K-1149 Karmøy	Tomannsbolig	2 rom	Boliger (bebodde og ubebodde)	2021	53
+K-1149 Karmøy	Tomannsbolig	2 rom	Boliger (bebodde og ubebodde)	2022	51
+K-1149 Karmøy	Tomannsbolig	2 rom	Boliger (bebodde og ubebodde)	2023	52
+K-1149 Karmøy	Tomannsbolig	3 rom	Boliger (bebodde og ubebodde)	2013	353
+K-1149 Karmøy	Tomannsbolig	3 rom	Boliger (bebodde og ubebodde)	2014	372
+K-1149 Karmøy	Tomannsbolig	3 rom	Boliger (bebodde og ubebodde)	2015	375
+K-1149 Karmøy	Tomannsbolig	3 rom	Boliger (bebodde og ubebodde)	2016	386
+K-1149 Karmøy	Tomannsbolig	3 rom	Boliger (bebodde og ubebodde)	2017	402
+K-1149 Karmøy	Tomannsbolig	3 rom	Boliger (bebodde og ubebodde)	2018	414
+K-1149 Karmøy	Tomannsbolig	3 rom	Boliger (bebodde og ubebodde)	2019	434
+K-1149 Karmøy	Tomannsbolig	3 rom	Boliger (bebodde og ubebodde)	2020	442
+K-1149 Karmøy	Tomannsbolig	3 rom	Boliger (bebodde og ubebodde)	2021	446
+K-1149 Karmøy	Tomannsbolig	3 rom	Boliger (bebodde og ubebodde)	2022	445
+K-1149 Karmøy	Tomannsbolig	3 rom	Boliger (bebodde og ubebodde)	2023	453
+K-1149 Karmøy	Tomannsbolig	4 rom	Boliger (bebodde og ubebodde)	2013	339
+K-1149 Karmøy	Tomannsbolig	4 rom	Boliger (bebodde og ubebodde)	2014	349
+K-1149 Karmøy	Tomannsbolig	4 rom	Boliger (bebodde og ubebodde)	2015	358
+K-1149 Karmøy	Tomannsbolig	4 rom	Boliger (bebodde og ubebodde)	2016	366
+K-1149 Karmøy	Tomannsbolig	4 rom	Boliger (bebodde og ubebodde)	2017	376
+K-1149 Karmøy	Tomannsbolig	4 rom	Boliger (bebodde og ubebodde)	2018	382
+K-1149 Karmøy	Tomannsbolig	4 rom	Boliger (bebodde og ubebodde)	2019	383
+K-1149 Karmøy	Tomannsbolig	4 rom	Boliger (bebodde og ubebodde)	2020	380
+K-1149 Karmøy	Tomannsbolig	4 rom	Boliger (bebodde og ubebodde)	2021	384
+K-1149 Karmøy	Tomannsbolig	4 rom	Boliger (bebodde og ubebodde)	2022	392
+K-1149 Karmøy	Tomannsbolig	4 rom	Boliger (bebodde og ubebodde)	2023	394
+K-1149 Karmøy	Tomannsbolig	5 rom	Boliger (bebodde og ubebodde)	2013	102
+K-1149 Karmøy	Tomannsbolig	5 rom	Boliger (bebodde og ubebodde)	2014	117
+K-1149 Karmøy	Tomannsbolig	5 rom	Boliger (bebodde og ubebodde)	2015	131
+K-1149 Karmøy	Tomannsbolig	5 rom	Boliger (bebodde og ubebodde)	2016	138
+K-1149 Karmøy	Tomannsbolig	5 rom	Boliger (bebodde og ubebodde)	2017	149
+K-1149 Karmøy	Tomannsbolig	5 rom	Boliger (bebodde og ubebodde)	2018	160
+K-1149 Karmøy	Tomannsbolig	5 rom	Boliger (bebodde og ubebodde)	2019	165
+K-1149 Karmøy	Tomannsbolig	5 rom	Boliger (bebodde og ubebodde)	2020	182
+K-1149 Karmøy	Tomannsbolig	5 rom	Boliger (bebodde og ubebodde)	2021	186
+K-1149 Karmøy	Tomannsbolig	5 rom	Boliger (bebodde og ubebodde)	2022	188
+K-1149 Karmøy	Tomannsbolig	5 rom	Boliger (bebodde og ubebodde)	2023	188
+K-1149 Karmøy	Tomannsbolig	6 rom	Boliger (bebodde og ubebodde)	2013	29
+K-1149 Karmøy	Tomannsbolig	6 rom	Boliger (bebodde og ubebodde)	2014	29
+K-1149 Karmøy	Tomannsbolig	6 rom	Boliger (bebodde og ubebodde)	2015	31
+K-1149 Karmøy	Tomannsbolig	6 rom	Boliger (bebodde og ubebodde)	2016	32
+K-1149 Karmøy	Tomannsbolig	6 rom	Boliger (bebodde og ubebodde)	2017	32
+K-1149 Karmøy	Tomannsbolig	6 rom	Boliger (bebodde og ubebodde)	2018	33
+K-1149 Karmøy	Tomannsbolig	6 rom	Boliger (bebodde og ubebodde)	2019	32
+K-1149 Karmøy	Tomannsbolig	6 rom	Boliger (bebodde og ubebodde)	2020	32
+K-1149 Karmøy	Tomannsbolig	6 rom	Boliger (bebodde og ubebodde)	2021	36
+K-1149 Karmøy	Tomannsbolig	6 rom	Boliger (bebodde og ubebodde)	2022	40
+K-1149 Karmøy	Tomannsbolig	6 rom	Boliger (bebodde og ubebodde)	2023	40
+K-1149 Karmøy	Tomannsbolig	7 rom	Boliger (bebodde og ubebodde)	2013	3
+K-1149 Karmøy	Tomannsbolig	7 rom	Boliger (bebodde og ubebodde)	2014	3
+K-1149 Karmøy	Tomannsbolig	7 rom	Boliger (bebodde og ubebodde)	2015	3
+K-1149 Karmøy	Tomannsbolig	7 rom	Boliger (bebodde og ubebodde)	2016	3
+K-1149 Karmøy	Tomannsbolig	7 rom	Boliger (bebodde og ubebodde)	2017	3
+K-1149 Karmøy	Tomannsbolig	7 rom	Boliger (bebodde og ubebodde)	2018	3
+K-1149 Karmøy	Tomannsbolig	7 rom	Boliger (bebodde og ubebodde)	2019	3
+K-1149 Karmøy	Tomannsbolig	7 rom	Boliger (bebodde og ubebodde)	2020	6
+K-1149 Karmøy	Tomannsbolig	7 rom	Boliger (bebodde og ubebodde)	2021	6
+K-1149 Karmøy	Tomannsbolig	7 rom	Boliger (bebodde og ubebodde)	2022	6
+K-1149 Karmøy	Tomannsbolig	7 rom	Boliger (bebodde og ubebodde)	2023	6
+K-1149 Karmøy	Tomannsbolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2013	3
+K-1149 Karmøy	Tomannsbolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2014	3
+K-1149 Karmøy	Tomannsbolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2015	3
+K-1149 Karmøy	Tomannsbolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2016	3
+K-1149 Karmøy	Tomannsbolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2017	5
+K-1149 Karmøy	Tomannsbolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2018	5
+K-1149 Karmøy	Tomannsbolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2019	5
+K-1149 Karmøy	Tomannsbolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2020	6
+K-1149 Karmøy	Tomannsbolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2021	6
+K-1149 Karmøy	Tomannsbolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2022	6
+K-1149 Karmøy	Tomannsbolig	8 rom eller flere	Boliger (bebodde og ubebodde)	2023	6
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	1 rom	Boliger (bebodde og ubebodde)	2013	12
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	1 rom	Boliger (bebodde og ubebodde)	2014	12
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	1 rom	Boliger (bebodde og ubebodde)	2015	18
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	1 rom	Boliger (bebodde og ubebodde)	2016	18
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	1 rom	Boliger (bebodde og ubebodde)	2017	18
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	1 rom	Boliger (bebodde og ubebodde)	2018	18
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	1 rom	Boliger (bebodde og ubebodde)	2019	18
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	1 rom	Boliger (bebodde og ubebodde)	2020	11
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	1 rom	Boliger (bebodde og ubebodde)	2021	11
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	1 rom	Boliger (bebodde og ubebodde)	2022	11
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	1 rom	Boliger (bebodde og ubebodde)	2023	11
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	2 rom	Boliger (bebodde og ubebodde)	2013	137
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	2 rom	Boliger (bebodde og ubebodde)	2014	137
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	2 rom	Boliger (bebodde og ubebodde)	2015	137
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	2 rom	Boliger (bebodde og ubebodde)	2016	137
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	2 rom	Boliger (bebodde og ubebodde)	2017	144
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	2 rom	Boliger (bebodde og ubebodde)	2018	145
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	2 rom	Boliger (bebodde og ubebodde)	2019	145
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	2 rom	Boliger (bebodde og ubebodde)	2020	149
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	2 rom	Boliger (bebodde og ubebodde)	2021	152
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	2 rom	Boliger (bebodde og ubebodde)	2022	151
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	2 rom	Boliger (bebodde og ubebodde)	2023	151
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	3 rom	Boliger (bebodde og ubebodde)	2013	539
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	3 rom	Boliger (bebodde og ubebodde)	2014	565
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	3 rom	Boliger (bebodde og ubebodde)	2015	600
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	3 rom	Boliger (bebodde og ubebodde)	2016	622
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	3 rom	Boliger (bebodde og ubebodde)	2017	638
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	3 rom	Boliger (bebodde og ubebodde)	2018	677
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	3 rom	Boliger (bebodde og ubebodde)	2019	710
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	3 rom	Boliger (bebodde og ubebodde)	2020	758
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	3 rom	Boliger (bebodde og ubebodde)	2021	781
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	3 rom	Boliger (bebodde og ubebodde)	2022	799
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	3 rom	Boliger (bebodde og ubebodde)	2023	804
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	4 rom	Boliger (bebodde og ubebodde)	2013	393
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	4 rom	Boliger (bebodde og ubebodde)	2014	422
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	4 rom	Boliger (bebodde og ubebodde)	2015	435
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	4 rom	Boliger (bebodde og ubebodde)	2016	442
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	4 rom	Boliger (bebodde og ubebodde)	2017	451
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	4 rom	Boliger (bebodde og ubebodde)	2018	468
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	4 rom	Boliger (bebodde og ubebodde)	2019	490
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	4 rom	Boliger (bebodde og ubebodde)	2020	497
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	4 rom	Boliger (bebodde og ubebodde)	2021	517
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	4 rom	Boliger (bebodde og ubebodde)	2022	523
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	4 rom	Boliger (bebodde og ubebodde)	2023	526
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	5 rom	Boliger (bebodde og ubebodde)	2013	133
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	5 rom	Boliger (bebodde og ubebodde)	2014	138
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	5 rom	Boliger (bebodde og ubebodde)	2015	138
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	5 rom	Boliger (bebodde og ubebodde)	2016	148
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	5 rom	Boliger (bebodde og ubebodde)	2017	165
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	5 rom	Boliger (bebodde og ubebodde)	2018	174
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	5 rom	Boliger (bebodde og ubebodde)	2019	201
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	5 rom	Boliger (bebodde og ubebodde)	2020	231
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	5 rom	Boliger (bebodde og ubebodde)	2021	244
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	5 rom	Boliger (bebodde og ubebodde)	2022	265
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	5 rom	Boliger (bebodde og ubebodde)	2023	289
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	6 rom	Boliger (bebodde og ubebodde)	2013	7
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	6 rom	Boliger (bebodde og ubebodde)	2014	10
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	6 rom	Boliger (bebodde og ubebodde)	2015	12
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	6 rom	Boliger (bebodde og ubebodde)	2016	20
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	6 rom	Boliger (bebodde og ubebodde)	2017	23
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	6 rom	Boliger (bebodde og ubebodde)	2018	37
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	6 rom	Boliger (bebodde og ubebodde)	2019	41
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	6 rom	Boliger (bebodde og ubebodde)	2020	42
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	6 rom	Boliger (bebodde og ubebodde)	2021	43
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	6 rom	Boliger (bebodde og ubebodde)	2022	47
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	6 rom	Boliger (bebodde og ubebodde)	2023	54
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	7 rom	Boliger (bebodde og ubebodde)	2013	1
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	7 rom	Boliger (bebodde og ubebodde)	2014	1
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	7 rom	Boliger (bebodde og ubebodde)	2015	2
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	7 rom	Boliger (bebodde og ubebodde)	2016	2
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	7 rom	Boliger (bebodde og ubebodde)	2017	2
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	7 rom	Boliger (bebodde og ubebodde)	2018	1
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	7 rom	Boliger (bebodde og ubebodde)	2019	1
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	7 rom	Boliger (bebodde og ubebodde)	2020	1
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	7 rom	Boliger (bebodde og ubebodde)	2021	1
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	7 rom	Boliger (bebodde og ubebodde)	2022	1
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	7 rom	Boliger (bebodde og ubebodde)	2023	2
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	8 rom eller flere	Boliger (bebodde og ubebodde)	2013	0
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	8 rom eller flere	Boliger (bebodde og ubebodde)	2014	0
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	8 rom eller flere	Boliger (bebodde og ubebodde)	2015	0
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	8 rom eller flere	Boliger (bebodde og ubebodde)	2016	0
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	8 rom eller flere	Boliger (bebodde og ubebodde)	2017	0
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	8 rom eller flere	Boliger (bebodde og ubebodde)	2018	0
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	8 rom eller flere	Boliger (bebodde og ubebodde)	2019	0
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	8 rom eller flere	Boliger (bebodde og ubebodde)	2020	0
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	8 rom eller flere	Boliger (bebodde og ubebodde)	2021	0
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	8 rom eller flere	Boliger (bebodde og ubebodde)	2022	0
+K-1149 Karmøy	Rekkehus, kjedehus og andre smahus	8 rom eller flere	Boliger (bebodde og ubebodde)	2023	0
+K-1149 Karmøy	Boligblokk	1 rom	Boliger (bebodde og ubebodde)	2013	2
+K-1149 Karmøy	Boligblokk	1 rom	Boliger (bebodde og ubebodde)	2014	2
+K-1149 Karmøy	Boligblokk	1 rom	Boliger (bebodde og ubebodde)	2015	2
+K-1149 Karmøy	Boligblokk	1 rom	Boliger (bebodde og ubebodde)	2016	2
+K-1149 Karmøy	Boligblokk	1 rom	Boliger (bebodde og ubebodde)	2017	2
+K-1149 Karmøy	Boligblokk	1 rom	Boliger (bebodde og ubebodde)	2018	2
+K-1149 Karmøy	Boligblokk	1 rom	Boliger (bebodde og ubebodde)	2019	2
+K-1149 Karmøy	Boligblokk	1 rom	Boliger (bebodde og ubebodde)	2020	1
+K-1149 Karmøy	Boligblokk	1 rom	Boliger (bebodde og ubebodde)	2021	1
+K-1149 Karmøy	Boligblokk	1 rom	Boliger (bebodde og ubebodde)	2022	1
+K-1149 Karmøy	Boligblokk	1 rom	Boliger (bebodde og ubebodde)	2023	1
+K-1149 Karmøy	Boligblokk	2 rom	Boliger (bebodde og ubebodde)	2013	92
+K-1149 Karmøy	Boligblokk	2 rom	Boliger (bebodde og ubebodde)	2014	92
+K-1149 Karmøy	Boligblokk	2 rom	Boliger (bebodde og ubebodde)	2015	92
+K-1149 Karmøy	Boligblokk	2 rom	Boliger (bebodde og ubebodde)	2016	92
+K-1149 Karmøy	Boligblokk	2 rom	Boliger (bebodde og ubebodde)	2017	94
+K-1149 Karmøy	Boligblokk	2 rom	Boliger (bebodde og ubebodde)	2018	90
+K-1149 Karmøy	Boligblokk	2 rom	Boliger (bebodde og ubebodde)	2019	90
+K-1149 Karmøy	Boligblokk	2 rom	Boliger (bebodde og ubebodde)	2020	86
+K-1149 Karmøy	Boligblokk	2 rom	Boliger (bebodde og ubebodde)	2021	88
+K-1149 Karmøy	Boligblokk	2 rom	Boliger (bebodde og ubebodde)	2022	88
+K-1149 Karmøy	Boligblokk	2 rom	Boliger (bebodde og ubebodde)	2023	94
+K-1149 Karmøy	Boligblokk	3 rom	Boliger (bebodde og ubebodde)	2013	447
+K-1149 Karmøy	Boligblokk	3 rom	Boliger (bebodde og ubebodde)	2014	477
+K-1149 Karmøy	Boligblokk	3 rom	Boliger (bebodde og ubebodde)	2015	513
+K-1149 Karmøy	Boligblokk	3 rom	Boliger (bebodde og ubebodde)	2016	545
+K-1149 Karmøy	Boligblokk	3 rom	Boliger (bebodde og ubebodde)	2017	563
+K-1149 Karmøy	Boligblokk	3 rom	Boliger (bebodde og ubebodde)	2018	575
+K-1149 Karmøy	Boligblokk	3 rom	Boliger (bebodde og ubebodde)	2019	561
+K-1149 Karmøy	Boligblokk	3 rom	Boliger (bebodde og ubebodde)	2020	571
+K-1149 Karmøy	Boligblokk	3 rom	Boliger (bebodde og ubebodde)	2021	573
+K-1149 Karmøy	Boligblokk	3 rom	Boliger (bebodde og ubebodde)	2022	609
+K-1149 Karmøy	Boligblokk	3 rom	Boliger (bebodde og ubebodde)	2023	652
+K-1149 Karmøy	Boligblokk	4 rom	Boliger (bebodde og ubebodde)	2013	159
+K-1149 Karmøy	Boligblokk	4 rom	Boliger (bebodde og ubebodde)	2014	168
+K-1149 Karmøy	Boligblokk	4 rom	Boliger (bebodde og ubebodde)	2015	197
+K-1149 Karmøy	Boligblokk	4 rom	Boliger (bebodde og ubebodde)	2016	220
+K-1149 Karmøy	Boligblokk	4 rom	Boliger (bebodde og ubebodde)	2017	223
+K-1149 Karmøy	Boligblokk	4 rom	Boliger (bebodde og ubebodde)	2018	225
+K-1149 Karmøy	Boligblokk	4 rom	Boliger (bebodde og ubebodde)	2019	230
+K-1149 Karmøy	Boligblokk	4 rom	Boliger (bebodde og ubebodde)	2020	234
+K-1149 Karmøy	Boligblokk	4 rom	Boliger (bebodde og ubebodde)	2021	235
+K-1149 Karmøy	Boligblokk	4 rom	Boliger (bebodde og ubebodde)	2022	244
+K-1149 Karmøy	Boligblokk	4 rom	Boliger (bebodde og ubebodde)	2023	256
+K-1149 Karmøy	Boligblokk	5 rom	Boliger (bebodde og ubebodde)	2013	7
+K-1149 Karmøy	Boligblokk	5 rom	Boliger (bebodde og ubebodde)	2014	9
+K-1149 Karmøy	Boligblokk	5 rom	Boliger (bebodde og ubebodde)	2015	9
+K-1149 Karmøy	Boligblokk	5 rom	Boliger (bebodde og ubebodde)	2016	13
+K-1149 Karmøy	Boligblokk	5 rom	Boliger (bebodde og ubebodde)	2017	15
+K-1149 Karmøy	Boligblokk	5 rom	Boliger (bebodde og ubebodde)	2018	15
+K-1149 Karmøy	Boligblokk	5 rom	Boliger (bebodde og ubebodde)	2019	17
+K-1149 Karmøy	Boligblokk	5 rom	Boliger (bebodde og ubebodde)	2020	11
+K-1149 Karmøy	Boligblokk	5 rom	Boliger (bebodde og ubebodde)	2021	13
+K-1149 Karmøy	Boligblokk	5 rom	Boliger (bebodde og ubebodde)	2022	13
+K-1149 Karmøy	Boligblokk	5 rom	Boliger (bebodde og ubebodde)	2023	13
+K-1149 Karmøy	Boligblokk	6 rom	Boliger (bebodde og ubebodde)	2013	4
+K-1149 Karmøy	Boligblokk	6 rom	Boliger (bebodde og ubebodde)	2014	4
+K-1149 Karmøy	Boligblokk	6 rom	Boliger (bebodde og ubebodde)	2015	4
+K-1149 Karmøy	Boligblokk	6 rom	Boliger (bebodde og ubebodde)	2016	4
+K-1149 Karmøy	Boligblokk	6 rom	Boliger (bebodde og ubebodde)	2017	4
+K-1149 Karmøy	Boligblokk	6 rom	Boliger (bebodde og ubebodde)	2018	4
+K-1149 Karmøy	Boligblokk	6 rom	Boliger (bebodde og ubebodde)	2019	4
+K-1149 Karmøy	Boligblokk	6 rom	Boliger (bebodde og ubebodde)	2020	3
+K-1149 Karmøy	Boligblokk	6 rom	Boliger (bebodde og ubebodde)	2021	3
+K-1149 Karmøy	Boligblokk	6 rom	Boliger (bebodde og ubebodde)	2022	3
+K-1149 Karmøy	Boligblokk	6 rom	Boliger (bebodde og ubebodde)	2023	3
+K-1149 Karmøy	Boligblokk	7 rom	Boliger (bebodde og ubebodde)	2013	0
+K-1149 Karmøy	Boligblokk	7 rom	Boliger (bebodde og ubebodde)	2014	0
+K-1149 Karmøy	Boligblokk	7 rom	Boliger (bebodde og ubebodde)	2015	0
+K-1149 Karmøy	Boligblokk	7 rom	Boliger (bebodde og ubebodde)	2016	0
+K-1149 Karmøy	Boligblokk	7 rom	Boliger (bebodde og ubebodde)	2017	0
+K-1149 Karmøy	Boligblokk	7 rom	Boliger (bebodde og ubebodde)	2018	0
+K-1149 Karmøy	Boligblokk	7 rom	Boliger (bebodde og ubebodde)	2019	0
+K-1149 Karmøy	Boligblokk	7 rom	Boliger (bebodde og ubebodde)	2020	0
+K-1149 Karmøy	Boligblokk	7 rom	Boliger (bebodde og ubebodde)	2021	0
+K-1149 Karmøy	Boligblokk	7 rom	Boliger (bebodde og ubebodde)	2022	0
+K-1149 Karmøy	Boligblokk	7 rom	Boliger (bebodde og ubebodde)	2023	0
+K-1149 Karmøy	Boligblokk	8 rom eller flere	Boliger (bebodde og ubebodde)	2013	0
+K-1149 Karmøy	Boligblokk	8 rom eller flere	Boliger (bebodde og ubebodde)	2014	0
+K-1149 Karmøy	Boligblokk	8 rom eller flere	Boliger (bebodde og ubebodde)	2015	0
+K-1149 Karmøy	Boligblokk	8 rom eller flere	Boliger (bebodde og ubebodde)	2016	0
+K-1149 Karmøy	Boligblokk	8 rom eller flere	Boliger (bebodde og ubebodde)	2017	0
+K-1149 Karmøy	Boligblokk	8 rom eller flere	Boliger (bebodde og ubebodde)	2018	0
+K-1149 Karmøy	Boligblokk	8 rom eller flere	Boliger (bebodde og ubebodde)	2019	0
+K-1149 Karmøy	Boligblokk	8 rom eller flere	Boliger (bebodde og ubebodde)	2020	0
+K-1149 Karmøy	Boligblokk	8 rom eller flere	Boliger (bebodde og ubebodde)	2021	0
+K-1149 Karmøy	Boligblokk	8 rom eller flere	Boliger (bebodde og ubebodde)	2022	0
+K-1149 Karmøy	Boligblokk	8 rom eller flere	Boliger (bebodde og ubebodde)	2023	0
+K-1149 Karmøy	Bygning for bofellesskap	1 rom	Boliger (bebodde og ubebodde)	2013	7
+K-1149 Karmøy	Bygning for bofellesskap	1 rom	Boliger (bebodde og ubebodde)	2014	7
+K-1149 Karmøy	Bygning for bofellesskap	1 rom	Boliger (bebodde og ubebodde)	2015	7
+K-1149 Karmøy	Bygning for bofellesskap	1 rom	Boliger (bebodde og ubebodde)	2016	7
+K-1149 Karmøy	Bygning for bofellesskap	1 rom	Boliger (bebodde og ubebodde)	2017	7
+K-1149 Karmøy	Bygning for bofellesskap	1 rom	Boliger (bebodde og ubebodde)	2018	7
+K-1149 Karmøy	Bygning for bofellesskap	1 rom	Boliger (bebodde og ubebodde)	2019	7
+K-1149 Karmøy	Bygning for bofellesskap	1 rom	Boliger (bebodde og ubebodde)	2020	7
+K-1149 Karmøy	Bygning for bofellesskap	1 rom	Boliger (bebodde og ubebodde)	2021	13
+K-1149 Karmøy	Bygning for bofellesskap	1 rom	Boliger (bebodde og ubebodde)	2022	13
+K-1149 Karmøy	Bygning for bofellesskap	1 rom	Boliger (bebodde og ubebodde)	2023	13
+K-1149 Karmøy	Bygning for bofellesskap	2 rom	Boliger (bebodde og ubebodde)	2013	177
+K-1149 Karmøy	Bygning for bofellesskap	2 rom	Boliger (bebodde og ubebodde)	2014	176
+K-1149 Karmøy	Bygning for bofellesskap	2 rom	Boliger (bebodde og ubebodde)	2015	176
+K-1149 Karmøy	Bygning for bofellesskap	2 rom	Boliger (bebodde og ubebodde)	2016	176
+K-1149 Karmøy	Bygning for bofellesskap	2 rom	Boliger (bebodde og ubebodde)	2017	176
+K-1149 Karmøy	Bygning for bofellesskap	2 rom	Boliger (bebodde og ubebodde)	2018	188
+K-1149 Karmøy	Bygning for bofellesskap	2 rom	Boliger (bebodde og ubebodde)	2019	188
+K-1149 Karmøy	Bygning for bofellesskap	2 rom	Boliger (bebodde og ubebodde)	2020	188
+K-1149 Karmøy	Bygning for bofellesskap	2 rom	Boliger (bebodde og ubebodde)	2021	188
+K-1149 Karmøy	Bygning for bofellesskap	2 rom	Boliger (bebodde og ubebodde)	2022	188
+K-1149 Karmøy	Bygning for bofellesskap	2 rom	Boliger (bebodde og ubebodde)	2023	193
+K-1149 Karmøy	Bygning for bofellesskap	3 rom	Boliger (bebodde og ubebodde)	2013	26
+K-1149 Karmøy	Bygning for bofellesskap	3 rom	Boliger (bebodde og ubebodde)	2014	26
+K-1149 Karmøy	Bygning for bofellesskap	3 rom	Boliger (bebodde og ubebodde)	2015	26
+K-1149 Karmøy	Bygning for bofellesskap	3 rom	Boliger (bebodde og ubebodde)	2016	26
+K-1149 Karmøy	Bygning for bofellesskap	3 rom	Boliger (bebodde og ubebodde)	2017	10
+K-1149 Karmøy	Bygning for bofellesskap	3 rom	Boliger (bebodde og ubebodde)	2018	10
+K-1149 Karmøy	Bygning for bofellesskap	3 rom	Boliger (bebodde og ubebodde)	2019	10
+K-1149 Karmøy	Bygning for bofellesskap	3 rom	Boliger (bebodde og ubebodde)	2020	10
+K-1149 Karmøy	Bygning for bofellesskap	3 rom	Boliger (bebodde og ubebodde)	2021	10
+K-1149 Karmøy	Bygning for bofellesskap	3 rom	Boliger (bebodde og ubebodde)	2022	10
+K-1149 Karmøy	Bygning for bofellesskap	3 rom	Boliger (bebodde og ubebodde)	2023	15
+K-1149 Karmøy	Bygning for bofellesskap	4 rom	Boliger (bebodde og ubebodde)	2013	8
+K-1149 Karmøy	Bygning for bofellesskap	4 rom	Boliger (bebodde og ubebodde)	2014	8
+K-1149 Karmøy	Bygning for bofellesskap	4 rom	Boliger (bebodde og ubebodde)	2015	8
+K-1149 Karmøy	Bygning for bofellesskap	4 rom	Boliger (bebodde og ubebodde)	2016	8
+K-1149 Karmøy	Bygning for bofellesskap	4 rom	Boliger (bebodde og ubebodde)	2017	1
+K-1149 Karmøy	Bygning for bofellesskap	4 rom	Boliger (bebodde og ubebodde)	2018	1
+K-1149 Karmøy	Bygning for bofellesskap	4 rom	Boliger (bebodde og ubebodde)	2019	1
+K-1149 Karmøy	Bygning for bofellesskap	4 rom	Boliger (bebodde og ubebodde)	2020	1
+K-1149 Karmøy	Bygning for bofellesskap	4 rom	Boliger (bebodde og ubebodde)	2021	1
+K-1149 Karmøy	Bygning for bofellesskap	4 rom	Boliger (bebodde og ubebodde)	2022	1
+K-1149 Karmøy	Bygning for bofellesskap	4 rom	Boliger (bebodde og ubebodde)	2023	1
+K-1149 Karmøy	Bygning for bofellesskap	5 rom	Boliger (bebodde og ubebodde)	2013	2
+K-1149 Karmøy	Bygning for bofellesskap	5 rom	Boliger (bebodde og ubebodde)	2014	2
+K-1149 Karmøy	Bygning for bofellesskap	5 rom	Boliger (bebodde og ubebodde)	2015	2
+K-1149 Karmøy	Bygning for bofellesskap	5 rom	Boliger (bebodde og ubebodde)	2016	2
+K-1149 Karmøy	Bygning for bofellesskap	5 rom	Boliger (bebodde og ubebodde)	2017	0
+K-1149 Karmøy	Bygning for bofellesskap	5 rom	Boliger (bebodde og ubebodde)	2018	0
+K-1149 Karmøy	Bygning for bofellesskap	5 rom	Boliger (bebodde og ubebodde)	2019	0
+K-1149 Karmøy	Bygning for bofellesskap	5 rom	Boliger (bebodde og ubebodde)	2020	0
+K-1149 Karmøy	Bygning for bofellesskap	5 rom	Boliger (bebodde og ubebodde)	2021	0
+K-1149 Karmøy	Bygning for bofellesskap	5 rom	Boliger (bebodde og ubebodde)	2022	0
+K-1149 Karmøy	Bygning for bofellesskap	5 rom	Boliger (bebodde og ubebodde)	2023	0
+K-1149 Karmøy	Bygning for bofellesskap	6 rom	Boliger (bebodde og ubebodde)	2013	0
+K-1149 Karmøy	Bygning for bofellesskap	6 rom	Boliger (bebodde og ubebodde)	2014	0
+K-1149 Karmøy	Bygning for bofellesskap	6 rom	Boliger (bebodde og ubebodde)	2015	0
+K-1149 Karmøy	Bygning for bofellesskap	6 rom	Boliger (bebodde og ubebodde)	2016	0
+K-1149 Karmøy	Bygning for bofellesskap	6 rom	Boliger (bebodde og ubebodde)	2017	0
+K-1149 Karmøy	Bygning for bofellesskap	6 rom	Boliger (bebodde og ubebodde)	2018	0
+K-1149 Karmøy	Bygning for bofellesskap	6 rom	Boliger (bebodde og ubebodde)	2019	0
+K-1149 Karmøy	Bygning for bofellesskap	6 rom	Boliger (bebodde og ubebodde)	2020	0
+K-1149 Karmøy	Bygning for bofellesskap	6 rom	Boliger (bebodde og ubebodde)	2021	0
+K-1149 Karmøy	Bygning for bofellesskap	6 rom	Boliger (bebodde og ubebodde)	2022	0
+K-1149 Karmøy	Bygning for bofellesskap	6 rom	Boliger (bebodde og ubebodde)	2023	0
+K-1149 Karmøy	Bygning for bofellesskap	7 rom	Boliger (bebodde og ubebodde)	2013	0
+K-1149 Karmøy	Bygning for bofellesskap	7 rom	Boliger (bebodde og ubebodde)	2014	0
+K-1149 Karmøy	Bygning for bofellesskap	7 rom	Boliger (bebodde og ubebodde)	2015	0
+K-1149 Karmøy	Bygning for bofellesskap	7 rom	Boliger (bebodde og ubebodde)	2016	0
+K-1149 Karmøy	Bygning for bofellesskap	7 rom	Boliger (bebodde og ubebodde)	2017	0
+K-1149 Karmøy	Bygning for bofellesskap	7 rom	Boliger (bebodde og ubebodde)	2018	0
+K-1149 Karmøy	Bygning for bofellesskap	7 rom	Boliger (bebodde og ubebodde)	2019	0
+K-1149 Karmøy	Bygning for bofellesskap	7 rom	Boliger (bebodde og ubebodde)	2020	0
+K-1149 Karmøy	Bygning for bofellesskap	7 rom	Boliger (bebodde og ubebodde)	2021	0
+K-1149 Karmøy	Bygning for bofellesskap	7 rom	Boliger (bebodde og ubebodde)	2022	0
+K-1149 Karmøy	Bygning for bofellesskap	7 rom	Boliger (bebodde og ubebodde)	2023	0
+K-1149 Karmøy	Bygning for bofellesskap	8 rom eller flere	Boliger (bebodde og ubebodde)	2013	2
+K-1149 Karmøy	Bygning for bofellesskap	8 rom eller flere	Boliger (bebodde og ubebodde)	2014	2
+K-1149 Karmøy	Bygning for bofellesskap	8 rom eller flere	Boliger (bebodde og ubebodde)	2015	2
+K-1149 Karmøy	Bygning for bofellesskap	8 rom eller flere	Boliger (bebodde og ubebodde)	2016	2
+K-1149 Karmøy	Bygning for bofellesskap	8 rom eller flere	Boliger (bebodde og ubebodde)	2017	2
+K-1149 Karmøy	Bygning for bofellesskap	8 rom eller flere	Boliger (bebodde og ubebodde)	2018	2
+K-1149 Karmøy	Bygning for bofellesskap	8 rom eller flere	Boliger (bebodde og ubebodde)	2019	2
+K-1149 Karmøy	Bygning for bofellesskap	8 rom eller flere	Boliger (bebodde og ubebodde)	2020	2
+K-1149 Karmøy	Bygning for bofellesskap	8 rom eller flere	Boliger (bebodde og ubebodde)	2021	2
+K-1149 Karmøy	Bygning for bofellesskap	8 rom eller flere	Boliger (bebodde og ubebodde)	2022	2
+K-1149 Karmøy	Bygning for bofellesskap	8 rom eller flere	Boliger (bebodde og ubebodde)	2023	2
+K-1149 Karmøy	Andre bygningstyper	1 rom	Boliger (bebodde og ubebodde)	2013	38
+K-1149 Karmøy	Andre bygningstyper	1 rom	Boliger (bebodde og ubebodde)	2014	39
+K-1149 Karmøy	Andre bygningstyper	1 rom	Boliger (bebodde og ubebodde)	2015	50
+K-1149 Karmøy	Andre bygningstyper	1 rom	Boliger (bebodde og ubebodde)	2016	50
+K-1149 Karmøy	Andre bygningstyper	1 rom	Boliger (bebodde og ubebodde)	2017	50
+K-1149 Karmøy	Andre bygningstyper	1 rom	Boliger (bebodde og ubebodde)	2018	49
+K-1149 Karmøy	Andre bygningstyper	1 rom	Boliger (bebodde og ubebodde)	2019	58
+K-1149 Karmøy	Andre bygningstyper	1 rom	Boliger (bebodde og ubebodde)	2020	58
+K-1149 Karmøy	Andre bygningstyper	1 rom	Boliger (bebodde og ubebodde)	2021	75
+K-1149 Karmøy	Andre bygningstyper	1 rom	Boliger (bebodde og ubebodde)	2022	75
+K-1149 Karmøy	Andre bygningstyper	1 rom	Boliger (bebodde og ubebodde)	2023	74
+K-1149 Karmøy	Andre bygningstyper	2 rom	Boliger (bebodde og ubebodde)	2013	82
+K-1149 Karmøy	Andre bygningstyper	2 rom	Boliger (bebodde og ubebodde)	2014	90
+K-1149 Karmøy	Andre bygningstyper	2 rom	Boliger (bebodde og ubebodde)	2015	93
+K-1149 Karmøy	Andre bygningstyper	2 rom	Boliger (bebodde og ubebodde)	2016	93
+K-1149 Karmøy	Andre bygningstyper	2 rom	Boliger (bebodde og ubebodde)	2017	89
+K-1149 Karmøy	Andre bygningstyper	2 rom	Boliger (bebodde og ubebodde)	2018	88
+K-1149 Karmøy	Andre bygningstyper	2 rom	Boliger (bebodde og ubebodde)	2019	88
+K-1149 Karmøy	Andre bygningstyper	2 rom	Boliger (bebodde og ubebodde)	2020	87
+K-1149 Karmøy	Andre bygningstyper	2 rom	Boliger (bebodde og ubebodde)	2021	87
+K-1149 Karmøy	Andre bygningstyper	2 rom	Boliger (bebodde og ubebodde)	2022	87
+K-1149 Karmøy	Andre bygningstyper	2 rom	Boliger (bebodde og ubebodde)	2023	88
+K-1149 Karmøy	Andre bygningstyper	3 rom	Boliger (bebodde og ubebodde)	2013	103
+K-1149 Karmøy	Andre bygningstyper	3 rom	Boliger (bebodde og ubebodde)	2014	107
+K-1149 Karmøy	Andre bygningstyper	3 rom	Boliger (bebodde og ubebodde)	2015	107
+K-1149 Karmøy	Andre bygningstyper	3 rom	Boliger (bebodde og ubebodde)	2016	108
+K-1149 Karmøy	Andre bygningstyper	3 rom	Boliger (bebodde og ubebodde)	2017	107
+K-1149 Karmøy	Andre bygningstyper	3 rom	Boliger (bebodde og ubebodde)	2018	112
+K-1149 Karmøy	Andre bygningstyper	3 rom	Boliger (bebodde og ubebodde)	2019	109
+K-1149 Karmøy	Andre bygningstyper	3 rom	Boliger (bebodde og ubebodde)	2020	114
+K-1149 Karmøy	Andre bygningstyper	3 rom	Boliger (bebodde og ubebodde)	2021	110
+K-1149 Karmøy	Andre bygningstyper	3 rom	Boliger (bebodde og ubebodde)	2022	111
+K-1149 Karmøy	Andre bygningstyper	3 rom	Boliger (bebodde og ubebodde)	2023	114
+K-1149 Karmøy	Andre bygningstyper	4 rom	Boliger (bebodde og ubebodde)	2013	39
+K-1149 Karmøy	Andre bygningstyper	4 rom	Boliger (bebodde og ubebodde)	2014	39
+K-1149 Karmøy	Andre bygningstyper	4 rom	Boliger (bebodde og ubebodde)	2015	40
+K-1149 Karmøy	Andre bygningstyper	4 rom	Boliger (bebodde og ubebodde)	2016	40
+K-1149 Karmøy	Andre bygningstyper	4 rom	Boliger (bebodde og ubebodde)	2017	39
+K-1149 Karmøy	Andre bygningstyper	4 rom	Boliger (bebodde og ubebodde)	2018	36
+K-1149 Karmøy	Andre bygningstyper	4 rom	Boliger (bebodde og ubebodde)	2019	35
+K-1149 Karmøy	Andre bygningstyper	4 rom	Boliger (bebodde og ubebodde)	2020	36
+K-1149 Karmøy	Andre bygningstyper	4 rom	Boliger (bebodde og ubebodde)	2021	37
+K-1149 Karmøy	Andre bygningstyper	4 rom	Boliger (bebodde og ubebodde)	2022	37
+K-1149 Karmøy	Andre bygningstyper	4 rom	Boliger (bebodde og ubebodde)	2023	37
+K-1149 Karmøy	Andre bygningstyper	5 rom	Boliger (bebodde og ubebodde)	2013	37
+K-1149 Karmøy	Andre bygningstyper	5 rom	Boliger (bebodde og ubebodde)	2014	36
+K-1149 Karmøy	Andre bygningstyper	5 rom	Boliger (bebodde og ubebodde)	2015	36
+K-1149 Karmøy	Andre bygningstyper	5 rom	Boliger (bebodde og ubebodde)	2016	37
+K-1149 Karmøy	Andre bygningstyper	5 rom	Boliger (bebodde og ubebodde)	2017	36
+K-1149 Karmøy	Andre bygningstyper	5 rom	Boliger (bebodde og ubebodde)	2018	36
+K-1149 Karmøy	Andre bygningstyper	5 rom	Boliger (bebodde og ubebodde)	2019	37
+K-1149 Karmøy	Andre bygningstyper	5 rom	Boliger (bebodde og ubebodde)	2020	35
+K-1149 Karmøy	Andre bygningstyper	5 rom	Boliger (bebodde og ubebodde)	2021	34
+K-1149 Karmøy	Andre bygningstyper	5 rom	Boliger (bebodde og ubebodde)	2022	34
+K-1149 Karmøy	Andre bygningstyper	5 rom	Boliger (bebodde og ubebodde)	2023	32
+K-1149 Karmøy	Andre bygningstyper	6 rom	Boliger (bebodde og ubebodde)	2013	19
+K-1149 Karmøy	Andre bygningstyper	6 rom	Boliger (bebodde og ubebodde)	2014	19
+K-1149 Karmøy	Andre bygningstyper	6 rom	Boliger (bebodde og ubebodde)	2015	18
+K-1149 Karmøy	Andre bygningstyper	6 rom	Boliger (bebodde og ubebodde)	2016	18
+K-1149 Karmøy	Andre bygningstyper	6 rom	Boliger (bebodde og ubebodde)	2017	18
+K-1149 Karmøy	Andre bygningstyper	6 rom	Boliger (bebodde og ubebodde)	2018	16
+K-1149 Karmøy	Andre bygningstyper	6 rom	Boliger (bebodde og ubebodde)	2019	15
+K-1149 Karmøy	Andre bygningstyper	6 rom	Boliger (bebodde og ubebodde)	2020	13
+K-1149 Karmøy	Andre bygningstyper	6 rom	Boliger (bebodde og ubebodde)	2021	13
+K-1149 Karmøy	Andre bygningstyper	6 rom	Boliger (bebodde og ubebodde)	2022	13
+K-1149 Karmøy	Andre bygningstyper	6 rom	Boliger (bebodde og ubebodde)	2023	13
+K-1149 Karmøy	Andre bygningstyper	7 rom	Boliger (bebodde og ubebodde)	2013	2
+K-1149 Karmøy	Andre bygningstyper	7 rom	Boliger (bebodde og ubebodde)	2014	3
+K-1149 Karmøy	Andre bygningstyper	7 rom	Boliger (bebodde og ubebodde)	2015	3
+K-1149 Karmøy	Andre bygningstyper	7 rom	Boliger (bebodde og ubebodde)	2016	3
+K-1149 Karmøy	Andre bygningstyper	7 rom	Boliger (bebodde og ubebodde)	2017	3
+K-1149 Karmøy	Andre bygningstyper	7 rom	Boliger (bebodde og ubebodde)	2018	3
+K-1149 Karmøy	Andre bygningstyper	7 rom	Boliger (bebodde og ubebodde)	2019	3
+K-1149 Karmøy	Andre bygningstyper	7 rom	Boliger (bebodde og ubebodde)	2020	3
+K-1149 Karmøy	Andre bygningstyper	7 rom	Boliger (bebodde og ubebodde)	2021	3
+K-1149 Karmøy	Andre bygningstyper	7 rom	Boliger (bebodde og ubebodde)	2022	3
+K-1149 Karmøy	Andre bygningstyper	7 rom	Boliger (bebodde og ubebodde)	2023	1
+K-1149 Karmøy	Andre bygningstyper	8 rom eller flere	Boliger (bebodde og ubebodde)	2013	17
+K-1149 Karmøy	Andre bygningstyper	8 rom eller flere	Boliger (bebodde og ubebodde)	2014	17
+K-1149 Karmøy	Andre bygningstyper	8 rom eller flere	Boliger (bebodde og ubebodde)	2015	17
+K-1149 Karmøy	Andre bygningstyper	8 rom eller flere	Boliger (bebodde og ubebodde)	2016	17
+K-1149 Karmøy	Andre bygningstyper	8 rom eller flere	Boliger (bebodde og ubebodde)	2017	17
+K-1149 Karmøy	Andre bygningstyper	8 rom eller flere	Boliger (bebodde og ubebodde)	2018	17
+K-1149 Karmøy	Andre bygningstyper	8 rom eller flere	Boliger (bebodde og ubebodde)	2019	15
+K-1149 Karmøy	Andre bygningstyper	8 rom eller flere	Boliger (bebodde og ubebodde)	2020	12
+K-1149 Karmøy	Andre bygningstyper	8 rom eller flere	Boliger (bebodde og ubebodde)	2021	12
+K-1149 Karmøy	Andre bygningstyper	8 rom eller flere	Boliger (bebodde og ubebodde)	2022	12
+K-1149 Karmøy	Andre bygningstyper	8 rom eller flere	Boliger (bebodde og ubebodde)	2023	12

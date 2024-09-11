@@ -1,0 +1,541 @@
+statistikkvariabel	region	husholdningstype	eierstatus	år	11082: Husholdninger,
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Selveier	2015	14498
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Selveier	2016	14639
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Selveier	2017	14776
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Selveier	2018	14877
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Selveier	2019	15034
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Selveier	2020	15168
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Selveier	2021	15261
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Selveier	2022	15409
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Selveier	2023	15622
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2015	184
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2016	177
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2017	179
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2018	194
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2019	193
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2020	194
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2021	188
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2022	190
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2023	194
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Leier	2015	2349
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Leier	2016	2410
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Leier	2017	2418
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Leier	2018	2426
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Leier	2019	2394
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Leier	2020	2430
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Leier	2021	2553
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Leier	2022	2539
+Antall husholdninger	1149 Karmøy	Husholdninger i alt	Leier	2023	2628
+Antall husholdninger	1149 Karmøy	Aleneboende	Selveier	2015	3721
+Antall husholdninger	1149 Karmøy	Aleneboende	Selveier	2016	3787
+Antall husholdninger	1149 Karmøy	Aleneboende	Selveier	2017	3902
+Antall husholdninger	1149 Karmøy	Aleneboende	Selveier	2018	3991
+Antall husholdninger	1149 Karmøy	Aleneboende	Selveier	2019	4101
+Antall husholdninger	1149 Karmøy	Aleneboende	Selveier	2020	4232
+Antall husholdninger	1149 Karmøy	Aleneboende	Selveier	2021	4326
+Antall husholdninger	1149 Karmøy	Aleneboende	Selveier	2022	4394
+Antall husholdninger	1149 Karmøy	Aleneboende	Selveier	2023	4549
+Antall husholdninger	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2015	86
+Antall husholdninger	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2016	89
+Antall husholdninger	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2017	90
+Antall husholdninger	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2018	106
+Antall husholdninger	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2019	100
+Antall husholdninger	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2020	106
+Antall husholdninger	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2021	95
+Antall husholdninger	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2022	107
+Antall husholdninger	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2023	102
+Antall husholdninger	1149 Karmøy	Aleneboende	Leier	2015	1351
+Antall husholdninger	1149 Karmøy	Aleneboende	Leier	2016	1425
+Antall husholdninger	1149 Karmøy	Aleneboende	Leier	2017	1424
+Antall husholdninger	1149 Karmøy	Aleneboende	Leier	2018	1386
+Antall husholdninger	1149 Karmøy	Aleneboende	Leier	2019	1406
+Antall husholdninger	1149 Karmøy	Aleneboende	Leier	2020	1450
+Antall husholdninger	1149 Karmøy	Aleneboende	Leier	2021	1581
+Antall husholdninger	1149 Karmøy	Aleneboende	Leier	2022	1592
+Antall husholdninger	1149 Karmøy	Aleneboende	Leier	2023	1660
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2015	4026
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2016	4116
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2017	4166
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2018	4268
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2019	4337
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2020	4384
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2021	4438
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2022	4525
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2023	4537
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2015	46
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2016	48
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2017	42
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2018	44
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2019	42
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2020	42
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2021	47
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2022	41
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2023	47
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Leier	2015	259
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Leier	2016	247
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Leier	2017	259
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Leier	2018	272
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Leier	2019	271
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Leier	2020	278
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Leier	2021	275
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Leier	2022	267
+Antall husholdninger	1149 Karmøy	Par uten hjemmeboende barn	Leier	2023	265
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2015	1937
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2016	1923
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2017	1917
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2018	1874
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2019	1814
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2020	1778
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2021	1715
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2022	1729
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2023	1695
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2015	12
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2016	9
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2017	6
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2018	7
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2019	10
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2020	8
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2021	11
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2022	8
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2023	4
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2015	180
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2016	193
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2017	161
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2018	171
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2019	173
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2020	159
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2021	148
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2022	133
+Antall husholdninger	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2023	140
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2015	2184
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2016	2202
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2017	2154
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2018	2139
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2019	2160
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2020	2160
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2021	2196
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2022	2224
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2023	2247
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2015	10
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2016	7
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2017	6
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2018	6
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2019	7
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2020	6
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2021	7
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2022	6
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2023	7
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2015	93
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2016	88
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2017	96
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2018	116
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2019	101
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2020	107
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2021	104
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2022	106
+Antall husholdninger	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2023	114
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2015	159
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2016	146
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2017	146
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2018	136
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2019	120
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2020	131
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2021	121
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2022	111
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2023	118
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2015	5
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2016	3
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2017	3
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2018	3
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2019	0
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2020	0
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2021	0
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2022	3
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2023	6
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2015	127
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2016	120
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2017	114
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2018	110
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2019	96
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2020	96
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2021	90
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2022	76
+Antall husholdninger	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2023	78
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2015	534
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2016	541
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2017	549
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2018	550
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2019	564
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2020	537
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2021	531
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2022	518
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2023	526
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2015	10
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2016	7
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2017	13
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2018	10
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2019	14
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2020	12
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2021	11
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2022	13
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2023	13
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2015	127
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2016	131
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2017	146
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2018	147
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2019	139
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2020	136
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2021	150
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2022	146
+Antall husholdninger	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2023	145
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2015	1295
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2016	1321
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2017	1357
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2018	1366
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2019	1390
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2020	1404
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2021	1396
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2022	1397
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2023	1413
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2015	5
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2016	7
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2017	11
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2018	7
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2019	11
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2020	10
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2021	7
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2022	6
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2023	6
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2015	70
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2016	74
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2017	72
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2018	70
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2019	66
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2020	77
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2021	88
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2022	82
+Antall husholdninger	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2023	84
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2015	246
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2016	222
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2017	238
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2018	209
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2019	208
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2020	202
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2021	195
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2022	182
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2023	198
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2015	3
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2016	0
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2017	0
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2018	3
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2019	3
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2020	0
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2021	3
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2022	0
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2023	0
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2015	11
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2016	17
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2017	18
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2018	19
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2019	15
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2020	10
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2021	8
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2022	19
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2023	20
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2015	396
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2016	381
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2017	347
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2018	344
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2019	340
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2020	340
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2021	343
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2022	329
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2023	339
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2015	7
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2016	7
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2017	8
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2018	8
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2019	6
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2020	10
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2021	7
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2022	6
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2023	9
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2015	131
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2016	115
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2017	128
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2018	135
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2019	127
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2020	117
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2021	109
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2022	118
+Antall husholdninger	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2023	122
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Selveier	2015	85.1
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Selveier	2016	85.0
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Selveier	2017	85.1
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Selveier	2018	85.0
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Selveier	2019	85.3
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Selveier	2020	85.3
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Selveier	2021	84.8
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Selveier	2022	85.0
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Selveier	2023	84.7
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2015	1.1
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2016	1.0
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2017	1.0
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2018	1.1
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2019	1.1
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2020	1.1
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2021	1.0
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2022	1.0
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Andels- / aksjeeier	2023	1.1
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Leier	2015	13.8
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Leier	2016	14.0
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Leier	2017	13.9
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Leier	2018	13.9
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Leier	2019	13.6
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Leier	2020	13.7
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Leier	2021	14.2
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Leier	2022	14.0
+Husholdninger (prosent)	1149 Karmøy	Husholdninger i alt	Leier	2023	14.2
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Selveier	2015	72.1
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Selveier	2016	71.4
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Selveier	2017	72.0
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Selveier	2018	72.8
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Selveier	2019	73.1
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Selveier	2020	73.1
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Selveier	2021	72.1
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Selveier	2022	72.1
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Selveier	2023	72.1
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2015	1.7
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2016	1.7
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2017	1.7
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2018	1.9
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2019	1.8
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2020	1.8
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2021	1.6
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2022	1.8
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Andels- / aksjeeier	2023	1.6
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Leier	2015	26.2
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Leier	2016	26.9
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Leier	2017	26.3
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Leier	2018	25.3
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Leier	2019	25.1
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Leier	2020	25.1
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Leier	2021	26.3
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Leier	2022	26.1
+Husholdninger (prosent)	1149 Karmøy	Aleneboende	Leier	2023	26.3
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2015	93.0
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2016	93.3
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2017	93.3
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2018	93.1
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2019	93.3
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2020	93.2
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2021	93.2
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2022	93.6
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Selveier	2023	93.6
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2015	1.1
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2016	1.1
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2017	0.9
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2018	1.0
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2019	0.9
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2020	0.9
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2021	1.0
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2022	0.8
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Andels- / aksjeeier	2023	1.0
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Leier	2015	6.0
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Leier	2016	5.6
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Leier	2017	5.8
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Leier	2018	5.9
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Leier	2019	5.8
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Leier	2020	5.9
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Leier	2021	5.8
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Leier	2022	5.5
+Husholdninger (prosent)	1149 Karmøy	Par uten hjemmeboende barn	Leier	2023	5.5
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2015	91.0
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2016	90.5
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2017	92.0
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2018	91.3
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2019	90.8
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2020	91.4
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2021	91.5
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2022	92.5
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Selveier	2023	92.2
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2015	0.6
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2016	0.4
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2017	0.3
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2018	0.3
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2019	0.5
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2020	0.4
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2021	0.6
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2022	0.4
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2023	0.2
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2015	8.5
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2016	9.1
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2017	7.7
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2018	8.3
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2019	8.7
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2020	8.2
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2021	7.9
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2022	7.1
+Husholdninger (prosent)	1149 Karmøy	Par med små barn (yngste barn 0-5 år)	Leier	2023	7.6
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2015	95.5
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2016	95.9
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2017	95.5
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2018	94.6
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2019	95.2
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2020	95.0
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2021	95.2
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2022	95.2
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Selveier	2023	94.9
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2015	0.4
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2016	0.3
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2017	0.3
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2018	0.3
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2019	0.3
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2020	0.3
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2021	0.3
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2022	0.3
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2023	0.3
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2015	4.1
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2016	3.8
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2017	4.3
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2018	5.1
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2019	4.5
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2020	4.7
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2021	4.5
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2022	4.5
+Husholdninger (prosent)	1149 Karmøy	Par med store barn (yngste barn 6-17 år)	Leier	2023	4.8
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2015	54.6
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2016	54.3
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2017	55.5
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2018	54.6
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2019	55.6
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2020	57.7
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2021	57.3
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2022	58.4
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Selveier	2023	58.4
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2015	1.7
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2016	1.1
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2017	1.1
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2018	1.2
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2019	0.0
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2020	0.0
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2021	0.0
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2022	1.6
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Andels- / aksjeeier	2023	3.0
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2015	43.6
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2016	44.6
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2017	43.3
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2018	44.2
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2019	44.4
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2020	42.3
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2021	42.7
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2022	40.0
+Husholdninger (prosent)	1149 Karmøy	Mor/far med små barn (yngste barn 0-5 år)	Leier	2023	38.6
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2015	79.6
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2016	79.7
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2017	77.5
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2018	77.8
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2019	78.7
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2020	78.4
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2021	76.7
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2022	76.5
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Selveier	2023	76.9
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2015	1.5
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2016	1.0
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2017	1.8
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2018	1.4
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2019	2.0
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2020	1.8
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2021	1.6
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2022	1.9
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Andels- / aksjeeier	2023	1.9
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2015	18.9
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2016	19.3
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2017	20.6
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2018	20.8
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2019	19.4
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2020	19.9
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2021	21.7
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2022	21.6
+Husholdninger (prosent)	1149 Karmøy	Mor/far med store barn (yngste barn 6-17 år)	Leier	2023	21.2
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2015	94.5
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2016	94.2
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2017	94.2
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2018	94.7
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2019	94.8
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2020	94.2
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2021	93.6
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2022	94.1
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Selveier	2023	94.0
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2015	0.4
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2016	0.5
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2017	0.8
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2018	0.5
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2019	0.7
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2020	0.7
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2021	0.5
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2022	0.4
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Andels- / aksjeeier	2023	0.4
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2015	5.1
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2016	5.3
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2017	5.0
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2018	4.9
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2019	4.5
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2020	5.2
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2021	5.9
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2022	5.5
+Husholdninger (prosent)	1149 Karmøy	Enfamiliehusholdninger med voksne barn (yngste barn 18 år og over)	Leier	2023	5.6
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2015	94.6
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2016	92.9
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2017	93.0
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2018	90.5
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2019	92.0
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2020	95.3
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2021	94.7
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2022	90.5
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Selveier	2023	90.8
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2015	1.2
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2016	0.0
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2017	0.0
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2018	1.3
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2019	1.3
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2020	0.0
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2021	1.5
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2022	0.0
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Andels- / aksjeeier	2023	0.0
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2015	4.2
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2016	7.1
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2017	7.0
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2018	8.2
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2019	6.6
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2020	4.7
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2021	3.9
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2022	9.5
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger med barn	Leier	2023	9.2
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2015	74.2
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2016	75.7
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2017	71.8
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2018	70.6
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2019	71.9
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2020	72.8
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2021	74.7
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2022	72.6
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Selveier	2023	72.1
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2015	1.3
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2016	1.4
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2017	1.7
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2018	1.6
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2019	1.3
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2020	2.1
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2021	1.5
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2022	1.3
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Andels- / aksjeeier	2023	1.9
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2015	24.5
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2016	22.9
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2017	26.5
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2018	27.7
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2019	26.8
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2020	25.1
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2021	23.7
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2022	26.0
+Husholdninger (prosent)	1149 Karmøy	Flerfamiliehusholdninger uten barn 0-17 år	Leier	2023	26.0

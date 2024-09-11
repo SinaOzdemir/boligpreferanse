@@ -1,0 +1,46 @@
+region	bygningstype	inntektsgruppe	statistikkvariabel	ar	11345: Husholdninger,
+1149 Karmøy	Enebolig	Alle husholdninger	Antall husholdninger	2015	13673
+1149 Karmøy	Enebolig	Alle husholdninger	Antall husholdninger	2016	13723
+1149 Karmøy	Enebolig	Alle husholdninger	Antall husholdninger	2017	13797
+1149 Karmøy	Enebolig	Alle husholdninger	Antall husholdninger	2018	13824
+1149 Karmøy	Enebolig	Alle husholdninger	Antall husholdninger	2019	13861
+1149 Karmøy	Enebolig	Alle husholdninger	Antall husholdninger	2020	13915
+1149 Karmøy	Enebolig	Alle husholdninger	Antall husholdninger	2021	14021
+1149 Karmøy	Enebolig	Alle husholdninger	Antall husholdninger	2022	14081
+1149 Karmøy	Enebolig	Alle husholdninger	Antall husholdninger	2023	14244
+1149 Karmøy	Tomannsbolig	Alle husholdninger	Antall husholdninger	2015	908
+1149 Karmøy	Tomannsbolig	Alle husholdninger	Antall husholdninger	2016	933
+1149 Karmøy	Tomannsbolig	Alle husholdninger	Antall husholdninger	2017	975
+1149 Karmøy	Tomannsbolig	Alle husholdninger	Antall husholdninger	2018	999
+1149 Karmøy	Tomannsbolig	Alle husholdninger	Antall husholdninger	2019	1022
+1149 Karmøy	Tomannsbolig	Alle husholdninger	Antall husholdninger	2020	1043
+1149 Karmøy	Tomannsbolig	Alle husholdninger	Antall husholdninger	2021	1054
+1149 Karmøy	Tomannsbolig	Alle husholdninger	Antall husholdninger	2022	1087
+1149 Karmøy	Tomannsbolig	Alle husholdninger	Antall husholdninger	2023	1097
+1149 Karmøy	Rekkehus, kjedehus, andre smahus	Alle husholdninger	Antall husholdninger	2015	1231
+1149 Karmøy	Rekkehus, kjedehus, andre smahus	Alle husholdninger	Antall husholdninger	2016	1291
+1149 Karmøy	Rekkehus, kjedehus, andre smahus	Alle husholdninger	Antall husholdninger	2017	1332
+1149 Karmøy	Rekkehus, kjedehus, andre smahus	Alle husholdninger	Antall husholdninger	2018	1395
+1149 Karmøy	Rekkehus, kjedehus, andre smahus	Alle husholdninger	Antall husholdninger	2019	1482
+1149 Karmøy	Rekkehus, kjedehus, andre smahus	Alle husholdninger	Antall husholdninger	2020	1575
+1149 Karmøy	Rekkehus, kjedehus, andre smahus	Alle husholdninger	Antall husholdninger	2021	1649
+1149 Karmøy	Rekkehus, kjedehus, andre smahus	Alle husholdninger	Antall husholdninger	2022	1671
+1149 Karmøy	Rekkehus, kjedehus, andre smahus	Alle husholdninger	Antall husholdninger	2023	1751
+1149 Karmøy	Boligblokk	Alle husholdninger	Antall husholdninger	2015	739
+1149 Karmøy	Boligblokk	Alle husholdninger	Antall husholdninger	2016	795
+1149 Karmøy	Boligblokk	Alle husholdninger	Antall husholdninger	2017	808
+1149 Karmøy	Boligblokk	Alle husholdninger	Antall husholdninger	2018	834
+1149 Karmøy	Boligblokk	Alle husholdninger	Antall husholdninger	2019	816
+1149 Karmøy	Boligblokk	Alle husholdninger	Antall husholdninger	2020	808
+1149 Karmøy	Boligblokk	Alle husholdninger	Antall husholdninger	2021	840
+1149 Karmøy	Boligblokk	Alle husholdninger	Antall husholdninger	2022	876
+1149 Karmøy	Boligblokk	Alle husholdninger	Antall husholdninger	2023	918
+1149 Karmøy	Annen boligbygning	Alle husholdninger	Antall husholdninger	2015	480
+1149 Karmøy	Annen boligbygning	Alle husholdninger	Antall husholdninger	2016	484
+1149 Karmøy	Annen boligbygning	Alle husholdninger	Antall husholdninger	2017	461
+1149 Karmøy	Annen boligbygning	Alle husholdninger	Antall husholdninger	2018	444
+1149 Karmøy	Annen boligbygning	Alle husholdninger	Antall husholdninger	2019	440
+1149 Karmøy	Annen boligbygning	Alle husholdninger	Antall husholdninger	2020	451
+1149 Karmøy	Annen boligbygning	Alle husholdninger	Antall husholdninger	2021	437
+1149 Karmøy	Annen boligbygning	Alle husholdninger	Antall husholdninger	2022	424
+1149 Karmøy	Annen boligbygning	Alle husholdninger	Antall husholdninger	2023	435

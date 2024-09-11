@@ -1,0 +1,226 @@
+contents	region	year	12008: Municipal disposed dwellings,
+Total number of municipal disposed dwellings (number)	1106 Haugesund	2015	578
+Total number of municipal disposed dwellings (number)	1106 Haugesund	2016	595
+Total number of municipal disposed dwellings (number)	1106 Haugesund	2017	597
+Total number of municipal disposed dwellings (number)	1106 Haugesund	2018	592
+Total number of municipal disposed dwellings (number)	1106 Haugesund	2019	582
+Total number of municipal disposed dwellings (number)	1106 Haugesund	2020	571
+Total number of municipal disposed dwellings (number)	1106 Haugesund	2021	565
+Total number of municipal disposed dwellings (number)	1106 Haugesund	2022	560
+Total number of municipal disposed dwellings (number)	1106 Haugesund	2023	518
+Total number of municipal disposed dwellings (number)	1145 Bokn	2015	21
+Total number of municipal disposed dwellings (number)	1145 Bokn	2016	21
+Total number of municipal disposed dwellings (number)	1145 Bokn	2017	21
+Total number of municipal disposed dwellings (number)	1145 Bokn	2018	21
+Total number of municipal disposed dwellings (number)	1145 Bokn	2019	28
+Total number of municipal disposed dwellings (number)	1145 Bokn	2020	26
+Total number of municipal disposed dwellings (number)	1145 Bokn	2021	26
+Total number of municipal disposed dwellings (number)	1145 Bokn	2022	26
+Total number of municipal disposed dwellings (number)	1145 Bokn	2023	26
+Total number of municipal disposed dwellings (number)	1146 Tysvær	2015	189
+Total number of municipal disposed dwellings (number)	1146 Tysvær	2016	179
+Total number of municipal disposed dwellings (number)	1146 Tysvær	2017	176
+Total number of municipal disposed dwellings (number)	1146 Tysvær	2018	171
+Total number of municipal disposed dwellings (number)	1146 Tysvær	2019	165
+Total number of municipal disposed dwellings (number)	1146 Tysvær	2020	153
+Total number of municipal disposed dwellings (number)	1146 Tysvær	2021	151
+Total number of municipal disposed dwellings (number)	1146 Tysvær	2022	155
+Total number of municipal disposed dwellings (number)	1146 Tysvær	2023	165
+Total number of municipal disposed dwellings (number)	1149 Karmøy	2015	516
+Total number of municipal disposed dwellings (number)	1149 Karmøy	2016	503
+Total number of municipal disposed dwellings (number)	1149 Karmøy	2017	510
+Total number of municipal disposed dwellings (number)	1149 Karmøy	2018	494
+Total number of municipal disposed dwellings (number)	1149 Karmøy	2019	474
+Total number of municipal disposed dwellings (number)	1149 Karmøy	2020	475
+Total number of municipal disposed dwellings (number)	1149 Karmøy	2021	468
+Total number of municipal disposed dwellings (number)	1149 Karmøy	2022	439
+Total number of municipal disposed dwellings (number)	1149 Karmøy	2023	469
+Total number of municipal disposed dwellings (number)	1160 Vindafjord	2015	122
+Total number of municipal disposed dwellings (number)	1160 Vindafjord	2016	124
+Total number of municipal disposed dwellings (number)	1160 Vindafjord	2017	125
+Total number of municipal disposed dwellings (number)	1160 Vindafjord	2018	118
+Total number of municipal disposed dwellings (number)	1160 Vindafjord	2019	116
+Total number of municipal disposed dwellings (number)	1160 Vindafjord	2020	109
+Total number of municipal disposed dwellings (number)	1160 Vindafjord	2021	109
+Total number of municipal disposed dwellings (number)	1160 Vindafjord	2022	96
+Total number of municipal disposed dwellings (number)	1160 Vindafjord	2023	105
+Dwellings owned by municipality (number)	1106 Haugesund	2015	284
+Dwellings owned by municipality (number)	1106 Haugesund	2016	282
+Dwellings owned by municipality (number)	1106 Haugesund	2017	284
+Dwellings owned by municipality (number)	1106 Haugesund	2018	279
+Dwellings owned by municipality (number)	1106 Haugesund	2019	269
+Dwellings owned by municipality (number)	1106 Haugesund	2020	258
+Dwellings owned by municipality (number)	1106 Haugesund	2021	252
+Dwellings owned by municipality (number)	1106 Haugesund	2022	247
+Dwellings owned by municipality (number)	1106 Haugesund	2023	247
+Dwellings owned by municipality (number)	1145 Bokn	2015	21
+Dwellings owned by municipality (number)	1145 Bokn	2016	21
+Dwellings owned by municipality (number)	1145 Bokn	2017	21
+Dwellings owned by municipality (number)	1145 Bokn	2018	21
+Dwellings owned by municipality (number)	1145 Bokn	2019	28
+Dwellings owned by municipality (number)	1145 Bokn	2020	26
+Dwellings owned by municipality (number)	1145 Bokn	2021	26
+Dwellings owned by municipality (number)	1145 Bokn	2022	26
+Dwellings owned by municipality (number)	1145 Bokn	2023	26
+Dwellings owned by municipality (number)	1146 Tysvær	2015	167
+Dwellings owned by municipality (number)	1146 Tysvær	2016	167
+Dwellings owned by municipality (number)	1146 Tysvær	2017	167
+Dwellings owned by municipality (number)	1146 Tysvær	2018	167
+Dwellings owned by municipality (number)	1146 Tysvær	2019	162
+Dwellings owned by municipality (number)	1146 Tysvær	2020	151
+Dwellings owned by municipality (number)	1146 Tysvær	2021	149
+Dwellings owned by municipality (number)	1146 Tysvær	2022	154
+Dwellings owned by municipality (number)	1146 Tysvær	2023	164
+Dwellings owned by municipality (number)	1149 Karmøy	2015	392
+Dwellings owned by municipality (number)	1149 Karmøy	2016	383
+Dwellings owned by municipality (number)	1149 Karmøy	2017	390
+Dwellings owned by municipality (number)	1149 Karmøy	2018	391
+Dwellings owned by municipality (number)	1149 Karmøy	2019	384
+Dwellings owned by municipality (number)	1149 Karmøy	2020	383
+Dwellings owned by municipality (number)	1149 Karmøy	2021	378
+Dwellings owned by municipality (number)	1149 Karmøy	2022	373
+Dwellings owned by municipality (number)	1149 Karmøy	2023	398
+Dwellings owned by municipality (number)	1160 Vindafjord	2015	106
+Dwellings owned by municipality (number)	1160 Vindafjord	2016	106
+Dwellings owned by municipality (number)	1160 Vindafjord	2017	112
+Dwellings owned by municipality (number)	1160 Vindafjord	2018	106
+Dwellings owned by municipality (number)	1160 Vindafjord	2019	104
+Dwellings owned by municipality (number)	1160 Vindafjord	2020	97
+Dwellings owned by municipality (number)	1160 Vindafjord	2021	97
+Dwellings owned by municipality (number)	1160 Vindafjord	2022	96
+Dwellings owned by municipality (number)	1160 Vindafjord	2023	105
+Let dwellings per 31 December (number)	1106 Haugesund	2015	229
+Let dwellings per 31 December (number)	1106 Haugesund	2016	261
+Let dwellings per 31 December (number)	1106 Haugesund	2017	261
+Let dwellings per 31 December (number)	1106 Haugesund	2018	261
+Let dwellings per 31 December (number)	1106 Haugesund	2019	261
+Let dwellings per 31 December (number)	1106 Haugesund	2020	261
+Let dwellings per 31 December (number)	1106 Haugesund	2021	261
+Let dwellings per 31 December (number)	1106 Haugesund	2022	261
+Let dwellings per 31 December (number)	1106 Haugesund	2023	261
+Let dwellings per 31 December (number)	1145 Bokn	2015	0
+Let dwellings per 31 December (number)	1145 Bokn	2016	0
+Let dwellings per 31 December (number)	1145 Bokn	2017	0
+Let dwellings per 31 December (number)	1145 Bokn	2018	0
+Let dwellings per 31 December (number)	1145 Bokn	2019	0
+Let dwellings per 31 December (number)	1145 Bokn	2020	0
+Let dwellings per 31 December (number)	1145 Bokn	2021	0
+Let dwellings per 31 December (number)	1145 Bokn	2022	0
+Let dwellings per 31 December (number)	1145 Bokn	2023	0
+Let dwellings per 31 December (number)	1146 Tysvær	2015	22
+Let dwellings per 31 December (number)	1146 Tysvær	2016	12
+Let dwellings per 31 December (number)	1146 Tysvær	2017	9
+Let dwellings per 31 December (number)	1146 Tysvær	2018	4
+Let dwellings per 31 December (number)	1146 Tysvær	2019	3
+Let dwellings per 31 December (number)	1146 Tysvær	2020	2
+Let dwellings per 31 December (number)	1146 Tysvær	2021	2
+Let dwellings per 31 December (number)	1146 Tysvær	2022	1
+Let dwellings per 31 December (number)	1146 Tysvær	2023	1
+Let dwellings per 31 December (number)	1149 Karmøy	2015	5
+Let dwellings per 31 December (number)	1149 Karmøy	2016	0
+Let dwellings per 31 December (number)	1149 Karmøy	2017	0
+Let dwellings per 31 December (number)	1149 Karmøy	2018	0
+Let dwellings per 31 December (number)	1149 Karmøy	2019	0
+Let dwellings per 31 December (number)	1149 Karmøy	2020	0
+Let dwellings per 31 December (number)	1149 Karmøy	2021	0
+Let dwellings per 31 December (number)	1149 Karmøy	2022	0
+Let dwellings per 31 December (number)	1149 Karmøy	2023	27
+Let dwellings per 31 December (number)	1160 Vindafjord	2015	16
+Let dwellings per 31 December (number)	1160 Vindafjord	2016	18
+Let dwellings per 31 December (number)	1160 Vindafjord	2017	12
+Let dwellings per 31 December (number)	1160 Vindafjord	2018	12
+Let dwellings per 31 December (number)	1160 Vindafjord	2019	12
+Let dwellings per 31 December (number)	1160 Vindafjord	2020	12
+Let dwellings per 31 December (number)	1160 Vindafjord	2021	12
+Let dwellings per 31 December (number)	1160 Vindafjord	2022	0
+Let dwellings per 31 December (number)	1160 Vindafjord	2023	0
+Privately owned with municipal right of disposal (number)	1106 Haugesund	2015	65
+Privately owned with municipal right of disposal (number)	1106 Haugesund	2016	52
+Privately owned with municipal right of disposal (number)	1106 Haugesund	2017	52
+Privately owned with municipal right of disposal (number)	1106 Haugesund	2018	52
+Privately owned with municipal right of disposal (number)	1106 Haugesund	2019	52
+Privately owned with municipal right of disposal (number)	1106 Haugesund	2020	52
+Privately owned with municipal right of disposal (number)	1106 Haugesund	2021	52
+Privately owned with municipal right of disposal (number)	1106 Haugesund	2022	52
+Privately owned with municipal right of disposal (number)	1106 Haugesund	2023	10
+Privately owned with municipal right of disposal (number)	1145 Bokn	2015	0
+Privately owned with municipal right of disposal (number)	1145 Bokn	2016	0
+Privately owned with municipal right of disposal (number)	1145 Bokn	2017	0
+Privately owned with municipal right of disposal (number)	1145 Bokn	2018	0
+Privately owned with municipal right of disposal (number)	1145 Bokn	2019	0
+Privately owned with municipal right of disposal (number)	1145 Bokn	2020	0
+Privately owned with municipal right of disposal (number)	1145 Bokn	2021	0
+Privately owned with municipal right of disposal (number)	1145 Bokn	2022	0
+Privately owned with municipal right of disposal (number)	1145 Bokn	2023	0
+Privately owned with municipal right of disposal (number)	1146 Tysvær	2015	0
+Privately owned with municipal right of disposal (number)	1146 Tysvær	2016	0
+Privately owned with municipal right of disposal (number)	1146 Tysvær	2017	0
+Privately owned with municipal right of disposal (number)	1146 Tysvær	2018	0
+Privately owned with municipal right of disposal (number)	1146 Tysvær	2019	0
+Privately owned with municipal right of disposal (number)	1146 Tysvær	2020	0
+Privately owned with municipal right of disposal (number)	1146 Tysvær	2021	0
+Privately owned with municipal right of disposal (number)	1146 Tysvær	2022	0
+Privately owned with municipal right of disposal (number)	1146 Tysvær	2023	0
+Privately owned with municipal right of disposal (number)	1149 Karmøy	2015	119
+Privately owned with municipal right of disposal (number)	1149 Karmøy	2016	120
+Privately owned with municipal right of disposal (number)	1149 Karmøy	2017	120
+Privately owned with municipal right of disposal (number)	1149 Karmøy	2018	103
+Privately owned with municipal right of disposal (number)	1149 Karmøy	2019	90
+Privately owned with municipal right of disposal (number)	1149 Karmøy	2020	92
+Privately owned with municipal right of disposal (number)	1149 Karmøy	2021	90
+Privately owned with municipal right of disposal (number)	1149 Karmøy	2022	66
+Privately owned with municipal right of disposal (number)	1149 Karmøy	2023	44
+Privately owned with municipal right of disposal (number)	1160 Vindafjord	2015	0
+Privately owned with municipal right of disposal (number)	1160 Vindafjord	2016	0
+Privately owned with municipal right of disposal (number)	1160 Vindafjord	2017	1
+Privately owned with municipal right of disposal (number)	1160 Vindafjord	2018	0
+Privately owned with municipal right of disposal (number)	1160 Vindafjord	2019	0
+Privately owned with municipal right of disposal (number)	1160 Vindafjord	2020	0
+Privately owned with municipal right of disposal (number)	1160 Vindafjord	2021	0
+Privately owned with municipal right of disposal (number)	1160 Vindafjord	2022	0
+Privately owned with municipal right of disposal (number)	1160 Vindafjord	2023	0
+Number of let dwellings per 31 December (number)	1106 Haugesund	2015	550
+Number of let dwellings per 31 December (number)	1106 Haugesund	2016	555
+Number of let dwellings per 31 December (number)	1106 Haugesund	2017	534
+Number of let dwellings per 31 December (number)	1106 Haugesund	2018	510
+Number of let dwellings per 31 December (number)	1106 Haugesund	2019	498
+Number of let dwellings per 31 December (number)	1106 Haugesund	2020	470
+Number of let dwellings per 31 December (number)	1106 Haugesund	2021	464
+Number of let dwellings per 31 December (number)	1106 Haugesund	2022	498
+Number of let dwellings per 31 December (number)	1106 Haugesund	2023	478
+Number of let dwellings per 31 December (number)	1145 Bokn	2015	21
+Number of let dwellings per 31 December (number)	1145 Bokn	2016	20
+Number of let dwellings per 31 December (number)	1145 Bokn	2017	20
+Number of let dwellings per 31 December (number)	1145 Bokn	2018	19
+Number of let dwellings per 31 December (number)	1145 Bokn	2019	19
+Number of let dwellings per 31 December (number)	1145 Bokn	2020	18
+Number of let dwellings per 31 December (number)	1145 Bokn	2021	15
+Number of let dwellings per 31 December (number)	1145 Bokn	2022	20
+Number of let dwellings per 31 December (number)	1145 Bokn	2023	20
+Number of let dwellings per 31 December (number)	1146 Tysvær	2015	177
+Number of let dwellings per 31 December (number)	1146 Tysvær	2016	168
+Number of let dwellings per 31 December (number)	1146 Tysvær	2017	154
+Number of let dwellings per 31 December (number)	1146 Tysvær	2018	149
+Number of let dwellings per 31 December (number)	1146 Tysvær	2019	133
+Number of let dwellings per 31 December (number)	1146 Tysvær	2020	126
+Number of let dwellings per 31 December (number)	1146 Tysvær	2021	132
+Number of let dwellings per 31 December (number)	1146 Tysvær	2022	123
+Number of let dwellings per 31 December (number)	1146 Tysvær	2023	146
+Number of let dwellings per 31 December (number)	1149 Karmøy	2015	483
+Number of let dwellings per 31 December (number)	1149 Karmøy	2016	474
+Number of let dwellings per 31 December (number)	1149 Karmøy	2017	471
+Number of let dwellings per 31 December (number)	1149 Karmøy	2018	442
+Number of let dwellings per 31 December (number)	1149 Karmøy	2019	420
+Number of let dwellings per 31 December (number)	1149 Karmøy	2020	421
+Number of let dwellings per 31 December (number)	1149 Karmøy	2021	423
+Number of let dwellings per 31 December (number)	1149 Karmøy	2022	412
+Number of let dwellings per 31 December (number)	1149 Karmøy	2023	445
+Number of let dwellings per 31 December (number)	1160 Vindafjord	2015	117
+Number of let dwellings per 31 December (number)	1160 Vindafjord	2016	115
+Number of let dwellings per 31 December (number)	1160 Vindafjord	2017	105
+Number of let dwellings per 31 December (number)	1160 Vindafjord	2018	105
+Number of let dwellings per 31 December (number)	1160 Vindafjord	2019	103
+Number of let dwellings per 31 December (number)	1160 Vindafjord	2020	94
+Number of let dwellings per 31 December (number)	1160 Vindafjord	2021	91
+Number of let dwellings per 31 December (number)	1160 Vindafjord	2022	79
+Number of let dwellings per 31 December (number)	1160 Vindafjord	2023	86

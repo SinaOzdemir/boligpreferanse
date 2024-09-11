@@ -1,0 +1,73 @@
+region	kjonn	alder	statistikkvariabel	ar	07459: Befolkning,
+K-1149 Karmoy	Menn	0-19 ar	Personer	2013	5849
+K-1149 Karmoy	Menn	0-19 ar	Personer	2014	5880
+K-1149 Karmoy	Menn	0-19 ar	Personer	2015	5863
+K-1149 Karmoy	Menn	0-19 ar	Personer	2016	5816
+K-1149 Karmoy	Menn	0-19 ar	Personer	2017	5791
+K-1149 Karmoy	Menn	0-19 ar	Personer	2018	5760
+K-1149 Karmoy	Menn	0-19 ar	Personer	2019	5695
+K-1149 Karmoy	Menn	0-19 ar	Personer	2020	5630
+K-1149 Karmoy	Menn	0-19 ar	Personer	2021	5608
+K-1149 Karmoy	Menn	0-19 ar	Personer	2022	5537
+K-1149 Karmoy	Menn	0-19 ar	Personer	2023	5593
+K-1149 Karmoy	Menn	0-19 ar	Personer	2024	5616
+K-1149 Karmoy	Menn	20-64 ar	Personer	2013	12246
+K-1149 Karmoy	Menn	20-64 ar	Personer	2014	12389
+K-1149 Karmoy	Menn	20-64 ar	Personer	2015	12457
+K-1149 Karmoy	Menn	20-64 ar	Personer	2016	12505
+K-1149 Karmoy	Menn	20-64 ar	Personer	2017	12444
+K-1149 Karmoy	Menn	20-64 ar	Personer	2018	12395
+K-1149 Karmoy	Menn	20-64 ar	Personer	2019	12350
+K-1149 Karmoy	Menn	20-64 ar	Personer	2020	12326
+K-1149 Karmoy	Menn	20-64 ar	Personer	2021	12369
+K-1149 Karmoy	Menn	20-64 ar	Personer	2022	12477
+K-1149 Karmoy	Menn	20-64 ar	Personer	2023	12483
+K-1149 Karmoy	Menn	20-64 ar	Personer	2024	12613
+K-1149 Karmoy	Menn	65 ar eller eldre	Personer	2013	2711
+K-1149 Karmoy	Menn	65 ar eller eldre	Personer	2014	2833
+K-1149 Karmoy	Menn	65 ar eller eldre	Personer	2015	2950
+K-1149 Karmoy	Menn	65 ar eller eldre	Personer	2016	3061
+K-1149 Karmoy	Menn	65 ar eller eldre	Personer	2017	3147
+K-1149 Karmoy	Menn	65 ar eller eldre	Personer	2018	3266
+K-1149 Karmoy	Menn	65 ar eller eldre	Personer	2019	3366
+K-1149 Karmoy	Menn	65 ar eller eldre	Personer	2020	3441
+K-1149 Karmoy	Menn	65 ar eller eldre	Personer	2021	3544
+K-1149 Karmoy	Menn	65 ar eller eldre	Personer	2022	3602
+K-1149 Karmoy	Menn	65 ar eller eldre	Personer	2023	3703
+K-1149 Karmoy	Menn	65 ar eller eldre	Personer	2024	3779
+K-1149 Karmoy	Kvinner	0-19 ar	Personer	2013	5553
+K-1149 Karmoy	Kvinner	0-19 ar	Personer	2014	5588
+K-1149 Karmoy	Kvinner	0-19 ar	Personer	2015	5607
+K-1149 Karmoy	Kvinner	0-19 ar	Personer	2016	5538
+K-1149 Karmoy	Kvinner	0-19 ar	Personer	2017	5518
+K-1149 Karmoy	Kvinner	0-19 ar	Personer	2018	5450
+K-1149 Karmoy	Kvinner	0-19 ar	Personer	2019	5344
+K-1149 Karmoy	Kvinner	0-19 ar	Personer	2020	5274
+K-1149 Karmoy	Kvinner	0-19 ar	Personer	2021	5250
+K-1149 Karmoy	Kvinner	0-19 ar	Personer	2022	5235
+K-1149 Karmoy	Kvinner	0-19 ar	Personer	2023	5240
+K-1149 Karmoy	Kvinner	0-19 ar	Personer	2024	5251
+K-1149 Karmoy	Kvinner	20-64 ar	Personer	2013	11542
+K-1149 Karmoy	Kvinner	20-64 ar	Personer	2014	11717
+K-1149 Karmoy	Kvinner	20-64 ar	Personer	2015	11728
+K-1149 Karmoy	Kvinner	20-64 ar	Personer	2016	11711
+K-1149 Karmoy	Kvinner	20-64 ar	Personer	2017	11673
+K-1149 Karmoy	Kvinner	20-64 ar	Personer	2018	11693
+K-1149 Karmoy	Kvinner	20-64 ar	Personer	2019	11625
+K-1149 Karmoy	Kvinner	20-64 ar	Personer	2020	11657
+K-1149 Karmoy	Kvinner	20-64 ar	Personer	2021	11622
+K-1149 Karmoy	Kvinner	20-64 ar	Personer	2022	11651
+K-1149 Karmoy	Kvinner	20-64 ar	Personer	2023	11749
+K-1149 Karmoy	Kvinner	20-64 ar	Personer	2024	11846
+K-1149 Karmoy	Kvinner	65 ar eller eldre	Personer	2013	3217
+K-1149 Karmoy	Kvinner	65 ar eller eldre	Personer	2014	3346
+K-1149 Karmoy	Kvinner	65 ar eller eldre	Personer	2015	3457
+K-1149 Karmoy	Kvinner	65 ar eller eldre	Personer	2016	3556
+K-1149 Karmoy	Kvinner	65 ar eller eldre	Personer	2017	3656
+K-1149 Karmoy	Kvinner	65 ar eller eldre	Personer	2018	3679
+K-1149 Karmoy	Kvinner	65 ar eller eldre	Personer	2019	3781
+K-1149 Karmoy	Kvinner	65 ar eller eldre	Personer	2020	3858
+K-1149 Karmoy	Kvinner	65 ar eller eldre	Personer	2021	3952
+K-1149 Karmoy	Kvinner	65 ar eller eldre	Personer	2022	4039
+K-1149 Karmoy	Kvinner	65 ar eller eldre	Personer	2023	4135
+K-1149 Karmoy	Kvinner	65 ar eller eldre	Personer	2024	4201

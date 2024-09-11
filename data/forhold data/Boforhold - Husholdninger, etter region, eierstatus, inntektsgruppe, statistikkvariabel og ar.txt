@@ -1,0 +1,397 @@
+region	eierstatus	inntektsgruppe	statistikkvariabel	år	11346: Husholdninger,
+1149 Karmøy	I alt	Alle husholdninger	Antall husholdninger	2015	17031
+1149 Karmøy	I alt	Alle husholdninger	Antall husholdninger	2016	17226
+1149 Karmøy	I alt	Alle husholdninger	Antall husholdninger	2017	17373
+1149 Karmøy	I alt	Alle husholdninger	Antall husholdninger	2018	17496
+1149 Karmøy	I alt	Alle husholdninger	Antall husholdninger	2019	17621
+1149 Karmøy	I alt	Alle husholdninger	Antall husholdninger	2020	17792
+1149 Karmøy	I alt	Alle husholdninger	Antall husholdninger	2021	18001
+1149 Karmøy	I alt	Alle husholdninger	Antall husholdninger	2022	18139
+1149 Karmøy	I alt	Alle husholdninger	Antall husholdninger	2023	18445
+1149 Karmøy	I alt	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2015	2137
+1149 Karmøy	I alt	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2016	2124
+1149 Karmøy	I alt	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2017	2191
+1149 Karmøy	I alt	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2018	2264
+1149 Karmøy	I alt	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2019	2221
+1149 Karmøy	I alt	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2020	2228
+1149 Karmøy	I alt	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2021	2307
+1149 Karmøy	I alt	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2022	2202
+1149 Karmøy	I alt	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2023	2299
+1149 Karmøy	I alt	Laveste inntektskvartil	Antall husholdninger	2015	3689
+1149 Karmøy	I alt	Laveste inntektskvartil	Antall husholdninger	2016	3655
+1149 Karmøy	I alt	Laveste inntektskvartil	Antall husholdninger	2017	3802
+1149 Karmøy	I alt	Laveste inntektskvartil	Antall husholdninger	2018	3823
+1149 Karmøy	I alt	Laveste inntektskvartil	Antall husholdninger	2019	3794
+1149 Karmøy	I alt	Laveste inntektskvartil	Antall husholdninger	2020	3810
+1149 Karmøy	I alt	Laveste inntektskvartil	Antall husholdninger	2021	3884
+1149 Karmøy	I alt	Laveste inntektskvartil	Antall husholdninger	2022	3853
+1149 Karmøy	I alt	Laveste inntektskvartil	Antall husholdninger	2023	3926
+1149 Karmøy	I alt	Andre inntektskvartil	Antall husholdninger	2015	4534
+1149 Karmøy	I alt	Andre inntektskvartil	Antall husholdninger	2016	4748
+1149 Karmøy	I alt	Andre inntektskvartil	Antall husholdninger	2017	4856
+1149 Karmøy	I alt	Andre inntektskvartil	Antall husholdninger	2018	4892
+1149 Karmøy	I alt	Andre inntektskvartil	Antall husholdninger	2019	4860
+1149 Karmøy	I alt	Andre inntektskvartil	Antall husholdninger	2020	4979
+1149 Karmøy	I alt	Andre inntektskvartil	Antall husholdninger	2021	5027
+1149 Karmøy	I alt	Andre inntektskvartil	Antall husholdninger	2022	4923
+1149 Karmøy	I alt	Andre inntektskvartil	Antall husholdninger	2023	5020
+1149 Karmøy	I alt	Tredje inntektskvartil	Antall husholdninger	2015	4501
+1149 Karmøy	I alt	Tredje inntektskvartil	Antall husholdninger	2016	4585
+1149 Karmøy	I alt	Tredje inntektskvartil	Antall husholdninger	2017	4630
+1149 Karmøy	I alt	Tredje inntektskvartil	Antall husholdninger	2018	4689
+1149 Karmøy	I alt	Tredje inntektskvartil	Antall husholdninger	2019	4782
+1149 Karmøy	I alt	Tredje inntektskvartil	Antall husholdninger	2020	4752
+1149 Karmøy	I alt	Tredje inntektskvartil	Antall husholdninger	2021	4817
+1149 Karmøy	I alt	Tredje inntektskvartil	Antall husholdninger	2022	4893
+1149 Karmøy	I alt	Tredje inntektskvartil	Antall husholdninger	2023	4926
+1149 Karmøy	I alt	Høyeste inntektskvartil	Antall husholdninger	2015	4307
+1149 Karmøy	I alt	Høyeste inntektskvartil	Antall husholdninger	2016	4238
+1149 Karmøy	I alt	Høyeste inntektskvartil	Antall husholdninger	2017	4085
+1149 Karmøy	I alt	Høyeste inntektskvartil	Antall husholdninger	2018	4092
+1149 Karmøy	I alt	Høyeste inntektskvartil	Antall husholdninger	2019	4185
+1149 Karmøy	I alt	Høyeste inntektskvartil	Antall husholdninger	2020	4251
+1149 Karmøy	I alt	Høyeste inntektskvartil	Antall husholdninger	2021	4273
+1149 Karmøy	I alt	Høyeste inntektskvartil	Antall husholdninger	2022	4470
+1149 Karmøy	I alt	Høyeste inntektskvartil	Antall husholdninger	2023	4573
+1149 Karmøy	I alt	Bostøttemottakere	Antall husholdninger	2015	962
+1149 Karmøy	I alt	Bostøttemottakere	Antall husholdninger	2016	952
+1149 Karmøy	I alt	Bostøttemottakere	Antall husholdninger	2017	926
+1149 Karmøy	I alt	Bostøttemottakere	Antall husholdninger	2018	959
+1149 Karmøy	I alt	Bostøttemottakere	Antall husholdninger	2019	843
+1149 Karmøy	I alt	Bostøttemottakere	Antall husholdninger	2020	830
+1149 Karmøy	I alt	Bostøttemottakere	Antall husholdninger	2021	818
+1149 Karmøy	I alt	Bostøttemottakere	Antall husholdninger	2022	742
+1149 Karmøy	I alt	Bostøttemottakere	Antall husholdninger	2023	871
+1149 Karmøy	I alt	Sosialhjelpsmottakere	Antall husholdninger	2015	566
+1149 Karmøy	I alt	Sosialhjelpsmottakere	Antall husholdninger	2016	647
+1149 Karmøy	I alt	Sosialhjelpsmottakere	Antall husholdninger	2017	694
+1149 Karmøy	I alt	Sosialhjelpsmottakere	Antall husholdninger	2018	714
+1149 Karmøy	I alt	Sosialhjelpsmottakere	Antall husholdninger	2019	745
+1149 Karmøy	I alt	Sosialhjelpsmottakere	Antall husholdninger	2020	723
+1149 Karmøy	I alt	Sosialhjelpsmottakere	Antall husholdninger	2021	707
+1149 Karmøy	I alt	Sosialhjelpsmottakere	Antall husholdninger	2022	654
+1149 Karmøy	I alt	Sosialhjelpsmottakere	Antall husholdninger	2023	726
+1149 Karmøy	I alt	Trygdemottaker under 67 år	Antall husholdninger	2015	1595
+1149 Karmøy	I alt	Trygdemottaker under 67 år	Antall husholdninger	2016	1710
+1149 Karmøy	I alt	Trygdemottaker under 67 år	Antall husholdninger	2017	1786
+1149 Karmøy	I alt	Trygdemottaker under 67 år	Antall husholdninger	2018	1899
+1149 Karmøy	I alt	Trygdemottaker under 67 år	Antall husholdninger	2019	1892
+1149 Karmøy	I alt	Trygdemottaker under 67 år	Antall husholdninger	2020	1891
+1149 Karmøy	I alt	Trygdemottaker under 67 år	Antall husholdninger	2021	1936
+1149 Karmøy	I alt	Trygdemottaker under 67 år	Antall husholdninger	2022	1952
+1149 Karmøy	I alt	Trygdemottaker under 67 år	Antall husholdninger	2023	1978
+1149 Karmøy	I alt	Trygdemottaker 67 år og eldre	Antall husholdninger	2015	3141
+1149 Karmøy	I alt	Trygdemottaker 67 år og eldre	Antall husholdninger	2016	3247
+1149 Karmøy	I alt	Trygdemottaker 67 år og eldre	Antall husholdninger	2017	3368
+1149 Karmøy	I alt	Trygdemottaker 67 år og eldre	Antall husholdninger	2018	3463
+1149 Karmøy	I alt	Trygdemottaker 67 år og eldre	Antall husholdninger	2019	3557
+1149 Karmøy	I alt	Trygdemottaker 67 år og eldre	Antall husholdninger	2020	3699
+1149 Karmøy	I alt	Trygdemottaker 67 år og eldre	Antall husholdninger	2021	3779
+1149 Karmøy	I alt	Trygdemottaker 67 år og eldre	Antall husholdninger	2022	3797
+1149 Karmøy	I alt	Trygdemottaker 67 år og eldre	Antall husholdninger	2023	3831
+1149 Karmøy	I alt	Høy gjeldsbelastning	Antall husholdninger	2015	2869
+1149 Karmøy	I alt	Høy gjeldsbelastning	Antall husholdninger	2016	3108
+1149 Karmøy	I alt	Høy gjeldsbelastning	Antall husholdninger	2017	3380
+1149 Karmøy	I alt	Høy gjeldsbelastning	Antall husholdninger	2018	3399
+1149 Karmøy	I alt	Høy gjeldsbelastning	Antall husholdninger	2019	3321
+1149 Karmøy	I alt	Høy gjeldsbelastning	Antall husholdninger	2020	3284
+1149 Karmøy	I alt	Høy gjeldsbelastning	Antall husholdninger	2021	3344
+1149 Karmøy	I alt	Høy gjeldsbelastning	Antall husholdninger	2022	3187
+1149 Karmøy	I alt	Høy gjeldsbelastning	Antall husholdninger	2023	3061
+1149 Karmøy	Selveier	Alle husholdninger	Antall husholdninger	2015	14497
+1149 Karmøy	Selveier	Alle husholdninger	Antall husholdninger	2016	14639
+1149 Karmøy	Selveier	Alle husholdninger	Antall husholdninger	2017	14775
+1149 Karmøy	Selveier	Alle husholdninger	Antall husholdninger	2018	14878
+1149 Karmøy	Selveier	Alle husholdninger	Antall husholdninger	2019	15034
+1149 Karmøy	Selveier	Alle husholdninger	Antall husholdninger	2020	15170
+1149 Karmøy	Selveier	Alle husholdninger	Antall husholdninger	2021	15261
+1149 Karmøy	Selveier	Alle husholdninger	Antall husholdninger	2022	15409
+1149 Karmøy	Selveier	Alle husholdninger	Antall husholdninger	2023	15622
+1149 Karmøy	Selveier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2015	1197
+1149 Karmøy	Selveier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2016	1161
+1149 Karmøy	Selveier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2017	1226
+1149 Karmøy	Selveier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2018	1250
+1149 Karmøy	Selveier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2019	1281
+1149 Karmøy	Selveier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2020	1225
+1149 Karmøy	Selveier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2021	1255
+1149 Karmøy	Selveier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2022	1192
+1149 Karmøy	Selveier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2023	1247
+1149 Karmøy	Selveier	Laveste inntektskvartil	Antall husholdninger	2015	2229
+1149 Karmøy	Selveier	Laveste inntektskvartil	Antall husholdninger	2016	2165
+1149 Karmøy	Selveier	Laveste inntektskvartil	Antall husholdninger	2017	2309
+1149 Karmøy	Selveier	Laveste inntektskvartil	Antall husholdninger	2018	2308
+1149 Karmøy	Selveier	Laveste inntektskvartil	Antall husholdninger	2019	2347
+1149 Karmøy	Selveier	Laveste inntektskvartil	Antall husholdninger	2020	2327
+1149 Karmøy	Selveier	Laveste inntektskvartil	Antall husholdninger	2021	2354
+1149 Karmøy	Selveier	Laveste inntektskvartil	Antall husholdninger	2022	2365
+1149 Karmøy	Selveier	Laveste inntektskvartil	Antall husholdninger	2023	2359
+1149 Karmøy	Selveier	Andre inntektskvartil	Antall husholdninger	2015	3939
+1149 Karmøy	Selveier	Andre inntektskvartil	Antall husholdninger	2016	4075
+1149 Karmøy	Selveier	Andre inntektskvartil	Antall husholdninger	2017	4213
+1149 Karmøy	Selveier	Andre inntektskvartil	Antall husholdninger	2018	4253
+1149 Karmøy	Selveier	Andre inntektskvartil	Antall husholdninger	2019	4221
+1149 Karmøy	Selveier	Andre inntektskvartil	Antall husholdninger	2020	4316
+1149 Karmøy	Selveier	Andre inntektskvartil	Antall husholdninger	2021	4339
+1149 Karmøy	Selveier	Andre inntektskvartil	Antall husholdninger	2022	4243
+1149 Karmøy	Selveier	Andre inntektskvartil	Antall husholdninger	2023	4315
+1149 Karmøy	Selveier	Tredje inntektskvartil	Antall husholdninger	2015	4206
+1149 Karmøy	Selveier	Tredje inntektskvartil	Antall husholdninger	2016	4317
+1149 Karmøy	Selveier	Tredje inntektskvartil	Antall husholdninger	2017	4333
+1149 Karmøy	Selveier	Tredje inntektskvartil	Antall husholdninger	2018	4392
+1149 Karmøy	Selveier	Tredje inntektskvartil	Antall husholdninger	2019	4452
+1149 Karmøy	Selveier	Tredje inntektskvartil	Antall husholdninger	2020	4440
+1149 Karmøy	Selveier	Tredje inntektskvartil	Antall husholdninger	2021	4467
+1149 Karmøy	Selveier	Tredje inntektskvartil	Antall husholdninger	2022	4524
+1149 Karmøy	Selveier	Tredje inntektskvartil	Antall husholdninger	2023	4565
+1149 Karmøy	Selveier	Høyeste inntektskvartil	Antall husholdninger	2015	4123
+1149 Karmøy	Selveier	Høyeste inntektskvartil	Antall husholdninger	2016	4082
+1149 Karmøy	Selveier	Høyeste inntektskvartil	Antall husholdninger	2017	3920
+1149 Karmøy	Selveier	Høyeste inntektskvartil	Antall husholdninger	2018	3925
+1149 Karmøy	Selveier	Høyeste inntektskvartil	Antall husholdninger	2019	4014
+1149 Karmøy	Selveier	Høyeste inntektskvartil	Antall husholdninger	2020	4087
+1149 Karmøy	Selveier	Høyeste inntektskvartil	Antall husholdninger	2021	4101
+1149 Karmøy	Selveier	Høyeste inntektskvartil	Antall husholdninger	2022	4277
+1149 Karmøy	Selveier	Høyeste inntektskvartil	Antall husholdninger	2023	4383
+1149 Karmøy	Selveier	Bostøttemottakere	Antall husholdninger	2015	337
+1149 Karmøy	Selveier	Bostøttemottakere	Antall husholdninger	2016	332
+1149 Karmøy	Selveier	Bostøttemottakere	Antall husholdninger	2017	331
+1149 Karmøy	Selveier	Bostøttemottakere	Antall husholdninger	2018	346
+1149 Karmøy	Selveier	Bostøttemottakere	Antall husholdninger	2019	322
+1149 Karmøy	Selveier	Bostøttemottakere	Antall husholdninger	2020	301
+1149 Karmøy	Selveier	Bostøttemottakere	Antall husholdninger	2021	285
+1149 Karmøy	Selveier	Bostøttemottakere	Antall husholdninger	2022	264
+1149 Karmøy	Selveier	Bostøttemottakere	Antall husholdninger	2023	305
+1149 Karmøy	Selveier	Sosialhjelpsmottakere	Antall husholdninger	2015	235
+1149 Karmøy	Selveier	Sosialhjelpsmottakere	Antall husholdninger	2016	284
+1149 Karmøy	Selveier	Sosialhjelpsmottakere	Antall husholdninger	2017	279
+1149 Karmøy	Selveier	Sosialhjelpsmottakere	Antall husholdninger	2018	277
+1149 Karmøy	Selveier	Sosialhjelpsmottakere	Antall husholdninger	2019	297
+1149 Karmøy	Selveier	Sosialhjelpsmottakere	Antall husholdninger	2020	260
+1149 Karmøy	Selveier	Sosialhjelpsmottakere	Antall husholdninger	2021	266
+1149 Karmøy	Selveier	Sosialhjelpsmottakere	Antall husholdninger	2022	251
+1149 Karmøy	Selveier	Sosialhjelpsmottakere	Antall husholdninger	2023	293
+1149 Karmøy	Selveier	Trygdemottaker under 67 år	Antall husholdninger	2015	991
+1149 Karmøy	Selveier	Trygdemottaker under 67 år	Antall husholdninger	2016	1057
+1149 Karmøy	Selveier	Trygdemottaker under 67 år	Antall husholdninger	2017	1117
+1149 Karmøy	Selveier	Trygdemottaker under 67 år	Antall husholdninger	2018	1176
+1149 Karmøy	Selveier	Trygdemottaker under 67 år	Antall husholdninger	2019	1184
+1149 Karmøy	Selveier	Trygdemottaker under 67 år	Antall husholdninger	2020	1196
+1149 Karmøy	Selveier	Trygdemottaker under 67 år	Antall husholdninger	2021	1177
+1149 Karmøy	Selveier	Trygdemottaker under 67 år	Antall husholdninger	2022	1198
+1149 Karmøy	Selveier	Trygdemottaker under 67 år	Antall husholdninger	2023	1203
+1149 Karmøy	Selveier	Trygdemottaker 67 år og eldre	Antall husholdninger	2015	2682
+1149 Karmøy	Selveier	Trygdemottaker 67 år og eldre	Antall husholdninger	2016	2776
+1149 Karmøy	Selveier	Trygdemottaker 67 år og eldre	Antall husholdninger	2017	2911
+1149 Karmøy	Selveier	Trygdemottaker 67 år og eldre	Antall husholdninger	2018	3004
+1149 Karmøy	Selveier	Trygdemottaker 67 år og eldre	Antall husholdninger	2019	3112
+1149 Karmøy	Selveier	Trygdemottaker 67 år og eldre	Antall husholdninger	2020	3240
+1149 Karmøy	Selveier	Trygdemottaker 67 år og eldre	Antall husholdninger	2021	3250
+1149 Karmøy	Selveier	Trygdemottaker 67 år og eldre	Antall husholdninger	2022	3285
+1149 Karmøy	Selveier	Trygdemottaker 67 år og eldre	Antall husholdninger	2023	3296
+1149 Karmøy	Selveier	Høy gjeldsbelastning	Antall husholdninger	2015	2685
+1149 Karmøy	Selveier	Høy gjeldsbelastning	Antall husholdninger	2016	2941
+1149 Karmøy	Selveier	Høy gjeldsbelastning	Antall husholdninger	2017	3220
+1149 Karmøy	Selveier	Høy gjeldsbelastning	Antall husholdninger	2018	3233
+1149 Karmøy	Selveier	Høy gjeldsbelastning	Antall husholdninger	2019	3165
+1149 Karmøy	Selveier	Høy gjeldsbelastning	Antall husholdninger	2020	3112
+1149 Karmøy	Selveier	Høy gjeldsbelastning	Antall husholdninger	2021	3164
+1149 Karmøy	Selveier	Høy gjeldsbelastning	Antall husholdninger	2022	3006
+1149 Karmøy	Selveier	Høy gjeldsbelastning	Antall husholdninger	2023	2874
+1149 Karmøy	Andels- / aksjeeier	Alle husholdninger	Antall husholdninger	2015	183
+1149 Karmøy	Andels- / aksjeeier	Alle husholdninger	Antall husholdninger	2016	177
+1149 Karmøy	Andels- / aksjeeier	Alle husholdninger	Antall husholdninger	2017	178
+1149 Karmøy	Andels- / aksjeeier	Alle husholdninger	Antall husholdninger	2018	195
+1149 Karmøy	Andels- / aksjeeier	Alle husholdninger	Antall husholdninger	2019	194
+1149 Karmøy	Andels- / aksjeeier	Alle husholdninger	Antall husholdninger	2020	193
+1149 Karmøy	Andels- / aksjeeier	Alle husholdninger	Antall husholdninger	2021	187
+1149 Karmøy	Andels- / aksjeeier	Alle husholdninger	Antall husholdninger	2022	193
+1149 Karmøy	Andels- / aksjeeier	Alle husholdninger	Antall husholdninger	2023	195
+1149 Karmøy	Andels- / aksjeeier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2015	22
+1149 Karmøy	Andels- / aksjeeier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2016	23
+1149 Karmøy	Andels- / aksjeeier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2017	25
+1149 Karmøy	Andels- / aksjeeier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2018	27
+1149 Karmøy	Andels- / aksjeeier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2019	25
+1149 Karmøy	Andels- / aksjeeier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2020	33
+1149 Karmøy	Andels- / aksjeeier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2021	31
+1149 Karmøy	Andels- / aksjeeier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2022	24
+1149 Karmøy	Andels- / aksjeeier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2023	26
+1149 Karmøy	Andels- / aksjeeier	Laveste inntektskvartil	Antall husholdninger	2015	47
+1149 Karmøy	Andels- / aksjeeier	Laveste inntektskvartil	Antall husholdninger	2016	48
+1149 Karmøy	Andels- / aksjeeier	Laveste inntektskvartil	Antall husholdninger	2017	46
+1149 Karmøy	Andels- / aksjeeier	Laveste inntektskvartil	Antall husholdninger	2018	55
+1149 Karmøy	Andels- / aksjeeier	Laveste inntektskvartil	Antall husholdninger	2019	58
+1149 Karmøy	Andels- / aksjeeier	Laveste inntektskvartil	Antall husholdninger	2020	58
+1149 Karmøy	Andels- / aksjeeier	Laveste inntektskvartil	Antall husholdninger	2021	52
+1149 Karmøy	Andels- / aksjeeier	Laveste inntektskvartil	Antall husholdninger	2022	49
+1149 Karmøy	Andels- / aksjeeier	Laveste inntektskvartil	Antall husholdninger	2023	53
+1149 Karmøy	Andels- / aksjeeier	Andre inntektskvartil	Antall husholdninger	2015	41
+1149 Karmøy	Andels- / aksjeeier	Andre inntektskvartil	Antall husholdninger	2016	51
+1149 Karmøy	Andels- / aksjeeier	Andre inntektskvartil	Antall husholdninger	2017	52
+1149 Karmøy	Andels- / aksjeeier	Andre inntektskvartil	Antall husholdninger	2018	60
+1149 Karmøy	Andels- / aksjeeier	Andre inntektskvartil	Antall husholdninger	2019	54
+1149 Karmøy	Andels- / aksjeeier	Andre inntektskvartil	Antall husholdninger	2020	59
+1149 Karmøy	Andels- / aksjeeier	Andre inntektskvartil	Antall husholdninger	2021	65
+1149 Karmøy	Andels- / aksjeeier	Andre inntektskvartil	Antall husholdninger	2022	71
+1149 Karmøy	Andels- / aksjeeier	Andre inntektskvartil	Antall husholdninger	2023	67
+1149 Karmøy	Andels- / aksjeeier	Tredje inntektskvartil	Antall husholdninger	2015	62
+1149 Karmøy	Andels- / aksjeeier	Tredje inntektskvartil	Antall husholdninger	2016	45
+1149 Karmøy	Andels- / aksjeeier	Tredje inntektskvartil	Antall husholdninger	2017	50
+1149 Karmøy	Andels- / aksjeeier	Tredje inntektskvartil	Antall husholdninger	2018	44
+1149 Karmøy	Andels- / aksjeeier	Tredje inntektskvartil	Antall husholdninger	2019	54
+1149 Karmøy	Andels- / aksjeeier	Tredje inntektskvartil	Antall husholdninger	2020	49
+1149 Karmøy	Andels- / aksjeeier	Tredje inntektskvartil	Antall husholdninger	2021	47
+1149 Karmøy	Andels- / aksjeeier	Tredje inntektskvartil	Antall husholdninger	2022	44
+1149 Karmøy	Andels- / aksjeeier	Tredje inntektskvartil	Antall husholdninger	2023	45
+1149 Karmøy	Andels- / aksjeeier	Høyeste inntektskvartil	Antall husholdninger	2015	33
+1149 Karmøy	Andels- / aksjeeier	Høyeste inntektskvartil	Antall husholdninger	2016	33
+1149 Karmøy	Andels- / aksjeeier	Høyeste inntektskvartil	Antall husholdninger	2017	30
+1149 Karmøy	Andels- / aksjeeier	Høyeste inntektskvartil	Antall husholdninger	2018	36
+1149 Karmøy	Andels- / aksjeeier	Høyeste inntektskvartil	Antall husholdninger	2019	28
+1149 Karmøy	Andels- / aksjeeier	Høyeste inntektskvartil	Antall husholdninger	2020	27
+1149 Karmøy	Andels- / aksjeeier	Høyeste inntektskvartil	Antall husholdninger	2021	23
+1149 Karmøy	Andels- / aksjeeier	Høyeste inntektskvartil	Antall husholdninger	2022	29
+1149 Karmøy	Andels- / aksjeeier	Høyeste inntektskvartil	Antall husholdninger	2023	30
+1149 Karmøy	Andels- / aksjeeier	Bostøttemottakere	Antall husholdninger	2015	13
+1149 Karmøy	Andels- / aksjeeier	Bostøttemottakere	Antall husholdninger	2016	13
+1149 Karmøy	Andels- / aksjeeier	Bostøttemottakere	Antall husholdninger	2017	13
+1149 Karmøy	Andels- / aksjeeier	Bostøttemottakere	Antall husholdninger	2018	21
+1149 Karmøy	Andels- / aksjeeier	Bostøttemottakere	Antall husholdninger	2019	13
+1149 Karmøy	Andels- / aksjeeier	Bostøttemottakere	Antall husholdninger	2020	15
+1149 Karmøy	Andels- / aksjeeier	Bostøttemottakere	Antall husholdninger	2021	15
+1149 Karmøy	Andels- / aksjeeier	Bostøttemottakere	Antall husholdninger	2022	16
+1149 Karmøy	Andels- / aksjeeier	Bostøttemottakere	Antall husholdninger	2023	19
+1149 Karmøy	Andels- / aksjeeier	Sosialhjelpsmottakere	Antall husholdninger	2015	5
+1149 Karmøy	Andels- / aksjeeier	Sosialhjelpsmottakere	Antall husholdninger	2016	6
+1149 Karmøy	Andels- / aksjeeier	Sosialhjelpsmottakere	Antall husholdninger	2017	6
+1149 Karmøy	Andels- / aksjeeier	Sosialhjelpsmottakere	Antall husholdninger	2018	7
+1149 Karmøy	Andels- / aksjeeier	Sosialhjelpsmottakere	Antall husholdninger	2019	8
+1149 Karmøy	Andels- / aksjeeier	Sosialhjelpsmottakere	Antall husholdninger	2020	7
+1149 Karmøy	Andels- / aksjeeier	Sosialhjelpsmottakere	Antall husholdninger	2021	5
+1149 Karmøy	Andels- / aksjeeier	Sosialhjelpsmottakere	Antall husholdninger	2022	8
+1149 Karmøy	Andels- / aksjeeier	Sosialhjelpsmottakere	Antall husholdninger	2023	6
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker under 67 år	Antall husholdninger	2015	28
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker under 67 år	Antall husholdninger	2016	28
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker under 67 år	Antall husholdninger	2017	31
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker under 67 år	Antall husholdninger	2018	37
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker under 67 år	Antall husholdninger	2019	36
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker under 67 år	Antall husholdninger	2020	32
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker under 67 år	Antall husholdninger	2021	32
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker under 67 år	Antall husholdninger	2022	30
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker under 67 år	Antall husholdninger	2023	33
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker 67 år og eldre	Antall husholdninger	2015	43
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker 67 år og eldre	Antall husholdninger	2016	42
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker 67 år og eldre	Antall husholdninger	2017	46
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker 67 år og eldre	Antall husholdninger	2018	49
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker 67 år og eldre	Antall husholdninger	2019	49
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker 67 år og eldre	Antall husholdninger	2020	53
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker 67 år og eldre	Antall husholdninger	2021	50
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker 67 år og eldre	Antall husholdninger	2022	51
+1149 Karmøy	Andels- / aksjeeier	Trygdemottaker 67 år og eldre	Antall husholdninger	2023	51
+1149 Karmøy	Andels- / aksjeeier	Høy gjeldsbelastning	Antall husholdninger	2015	49
+1149 Karmøy	Andels- / aksjeeier	Høy gjeldsbelastning	Antall husholdninger	2016	47
+1149 Karmøy	Andels- / aksjeeier	Høy gjeldsbelastning	Antall husholdninger	2017	38
+1149 Karmøy	Andels- / aksjeeier	Høy gjeldsbelastning	Antall husholdninger	2018	43
+1149 Karmøy	Andels- / aksjeeier	Høy gjeldsbelastning	Antall husholdninger	2019	40
+1149 Karmøy	Andels- / aksjeeier	Høy gjeldsbelastning	Antall husholdninger	2020	41
+1149 Karmøy	Andels- / aksjeeier	Høy gjeldsbelastning	Antall husholdninger	2021	41
+1149 Karmøy	Andels- / aksjeeier	Høy gjeldsbelastning	Antall husholdninger	2022	40
+1149 Karmøy	Andels- / aksjeeier	Høy gjeldsbelastning	Antall husholdninger	2023	40
+1149 Karmøy	Leier	Alle husholdninger	Antall husholdninger	2015	2351
+1149 Karmøy	Leier	Alle husholdninger	Antall husholdninger	2016	2410
+1149 Karmøy	Leier	Alle husholdninger	Antall husholdninger	2017	2420
+1149 Karmøy	Leier	Alle husholdninger	Antall husholdninger	2018	2423
+1149 Karmøy	Leier	Alle husholdninger	Antall husholdninger	2019	2393
+1149 Karmøy	Leier	Alle husholdninger	Antall husholdninger	2020	2429
+1149 Karmøy	Leier	Alle husholdninger	Antall husholdninger	2021	2553
+1149 Karmøy	Leier	Alle husholdninger	Antall husholdninger	2022	2537
+1149 Karmøy	Leier	Alle husholdninger	Antall husholdninger	2023	2628
+1149 Karmøy	Leier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2015	918
+1149 Karmøy	Leier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2016	940
+1149 Karmøy	Leier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2017	940
+1149 Karmøy	Leier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2018	987
+1149 Karmøy	Leier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2019	915
+1149 Karmøy	Leier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2020	970
+1149 Karmøy	Leier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2021	1021
+1149 Karmøy	Leier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2022	986
+1149 Karmøy	Leier	Lavinntekt, EU-skala 60 prosent	Antall husholdninger	2023	1026
+1149 Karmøy	Leier	Laveste inntektskvartil	Antall husholdninger	2015	1413
+1149 Karmøy	Leier	Laveste inntektskvartil	Antall husholdninger	2016	1442
+1149 Karmøy	Leier	Laveste inntektskvartil	Antall husholdninger	2017	1447
+1149 Karmøy	Leier	Laveste inntektskvartil	Antall husholdninger	2018	1460
+1149 Karmøy	Leier	Laveste inntektskvartil	Antall husholdninger	2019	1389
+1149 Karmøy	Leier	Laveste inntektskvartil	Antall husholdninger	2020	1425
+1149 Karmøy	Leier	Laveste inntektskvartil	Antall husholdninger	2021	1478
+1149 Karmøy	Leier	Laveste inntektskvartil	Antall husholdninger	2022	1439
+1149 Karmøy	Leier	Laveste inntektskvartil	Antall husholdninger	2023	1514
+1149 Karmøy	Leier	Andre inntektskvartil	Antall husholdninger	2015	554
+1149 Karmøy	Leier	Andre inntektskvartil	Antall husholdninger	2016	622
+1149 Karmøy	Leier	Andre inntektskvartil	Antall husholdninger	2017	591
+1149 Karmøy	Leier	Andre inntektskvartil	Antall husholdninger	2018	579
+1149 Karmøy	Leier	Andre inntektskvartil	Antall husholdninger	2019	585
+1149 Karmøy	Leier	Andre inntektskvartil	Antall husholdninger	2020	604
+1149 Karmøy	Leier	Andre inntektskvartil	Antall husholdninger	2021	623
+1149 Karmøy	Leier	Andre inntektskvartil	Antall husholdninger	2022	609
+1149 Karmøy	Leier	Andre inntektskvartil	Antall husholdninger	2023	638
+1149 Karmøy	Leier	Tredje inntektskvartil	Antall husholdninger	2015	233
+1149 Karmøy	Leier	Tredje inntektskvartil	Antall husholdninger	2016	223
+1149 Karmøy	Leier	Tredje inntektskvartil	Antall husholdninger	2017	247
+1149 Karmøy	Leier	Tredje inntektskvartil	Antall husholdninger	2018	253
+1149 Karmøy	Leier	Tredje inntektskvartil	Antall husholdninger	2019	276
+1149 Karmøy	Leier	Tredje inntektskvartil	Antall husholdninger	2020	263
+1149 Karmøy	Leier	Tredje inntektskvartil	Antall husholdninger	2021	303
+1149 Karmøy	Leier	Tredje inntektskvartil	Antall husholdninger	2022	325
+1149 Karmøy	Leier	Tredje inntektskvartil	Antall husholdninger	2023	316
+1149 Karmøy	Leier	Høyeste inntektskvartil	Antall husholdninger	2015	151
+1149 Karmøy	Leier	Høyeste inntektskvartil	Antall husholdninger	2016	123
+1149 Karmøy	Leier	Høyeste inntektskvartil	Antall husholdninger	2017	135
+1149 Karmøy	Leier	Høyeste inntektskvartil	Antall husholdninger	2018	131
+1149 Karmøy	Leier	Høyeste inntektskvartil	Antall husholdninger	2019	143
+1149 Karmøy	Leier	Høyeste inntektskvartil	Antall husholdninger	2020	137
+1149 Karmøy	Leier	Høyeste inntektskvartil	Antall husholdninger	2021	149
+1149 Karmøy	Leier	Høyeste inntektskvartil	Antall husholdninger	2022	164
+1149 Karmøy	Leier	Høyeste inntektskvartil	Antall husholdninger	2023	160
+1149 Karmøy	Leier	Bostøttemottakere	Antall husholdninger	2015	612
+1149 Karmøy	Leier	Bostøttemottakere	Antall husholdninger	2016	607
+1149 Karmøy	Leier	Bostøttemottakere	Antall husholdninger	2017	582
+1149 Karmøy	Leier	Bostøttemottakere	Antall husholdninger	2018	592
+1149 Karmøy	Leier	Bostøttemottakere	Antall husholdninger	2019	508
+1149 Karmøy	Leier	Bostøttemottakere	Antall husholdninger	2020	514
+1149 Karmøy	Leier	Bostøttemottakere	Antall husholdninger	2021	518
+1149 Karmøy	Leier	Bostøttemottakere	Antall husholdninger	2022	462
+1149 Karmøy	Leier	Bostøttemottakere	Antall husholdninger	2023	547
+1149 Karmøy	Leier	Sosialhjelpsmottakere	Antall husholdninger	2015	326
+1149 Karmøy	Leier	Sosialhjelpsmottakere	Antall husholdninger	2016	357
+1149 Karmøy	Leier	Sosialhjelpsmottakere	Antall husholdninger	2017	409
+1149 Karmøy	Leier	Sosialhjelpsmottakere	Antall husholdninger	2018	430
+1149 Karmøy	Leier	Sosialhjelpsmottakere	Antall husholdninger	2019	440
+1149 Karmøy	Leier	Sosialhjelpsmottakere	Antall husholdninger	2020	456
+1149 Karmøy	Leier	Sosialhjelpsmottakere	Antall husholdninger	2021	436
+1149 Karmøy	Leier	Sosialhjelpsmottakere	Antall husholdninger	2022	395
+1149 Karmøy	Leier	Sosialhjelpsmottakere	Antall husholdninger	2023	427
+1149 Karmøy	Leier	Trygdemottaker under 67 år	Antall husholdninger	2015	576
+1149 Karmøy	Leier	Trygdemottaker under 67 år	Antall husholdninger	2016	625
+1149 Karmøy	Leier	Trygdemottaker under 67 år	Antall husholdninger	2017	638
+1149 Karmøy	Leier	Trygdemottaker under 67 år	Antall husholdninger	2018	686
+1149 Karmøy	Leier	Trygdemottaker under 67 år	Antall husholdninger	2019	672
+1149 Karmøy	Leier	Trygdemottaker under 67 år	Antall husholdninger	2020	663
+1149 Karmøy	Leier	Trygdemottaker under 67 år	Antall husholdninger	2021	727
+1149 Karmøy	Leier	Trygdemottaker under 67 år	Antall husholdninger	2022	724
+1149 Karmøy	Leier	Trygdemottaker under 67 år	Antall husholdninger	2023	742
+1149 Karmøy	Leier	Trygdemottaker 67 år og eldre	Antall husholdninger	2015	416
+1149 Karmøy	Leier	Trygdemottaker 67 år og eldre	Antall husholdninger	2016	429
+1149 Karmøy	Leier	Trygdemottaker 67 år og eldre	Antall husholdninger	2017	411
+1149 Karmøy	Leier	Trygdemottaker 67 år og eldre	Antall husholdninger	2018	410
+1149 Karmøy	Leier	Trygdemottaker 67 år og eldre	Antall husholdninger	2019	396
+1149 Karmøy	Leier	Trygdemottaker 67 år og eldre	Antall husholdninger	2020	406
+1149 Karmøy	Leier	Trygdemottaker 67 år og eldre	Antall husholdninger	2021	479
+1149 Karmøy	Leier	Trygdemottaker 67 år og eldre	Antall husholdninger	2022	461
+1149 Karmøy	Leier	Trygdemottaker 67 år og eldre	Antall husholdninger	2023	484
+1149 Karmøy	Leier	Høy gjeldsbelastning	Antall husholdninger	2015	135
+1149 Karmøy	Leier	Høy gjeldsbelastning	Antall husholdninger	2016	120
+1149 Karmøy	Leier	Høy gjeldsbelastning	Antall husholdninger	2017	122
+1149 Karmøy	Leier	Høy gjeldsbelastning	Antall husholdninger	2018	123
+1149 Karmøy	Leier	Høy gjeldsbelastning	Antall husholdninger	2019	116
+1149 Karmøy	Leier	Høy gjeldsbelastning	Antall husholdninger	2020	131
+1149 Karmøy	Leier	Høy gjeldsbelastning	Antall husholdninger	2021	139
+1149 Karmøy	Leier	Høy gjeldsbelastning	Antall husholdninger	2022	141
+1149 Karmøy	Leier	Høy gjeldsbelastning	Antall husholdninger	2023	147

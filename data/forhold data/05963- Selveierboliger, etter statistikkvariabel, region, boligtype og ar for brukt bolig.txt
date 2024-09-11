@@ -1,0 +1,811 @@
+region	boligtype	kvartal	statistikkvariabel	05963: Selveierboliger,
+1102 Sandnes (-2019)	Eneboliger	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	30169
+1102 Sandnes (-2019)	Eneboliger	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	29384
+1102 Sandnes (-2019)	Eneboliger	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	28653
+1102 Sandnes (-2019)	Eneboliger	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	27704
+1102 Sandnes (-2019)	Eneboliger	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	27948
+1102 Sandnes (-2019)	Eneboliger	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	28290
+1102 Sandnes (-2019)	Eneboliger	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	28543
+1102 Sandnes (-2019)	Eneboliger	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	28042
+1102 Sandnes (-2019)	Eneboliger	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	28818
+1102 Sandnes (-2019)	Eneboliger	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	28039
+1102 Sandnes (-2019)	Eneboliger	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	27612
+1102 Sandnes (-2019)	Eneboliger	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	26263
+1102 Sandnes (-2019)	Eneboliger	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	26180
+1102 Sandnes (-2019)	Eneboliger	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	25868
+1102 Sandnes (-2019)	Eneboliger	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	25798
+1102 Sandnes (-2019)	Eneboliger	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	25805
+1102 Sandnes (-2019)	Eneboliger	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	26158
+1102 Sandnes (-2019)	Eneboliger	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	24954
+1102 Sandnes (-2019)	Eneboliger	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	24556
+1102 Sandnes (-2019)	Eneboliger	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	24566
+1102 Sandnes (-2019)	Eneboliger	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	25879
+1102 Sandnes (-2019)	Eneboliger	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	24535
+1102 Sandnes (-2019)	Eneboliger	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	26259
+1102 Sandnes (-2019)	Eneboliger	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	25509
+1102 Sandnes (-2019)	Eneboliger	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	24920
+1102 Sandnes (-2019)	Eneboliger	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	26792
+1102 Sandnes (-2019)	Eneboliger	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	25928
+1102 Sandnes (-2019)	Eneboliger	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	26384
+1102 Sandnes (-2019)	Eneboliger	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Eneboliger	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	33146
+1102 Sandnes (-2019)	Småhus	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	32249
+1102 Sandnes (-2019)	Småhus	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	34109
+1102 Sandnes (-2019)	Småhus	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	30271
+1102 Sandnes (-2019)	Småhus	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	33473
+1102 Sandnes (-2019)	Småhus	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	32559
+1102 Sandnes (-2019)	Småhus	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	32571
+1102 Sandnes (-2019)	Småhus	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	31284
+1102 Sandnes (-2019)	Småhus	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	32223
+1102 Sandnes (-2019)	Småhus	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	30079
+1102 Sandnes (-2019)	Småhus	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	30705
+1102 Sandnes (-2019)	Småhus	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	29708
+1102 Sandnes (-2019)	Småhus	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	30139
+1102 Sandnes (-2019)	Småhus	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	29087
+1102 Sandnes (-2019)	Småhus	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	29541
+1102 Sandnes (-2019)	Småhus	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	30170
+1102 Sandnes (-2019)	Småhus	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	30279
+1102 Sandnes (-2019)	Småhus	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	29116
+1102 Sandnes (-2019)	Småhus	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	28895
+1102 Sandnes (-2019)	Småhus	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	29243
+1102 Sandnes (-2019)	Småhus	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	30354
+1102 Sandnes (-2019)	Småhus	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	29740
+1102 Sandnes (-2019)	Småhus	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	30283
+1102 Sandnes (-2019)	Småhus	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	30406
+1102 Sandnes (-2019)	Småhus	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	29541
+1102 Sandnes (-2019)	Småhus	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	28722
+1102 Sandnes (-2019)	Småhus	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	29766
+1102 Sandnes (-2019)	Småhus	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	28920
+1102 Sandnes (-2019)	Småhus	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Småhus	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	44605
+1102 Sandnes (-2019)	Blokkleiligheter	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	44486
+1102 Sandnes (-2019)	Blokkleiligheter	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	43684
+1102 Sandnes (-2019)	Blokkleiligheter	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	41963
+1102 Sandnes (-2019)	Blokkleiligheter	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	42003
+1102 Sandnes (-2019)	Blokkleiligheter	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	43110
+1102 Sandnes (-2019)	Blokkleiligheter	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	42177
+1102 Sandnes (-2019)	Blokkleiligheter	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	41608
+1102 Sandnes (-2019)	Blokkleiligheter	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	42219
+1102 Sandnes (-2019)	Blokkleiligheter	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	41766
+1102 Sandnes (-2019)	Blokkleiligheter	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	40985
+1102 Sandnes (-2019)	Blokkleiligheter	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	41699
+1102 Sandnes (-2019)	Blokkleiligheter	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	37891
+1102 Sandnes (-2019)	Blokkleiligheter	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	39516
+1102 Sandnes (-2019)	Blokkleiligheter	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	41375
+1102 Sandnes (-2019)	Blokkleiligheter	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	38989
+1102 Sandnes (-2019)	Blokkleiligheter	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	39983
+1102 Sandnes (-2019)	Blokkleiligheter	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	41402
+1102 Sandnes (-2019)	Blokkleiligheter	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	39537
+1102 Sandnes (-2019)	Blokkleiligheter	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	40223
+1102 Sandnes (-2019)	Blokkleiligheter	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	38252
+1102 Sandnes (-2019)	Blokkleiligheter	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	39979
+1102 Sandnes (-2019)	Blokkleiligheter	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	40208
+1102 Sandnes (-2019)	Blokkleiligheter	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	38338
+1102 Sandnes (-2019)	Blokkleiligheter	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	38770
+1102 Sandnes (-2019)	Blokkleiligheter	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	38644
+1102 Sandnes (-2019)	Blokkleiligheter	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	38407
+1102 Sandnes (-2019)	Blokkleiligheter	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	39172
+1102 Sandnes (-2019)	Blokkleiligheter	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1102 Sandnes (-2019)	Blokkleiligheter	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1103 Stavanger	Eneboliger	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	34418
+1103 Stavanger	Eneboliger	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	35099
+1103 Stavanger	Eneboliger	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	35298
+1103 Stavanger	Eneboliger	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	33545
+1103 Stavanger	Eneboliger	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	33323
+1103 Stavanger	Eneboliger	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	34263
+1103 Stavanger	Eneboliger	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	33958
+1103 Stavanger	Eneboliger	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	33689
+1103 Stavanger	Eneboliger	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	32901
+1103 Stavanger	Eneboliger	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	32488
+1103 Stavanger	Eneboliger	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	32977
+1103 Stavanger	Eneboliger	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	30806
+1103 Stavanger	Eneboliger	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	29724
+1103 Stavanger	Eneboliger	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	30446
+1103 Stavanger	Eneboliger	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	30843
+1103 Stavanger	Eneboliger	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	31674
+1103 Stavanger	Eneboliger	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	31847
+1103 Stavanger	Eneboliger	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	33267
+1103 Stavanger	Eneboliger	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	31026
+1103 Stavanger	Eneboliger	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	33526
+1103 Stavanger	Eneboliger	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	31435
+1103 Stavanger	Eneboliger	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	31807
+1103 Stavanger	Eneboliger	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	31479
+1103 Stavanger	Eneboliger	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	30413
+1103 Stavanger	Eneboliger	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	31590
+1103 Stavanger	Eneboliger	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	32528
+1103 Stavanger	Eneboliger	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	31821
+1103 Stavanger	Eneboliger	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	29166
+1103 Stavanger	Eneboliger	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	32174
+1103 Stavanger	Eneboliger	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	33280
+1103 Stavanger	Eneboliger	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	32664
+1103 Stavanger	Eneboliger	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	33928
+1103 Stavanger	Eneboliger	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	33780
+1103 Stavanger	Eneboliger	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	36484
+1103 Stavanger	Eneboliger	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	37008
+1103 Stavanger	Eneboliger	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	36441
+1103 Stavanger	Eneboliger	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	37166
+1103 Stavanger	Eneboliger	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	38491
+1103 Stavanger	Eneboliger	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	37556
+1103 Stavanger	Eneboliger	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	35664
+1103 Stavanger	Eneboliger	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	36480
+1103 Stavanger	Eneboliger	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	39069
+1103 Stavanger	Eneboliger	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	37321
+1103 Stavanger	Eneboliger	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	36189
+1103 Stavanger	Eneboliger	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	38427
+1103 Stavanger	Småhus	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	35425
+1103 Stavanger	Småhus	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	33676
+1103 Stavanger	Småhus	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	35041
+1103 Stavanger	Småhus	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	33947
+1103 Stavanger	Småhus	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	33777
+1103 Stavanger	Småhus	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	34613
+1103 Stavanger	Småhus	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	34082
+1103 Stavanger	Småhus	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	33217
+1103 Stavanger	Småhus	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	33792
+1103 Stavanger	Småhus	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	33673
+1103 Stavanger	Småhus	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	32110
+1103 Stavanger	Småhus	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	30704
+1103 Stavanger	Småhus	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	29561
+1103 Stavanger	Småhus	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	30452
+1103 Stavanger	Småhus	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	28690
+1103 Stavanger	Småhus	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	30957
+1103 Stavanger	Småhus	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	32092
+1103 Stavanger	Småhus	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	30757
+1103 Stavanger	Småhus	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	31795
+1103 Stavanger	Småhus	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	31555
+1103 Stavanger	Småhus	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	31777
+1103 Stavanger	Småhus	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	31650
+1103 Stavanger	Småhus	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	31521
+1103 Stavanger	Småhus	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	29261
+1103 Stavanger	Småhus	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	32090
+1103 Stavanger	Småhus	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	31942
+1103 Stavanger	Småhus	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	31255
+1103 Stavanger	Småhus	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	30370
+1103 Stavanger	Småhus	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	30916
+1103 Stavanger	Småhus	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	32004
+1103 Stavanger	Småhus	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	33627
+1103 Stavanger	Småhus	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	31711
+1103 Stavanger	Småhus	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	34038
+1103 Stavanger	Småhus	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	34367
+1103 Stavanger	Småhus	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	33069
+1103 Stavanger	Småhus	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	34840
+1103 Stavanger	Småhus	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	36398
+1103 Stavanger	Småhus	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	36501
+1103 Stavanger	Småhus	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	36634
+1103 Stavanger	Småhus	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	36211
+1103 Stavanger	Småhus	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	37082
+1103 Stavanger	Småhus	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	37272
+1103 Stavanger	Småhus	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	39390
+1103 Stavanger	Småhus	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	37638
+1103 Stavanger	Småhus	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	37985
+1103 Stavanger	Blokkleiligheter	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	48550
+1103 Stavanger	Blokkleiligheter	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	47870
+1103 Stavanger	Blokkleiligheter	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	46539
+1103 Stavanger	Blokkleiligheter	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	45456
+1103 Stavanger	Blokkleiligheter	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	46195
+1103 Stavanger	Blokkleiligheter	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	47649
+1103 Stavanger	Blokkleiligheter	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	46666
+1103 Stavanger	Blokkleiligheter	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	46808
+1103 Stavanger	Blokkleiligheter	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	47084
+1103 Stavanger	Blokkleiligheter	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	46837
+1103 Stavanger	Blokkleiligheter	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	44762
+1103 Stavanger	Blokkleiligheter	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	41836
+1103 Stavanger	Blokkleiligheter	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	41237
+1103 Stavanger	Blokkleiligheter	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	41131
+1103 Stavanger	Blokkleiligheter	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	43276
+1103 Stavanger	Blokkleiligheter	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	44317
+1103 Stavanger	Blokkleiligheter	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	43707
+1103 Stavanger	Blokkleiligheter	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	44637
+1103 Stavanger	Blokkleiligheter	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	45386
+1103 Stavanger	Blokkleiligheter	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	44702
+1103 Stavanger	Blokkleiligheter	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	44144
+1103 Stavanger	Blokkleiligheter	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	44735
+1103 Stavanger	Blokkleiligheter	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	44655
+1103 Stavanger	Blokkleiligheter	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	44236
+1103 Stavanger	Blokkleiligheter	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	41989
+1103 Stavanger	Blokkleiligheter	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	43919
+1103 Stavanger	Blokkleiligheter	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	44440
+1103 Stavanger	Blokkleiligheter	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	42843
+1103 Stavanger	Blokkleiligheter	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	44477
+1103 Stavanger	Blokkleiligheter	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	44241
+1103 Stavanger	Blokkleiligheter	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	44734
+1103 Stavanger	Blokkleiligheter	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	45313
+1103 Stavanger	Blokkleiligheter	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	46315
+1103 Stavanger	Blokkleiligheter	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	47799
+1103 Stavanger	Blokkleiligheter	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	48798
+1103 Stavanger	Blokkleiligheter	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	47930
+1103 Stavanger	Blokkleiligheter	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	50342
+1103 Stavanger	Blokkleiligheter	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	50174
+1103 Stavanger	Blokkleiligheter	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	52020
+1103 Stavanger	Blokkleiligheter	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	51381
+1103 Stavanger	Blokkleiligheter	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	52134
+1103 Stavanger	Blokkleiligheter	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	54232
+1103 Stavanger	Blokkleiligheter	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	52589
+1103 Stavanger	Blokkleiligheter	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	52848
+1103 Stavanger	Blokkleiligheter	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	56334
+1106 Haugesund	Eneboliger	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	18860
+1106 Haugesund	Eneboliger	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	18470
+1106 Haugesund	Eneboliger	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	18373
+1106 Haugesund	Eneboliger	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	18111
+1106 Haugesund	Eneboliger	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	19373
+1106 Haugesund	Eneboliger	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	18764
+1106 Haugesund	Eneboliger	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	18502
+1106 Haugesund	Eneboliger	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	18097
+1106 Haugesund	Eneboliger	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	19483
+1106 Haugesund	Eneboliger	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	18188
+1106 Haugesund	Eneboliger	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	18615
+1106 Haugesund	Eneboliger	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	18061
+1106 Haugesund	Eneboliger	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	18915
+1106 Haugesund	Eneboliger	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	20589
+1106 Haugesund	Eneboliger	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	18930
+1106 Haugesund	Eneboliger	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	19577
+1106 Haugesund	Eneboliger	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	18357
+1106 Haugesund	Eneboliger	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	20149
+1106 Haugesund	Eneboliger	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	19254
+1106 Haugesund	Eneboliger	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	19089
+1106 Haugesund	Eneboliger	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	18287
+1106 Haugesund	Eneboliger	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	18728
+1106 Haugesund	Eneboliger	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	18993
+1106 Haugesund	Eneboliger	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	18286
+1106 Haugesund	Eneboliger	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	19566
+1106 Haugesund	Eneboliger	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	19077
+1106 Haugesund	Eneboliger	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	20065
+1106 Haugesund	Eneboliger	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	18231
+1106 Haugesund	Eneboliger	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	19882
+1106 Haugesund	Eneboliger	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	19651
+1106 Haugesund	Eneboliger	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	19589
+1106 Haugesund	Eneboliger	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	18936
+1106 Haugesund	Eneboliger	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	20784
+1106 Haugesund	Eneboliger	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	21761
+1106 Haugesund	Eneboliger	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	22308
+1106 Haugesund	Eneboliger	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	20073
+1106 Haugesund	Eneboliger	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	20483
+1106 Haugesund	Eneboliger	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	23462
+1106 Haugesund	Eneboliger	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	21782
+1106 Haugesund	Eneboliger	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	21181
+1106 Haugesund	Eneboliger	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	23684
+1106 Haugesund	Eneboliger	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	23290
+1106 Haugesund	Eneboliger	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	21800
+1106 Haugesund	Eneboliger	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	22750
+1106 Haugesund	Eneboliger	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	22926
+1106 Haugesund	Småhus	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	19047
+1106 Haugesund	Småhus	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	18181
+1106 Haugesund	Småhus	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	19351
+1106 Haugesund	Småhus	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	..
+1106 Haugesund	Småhus	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	19050
+1106 Haugesund	Småhus	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	17964
+1106 Haugesund	Småhus	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	18212
+1106 Haugesund	Småhus	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	17888
+1106 Haugesund	Småhus	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	15627
+1106 Haugesund	Småhus	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	18922
+1106 Haugesund	Småhus	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	19648
+1106 Haugesund	Småhus	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	18525
+1106 Haugesund	Småhus	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	19730
+1106 Haugesund	Småhus	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	21049
+1106 Haugesund	Småhus	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	18272
+1106 Haugesund	Småhus	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	18915
+1106 Haugesund	Småhus	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	18638
+1106 Haugesund	Småhus	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	17468
+1106 Haugesund	Småhus	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	17980
+1106 Haugesund	Småhus	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	19627
+1106 Haugesund	Småhus	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	20124
+1106 Haugesund	Småhus	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	21008
+1106 Haugesund	Småhus	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	18357
+1106 Haugesund	Småhus	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	19166
+1106 Haugesund	Småhus	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	19726
+1106 Haugesund	Småhus	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	19461
+1106 Haugesund	Småhus	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	19541
+1106 Haugesund	Småhus	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	21280
+1106 Haugesund	Småhus	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	21864
+1106 Haugesund	Småhus	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	19281
+1106 Haugesund	Småhus	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	19139
+1106 Haugesund	Småhus	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	20051
+1106 Haugesund	Småhus	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	20672
+1106 Haugesund	Småhus	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	21280
+1106 Haugesund	Småhus	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	22102
+1106 Haugesund	Småhus	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	19991
+1106 Haugesund	Småhus	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	21970
+1106 Haugesund	Småhus	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	23079
+1106 Haugesund	Småhus	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	20831
+1106 Haugesund	Småhus	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	23529
+1106 Haugesund	Småhus	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	23178
+1106 Haugesund	Småhus	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	23591
+1106 Haugesund	Småhus	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	23186
+1106 Haugesund	Småhus	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	22476
+1106 Haugesund	Småhus	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	23827
+1106 Haugesund	Blokkleiligheter	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	24715
+1106 Haugesund	Blokkleiligheter	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	25127
+1106 Haugesund	Blokkleiligheter	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	25247
+1106 Haugesund	Blokkleiligheter	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	24616
+1106 Haugesund	Blokkleiligheter	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	25879
+1106 Haugesund	Blokkleiligheter	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	25476
+1106 Haugesund	Blokkleiligheter	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	26304
+1106 Haugesund	Blokkleiligheter	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	26750
+1106 Haugesund	Blokkleiligheter	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	26175
+1106 Haugesund	Blokkleiligheter	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	27248
+1106 Haugesund	Blokkleiligheter	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	27263
+1106 Haugesund	Blokkleiligheter	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	28156
+1106 Haugesund	Blokkleiligheter	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	25606
+1106 Haugesund	Blokkleiligheter	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	27566
+1106 Haugesund	Blokkleiligheter	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	28454
+1106 Haugesund	Blokkleiligheter	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	24453
+1106 Haugesund	Blokkleiligheter	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	28212
+1106 Haugesund	Blokkleiligheter	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	28918
+1106 Haugesund	Blokkleiligheter	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	28510
+1106 Haugesund	Blokkleiligheter	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	28129
+1106 Haugesund	Blokkleiligheter	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	27614
+1106 Haugesund	Blokkleiligheter	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	29675
+1106 Haugesund	Blokkleiligheter	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	28576
+1106 Haugesund	Blokkleiligheter	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	29307
+1106 Haugesund	Blokkleiligheter	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	28980
+1106 Haugesund	Blokkleiligheter	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	28238
+1106 Haugesund	Blokkleiligheter	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	28388
+1106 Haugesund	Blokkleiligheter	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	27239
+1106 Haugesund	Blokkleiligheter	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	27867
+1106 Haugesund	Blokkleiligheter	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	28482
+1106 Haugesund	Blokkleiligheter	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	27717
+1106 Haugesund	Blokkleiligheter	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	29266
+1106 Haugesund	Blokkleiligheter	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	30332
+1106 Haugesund	Blokkleiligheter	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	29643
+1106 Haugesund	Blokkleiligheter	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	30076
+1106 Haugesund	Blokkleiligheter	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	29279
+1106 Haugesund	Blokkleiligheter	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	34424
+1106 Haugesund	Blokkleiligheter	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	33046
+1106 Haugesund	Blokkleiligheter	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	31632
+1106 Haugesund	Blokkleiligheter	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	32003
+1106 Haugesund	Blokkleiligheter	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	35169
+1106 Haugesund	Blokkleiligheter	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	35080
+1106 Haugesund	Blokkleiligheter	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	34504
+1106 Haugesund	Blokkleiligheter	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	35628
+1106 Haugesund	Blokkleiligheter	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	35960
+1108 Sandnes	Eneboliger	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Eneboliger	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	25726
+1108 Sandnes	Eneboliger	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	26442
+1108 Sandnes	Eneboliger	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	25485
+1108 Sandnes	Eneboliger	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	27415
+1108 Sandnes	Eneboliger	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	28386
+1108 Sandnes	Eneboliger	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	29309
+1108 Sandnes	Eneboliger	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	30984
+1108 Sandnes	Eneboliger	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	27954
+1108 Sandnes	Eneboliger	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	29873
+1108 Sandnes	Eneboliger	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	30446
+1108 Sandnes	Eneboliger	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	31310
+1108 Sandnes	Eneboliger	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	29126
+1108 Sandnes	Eneboliger	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	29692
+1108 Sandnes	Eneboliger	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	30259
+1108 Sandnes	Eneboliger	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	30401
+1108 Sandnes	Eneboliger	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	30995
+1108 Sandnes	Eneboliger	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	29986
+1108 Sandnes	Småhus	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Småhus	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	31468
+1108 Sandnes	Småhus	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	29110
+1108 Sandnes	Småhus	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	30452
+1108 Sandnes	Småhus	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	31408
+1108 Sandnes	Småhus	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	32099
+1108 Sandnes	Småhus	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	32443
+1108 Sandnes	Småhus	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	33684
+1108 Sandnes	Småhus	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	34664
+1108 Sandnes	Småhus	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	34983
+1108 Sandnes	Småhus	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	36261
+1108 Sandnes	Småhus	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	36648
+1108 Sandnes	Småhus	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	34599
+1108 Sandnes	Småhus	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	36132
+1108 Sandnes	Småhus	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	36789
+1108 Sandnes	Småhus	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	36627
+1108 Sandnes	Småhus	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	36314
+1108 Sandnes	Småhus	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	39421
+1108 Sandnes	Blokkleiligheter	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	.
+1108 Sandnes	Blokkleiligheter	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	38134
+1108 Sandnes	Blokkleiligheter	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	39546
+1108 Sandnes	Blokkleiligheter	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	40226
+1108 Sandnes	Blokkleiligheter	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	38588
+1108 Sandnes	Blokkleiligheter	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	39472
+1108 Sandnes	Blokkleiligheter	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	41958
+1108 Sandnes	Blokkleiligheter	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	41783
+1108 Sandnes	Blokkleiligheter	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	42587
+1108 Sandnes	Blokkleiligheter	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	44401
+1108 Sandnes	Blokkleiligheter	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	44522
+1108 Sandnes	Blokkleiligheter	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	46068
+1108 Sandnes	Blokkleiligheter	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	44177
+1108 Sandnes	Blokkleiligheter	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	47123
+1108 Sandnes	Blokkleiligheter	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	47752
+1108 Sandnes	Blokkleiligheter	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	47885
+1108 Sandnes	Blokkleiligheter	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	48498
+1108 Sandnes	Blokkleiligheter	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	50800
+1124 Sola	Eneboliger	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	30800
+1124 Sola	Eneboliger	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	32942
+1124 Sola	Eneboliger	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	31372
+1124 Sola	Eneboliger	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	28990
+1124 Sola	Eneboliger	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	30998
+1124 Sola	Eneboliger	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	28669
+1124 Sola	Eneboliger	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	30566
+1124 Sola	Eneboliger	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	28940
+1124 Sola	Eneboliger	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	28768
+1124 Sola	Eneboliger	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	29218
+1124 Sola	Eneboliger	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	28532
+1124 Sola	Eneboliger	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	29596
+1124 Sola	Eneboliger	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	25662
+1124 Sola	Eneboliger	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	27437
+1124 Sola	Eneboliger	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	26422
+1124 Sola	Eneboliger	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	26317
+1124 Sola	Eneboliger	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	28052
+1124 Sola	Eneboliger	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	28841
+1124 Sola	Eneboliger	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	29016
+1124 Sola	Eneboliger	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	25537
+1124 Sola	Eneboliger	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	29097
+1124 Sola	Eneboliger	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	27561
+1124 Sola	Eneboliger	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	26609
+1124 Sola	Eneboliger	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	27674
+1124 Sola	Eneboliger	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	26974
+1124 Sola	Eneboliger	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	30210
+1124 Sola	Eneboliger	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	26360
+1124 Sola	Eneboliger	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	27829
+1124 Sola	Eneboliger	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	27946
+1124 Sola	Eneboliger	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	25334
+1124 Sola	Eneboliger	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	28104
+1124 Sola	Eneboliger	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	28260
+1124 Sola	Eneboliger	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	30244
+1124 Sola	Eneboliger	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	31267
+1124 Sola	Eneboliger	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	32392
+1124 Sola	Eneboliger	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	29527
+1124 Sola	Eneboliger	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	32224
+1124 Sola	Eneboliger	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	33719
+1124 Sola	Eneboliger	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	32823
+1124 Sola	Eneboliger	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	31067
+1124 Sola	Eneboliger	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	33121
+1124 Sola	Eneboliger	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	32793
+1124 Sola	Eneboliger	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	33382
+1124 Sola	Eneboliger	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	31183
+1124 Sola	Eneboliger	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	33827
+1124 Sola	Småhus	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	38519
+1124 Sola	Småhus	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	35691
+1124 Sola	Småhus	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	38971
+1124 Sola	Småhus	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	40638
+1124 Sola	Småhus	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	39390
+1124 Sola	Småhus	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	39341
+1124 Sola	Småhus	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	37031
+1124 Sola	Småhus	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	40762
+1124 Sola	Småhus	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	36973
+1124 Sola	Småhus	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	36402
+1124 Sola	Småhus	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	34567
+1124 Sola	Småhus	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	..
+1124 Sola	Småhus	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	31081
+1124 Sola	Småhus	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	..
+1124 Sola	Småhus	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	32658
+1124 Sola	Småhus	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	33208
+1124 Sola	Småhus	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	35274
+1124 Sola	Småhus	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	32684
+1124 Sola	Småhus	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	34171
+1124 Sola	Småhus	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	34204
+1124 Sola	Småhus	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	30740
+1124 Sola	Småhus	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	33763
+1124 Sola	Småhus	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	32927
+1124 Sola	Småhus	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	34696
+1124 Sola	Småhus	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	34472
+1124 Sola	Småhus	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	33571
+1124 Sola	Småhus	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	31353
+1124 Sola	Småhus	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	32601
+1124 Sola	Småhus	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	30981
+1124 Sola	Småhus	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	33624
+1124 Sola	Småhus	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	32169
+1124 Sola	Småhus	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	33764
+1124 Sola	Småhus	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	34821
+1124 Sola	Småhus	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	34232
+1124 Sola	Småhus	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	35414
+1124 Sola	Småhus	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	38763
+1124 Sola	Småhus	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	35488
+1124 Sola	Småhus	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	39685
+1124 Sola	Småhus	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	40081
+1124 Sola	Småhus	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	35534
+1124 Sola	Småhus	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	38799
+1124 Sola	Småhus	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	39530
+1124 Sola	Småhus	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	45001
+1124 Sola	Småhus	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	39923
+1124 Sola	Småhus	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	38186
+1124 Sola	Blokkleiligheter	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	50245
+1124 Sola	Blokkleiligheter	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	47216
+1124 Sola	Blokkleiligheter	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	49084
+1124 Sola	Blokkleiligheter	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	46803
+1124 Sola	Blokkleiligheter	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	43839
+1124 Sola	Blokkleiligheter	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	42346
+1124 Sola	Blokkleiligheter	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	45068
+1124 Sola	Blokkleiligheter	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	44971
+1124 Sola	Blokkleiligheter	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	45696
+1124 Sola	Blokkleiligheter	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	43794
+1124 Sola	Blokkleiligheter	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	41644
+1124 Sola	Blokkleiligheter	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	41718
+1124 Sola	Blokkleiligheter	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	41980
+1124 Sola	Blokkleiligheter	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	37483
+1124 Sola	Blokkleiligheter	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	38343
+1124 Sola	Blokkleiligheter	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	41877
+1124 Sola	Blokkleiligheter	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	39987
+1124 Sola	Blokkleiligheter	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	41153
+1124 Sola	Blokkleiligheter	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	41968
+1124 Sola	Blokkleiligheter	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	39152
+1124 Sola	Blokkleiligheter	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	41225
+1124 Sola	Blokkleiligheter	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	40209
+1124 Sola	Blokkleiligheter	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	40411
+1124 Sola	Blokkleiligheter	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	35693
+1124 Sola	Blokkleiligheter	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	38998
+1124 Sola	Blokkleiligheter	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	40363
+1124 Sola	Blokkleiligheter	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	42481
+1124 Sola	Blokkleiligheter	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	40897
+1124 Sola	Blokkleiligheter	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	40930
+1124 Sola	Blokkleiligheter	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	41177
+1124 Sola	Blokkleiligheter	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	41993
+1124 Sola	Blokkleiligheter	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	40032
+1124 Sola	Blokkleiligheter	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	41309
+1124 Sola	Blokkleiligheter	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	42022
+1124 Sola	Blokkleiligheter	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	42553
+1124 Sola	Blokkleiligheter	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	44035
+1124 Sola	Blokkleiligheter	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	45843
+1124 Sola	Blokkleiligheter	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	43632
+1124 Sola	Blokkleiligheter	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	45868
+1124 Sola	Blokkleiligheter	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	48772
+1124 Sola	Blokkleiligheter	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	47478
+1124 Sola	Blokkleiligheter	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	50174
+1124 Sola	Blokkleiligheter	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	49393
+1124 Sola	Blokkleiligheter	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	51840
+1124 Sola	Blokkleiligheter	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	48907
+1149 Karmøy	Eneboliger	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	15019
+1149 Karmøy	Eneboliger	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	16647
+1149 Karmøy	Eneboliger	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	15100
+1149 Karmøy	Eneboliger	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	15802
+1149 Karmøy	Eneboliger	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	16331
+1149 Karmøy	Eneboliger	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	16298
+1149 Karmøy	Eneboliger	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	15708
+1149 Karmøy	Eneboliger	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	16013
+1149 Karmøy	Eneboliger	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	15780
+1149 Karmøy	Eneboliger	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	16665
+1149 Karmøy	Eneboliger	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	15454
+1149 Karmøy	Eneboliger	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	16497
+1149 Karmøy	Eneboliger	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	15904
+1149 Karmøy	Eneboliger	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	16068
+1149 Karmøy	Eneboliger	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	16227
+1149 Karmøy	Eneboliger	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	16222
+1149 Karmøy	Eneboliger	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	17492
+1149 Karmøy	Eneboliger	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	16593
+1149 Karmøy	Eneboliger	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	16089
+1149 Karmøy	Eneboliger	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	15996
+1149 Karmøy	Eneboliger	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	16468
+1149 Karmøy	Eneboliger	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	17052
+1149 Karmøy	Eneboliger	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	17416
+1149 Karmøy	Eneboliger	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	15839
+1149 Karmøy	Eneboliger	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	15861
+1149 Karmøy	Eneboliger	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	17324
+1149 Karmøy	Eneboliger	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	16562
+1149 Karmøy	Eneboliger	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	15737
+1149 Karmøy	Eneboliger	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	15167
+1149 Karmøy	Eneboliger	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	15844
+1149 Karmøy	Eneboliger	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	16661
+1149 Karmøy	Eneboliger	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	15829
+1149 Karmøy	Eneboliger	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	18988
+1149 Karmøy	Eneboliger	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	19209
+1149 Karmøy	Eneboliger	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	18376
+1149 Karmøy	Eneboliger	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	17405
+1149 Karmøy	Eneboliger	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	18686
+1149 Karmøy	Eneboliger	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	19131
+1149 Karmøy	Eneboliger	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	20036
+1149 Karmøy	Eneboliger	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	18176
+1149 Karmøy	Eneboliger	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	18566
+1149 Karmøy	Eneboliger	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	20579
+1149 Karmøy	Eneboliger	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	20222
+1149 Karmøy	Eneboliger	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	19039
+1149 Karmøy	Eneboliger	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	21073
+1149 Karmøy	Småhus	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	19655
+1149 Karmøy	Småhus	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	..
+1149 Karmøy	Småhus	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	21474
+1149 Karmøy	Småhus	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	18833
+1149 Karmøy	Småhus	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	..
+1149 Karmøy	Småhus	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	20002
+1149 Karmøy	Småhus	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	22580
+1149 Karmøy	Småhus	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	20143
+1149 Karmøy	Småhus	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	20697
+1149 Karmøy	Småhus	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	..
+1149 Karmøy	Småhus	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	21888
+1149 Karmøy	Småhus	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	..
+1149 Karmøy	Småhus	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	22379
+1149 Karmøy	Småhus	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	21468
+1149 Karmøy	Småhus	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	22056
+1149 Karmøy	Småhus	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	22074
+1149 Karmøy	Småhus	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	19700
+1149 Karmøy	Småhus	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	22381
+1149 Karmøy	Småhus	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	21543
+1149 Karmøy	Småhus	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	24024
+1149 Karmøy	Småhus	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	..
+1149 Karmøy	Småhus	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	21303
+1149 Karmøy	Småhus	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	20740
+1149 Karmøy	Småhus	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	23011
+1149 Karmøy	Småhus	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	23114
+1149 Karmøy	Småhus	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	..
+1149 Karmøy	Småhus	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	24304
+1149 Karmøy	Småhus	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	20197
+1149 Karmøy	Småhus	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	25179
+1149 Karmøy	Småhus	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	22302
+1149 Karmøy	Småhus	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	23247
+1149 Karmøy	Småhus	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	22693
+1149 Karmøy	Småhus	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	22460
+1149 Karmøy	Småhus	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	25016
+1149 Karmøy	Småhus	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	24406
+1149 Karmøy	Småhus	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	25683
+1149 Karmøy	Småhus	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	24770
+1149 Karmøy	Småhus	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	25870
+1149 Karmøy	Småhus	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	27665
+1149 Karmøy	Småhus	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	24602
+1149 Karmøy	Småhus	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	27357
+1149 Karmøy	Småhus	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	26196
+1149 Karmøy	Småhus	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	25753
+1149 Karmøy	Småhus	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	..
+1149 Karmøy	Småhus	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	29173
+1149 Karmøy	Blokkleiligheter	2013K1	Gjennomsnittlig kvadratmeterpris (kr)	25420
+1149 Karmøy	Blokkleiligheter	2013K2	Gjennomsnittlig kvadratmeterpris (kr)	21309
+1149 Karmøy	Blokkleiligheter	2013K3	Gjennomsnittlig kvadratmeterpris (kr)	21810
+1149 Karmøy	Blokkleiligheter	2013K4	Gjennomsnittlig kvadratmeterpris (kr)	22665
+1149 Karmøy	Blokkleiligheter	2014K1	Gjennomsnittlig kvadratmeterpris (kr)	21409
+1149 Karmøy	Blokkleiligheter	2014K2	Gjennomsnittlig kvadratmeterpris (kr)	22893
+1149 Karmøy	Blokkleiligheter	2014K3	Gjennomsnittlig kvadratmeterpris (kr)	22549
+1149 Karmøy	Blokkleiligheter	2014K4	Gjennomsnittlig kvadratmeterpris (kr)	25327
+1149 Karmøy	Blokkleiligheter	2015K1	Gjennomsnittlig kvadratmeterpris (kr)	23356
+1149 Karmøy	Blokkleiligheter	2015K2	Gjennomsnittlig kvadratmeterpris (kr)	23774
+1149 Karmøy	Blokkleiligheter	2015K3	Gjennomsnittlig kvadratmeterpris (kr)	25372
+1149 Karmøy	Blokkleiligheter	2015K4	Gjennomsnittlig kvadratmeterpris (kr)	22805
+1149 Karmøy	Blokkleiligheter	2016K1	Gjennomsnittlig kvadratmeterpris (kr)	24308
+1149 Karmøy	Blokkleiligheter	2016K2	Gjennomsnittlig kvadratmeterpris (kr)	24448
+1149 Karmøy	Blokkleiligheter	2016K3	Gjennomsnittlig kvadratmeterpris (kr)	27370
+1149 Karmøy	Blokkleiligheter	2016K4	Gjennomsnittlig kvadratmeterpris (kr)	24544
+1149 Karmøy	Blokkleiligheter	2017K1	Gjennomsnittlig kvadratmeterpris (kr)	24715
+1149 Karmøy	Blokkleiligheter	2017K2	Gjennomsnittlig kvadratmeterpris (kr)	21910
+1149 Karmøy	Blokkleiligheter	2017K3	Gjennomsnittlig kvadratmeterpris (kr)	26372
+1149 Karmøy	Blokkleiligheter	2017K4	Gjennomsnittlig kvadratmeterpris (kr)	24661
+1149 Karmøy	Blokkleiligheter	2018K1	Gjennomsnittlig kvadratmeterpris (kr)	24116
+1149 Karmøy	Blokkleiligheter	2018K2	Gjennomsnittlig kvadratmeterpris (kr)	25355
+1149 Karmøy	Blokkleiligheter	2018K3	Gjennomsnittlig kvadratmeterpris (kr)	26978
+1149 Karmøy	Blokkleiligheter	2018K4	Gjennomsnittlig kvadratmeterpris (kr)	26172
+1149 Karmøy	Blokkleiligheter	2019K1	Gjennomsnittlig kvadratmeterpris (kr)	25988
+1149 Karmøy	Blokkleiligheter	2019K2	Gjennomsnittlig kvadratmeterpris (kr)	25088
+1149 Karmøy	Blokkleiligheter	2019K3	Gjennomsnittlig kvadratmeterpris (kr)	26301
+1149 Karmøy	Blokkleiligheter	2019K4	Gjennomsnittlig kvadratmeterpris (kr)	25065
+1149 Karmøy	Blokkleiligheter	2020K1	Gjennomsnittlig kvadratmeterpris (kr)	25876
+1149 Karmøy	Blokkleiligheter	2020K2	Gjennomsnittlig kvadratmeterpris (kr)	25638
+1149 Karmøy	Blokkleiligheter	2020K3	Gjennomsnittlig kvadratmeterpris (kr)	25552
+1149 Karmøy	Blokkleiligheter	2020K4	Gjennomsnittlig kvadratmeterpris (kr)	24830
+1149 Karmøy	Blokkleiligheter	2021K1	Gjennomsnittlig kvadratmeterpris (kr)	25801
+1149 Karmøy	Blokkleiligheter	2021K2	Gjennomsnittlig kvadratmeterpris (kr)	27673
+1149 Karmøy	Blokkleiligheter	2021K3	Gjennomsnittlig kvadratmeterpris (kr)	27800
+1149 Karmøy	Blokkleiligheter	2021K4	Gjennomsnittlig kvadratmeterpris (kr)	27708
+1149 Karmøy	Blokkleiligheter	2022K1	Gjennomsnittlig kvadratmeterpris (kr)	28863
+1149 Karmøy	Blokkleiligheter	2022K2	Gjennomsnittlig kvadratmeterpris (kr)	29433
+1149 Karmøy	Blokkleiligheter	2022K3	Gjennomsnittlig kvadratmeterpris (kr)	30688
+1149 Karmøy	Blokkleiligheter	2022K4	Gjennomsnittlig kvadratmeterpris (kr)	30819
+1149 Karmøy	Blokkleiligheter	2023K1	Gjennomsnittlig kvadratmeterpris (kr)	31732
+1149 Karmøy	Blokkleiligheter	2023K2	Gjennomsnittlig kvadratmeterpris (kr)	31758
+1149 Karmøy	Blokkleiligheter	2023K3	Gjennomsnittlig kvadratmeterpris (kr)	30095
+1149 Karmøy	Blokkleiligheter	2023K4	Gjennomsnittlig kvadratmeterpris (kr)	31474
+1149 Karmøy	Blokkleiligheter	2024K1	Gjennomsnittlig kvadratmeterpris (kr)	31677

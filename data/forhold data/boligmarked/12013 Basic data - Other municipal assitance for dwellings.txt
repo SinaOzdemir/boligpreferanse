@@ -1,0 +1,136 @@
+contents	region	year	12013: Basic data - Other municipal assitance for dwellings,
+Loans to pay cash deposit (number)	1106 Haugesund	2015	5
+Loans to pay cash deposit (number)	1106 Haugesund	2016	0
+Loans to pay cash deposit (number)	1106 Haugesund	2017	0
+Loans to pay cash deposit (number)	1106 Haugesund	2018	0
+Loans to pay cash deposit (number)	1106 Haugesund	2019	0
+Loans to pay cash deposit (number)	1106 Haugesund	2020	0
+Loans to pay cash deposit (number)	1106 Haugesund	2021	0
+Loans to pay cash deposit (number)	1106 Haugesund	2022	0
+Loans to pay cash deposit (number)	1106 Haugesund	2023	1
+Loans to pay cash deposit (number)	1145 Bokn	2015	0
+Loans to pay cash deposit (number)	1145 Bokn	2016	0
+Loans to pay cash deposit (number)	1145 Bokn	2017	0
+Loans to pay cash deposit (number)	1145 Bokn	2018	0
+Loans to pay cash deposit (number)	1145 Bokn	2019	0
+Loans to pay cash deposit (number)	1145 Bokn	2020	0
+Loans to pay cash deposit (number)	1145 Bokn	2021	0
+Loans to pay cash deposit (number)	1145 Bokn	2022	0
+Loans to pay cash deposit (number)	1145 Bokn	2023	0
+Loans to pay cash deposit (number)	1146 Tysvær	2015	0
+Loans to pay cash deposit (number)	1146 Tysvær	2016	0
+Loans to pay cash deposit (number)	1146 Tysvær	2017	0
+Loans to pay cash deposit (number)	1146 Tysvær	2018	0
+Loans to pay cash deposit (number)	1146 Tysvær	2019	0
+Loans to pay cash deposit (number)	1146 Tysvær	2020	0
+Loans to pay cash deposit (number)	1146 Tysvær	2021	0
+Loans to pay cash deposit (number)	1146 Tysvær	2022	0
+Loans to pay cash deposit (number)	1146 Tysvær	2023	0
+Loans to pay cash deposit (number)	1149 Karmøy	2015	18
+Loans to pay cash deposit (number)	1149 Karmøy	2016	9
+Loans to pay cash deposit (number)	1149 Karmøy	2017	16
+Loans to pay cash deposit (number)	1149 Karmøy	2018	8
+Loans to pay cash deposit (number)	1149 Karmøy	2019	7
+Loans to pay cash deposit (number)	1149 Karmøy	2020	13
+Loans to pay cash deposit (number)	1149 Karmøy	2021	9
+Loans to pay cash deposit (number)	1149 Karmøy	2022	9
+Loans to pay cash deposit (number)	1149 Karmøy	2023	4
+Loans to pay cash deposit (number)	1160 Vindafjord	2015	0
+Loans to pay cash deposit (number)	1160 Vindafjord	2016	0
+Loans to pay cash deposit (number)	1160 Vindafjord	2017	0
+Loans to pay cash deposit (number)	1160 Vindafjord	2018	0
+Loans to pay cash deposit (number)	1160 Vindafjord	2019	1
+Loans to pay cash deposit (number)	1160 Vindafjord	2020	0
+Loans to pay cash deposit (number)	1160 Vindafjord	2021	0
+Loans to pay cash deposit (number)	1160 Vindafjord	2022	0
+Loans to pay cash deposit (number)	1160 Vindafjord	2023	0
+Guarantees for cash deposit, rented dwellings (number)	1106 Haugesund	2015	0
+Guarantees for cash deposit, rented dwellings (number)	1106 Haugesund	2016	0
+Guarantees for cash deposit, rented dwellings (number)	1106 Haugesund	2017	44
+Guarantees for cash deposit, rented dwellings (number)	1106 Haugesund	2018	89
+Guarantees for cash deposit, rented dwellings (number)	1106 Haugesund	2019	22
+Guarantees for cash deposit, rented dwellings (number)	1106 Haugesund	2020	38
+Guarantees for cash deposit, rented dwellings (number)	1106 Haugesund	2021	30
+Guarantees for cash deposit, rented dwellings (number)	1106 Haugesund	2022	66
+Guarantees for cash deposit, rented dwellings (number)	1106 Haugesund	2023	1300
+Guarantees for cash deposit, rented dwellings (number)	1145 Bokn	2015	0
+Guarantees for cash deposit, rented dwellings (number)	1145 Bokn	2016	1
+Guarantees for cash deposit, rented dwellings (number)	1145 Bokn	2017	1
+Guarantees for cash deposit, rented dwellings (number)	1145 Bokn	2018	0
+Guarantees for cash deposit, rented dwellings (number)	1145 Bokn	2019	0
+Guarantees for cash deposit, rented dwellings (number)	1145 Bokn	2020	0
+Guarantees for cash deposit, rented dwellings (number)	1145 Bokn	2021	0
+Guarantees for cash deposit, rented dwellings (number)	1145 Bokn	2022	0
+Guarantees for cash deposit, rented dwellings (number)	1145 Bokn	2023	0
+Guarantees for cash deposit, rented dwellings (number)	1146 Tysvær	2015	8
+Guarantees for cash deposit, rented dwellings (number)	1146 Tysvær	2016	31
+Guarantees for cash deposit, rented dwellings (number)	1146 Tysvær	2017	35
+Guarantees for cash deposit, rented dwellings (number)	1146 Tysvær	2018	28
+Guarantees for cash deposit, rented dwellings (number)	1146 Tysvær	2019	16
+Guarantees for cash deposit, rented dwellings (number)	1146 Tysvær	2020	26
+Guarantees for cash deposit, rented dwellings (number)	1146 Tysvær	2021	9
+Guarantees for cash deposit, rented dwellings (number)	1146 Tysvær	2022	0
+Guarantees for cash deposit, rented dwellings (number)	1146 Tysvær	2023	79
+Guarantees for cash deposit, rented dwellings (number)	1149 Karmøy	2015	14
+Guarantees for cash deposit, rented dwellings (number)	1149 Karmøy	2016	57
+Guarantees for cash deposit, rented dwellings (number)	1149 Karmøy	2017	27
+Guarantees for cash deposit, rented dwellings (number)	1149 Karmøy	2018	27
+Guarantees for cash deposit, rented dwellings (number)	1149 Karmøy	2019	22
+Guarantees for cash deposit, rented dwellings (number)	1149 Karmøy	2020	32
+Guarantees for cash deposit, rented dwellings (number)	1149 Karmøy	2021	64
+Guarantees for cash deposit, rented dwellings (number)	1149 Karmøy	2022	146
+Guarantees for cash deposit, rented dwellings (number)	1149 Karmøy	2023	208
+Guarantees for cash deposit, rented dwellings (number)	1160 Vindafjord	2015	0
+Guarantees for cash deposit, rented dwellings (number)	1160 Vindafjord	2016	16
+Guarantees for cash deposit, rented dwellings (number)	1160 Vindafjord	2017	21
+Guarantees for cash deposit, rented dwellings (number)	1160 Vindafjord	2018	0
+Guarantees for cash deposit, rented dwellings (number)	1160 Vindafjord	2019	12
+Guarantees for cash deposit, rented dwellings (number)	1160 Vindafjord	2020	26
+Guarantees for cash deposit, rented dwellings (number)	1160 Vindafjord	2021	24
+Guarantees for cash deposit, rented dwellings (number)	1160 Vindafjord	2022	28
+Guarantees for cash deposit, rented dwellings (number)	1160 Vindafjord	2023	54
+Municipal dwelling support, number of households receiving dwelling support (number)	1106 Haugesund	2015	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1106 Haugesund	2016	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1106 Haugesund	2017	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1106 Haugesund	2018	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1106 Haugesund	2019	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1106 Haugesund	2020	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1106 Haugesund	2021	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1106 Haugesund	2022	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1106 Haugesund	2023	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1145 Bokn	2015	1
+Municipal dwelling support, number of households receiving dwelling support (number)	1145 Bokn	2016	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1145 Bokn	2017	6
+Municipal dwelling support, number of households receiving dwelling support (number)	1145 Bokn	2018	9
+Municipal dwelling support, number of households receiving dwelling support (number)	1145 Bokn	2019	7
+Municipal dwelling support, number of households receiving dwelling support (number)	1145 Bokn	2020	6
+Municipal dwelling support, number of households receiving dwelling support (number)	1145 Bokn	2021	8
+Municipal dwelling support, number of households receiving dwelling support (number)	1145 Bokn	2022	15
+Municipal dwelling support, number of households receiving dwelling support (number)	1145 Bokn	2023	11
+Municipal dwelling support, number of households receiving dwelling support (number)	1146 Tysvær	2015	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1146 Tysvær	2016	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1146 Tysvær	2017	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1146 Tysvær	2018	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1146 Tysvær	2019	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1146 Tysvær	2020	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1146 Tysvær	2021	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1146 Tysvær	2022	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1146 Tysvær	2023	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1149 Karmøy	2015	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1149 Karmøy	2016	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1149 Karmøy	2017	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1149 Karmøy	2018	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1149 Karmøy	2019	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1149 Karmøy	2020	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1149 Karmøy	2021	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1149 Karmøy	2022	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1149 Karmøy	2023	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1160 Vindafjord	2015	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1160 Vindafjord	2016	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1160 Vindafjord	2017	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1160 Vindafjord	2018	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1160 Vindafjord	2019	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1160 Vindafjord	2020	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1160 Vindafjord	2021	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1160 Vindafjord	2022	0
+Municipal dwelling support, number of households receiving dwelling support (number)	1160 Vindafjord	2023	0

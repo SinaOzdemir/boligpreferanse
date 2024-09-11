@@ -1,0 +1,169 @@
+bygningens byggeår	bruksareal	statistikkvariabel	år	region	06517: Boliger,
+1900 og tidligere	Under 30 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	1
+1900 og tidligere	30-39 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	11
+1900 og tidligere	40-49 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	16
+1900 og tidligere	50-59 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	35
+1900 og tidligere	60-79 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	86
+1900 og tidligere	80-99 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	107
+1900 og tidligere	100-119 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	159
+1900 og tidligere	120-139 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	121
+1900 og tidligere	140-159 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	114
+1900 og tidligere	160-199 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	175
+1900 og tidligere	200-249 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	113
+1900 og tidligere	250-299 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	30
+1900 og tidligere	300-349 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	10
+1900 og tidligere	350 kvm eller større	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	9
+1901-1920	Under 30 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	1
+1901-1920	30-39 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	4
+1901-1920	40-49 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	7
+1901-1920	50-59 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	9
+1901-1920	60-79 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	36
+1901-1920	80-99 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	27
+1901-1920	100-119 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	60
+1901-1920	120-139 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	81
+1901-1920	140-159 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	120
+1901-1920	160-199 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	157
+1901-1920	200-249 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	90
+1901-1920	250-299 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	38
+1901-1920	300-349 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	18
+1901-1920	350 kvm eller større	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	7
+1921-1940	Under 30 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	2
+1921-1940	30-39 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	6
+1921-1940	40-49 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	1
+1921-1940	50-59 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	10
+1921-1940	60-79 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	24
+1921-1940	80-99 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	21
+1921-1940	100-119 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	70
+1921-1940	120-139 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	72
+1921-1940	140-159 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	92
+1921-1940	160-199 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	171
+1921-1940	200-249 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	114
+1921-1940	250-299 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	42
+1921-1940	300-349 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	13
+1921-1940	350 kvm eller større	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	9
+1941-1945	Under 30 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	0
+1941-1945	30-39 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	1
+1941-1945	40-49 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	0
+1941-1945	50-59 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	0
+1941-1945	60-79 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	2
+1941-1945	80-99 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	6
+1941-1945	100-119 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	7
+1941-1945	120-139 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	9
+1941-1945	140-159 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	8
+1941-1945	160-199 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	13
+1941-1945	200-249 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	9
+1941-1945	250-299 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	5
+1941-1945	300-349 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	2
+1941-1945	350 kvm eller større	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	2
+1946-1960	Under 30 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	0
+1946-1960	30-39 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	4
+1946-1960	40-49 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	14
+1946-1960	50-59 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	21
+1946-1960	60-79 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	57
+1946-1960	80-99 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	64
+1946-1960	100-119 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	109
+1946-1960	120-139 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	204
+1946-1960	140-159 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	295
+1946-1960	160-199 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	628
+1946-1960	200-249 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	369
+1946-1960	250-299 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	133
+1946-1960	300-349 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	40
+1946-1960	350 kvm eller større	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	21
+1961-1970	Under 30 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	1
+1961-1970	30-39 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	2
+1961-1970	40-49 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	9
+1961-1970	50-59 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	41
+1961-1970	60-79 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	40
+1961-1970	80-99 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	67
+1961-1970	100-119 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	78
+1961-1970	120-139 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	139
+1961-1970	140-159 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	241
+1961-1970	160-199 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	829
+1961-1970	200-249 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	553
+1961-1970	250-299 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	220
+1961-1970	300-349 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	57
+1961-1970	350 kvm eller større	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	37
+1971-1980	Under 30 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	23
+1971-1980	30-39 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	15
+1971-1980	40-49 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	32
+1971-1980	50-59 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	51
+1971-1980	60-79 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	98
+1971-1980	80-99 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	65
+1971-1980	100-119 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	103
+1971-1980	120-139 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	166
+1971-1980	140-159 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	132
+1971-1980	160-199 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	1046
+1971-1980	200-249 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	782
+1971-1980	250-299 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	320
+1971-1980	300-349 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	95
+1971-1980	350 kvm eller større	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	35
+1981-1990	Under 30 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	11
+1981-1990	30-39 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	27
+1981-1990	40-49 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	31
+1981-1990	50-59 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	80
+1981-1990	60-79 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	152
+1981-1990	80-99 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	124
+1981-1990	100-119 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	96
+1981-1990	120-139 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	120
+1981-1990	140-159 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	138
+1981-1990	160-199 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	615
+1981-1990	200-249 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	655
+1981-1990	250-299 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	432
+1981-1990	300-349 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	199
+1981-1990	350 kvm eller større	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	69
+1991-2000	Under 30 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	2
+1991-2000	30-39 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	1
+1991-2000	40-49 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	1
+1991-2000	50-59 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	57
+1991-2000	60-79 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	224
+1991-2000	80-99 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	180
+1991-2000	100-119 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	145
+1991-2000	120-139 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	213
+1991-2000	140-159 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	199
+1991-2000	160-199 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	263
+1991-2000	200-249 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	232
+1991-2000	250-299 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	138
+1991-2000	300-349 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	61
+1991-2000	350 kvm eller større	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	29
+2001-2010	Under 30 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	12
+2001-2010	30-39 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	32
+2001-2010	40-49 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	45
+2001-2010	50-59 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	67
+2001-2010	60-79 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	463
+2001-2010	80-99 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	742
+2001-2010	100-119 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	254
+2001-2010	120-139 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	219
+2001-2010	140-159 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	190
+2001-2010	160-199 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	230
+2001-2010	200-249 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	229
+2001-2010	250-299 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	130
+2001-2010	300-349 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	78
+2001-2010	350 kvm eller større	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	36
+2011-2020	Under 30 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	9
+2011-2020	30-39 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	8
+2011-2020	40-49 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	18
+2011-2020	50-59 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	20
+2011-2020	60-79 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	321
+2011-2020	80-99 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	483
+2011-2020	100-119 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	259
+2011-2020	120-139 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	195
+2011-2020	140-159 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	231
+2011-2020	160-199 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	267
+2011-2020	200-249 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	193
+2011-2020	250-299 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	130
+2011-2020	300-349 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	67
+2011-2020	350 kvm eller større	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	43
+2021 og etter	Under 30 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	9
+2021 og etter	30-39 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	0
+2021 og etter	40-49 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	10
+2021 og etter	50-59 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	7
+2021 og etter	60-79 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	63
+2021 og etter	80-99 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	66
+2021 og etter	100-119 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	65
+2021 og etter	120-139 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	38
+2021 og etter	140-159 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	58
+2021 og etter	160-199 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	94
+2021 og etter	200-249 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	48
+2021 og etter	250-299 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	28
+2021 og etter	300-349 kvm	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	16
+2021 og etter	350 kvm eller større	Boliger (bebodde og ubebodde)	2024	K-1149 Karmøy	10

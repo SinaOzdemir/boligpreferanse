@@ -1,0 +1,16 @@
+region	boligtype	statistikkvariabel	ar	06035: Selveierboliger,
+11 Rogaland	Eneboliger	Gjennomsnittlig kvadratmeterpris (kr)	2019	23738
+11 Rogaland	Eneboliger	Gjennomsnittlig kvadratmeterpris (kr)	2020	24059
+11 Rogaland	Eneboliger	Gjennomsnittlig kvadratmeterpris (kr)	2021	26175
+11 Rogaland	Eneboliger	Gjennomsnittlig kvadratmeterpris (kr)	2022	27321
+11 Rogaland	Eneboliger	Gjennomsnittlig kvadratmeterpris (kr)	2023	27865
+11 Rogaland	Småhus	Gjennomsnittlig kvadratmeterpris (kr)	2019	28652
+11 Rogaland	Småhus	Gjennomsnittlig kvadratmeterpris (kr)	2020	28750
+11 Rogaland	Småhus	Gjennomsnittlig kvadratmeterpris (kr)	2021	30808
+11 Rogaland	Småhus	Gjennomsnittlig kvadratmeterpris (kr)	2022	32563
+11 Rogaland	Småhus	Gjennomsnittlig kvadratmeterpris (kr)	2023	33969
+11 Rogaland	Blokkleiligheter	Gjennomsnittlig kvadratmeterpris (kr)	2019	38041
+11 Rogaland	Blokkleiligheter	Gjennomsnittlig kvadratmeterpris (kr)	2020	38500
+11 Rogaland	Blokkleiligheter	Gjennomsnittlig kvadratmeterpris (kr)	2021	40840
+11 Rogaland	Blokkleiligheter	Gjennomsnittlig kvadratmeterpris (kr)	2022	43860
+11 Rogaland	Blokkleiligheter	Gjennomsnittlig kvadratmeterpris (kr)	2023	45832
