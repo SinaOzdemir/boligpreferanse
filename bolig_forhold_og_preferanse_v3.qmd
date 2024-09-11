@@ -1423,7 +1423,7 @@ Basert på resultatene kan vi trekke to konklusjoner. Når det gjelder å omstru
 Denne delen presenterer resultatene fra simuleringer basert på den statistiske modellen som ble presentert i forrige seksjon. Det er fem forskjellige scenarier som er simulert i analysen. Disse scenariene er basert på de vanligste situasjonene i henhold til den empiriske felles sannsynlighetsfordelingen av demografiske variabler i undersøkelsen. Basert på de observerte frekvensene, genereres åtte hypotetiske personligheter og potensielle svar basert på deres demografiske variabler ved hjelp av Monte-Carlo-prosessen for å fange opp de mest sannsynlige, men likevel hypotetiske, scenariene. Tabellen nedenfor oppsummerer de demografiske egenskapene til disse åtte individene::
 
 | Scenario | Navn             | Kjønn  | Alder | Arbeidsforhold | Familiesituasjon            | Antall barn som bor hos dem |
-|-----------|-----------|--------|:----:|-------------|--------------|:----------:|
+|----------|------------------|--------|:-----:|----------------|-----------------------------|:---------------------------:|
 | 1        | Kari Nordmann    | Kvinne |  35   | Jobber         | Samboer/ektefelle med barn  |              2              |
 | 1        | Ole Nordmann     | Mann   |  32   | Jobber         | Samboer/ektefelle med barn  |              2              |
 | 2        | Oskar Hansen     | Mann   |  45   | Jobber         | Bor alene uten barn         |              0              |

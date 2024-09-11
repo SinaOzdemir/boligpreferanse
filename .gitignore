@@ -52,7 +52,11 @@ rsconnect/
 #Data files(ignore the reports for now)
 data/
 *.xlsx
+
+#ignore report drafts
 *.pdf
+*.Rmd
+*.docx
 
 
 
