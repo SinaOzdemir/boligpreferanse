@@ -30,6 +30,18 @@ p_load(char = c("here","tidyverse","flextable","crosstable","patchwork","openxls
 source(file = here("Scripts","functions.r"))
 ```
 
+# Sammendrag
+
+Rapporten undersøker hvordan og hvor innbyggerne i Karmøy ønsker å bo, med fokus på befolkningsutvikling, eiendomsmarkedet, innbyggernes nåværende situasjon, og deres fremtidsplaner og preferanser. Analysene viser at Karmøy står overfor en demografisk utfordring med en aldrende befolkning og nedgang i antall unge og arbeidsføre, forsterket av redusert tilflytting og innvandring, med unntak av flyktninger fra Ukraina.
+
+Eiendomsmarkedet i Karmøy domineres av eneboliger, med små prisvariasjoner mellom ulike områder i kommunen. De fleste innbyggerne foretrekker eneboliger, og legger stor vekt på nærhet til familie, butikker, tjenester og natur når de velger bosted. Nærhet til byliv og enkel tilgang til tjenester er spesielt viktig for dem som foretrekker urbane områder, mens tilpasning til mobilitetsbehov er avgjørende for dem som velger mer landlige områder.
+
+Rapporten identifiserer to distinkte grupper basert på innbyggernes preferanser. Den største gruppen verdsetter faktorer som nærhet til skoler, natur, byliv, og rimelige boligpriser, mens den andre gruppen er mer nøytral til disse aspektene.
+
+En maskinlæringsmodell gir ytterligere innsikt i hvordan preferansene påvirker valg av bostedsområder. Modellen viser at nærhet til skoler, arbeidsplasser og gunstige boligpriser gjør bygder attraktive, mens enkel tilgang til byens fasiliteter tiltrekker folk til byene. Simuleringsscenarier indikerer at bygder og tettsteder vil være mest populære blant dem som har passert etableringsfasen i livet, mens byene forblir attraktive for enslige med en preferanse for et aktivt byliv.
+
+Konklusjonen understreker at Karmøy må adressere sine demografiske utfordringer og det homogene boligmarkedet gjennom målrettet planlegging for å møte innbyggernes fremtidige behov og ønsker.
+
 # Innledning
 
 Denne rapporten har som hovedmål å besvare et av de sentrale spørsmålene i Karmøy-områdeplanen: "Hvordan og hvor vil vi bo?". For å svare dette spørsmålet, følger rapporten en firetrinns tilnærming på to nivåer for fire forskjellige temaer: befolkningsutviklingen i Karmøy, eiendomsmarkedet i Karmøy, innbyggernes nåværende situasjon og deres fremtidsplaner og preferanser.
@@ -43,6 +55,10 @@ Resultatene fra disse analysene gir flere viktige innsikter i Karmøys situasjon
 Når det gjelder eiendomsmarkedet, har Karmøy ikke et veldig variert marked. Et overveldende flertall av de tilgjengelige boligene er eneboliger. Mønstre i eiendomsutviklingen viser også at dette mønsteret vil fortsette i nær fremtid. Dette reflekteres også i kvadratmeterprisene på eiendommene. Karmøy har de billigste eneboligene i regionen. Eiendomsprisene innen Karmøy viser ikke stor variasjon. Med andre ord, bortsett fra noen få spesifikke områder, er eiendomsprisene mer eller mindre sammenlignbare overalt innen Karmøy.
 
 Når det gjelder innbyggernes bolig- og bostedspreferanser, er det flere sterke mønstre. Basert på den deskriptiv analysen foretrekker de fleste enebolig. Når det gjelder hvilke egenskaper som betyr mest for innbyggerne, viser de deskriptiv analysene tre faktorer som de viktigste: avstand til familie, avstand til butikker og tjenester, og avstand til natur. Imidlertid er den faktiske innvirkningen av disse faktorene noe annerledes når det gjelder å velge et område å flytte til. Avstand til byliv, butikker og tjenester er de viktigste faktorene for at innbyggerne skal flytte til et mer urbant område. På den annen side er områdets egnethet for innbyggernes funksjonsnivå den viktigste faktoren for at innbyggerne velger et mer landlig område. Basert på disse preferansene identifiserer vi to distinkte grupper av innbyggere. Selv om disse gruppene viser lignende demografiske kjennetegner, er skillelinjen hvor mye betydning de tillegger forskjellige egenskaper. Den første gruppen av innbyggere, som også er den største, legger større vekt på faktorer som avstand til skoler, natur, byliv, familie, mulighet for alternative transportmidler og billigere eiendomspriser når de tenker på sitt neste bosted. Den andre gruppen av innbyggere er derimot enten nøytrale til disse faktorene eller bryr seg ikke om dem i det hele tatt.
+
+Basert på resultatene fra undersøkelsen trente vi en enkel maskinlæringsklassifiserer som ga oss innsikt i hvordan ulike preferanser påvirker folks valg av bostedsområder. Resultatene viser at nærhet til skoler og barnehager, avstand til arbeidsplassen og gunstige boligpriser oppmuntrer til å velge en bygd fremfor et spredtbygd område. Når det gjelder valg mellom en by og et spredtbygd område som bosted, er det enkel tilgang til bylivet, som kulturelle arrangementer, samt nærhet til butikker og offentlige tjenester, som oppmuntrer mest. Ved valg mellom et tettsted og et spredtbygd område er viktige faktorer hvor betydningsfullt det er å bo nær byliv og ha enkel tilgang til butikker og tjenester. Avstand til arbeidsplassen og tilrettelegging for ulike mobilitetsnivåer, derimot, virker demotiverende for innbyggerne på Karmøy når det gjelder å velge et tettsted.
+
+Basert på de vanlig forekommende empiriske mønstrene i undersøkelsesdataene, ble fem ulike simuleringsscenarier med åtte hypotetiske individer gjennomført ved hjelp av klassifikasjonsmodellen. Generelt viser simuleringene at bygder og tettsteder vil være mest populære blant dem som har passert etableringsfasen i livet. Byer på Karmøy er imidlertid fortsatt attraktive områder, spesielt blant enslige menn med preferanse for et aktivt byliv.
 
 # Befolkninganalysen
 
@@ -1423,7 +1439,7 @@ Basert på resultatene kan vi trekke to konklusjoner. Når det gjelder å omstru
 Denne delen presenterer resultatene fra simuleringer basert på den statistiske modellen som ble presentert i forrige seksjon. Det er fem forskjellige scenarier som er simulert i analysen. Disse scenariene er basert på de vanligste situasjonene i henhold til den empiriske felles sannsynlighetsfordelingen av demografiske variabler i undersøkelsen. Basert på de observerte frekvensene, genereres åtte hypotetiske personligheter og potensielle svar basert på deres demografiske variabler ved hjelp av Monte-Carlo-prosessen for å fange opp de mest sannsynlige, men likevel hypotetiske, scenariene. Tabellen nedenfor oppsummerer de demografiske egenskapene til disse åtte individene::
 
 | Scenario | Navn             | Kjønn  | Alder | Arbeidsforhold | Familiesituasjon            | Antall barn som bor hos dem |
-|----------|------------------|--------|:-----:|----------------|-----------------------------|:---------------------------:|
+|-----------|-----------|-----------|:---------:|-----------|-----------|:---------:|
 | 1        | Kari Nordmann    | Kvinne |  35   | Jobber         | Samboer/ektefelle med barn  |              2              |
 | 1        | Ole Nordmann     | Mann   |  32   | Jobber         | Samboer/ektefelle med barn  |              2              |
 | 2        | Oskar Hansen     | Mann   |  45   | Jobber         | Bor alene uten barn         |              0              |
@@ -1491,6 +1507,28 @@ Selv om preferansene til Ida og Andreas er identiske, gir innlegging av disse i 
 
 ![](graphs/simscen5_results.png){fig-align="center"}
 
-# Konklusjon:
+# Konklusjon
+
+Denne rapporten tar sikte på å gi svar på et sentralt spørsmål i Karmøy-områdeplanen: "Hvordan og hvor vil vi bo?". For å belyse dette, har rapporten benyttet en firetrinns tilnærming fordelt på to nivåer innen fire hovedtemaer: befolkningsutviklingen i Karmøy, eiendomsmarkedet, innbyggernes nåværende situasjon, og deres fremtidsplaner og preferanser.
+
+Analysene i rapportens første kapittel fokuserer på befolkningsendringer på kommunalt nivå, med en gjennomgang av historiske trender og prognoser. I det andre kapittelet kartlegges dagens eiendomsmarked og dets sentrale kjennetegn. Kapittel tre går ned på mikronivå, og analyserer innbyggernes nåværende boligforhold, preferanser og fremtidsplaner knyttet til valg av bosted og bolig.
+
+Dataene som er brukt i de første to kapitlene, stammer hovedsakelig fra SSB, supplert med noen tilleggsdata fra Skatteetaten, og analysene er utført med en deskriptiv tilnærming. I kapittel tre er det gjennomført en spørreundersøkelse blant Karmøys innbyggere, med fokus på deres bolig- og bostedsvalg samt preferanser knyttet til boområde og transportvaner. Analysene her benytter både deskriptiv statistikk og maskinlæringsalgoritmer for å identifisere mønstre.
+
+Rapporten avdekker flere viktige innsikter. Befolkningsanalysen viser at Karmøy opplever en nedgang i den yngre og arbeidsføre befolkningen, samtidig som andelen eldre øker. Denne trenden forsterkes av en redusert tilflytting fra andre deler av Norge og lavere innvandring, med unntak av flyktninger fra Ukraina. Når det gjelder boligmarkedet, er eneboliger dominerende, og det er små variasjoner i kvadratmeterpriser på tvers av kommunen.
+
+Innbyggernes preferanser viser at eneboliger er foretrukket, og avstand til familie, butikker og natur er de viktigste faktorene. I valg mellom mer urbane og landlige områder spiller nærhet til byliv og tjenester en avgjørende rolle. På den andre siden, vektlegger de som foretrekker mer landlige områder tilpasning til deres mobilitetsbehov. To distinkte grupper identifiseres basert på disse preferansene: den største gruppen legger vekt på nærhet til skoler, natur, byliv og rimelige boligpriser, mens den andre gruppen er mer nøytrale til disse faktorene.
+
+Ved hjelp av en enkel maskinlæringsmodell har vi fått innsikt i hvordan preferanser påvirker valg av bostedsområder. Modellen viser at nærhet til skoler, arbeidsplasser og gunstige boligpriser gjør bygder attraktive, mens enkel tilgang til byens fasiliteter og tjenester tiltrekker til byer. Resultatene fra simuleringsscenariene indikerer at bygder og tettsteder vil appellere mest til dem som er forbi etableringsfasen, mens byene forblir attraktive for enslige med en preferanse for et aktivt byliv.
+
+Konklusjonen peker på at de demografiske utfordringene, kombinert med et homogent boligmarked og innbyggernes klare preferanser, vil kreve målrettet planlegging og tilrettelegging for å møte fremtidige behov og ønsker i Karmøy.
 
 # Teknisk vedlegg
+
+## Utvalget i spørreundersøkelsen
+
+## Representativitet av spørreundersøkelsen
+
+## Gruppering analyse
+
+## Multinominal logistikk regressjon
