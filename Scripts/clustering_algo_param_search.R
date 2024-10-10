@@ -79,6 +79,7 @@ optimum_a<- search_results %>%
   ungroup() %>% 
   group_by(clustering_algo) %>% 
   filter(silhouette_score == max(silhouette_score)) %>% 
-  filter(davies_bouldin_score == min(davies_bouldin_score))
+  filter(davies_bouldin_score == min(davies_bouldin_score)) %>% 
+  filter(calinsku_harabasz_score == max(calinsku_harabasz_score))
 
 write.xlsx(x = optimum_a,file = "C:/Users/sioz/Desktop/arbeid/prosjektene/boligpreferanse/data/survey/survey results/algo_test/optimum_parameters.xlsx")

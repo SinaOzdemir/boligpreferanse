@@ -120,6 +120,15 @@ model4_comprehensive = nnet::multinom(formula = model_formula,data = analysis_da
 
 saveRDS(model4_comprehensive,file = here("results","regression results","mlogit4_comprehensive.RDS"))
 
+install.packages("stargazer")
+library(stargazer)
+
+stargazer(model4_comprehensive)
+
+summary(model4_comprehensive)
+
+
+
 
 # model_summary ---------------------------------------------------------
 
